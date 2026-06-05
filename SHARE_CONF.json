@@ -40,7 +40,7 @@
       ],
       "system_control_limit": 53000003,
       "qrcode_scenario": 1,
-      "qrcode_link": "https://game.weixin.qq.com/cgi-bin/h5/lite/circlecenter/index.html?wechat_pkgid=lite_circlecenter&liteapp=liteapp%3A%2F%2Fwxalited17d79803d8c228a7eac78129f40484c%3Fpath%3Dpages%252Findex%252Findex&appid=wxdca9f9a612d43085&tab_id=7&ssid=22#wechat_redirect",
+      "qrcode_link": "https://game.weixin.qq.com/cgi-bin/h5/lite/circlecenter/index.html?wechat_pkgid=lite_circlecenter&liteapp=liteapp%3A%2F%2Fwxalited17d79803d8c228a7eac78129f40484c%3Fpath%3Dpages%252Findex%252Findex&appid=&tab_id=7&ssid=22#wechat_redirect",
       "share_icon": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/PetUIStatic/Frames/img_Share_Wechat_png.img_Share_Wechat_png'",
       "unsuccess_tip": "请安装微信或更新微信后重试",
       "package_name_android": "com.tencent.mm",
