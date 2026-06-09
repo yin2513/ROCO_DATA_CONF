@@ -64,7 +64,7 @@
       "part_name": "废弃",
       "note": "关注微信视频号",
       "interactive_before_txt": "一键关注",
-      "website_path": "https://game.weixin.qq.com/cgi-bin/comm/openlink?noticeid=90309446&auth_appid=&url=https%3A%2F%2Fgame.weixin.qq.com%2Fcgi-bin%2Fh5%2Fstatic%2Fcirclecenter%2Ftpjump.html%3Fnot_in_game_luggage%3D1%26jump%3Dwevideo%253A%252F%252Fprofile%253Ffinderusername%253Dv2_060000231003b20faec8c7eb8818c5d7c703e93db0776f789541f668da1925d1d92710c6a156%252540finder%23wechat_redirect",
+      "website_path": "https://game.weixin.qq.com/cgi-bin/comm/openlink?noticeid=90309446&auth_appid=wx1b4d03357ad23b00&url=https%3A%2F%2Fgame.weixin.qq.com%2Fcgi-bin%2Fh5%2Fstatic%2Fcirclecenter%2Ftpjump.html%3Fnot_in_game_luggage%3D1%26jump%3Dwevideo%253A%252F%252Fprofile%253Ffinderusername%253Dv2_060000231003b20faec8c7eb8818c5d7c703e93db0776f789541f668da1925d1d92710c6a156%252540finder%23wechat_redirect",
       "if_icon_change": 1,
       "interactive_after_txt": "领取奖励",
       "reward_id": 200000012,

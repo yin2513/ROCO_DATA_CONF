@@ -10,7 +10,7 @@
     },
     "2": {
       "id": 2,
-      "display_name": "魔法师训练",
+      "display_name": "学徒训练",
       "combat_mechanism_battle": [
         3,
         4
@@ -18,7 +18,7 @@
     },
     "3": {
       "id": 3,
-      "display_name": "",
+      "display_name": "魔法师训练",
       "combat_mechanism_battle": [
         5,
         6

@@ -88,7 +88,8 @@
           "reward": 608001
         }
       ],
-      "vitem": 132090
+      "shop": 2006,
+      "vitem": 18
     },
     "2": {
       "id": 2,
@@ -178,7 +179,8 @@
           "reward": 608001
         }
       ],
-      "vitem": 197626
+      "shop": 2006,
+      "vitem": 18
     },
     "3": {
       "id": 3,
@@ -268,7 +270,8 @@
           "reward": 608001
         }
       ],
-      "vitem": 263162
+      "shop": 2006,
+      "vitem": 18
     },
     "4": {
       "id": 4,
@@ -358,7 +361,8 @@
           "reward": 608001
         }
       ],
-      "vitem": 328698
+      "shop": 2006,
+      "vitem": 18
     },
     "5": {
       "id": 5,
@@ -420,7 +424,8 @@
           "reward": 608001
         }
       ],
-      "vitem": 457723
+      "shop": 2006,
+      "vitem": 18
     },
     "6": {
       "id": 6,
@@ -486,9 +491,10 @@
       "loop_video": "Movies/S1_idle2.mp4",
       "sound_id": 9005,
       "close_delay": 9000,
-      "season_character1": "S1新赛季开启",
+      "season_character1": "无用的赛季",
       "season_character2": "2025/12/18-2026/2/18",
-      "vitem": 523259
+      "shop": 2006,
+      "vitem": 18
     },
     "7": {
       "id": 7,
@@ -554,9 +560,10 @@
       "loop_video": "Movies/S1_idle2.mp4",
       "sound_id": 9005,
       "close_delay": 9000,
-      "season_character1": "S2新赛季开启",
+      "season_character1": "无用的赛季",
       "season_character2": "2025/12/18-2026/2/18",
-      "vitem": 588795
+      "shop": 2006,
+      "vitem": 18
     },
     "8": {
       "id": 8,
@@ -622,13 +629,14 @@
       "loop_video": "Movies/S1_idle2.mp4",
       "sound_id": 9005,
       "close_delay": 9000,
-      "season_character1": "S3新赛季开启",
+      "season_character1": "无用的赛季",
       "season_character2": "2025/12/19-2026/4/11",
-      "vitem": 654335
+      "shop": 2006,
+      "vitem": 18
     },
     "9": {
       "id": 9,
-      "name": "闪耀杯",
+      "name": "S1赛季",
       "start_time": "2026-03-26 04:00:00",
       "end_time1": "2026-05-20 22:00:00",
       "end_time2": "2026-05-21 03:59:59",
@@ -691,16 +699,86 @@
       "loop_video": "Movies/S1_idle2.mp4",
       "sound_id": 9005,
       "close_delay": 9000,
-      "season_character1": "S4新赛季开启",
+      "season_character1": "S1新赛季开启",
       "season_character2": "2025/12/19-2026/4/11",
-      "vitem": 719867
+      "shop": 2006,
+      "vitem": 18
     },
     "10": {
       "id": 10,
-      "name": "闪耀杯",
+      "name": "S2赛季",
       "start_time": "2026-05-21 04:00:00",
       "end_time1": "2026-07-15 22:00:00",
       "end_time2": "2026-07-16 03:59:59",
+      "reward_list": [
+        {
+          "rank": 6,
+          "reward": 608207
+        },
+        {
+          "rank": 10,
+          "reward": 608207
+        },
+        {
+          "rank": 18,
+          "reward": 608202
+        },
+        {
+          "rank": 26,
+          "reward": 608203
+        },
+        {
+          "rank": 38,
+          "reward": 608022
+        },
+        {
+          "rank": 46,
+          "reward": 608208
+        },
+        {
+          "rank": 58,
+          "reward": 608204
+        },
+        {
+          "rank": 66,
+          "reward": 608209
+        },
+        {
+          "rank": 78,
+          "reward": 608201
+        },
+        {
+          "rank": 86,
+          "reward": 608210
+        },
+        {
+          "rank": 98,
+          "reward": 608205
+        },
+        {
+          "rank": 106,
+          "reward": 608211
+        },
+        {
+          "rank": 117,
+          "reward": 608001
+        }
+      ],
+      "show_video": "Movies/S2_idle1.mp4",
+      "loop_video": "Movies/S2_idle2.mp4",
+      "sound_id": 9007,
+      "close_delay": 9000,
+      "season_character1": "S2新赛季开启",
+      "season_character2": "2025/12/19-2026/4/11",
+      "shop": 2008,
+      "vitem": 74
+    },
+    "11": {
+      "id": 11,
+      "name": "S3赛季",
+      "start_time": "2026-07-16 04:00:00",
+      "end_time1": "2026-09-09 22:00:00",
+      "end_time2": "2026-09-10 03:59:59",
       "reward_list": [
         {
           "rank": 6,
@@ -712,11 +790,11 @@
         },
         {
           "rank": 18,
-          "reward": 608102
+          "reward": 608302
         },
         {
           "rank": 26,
-          "reward": 608103
+          "reward": 608303
         },
         {
           "rank": 38,
@@ -728,7 +806,7 @@
         },
         {
           "rank": 58,
-          "reward": 608104
+          "reward": 608304
         },
         {
           "rank": 66,
@@ -744,7 +822,145 @@
         },
         {
           "rank": 98,
-          "reward": 608105
+          "reward": 608305
+        },
+        {
+          "rank": 106,
+          "reward": 608019
+        },
+        {
+          "rank": 117,
+          "reward": 608001
+        }
+      ],
+      "show_video": "Movies/S1_idle1.mp4",
+      "loop_video": "Movies/S1_idle2.mp4",
+      "sound_id": 9005,
+      "close_delay": 9000,
+      "season_character1": "S3新赛季开启",
+      "season_character2": "2025/12/19-2026/4/11",
+      "shop": 2007,
+      "vitem": 1
+    },
+    "12": {
+      "id": 12,
+      "name": "S4赛季",
+      "start_time": "2026-09-10 04:00:00",
+      "end_time1": "2026-11-04 22:00:00",
+      "end_time2": "2026-11-05 03:59:59",
+      "reward_list": [
+        {
+          "rank": 6,
+          "reward": 608015
+        },
+        {
+          "rank": 10,
+          "reward": 608015
+        },
+        {
+          "rank": 18,
+          "reward": 608402
+        },
+        {
+          "rank": 26,
+          "reward": 608403
+        },
+        {
+          "rank": 38,
+          "reward": 608010
+        },
+        {
+          "rank": 46,
+          "reward": 608016
+        },
+        {
+          "rank": 58,
+          "reward": 608404
+        },
+        {
+          "rank": 66,
+          "reward": 608017
+        },
+        {
+          "rank": 78,
+          "reward": 608101
+        },
+        {
+          "rank": 86,
+          "reward": 608018
+        },
+        {
+          "rank": 98,
+          "reward": 608405
+        },
+        {
+          "rank": 106,
+          "reward": 608019
+        },
+        {
+          "rank": 117,
+          "reward": 608001
+        }
+      ],
+      "show_video": "Movies/S1_idle1.mp4",
+      "loop_video": "Movies/S1_idle2.mp4",
+      "sound_id": 9005,
+      "close_delay": 9000,
+      "season_character1": "S4新赛季开启",
+      "season_character2": "2025/12/19-2026/4/11",
+      "shop": 2007,
+      "vitem": 1
+    },
+    "13": {
+      "id": 13,
+      "name": "S5赛季",
+      "start_time": "2026-11-05 04:00:00",
+      "end_time1": "2026-12-30 22:00:00",
+      "end_time2": "2026-12-31 03:59:59",
+      "reward_list": [
+        {
+          "rank": 6,
+          "reward": 608015
+        },
+        {
+          "rank": 10,
+          "reward": 608015
+        },
+        {
+          "rank": 18,
+          "reward": 608502
+        },
+        {
+          "rank": 26,
+          "reward": 608503
+        },
+        {
+          "rank": 38,
+          "reward": 608010
+        },
+        {
+          "rank": 46,
+          "reward": 608016
+        },
+        {
+          "rank": 58,
+          "reward": 608504
+        },
+        {
+          "rank": 66,
+          "reward": 608017
+        },
+        {
+          "rank": 78,
+          "reward": 608101
+        },
+        {
+          "rank": 86,
+          "reward": 608018
+        },
+        {
+          "rank": 98,
+          "reward": 608505
         },
         {
           "rank": 106,
@@ -761,215 +977,12 @@
       "close_delay": 9000,
       "season_character1": "S5新赛季开启",
       "season_character2": "2025/12/19-2026/4/11",
-      "vitem": 785403
-    },
-    "11": {
-      "id": 11,
-      "name": "闪耀杯",
-      "start_time": "2026-07-16 04:00:00",
-      "end_time1": "2026-09-09 22:00:00",
-      "end_time2": "2026-09-10 03:59:59",
-      "reward_list": [
-        {
-          "rank": 6,
-          "reward": 608015
-        },
-        {
-          "rank": 10,
-          "reward": 608015
-        },
-        {
-          "rank": 18,
-          "reward": 608102
-        },
-        {
-          "rank": 26,
-          "reward": 608103
-        },
-        {
-          "rank": 38,
-          "reward": 608010
-        },
-        {
-          "rank": 46,
-          "reward": 608016
-        },
-        {
-          "rank": 58,
-          "reward": 608104
-        },
-        {
-          "rank": 66,
-          "reward": 608017
-        },
-        {
-          "rank": 78,
-          "reward": 608101
-        },
-        {
-          "rank": 86,
-          "reward": 608018
-        },
-        {
-          "rank": 98,
-          "reward": 608105
-        },
-        {
-          "rank": 106,
-          "reward": 608019
-        },
-        {
-          "rank": 117,
-          "reward": 608001
-        }
-      ],
-      "show_video": "Movies/S1_idle1.mp4",
-      "loop_video": "Movies/S1_idle2.mp4",
-      "sound_id": 9005,
-      "close_delay": 9000,
-      "season_character1": "S6新赛季开启",
-      "season_character2": "2025/12/19-2026/4/11",
-      "vitem": 850939
-    },
-    "12": {
-      "id": 12,
-      "name": "闪耀杯",
-      "start_time": "2026-09-10 04:00:00",
-      "end_time1": "2026-11-04 22:00:00",
-      "end_time2": "2026-11-05 03:59:59",
-      "reward_list": [
-        {
-          "rank": 6,
-          "reward": 608015
-        },
-        {
-          "rank": 10,
-          "reward": 608015
-        },
-        {
-          "rank": 18,
-          "reward": 608102
-        },
-        {
-          "rank": 26,
-          "reward": 608103
-        },
-        {
-          "rank": 38,
-          "reward": 608010
-        },
-        {
-          "rank": 46,
-          "reward": 608016
-        },
-        {
-          "rank": 58,
-          "reward": 608104
-        },
-        {
-          "rank": 66,
-          "reward": 608017
-        },
-        {
-          "rank": 78,
-          "reward": 608101
-        },
-        {
-          "rank": 86,
-          "reward": 608018
-        },
-        {
-          "rank": 98,
-          "reward": 608105
-        },
-        {
-          "rank": 106,
-          "reward": 608019
-        },
-        {
-          "rank": 117,
-          "reward": 608001
-        }
-      ],
-      "show_video": "Movies/S1_idle1.mp4",
-      "loop_video": "Movies/S1_idle2.mp4",
-      "sound_id": 9005,
-      "close_delay": 9000,
-      "season_character1": "S7新赛季开启",
-      "season_character2": "2025/12/19-2026/4/11",
-      "vitem": 916475
-    },
-    "13": {
-      "id": 13,
-      "name": "闪耀杯",
-      "start_time": "2026-11-05 04:00:00",
-      "end_time1": "2026-12-30 22:00:00",
-      "end_time2": "2026-12-31 03:59:59",
-      "reward_list": [
-        {
-          "rank": 6,
-          "reward": 608015
-        },
-        {
-          "rank": 10,
-          "reward": 608015
-        },
-        {
-          "rank": 18,
-          "reward": 608102
-        },
-        {
-          "rank": 26,
-          "reward": 608103
-        },
-        {
-          "rank": 38,
-          "reward": 608010
-        },
-        {
-          "rank": 46,
-          "reward": 608016
-        },
-        {
-          "rank": 58,
-          "reward": 608104
-        },
-        {
-          "rank": 66,
-          "reward": 608017
-        },
-        {
-          "rank": 78,
-          "reward": 608101
-        },
-        {
-          "rank": 86,
-          "reward": 608018
-        },
-        {
-          "rank": 98,
-          "reward": 608105
-        },
-        {
-          "rank": 106,
-          "reward": 608019
-        },
-        {
-          "rank": 117,
-          "reward": 608001
-        }
-      ],
-      "show_video": "Movies/S1_idle1.mp4",
-      "loop_video": "Movies/S1_idle2.mp4",
-      "sound_id": 9005,
-      "close_delay": 9000,
-      "season_character1": "S8新赛季开启",
-      "season_character2": "2025/12/19-2026/4/11",
-      "vitem": 982011
+      "shop": 2007,
+      "vitem": 1
     },
     "14": {
       "id": 14,
-      "name": "闪耀杯",
+      "name": "S6赛季",
       "start_time": "2026-12-31 04:00:00",
       "end_time1": "2027-02-24 22:00:00",
       "end_time2": "2027-02-25 03:59:59",
@@ -1031,13 +1044,14 @@
       "loop_video": "Movies/S1_idle2.mp4",
       "sound_id": 9005,
       "close_delay": 9000,
-      "season_character1": "S9新赛季开启",
+      "season_character1": "S6新赛季开启",
       "season_character2": "2025/12/19-2026/4/11",
-      "vitem": 1047547
+      "shop": 2007,
+      "vitem": 1
     },
     "15": {
       "id": 15,
-      "name": "闪耀杯",
+      "name": "S7赛季",
       "start_time": "2027-02-25 04:00:00",
       "end_time1": "2027-04-21 22:00:00",
       "end_time2": "2027-04-22 03:59:59",
@@ -1099,13 +1113,14 @@
       "loop_video": "Movies/S1_idle2.mp4",
       "sound_id": 9005,
       "close_delay": 9000,
-      "season_character1": "S10新赛季开启",
+      "season_character1": "S7新赛季开启",
       "season_character2": "2025/12/19-2026/4/11",
-      "vitem": 1113083
+      "shop": 2007,
+      "vitem": 1
     },
     "16": {
       "id": 16,
-      "name": "闪耀杯",
+      "name": "S8赛季",
       "start_time": "2027-04-22 04:00:00",
       "end_time1": "2027-06-16 22:00:00",
       "end_time2": "2027-06-17 03:59:59",
@@ -1167,13 +1182,14 @@
       "loop_video": "Movies/S1_idle2.mp4",
       "sound_id": 9005,
       "close_delay": 9000,
-      "season_character1": "S11新赛季开启",
+      "season_character1": "S8新赛季开启",
       "season_character2": "2025/12/19-2026/4/11",
-      "vitem": 1178619
+      "shop": 2007,
+      "vitem": 1
     },
     "17": {
       "id": 17,
-      "name": "闪耀杯",
+      "name": "S9赛季",
       "start_time": "2027-06-17 04:00:00",
       "end_time1": "2027-08-11 22:00:00",
       "end_time2": "2027-08-12 03:59:59",
@@ -1235,13 +1251,14 @@
       "loop_video": "Movies/S1_idle2.mp4",
       "sound_id": 9005,
       "close_delay": 9000,
-      "season_character1": "S12新赛季开启",
+      "season_character1": "S9新赛季开启",
       "season_character2": "2025/12/19-2026/4/11",
-      "vitem": 1244155
+      "shop": 2007,
+      "vitem": 1
     },
     "18": {
       "id": 18,
-      "name": "闪耀杯",
+      "name": "S10赛季",
       "start_time": "2027-08-12 04:00:00",
       "end_time1": "2027-10-06 22:00:00",
       "end_time2": "2027-10-07 03:59:59",
@@ -1303,9 +1320,10 @@
       "loop_video": "Movies/S1_idle2.mp4",
       "sound_id": 9005,
       "close_delay": 9000,
-      "season_character1": "S13新赛季开启",
+      "season_character1": "S10新赛季开启",
       "season_character2": "2025/12/19-2026/4/11",
-      "vitem": -391473175
+      "shop": 2007,
+      "vitem": 1
     }
   },
   "LocalizationStrings": {}

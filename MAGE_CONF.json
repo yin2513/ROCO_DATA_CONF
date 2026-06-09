@@ -178,6 +178,15 @@
       "unlock_type": 1,
       "unlock_param": 60116025,
       "unlock_text": "「箱中研究室」开启许愿星兑换"
+    },
+    "102": {
+      "id": 102,
+      "mage_name": "希洛",
+      "lune_name": "HIRO",
+      "avatar_res": "Texture2D'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/NPC_10401.NPC_10401'",
+      "unlock_type": 1,
+      "unlock_param": 70006012,
+      "unlock_text": "「马戏团」开启许愿星兑换"
     }
   },
   "LocalizationStrings": {}

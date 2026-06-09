@@ -140,6 +140,8 @@
         {},
         {},
         {},
+        {},
+        {},
         {}
       ]
     },
@@ -339,13 +341,15 @@
         },
         {},
         {},
+        {},
+        {},
         {}
       ]
     },
     "3": {
       "id": 3,
       "editor_name": "PCT_FULLSCREEN_UI_全屏UI中",
-      "ban_desc": "交互中无法使用该能力。",
+      "ban_desc": "全屏界面状态下无法使用该能力。",
       "desc_priority": 21,
       "function_ban_list": [
         {},
@@ -505,6 +509,10 @@
         {},
         {},
         {},
+        {
+          "function_ban_switch": true
+        },
+        {},
         {},
         {},
         {},
@@ -514,7 +522,7 @@
     "4": {
       "id": 4,
       "editor_name": "PCT_UI_非全屏UI中",
-      "ban_desc": "加载中、暂时无法使用该能力。",
+      "ban_desc": "开启了其他界面，无法使用该能力。",
       "desc_priority": 22,
       "function_ban_list": [
         {},
@@ -695,13 +703,15 @@
         {},
         {},
         {},
+        {},
+        {},
         {}
       ]
     },
     "5": {
       "id": 5,
       "editor_name": "PCT_CG_sequence或mp4播放中",
-      "ban_desc": "限时挑战中无法使用该功能。",
+      "ban_desc": "正在播放剧情，请稍后再试。",
       "desc_priority": 30,
       "function_ban_list": [
         {},
@@ -976,13 +986,15 @@
         {},
         {
           "function_ban_switch": true
-        }
+        },
+        {},
+        {}
       ]
     },
     "6": {
       "id": 6,
       "editor_name": "PCT_BATTLE_战斗中",
-      "ban_desc": "魔法师暂忙，请稍后再试。",
+      "ban_desc": "战斗中无法使用该能力。",
       "desc_priority": 11,
       "auto_clear_status": true,
       "function_ban_list": [
@@ -1282,13 +1294,15 @@
         {},
         {
           "function_ban_switch": true
-        }
+        },
+        {},
+        {}
       ]
     },
     "7": {
       "id": 7,
       "editor_name": "PCT_OPTION_npc_option对话/交互中",
-      "ban_desc": "这位魔法师正在处理其他邀请，请稍后再试。",
+      "ban_desc": "交互中无法使用该能力。",
       "desc_priority": 12,
       "function_ban_list": [
         {},
@@ -1513,13 +1527,15 @@
         },
         {},
         {},
+        {},
+        {},
         {}
       ]
     },
     "8": {
       "id": 8,
       "editor_name": "PCT_LOGIN_登录中",
-      "ban_desc": "双人骑乘中，无法进行该操作。",
+      "ban_desc": "加载中、暂时无法使用该能力。",
       "desc_priority": 2,
       "function_ban_list": [
         {},
@@ -1740,13 +1756,15 @@
         },
         {},
         {},
+        {},
+        {},
         {}
       ]
     },
     "9": {
       "id": 9,
       "editor_name": "PCT_TELEPORT_传送中",
-      "ban_desc": "双人骑乘中，无法进行该操作。",
+      "ban_desc": "加载中、暂时无法使用该能力。",
       "desc_priority": 3,
       "function_ban_list": [
         {},
@@ -1997,13 +2015,15 @@
         },
         {},
         {},
+        {},
+        {},
         {}
       ]
     },
     "10": {
       "id": 10,
       "editor_name": "PCT_REVIVE_死亡复活中",
-      "ban_desc": "双人骑乘中，无法进行该操作。",
+      "ban_desc": "加载中、暂时无法使用该能力。",
       "desc_priority": 4,
       "function_ban_list": [
         {},
@@ -2260,6 +2280,8 @@
         },
         {},
         {},
+        {},
+        {},
         {}
       ]
     },
@@ -2433,13 +2455,15 @@
         {},
         {},
         {},
+        {},
+        {},
         {}
       ]
     },
     "12": {
       "id": 12,
       "editor_name": "PCT_MATCHING_匹配中",
-      "ban_desc": "教学中，请稍后再试。",
+      "ban_desc": "匹配状态下，无法进行该操作。",
       "desc_priority": 31,
       "function_ban_list": [
         {},
@@ -2706,13 +2730,15 @@
         },
         {},
         {},
+        {},
+        {},
         {}
       ]
     },
     "13": {
       "id": 13,
       "editor_name": "PCT_MINI_GAME_小游戏中",
-      "ban_desc": "当前场景不允许该操作。",
+      "ban_desc": "限时挑战中无法使用该功能。",
       "desc_priority": 32,
       "function_ban_list": [
         {},
@@ -2721,9 +2747,7 @@
         {},
         {},
         {},
-        {
-          "function_ban_switch": true
-        },
+        {},
         {},
         {},
         {
@@ -2967,6 +2991,8 @@
         {
           "function_ban_switch": true
         },
+        {},
+        {},
         {},
         {},
         {}
@@ -3221,13 +3247,15 @@
         },
         {},
         {},
+        {},
+        {},
         {}
       ]
     },
     "15": {
       "id": 15,
       "editor_name": "PCT_VISITING_联机状态",
-      "ban_desc": "当前场景不允许该操作。",
+      "ban_desc": "联机状态下无法进行该操作。",
       "desc_priority": 1,
       "function_ban_list": [
         {},
@@ -3370,13 +3398,15 @@
         {},
         {},
         {},
+        {},
+        {},
         {}
       ]
     },
     "16": {
       "id": 16,
       "editor_name": "PCT_WORLD_COMBATING_大世界战斗中",
-      "ban_desc": "受到黑暗力量的影响，暂时无法使用该力量。",
+      "ban_desc": "首领战斗中，无法进行该操作。",
       "desc_priority": 20,
       "auto_clear_status": true,
       "function_ban_list": [
@@ -3620,7 +3650,9 @@
         {
           "function_ban_switch": true
         },
-        {},
+        {
+          "function_ban_switch": true
+        },
         {
           "function_ban_switch": true
         },
@@ -3628,13 +3660,15 @@
         {},
         {
           "function_ban_switch": true
-        }
+        },
+        {},
+        {}
       ]
     },
     "17": {
       "id": 17,
       "editor_name": "PCT_CHANGE_EGG_换蛋中",
-      "ban_desc": "当前场景不允许该操作。",
+      "ban_desc": "魔法师暂忙，请稍后再试。",
       "desc_priority": 20,
       "function_ban_list": [
         {},
@@ -3935,13 +3969,15 @@
         {},
         {
           "function_ban_switch": true
-        }
+        },
+        {},
+        {}
       ]
     },
     "18": {
       "id": 18,
       "editor_name": "PCT_PK_PREPARE_切磋中",
-      "ban_desc": "当前场景不允许该操作。",
+      "ban_desc": "魔法师暂忙，请稍后再试。",
       "desc_priority": 20,
       "function_ban_list": [
         {},
@@ -4256,13 +4292,15 @@
         {},
         {
           "function_ban_switch": true
-        }
+        },
+        {},
+        {}
       ]
     },
     "19": {
       "id": 19,
       "editor_name": "PCT_INVITE 处理血脉团体战邀请中",
-      "ban_desc": "当前场景不允许该操作。",
+      "ban_desc": "这位魔法师正在处理其他邀请，请稍后再试。",
       "desc_priority": 20,
       "function_ban_list": [
         {},
@@ -4457,6 +4495,8 @@
         {
           "function_ban_switch": true
         },
+        {},
+        {},
         {},
         {},
         {},
@@ -4479,7 +4519,7 @@
     "20": {
       "id": 20,
       "editor_name": "PCT_PLAYER_INTERACT_INVITE_处理面对面交互邀请中",
-      "ban_desc": "当前场景不允许该操作。",
+      "ban_desc": "这位魔法师正在处理其他邀请，请稍后再试。",
       "desc_priority": 20,
       "function_ban_list": [
         {},
@@ -4620,6 +4660,8 @@
         {
           "function_ban_switch": true
         },
+        {},
+        {},
         {},
         {},
         {},
@@ -4642,7 +4684,7 @@
     "21": {
       "id": 21,
       "editor_name": "PCT_STORY_DARKSOULRIVER_黑暗灵魂之河屏蔽状态",
-      "ban_desc": "赐福中，无法进行该操作",
+      "ban_desc": "受到黑暗力量的影响，暂时无法使用该力量。",
       "desc_priority": 20,
       "function_ban_list": [
         {},
@@ -4901,6 +4943,8 @@
         {
           "function_ban_switch": true
         },
+        {},
+        {},
         {},
         {},
         {},
@@ -4911,7 +4955,7 @@
     "22": {
       "id": 22,
       "editor_name": "PCT_TRANSFORMED_被变形（如果冻和其他NPC）",
-      "ban_desc": "闪耀大赛中，无法进行该操作。",
+      "ban_desc": "被变形时无法使用该能力。",
       "desc_priority": 20,
       "function_ban_list": [
         {},
@@ -5104,6 +5148,8 @@
         {
           "function_ban_switch": true
         },
+        {},
+        {},
         {},
         {},
         {}
@@ -5112,7 +5158,7 @@
     "23": {
       "id": 23,
       "editor_name": "PCT_DOUBLE_RIDE_GUEST_双人骑乘客人状态",
-      "ban_desc": "留影分享中，无法进行该操作。",
+      "ban_desc": "双人骑乘中，无法进行该操作。",
       "desc_priority": 20,
       "function_ban_list": [
         {},
@@ -5211,31 +5257,24 @@
         {
           "function_ban_switch": true
         },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {},
-        {},
-        {
-          "function_ban_switch": true
-        },
         {},
         {
           "function_ban_switch": true
         },
         {},
         {},
-        {},
+        {
+          "function_ban_switch": true
+        },
         {},
         {
           "function_ban_switch": true
         },
+        {},
         {
           "function_ban_switch": true
         },
+        {},
         {},
         {
           "function_ban_switch": true
@@ -5261,6 +5300,13 @@
         {
           "function_ban_switch": true
         },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {
+          "function_ban_switch": true
+        },
         {},
         {},
         {},
@@ -5300,6 +5346,8 @@
         {
           "function_ban_switch": true
         },
+        {},
+        {},
         {},
         {},
         {},
@@ -5313,7 +5361,7 @@
     "24": {
       "id": 24,
       "editor_name": "PCT_TAKE_PHOTO_HANDHELD_手持拍照",
-      "ban_desc": "匹配中，无法进行该操作",
+      "ban_desc": "拍照中，无法进行该操作。",
       "desc_priority": 20,
       "function_ban_list": [
         {},
@@ -5586,13 +5634,15 @@
         {},
         {
           "function_ban_switch": true
-        }
+        },
+        {},
+        {}
       ]
     },
     "25": {
       "id": 25,
       "editor_name": "PCT_TAKE_PHOTO_TRIPOD_CAMERA_支架拍照（相机画面）",
-      "ban_desc": "匹配中，无法进行该操作",
+      "ban_desc": "拍照中，无法进行该操作。",
       "desc_priority": 20,
       "function_ban_list": [
         {},
@@ -5861,13 +5911,15 @@
         {},
         {
           "function_ban_switch": true
-        }
+        },
+        {},
+        {}
       ]
     },
     "26": {
       "id": 26,
       "editor_name": "PCT_TAKE_PHOTO_TRIPOD_WORLD_支架拍照（大世界画面）",
-      "ban_desc": "匹配中，无法进行该操作",
+      "ban_desc": "拍照中，无法进行该操作。",
       "desc_priority": 20,
       "function_ban_list": [
         {},
@@ -6017,9 +6069,7 @@
         },
         {},
         {},
-        {
-          "function_ban_switch": true
-        },
+        {},
         {},
         {},
         {},
@@ -6114,13 +6164,15 @@
         {},
         {
           "function_ban_switch": true
-        }
+        },
+        {},
+        {}
       ]
     },
     "27": {
       "id": 27,
       "editor_name": "PCT_NARRATIVE_TRANSFORMED (被剧情变形）",
-      "ban_desc": "闪耀大赛中，无法进行该操作。",
+      "ban_desc": "被变形时无法使用该能力。",
       "desc_priority": 20,
       "function_ban_list": [
         {},
@@ -6335,6 +6387,8 @@
         {
           "function_ban_switch": true
         },
+        {},
+        {},
         {},
         {},
         {}
@@ -6343,7 +6397,7 @@
     "28": {
       "id": 28,
       "editor_name": "PCT_BOSS_CHALLENGE_进入首领角斗场景中",
-      "ban_desc": "",
+      "ban_desc": "当前场景不允许该操作。",
       "desc_priority": 20,
       "function_ban_list": [
         {},
@@ -6590,6 +6644,8 @@
         {
           "function_ban_switch": true
         },
+        {},
+        {},
         {},
         {},
         {}
@@ -6811,13 +6867,15 @@
         {},
         {
           "function_ban_switch": true
-        }
+        },
+        {},
+        {}
       ]
     },
     "32": {
       "id": 32,
       "editor_name": "PCT_STORY_STORYHOUSE_剧情小屋",
-      "ban_desc": "",
+      "ban_desc": "当前场景不允许该操作。",
       "desc_priority": 20,
       "function_ban_list": [
         {},
@@ -7036,13 +7094,15 @@
         {},
         {
           "function_ban_switch": true
-        }
+        },
+        {},
+        {}
       ]
     },
     "33": {
       "id": 33,
       "editor_name": "PCT_AT_HOME_处于家园室内场景中",
-      "ban_desc": "",
+      "ban_desc": "当前场景不允许该操作。",
       "desc_priority": 20,
       "function_ban_list": [
         {},
@@ -7215,6 +7275,8 @@
         {
           "function_ban_switch": true
         },
+        {},
+        {},
         {},
         {},
         {}
@@ -7223,7 +7285,7 @@
     "34": {
       "id": 34,
       "editor_name": "PCT_NEWPLAYER_GUIDE_BLACKMASK_新手引导（强制）",
-      "ban_desc": "",
+      "ban_desc": "教学中，请稍后再试。",
       "desc_priority": 20,
       "function_ban_list": [
         {},
@@ -7482,6 +7544,8 @@
         {
           "function_ban_switch": true
         },
+        {},
+        {},
         {},
         {},
         {}
@@ -7490,7 +7554,7 @@
     "35": {
       "id": 35,
       "editor_name": "PCT_NEWPLAYER_GUIDE_新手引导（非强制）",
-      "ban_desc": "",
+      "ban_desc": "教学中，请稍后再试。",
       "desc_priority": 20,
       "function_ban_list": [
         {},
@@ -7591,7 +7655,9 @@
         {},
         {},
         {},
-        {},
+        {
+          "function_ban_switch": true
+        },
         {},
         {},
         {},
@@ -7658,6 +7724,8 @@
         {
           "function_ban_switch": true
         },
+        {},
+        {},
         {},
         {},
         {},
@@ -7687,6 +7755,335 @@
     "36": {
       "id": 36,
       "editor_name": "PCT_EDITING_HOME_处于家园编辑状态",
+      "ban_desc": "魔法师暂忙，请稍后再试。",
+      "desc_priority": 20,
+      "function_ban_list": [
+        {},
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {}
+      ]
+    },
+    "37": {
+      "id": 37,
+      "editor_name": "PCT_HOME_PLANT_处于家园种植园中",
       "ban_desc": "当前场景不允许该操作。",
       "desc_priority": 20,
       "function_ban_list": [
@@ -7694,332 +8091,8 @@
         {},
         {},
         {},
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {},
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {},
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {},
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {},
-        {},
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {},
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {},
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {},
-        {},
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {},
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {},
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {},
-        {},
-        {
-          "function_ban_switch": true
-        },
-        {},
-        {},
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {},
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {},
-        {},
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {},
-        {
-          "function_ban_switch": true
-        },
         {},
         {},
-        {
-          "function_ban_switch": true
-        }
-      ]
-    },
-    "37": {
-      "id": 37,
-      "editor_name": "PCT_HOME_PLANT_处于家园种植园中",
-      "ban_desc": "",
-      "desc_priority": 20,
-      "function_ban_list": [
-        {},
-        {},
-        {},
         {},
         {},
         {},
@@ -8034,9 +8107,6 @@
         {},
         {},
         {},
-        {},
-        {},
-        {},
         {
           "function_ban_switch": true
         },
@@ -8195,6 +8265,8 @@
         {
           "function_ban_switch": true
         },
+        {},
+        {},
         {},
         {},
         {}
@@ -8203,7 +8275,7 @@
     "38": {
       "id": 38,
       "editor_name": "PCT_DUNGEON_SHADOW_处于幻影屋副本中",
-      "ban_desc": "",
+      "ban_desc": "当前场景不允许该操作。",
       "desc_priority": 32,
       "function_ban_list": [
         {},
@@ -8398,13 +8470,15 @@
         },
         {},
         {},
+        {},
+        {},
         {}
       ]
     },
     "39": {
       "id": 39,
       "editor_name": "PCT_SITDOWN_坐下中",
-      "ban_desc": "",
+      "ban_desc": "休息时不允许该操作。",
       "desc_priority": 20,
       "auto_clear_status": true,
       "function_ban_list": [
@@ -8450,12 +8524,8 @@
         {
           "function_ban_switch": true
         },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
+        {},
+        {},
         {
           "function_ban_switch": true
         },
@@ -8614,6 +8684,8 @@
         {
           "function_ban_switch": true
         },
+        {},
+        {},
         {},
         {},
         {}
@@ -8622,7 +8694,7 @@
     "40": {
       "id": 40,
       "editor_name": "PCT_VISIT_HOME_处于他人家园访问中",
-      "ban_desc": "",
+      "ban_desc": "当前场景不允许该操作。",
       "desc_priority": 20,
       "function_ban_list": [
         {},
@@ -8807,6 +8879,8 @@
         {
           "function_ban_switch": true
         },
+        {},
+        {},
         {},
         {},
         {}
@@ -8815,7 +8889,7 @@
     "41": {
       "id": 41,
       "editor_name": "PCT_TAKE_PHOTO_MYSELF_自拍拍照",
-      "ban_desc": "匹配中，无法进行该操作",
+      "ban_desc": "拍照中，无法进行该操作。",
       "desc_priority": 20,
       "function_ban_list": [
         {},
@@ -8995,7 +9069,6 @@
         {
           "function_ban_switch": true
         },
-        {},
         {
           "function_ban_switch": true
         },
@@ -9005,31 +9078,21 @@
         {
           "function_ban_switch": true
         },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
         {
           "function_ban_switch": true
         },
         {},
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
         {
           "function_ban_switch": true
         },
@@ -9046,14 +9109,10 @@
         {
           "function_ban_switch": true
         },
+        {},
         {
           "function_ban_switch": true
         },
-        {
-          "function_ban_switch": true
-        },
-        {},
-        {},
         {
           "function_ban_switch": true
         },
@@ -9071,6 +9130,23 @@
         },
         {},
         {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
         {},
         {
           "function_ban_switch": true
@@ -9084,7 +9160,9 @@
         {},
         {
           "function_ban_switch": true
-        }
+        },
+        {},
+        {}
       ]
     },
     "42": {
@@ -9404,7 +9482,9 @@
         {},
         {
           "function_ban_switch": true
-        }
+        },
+        {},
+        {}
       ]
     },
     "43": {
@@ -9724,13 +9804,15 @@
         {},
         {
           "function_ban_switch": true
-        }
+        },
+        {},
+        {}
       ]
     },
     "44": {
       "id": 44,
       "editor_name": "PCT_VISIT_HOME_PLANT_处于他人家园种植园中",
-      "ban_desc": "",
+      "ban_desc": "当前场景不允许该操作。",
       "desc_priority": 20,
       "function_ban_list": [
         {},
@@ -9913,6 +9995,8 @@
         {
           "function_ban_switch": true
         },
+        {},
+        {},
         {},
         {},
         {}
@@ -9921,7 +10005,7 @@
     "45": {
       "id": 45,
       "editor_name": "PCT_STORY_SEASON_DUNGEON_赛季副本屏蔽状态",
-      "ban_desc": "",
+      "ban_desc": "受到回忆力量的影响，暂时无法使用该力量。",
       "desc_priority": 20,
       "function_ban_list": [
         {},
@@ -10174,6 +10258,8 @@
         {
           "function_ban_switch": true
         },
+        {},
+        {},
         {},
         {},
         {},
@@ -10184,7 +10270,7 @@
     "46": {
       "id": 46,
       "editor_name": "PCT_STORY_BAISHU_白树空间及洞窟屏蔽状态",
-      "ban_desc": "",
+      "ban_desc": "受到至高领域的影响，部分力量无法运用。",
       "desc_priority": 20,
       "function_ban_list": [
         {},
@@ -10449,13 +10535,15 @@
         {},
         {
           "function_ban_switch": true
-        }
+        },
+        {},
+        {}
       ]
     },
     "47": {
       "id": 47,
       "editor_name": "PCT_STORY_B1_FINAL_B1最终战专用",
-      "ban_desc": "赐福中，无法进行该操作",
+      "ban_desc": "受到黑暗力量的影响，暂时无法使用该力量。",
       "desc_priority": 20,
       "function_ban_list": [
         {},
@@ -10672,6 +10760,8 @@
         {
           "function_ban_switch": true
         },
+        {},
+        {},
         {},
         {},
         {}
@@ -10680,7 +10770,7 @@
     "48": {
       "id": 48,
       "editor_name": "PCT_STORY_STORYHOUSE_剧情小屋（可打开地图）",
-      "ban_desc": "",
+      "ban_desc": "当前场景不允许该操作。",
       "desc_priority": 20,
       "function_ban_list": [
         {},
@@ -10689,7 +10779,9 @@
         {},
         {},
         {},
-        {},
+        {
+          "function_ban_switch": true
+        },
         {},
         {},
         {},
@@ -10895,15 +10987,1095 @@
         },
         {},
         {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {}
+      ]
+    },
+    "49": {
+      "id": 49,
+      "editor_name": "PCT_DUNGEON_S2_01_S2赛季副本用_钨丝贝贝",
+      "ban_desc": "当前场景不允许该操作。",
+      "desc_priority": 20,
+      "function_ban_list": [
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
         {
           "function_ban_switch": true
         }
       ]
     },
+    "50": {
+      "id": 50,
+      "editor_name": "PCT_DUNGEON_S2_02_S2赛季副本用_声波缇塔",
+      "ban_desc": "当前场景不允许该操作。",
+      "desc_priority": 20,
+      "function_ban_list": [
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "51": {
+      "id": 51,
+      "editor_name": "PCT_DUNGEON_S2_03_S2赛季副本用_机械方方",
+      "ban_desc": "当前场景不允许该操作。",
+      "desc_priority": 20,
+      "function_ban_list": [
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "52": {
+      "id": 52,
+      "editor_name": "PCT_DUNGEON_S2_04_S2赛季副本用_雪怪",
+      "ban_desc": "当前场景不允许该操作。",
+      "desc_priority": 20,
+      "function_ban_list": [
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
     "101": {
       "id": 101,
       "editor_name": "PCT_STATIC_SCENE_NOPK_屏蔽切磋的静态子场景（暂无）",
-      "ban_desc": "",
+      "ban_desc": "当前场景不允许切磋。",
       "desc_priority": 35,
       "function_ban_list": [
         {},
@@ -11032,13 +12204,15 @@
         {},
         {},
         {},
+        {},
+        {},
         {}
       ]
     },
     "102": {
       "id": 102,
       "editor_name": "PCT_STATIC_SCENE_TYPEA_屏蔽A的静态子场景(预注册)",
-      "ban_desc": "",
+      "ban_desc": "当前场景不允许该操作。",
       "desc_priority": 20,
       "function_ban_list": [
         {},
@@ -11144,6 +12318,8 @@
         {
           "function_ban_switch": true
         },
+        {},
+        {},
         {},
         {},
         {},
@@ -11173,7 +12349,7 @@
     "103": {
       "id": 103,
       "editor_name": "PCT_STATIC_SCENE_TYPEB_屏蔽B的静态子场景(预注册)",
-      "ban_desc": "",
+      "ban_desc": "当前场景不允许该操作。",
       "desc_priority": 20,
       "function_ban_list": [
         {},
@@ -11279,6 +12455,8 @@
         {
           "function_ban_switch": true
         },
+        {},
+        {},
         {},
         {},
         {},
@@ -11308,7 +12486,7 @@
     "104": {
       "id": 104,
       "editor_name": "PCT_STATIC_SCENE_TYPEC_屏蔽C的静态子场景(预注册)",
-      "ban_desc": "",
+      "ban_desc": "当前场景不允许该操作。",
       "desc_priority": 20,
       "function_ban_list": [
         {},
@@ -11414,6 +12592,8 @@
         {
           "function_ban_switch": true
         },
+        {},
+        {},
         {},
         {},
         {},
@@ -11443,7 +12623,7 @@
     "105": {
       "id": 105,
       "editor_name": "PCT_STATIC_SCENE_TYPED_屏蔽D的静态子场景(预注册)",
-      "ban_desc": "",
+      "ban_desc": "当前场景不允许该操作。",
       "desc_priority": 20,
       "function_ban_list": [
         {},
@@ -11549,6 +12729,8 @@
         {
           "function_ban_switch": true
         },
+        {},
+        {},
         {},
         {},
         {},
@@ -11578,7 +12760,7 @@
     "106": {
       "id": 106,
       "editor_name": "PCT_HOLD_HANDS_LEADER",
-      "ban_desc": "",
+      "ban_desc": "同行中，无法进行该操作。",
       "desc_priority": 20,
       "function_ban_list": [
         {},
@@ -11713,6 +12895,8 @@
         {
           "function_ban_switch": true
         },
+        {},
+        {},
         {},
         {},
         {},
@@ -11727,7 +12911,7 @@
     "107": {
       "id": 107,
       "editor_name": "PCT_HOLD_HANDS_GUEST",
-      "ban_desc": "",
+      "ban_desc": "同行中，无法进行该操作。",
       "desc_priority": 20,
       "function_ban_list": [
         {},
@@ -11840,7 +13024,9 @@
           "function_ban_switch": true
         },
         {},
-        {},
+        {
+          "function_ban_switch": true
+        },
         {},
         {},
         {
@@ -11890,6 +13076,8 @@
         {
           "function_ban_switch": true
         },
+        {},
+        {},
         {},
         {},
         {},
@@ -11904,7 +13092,7 @@
     "108": {
       "id": 108,
       "editor_name": "PCT_PET_BLESSING_PERFORM（赐福）",
-      "ban_desc": "",
+      "ban_desc": "赐福中，无法进行该操作",
       "desc_priority": 21,
       "function_ban_list": [
         {},
@@ -12109,13 +13297,15 @@
         {},
         {},
         {},
+        {},
+        {},
         {}
       ]
     },
     "109": {
       "id": 109,
       "editor_name": "PCT_OPEN_PLAYER_RELATIONSHIP_TREE",
-      "ban_desc": "",
+      "ban_desc": "交互中，无法进行该操作。",
       "desc_priority": 19,
       "function_ban_list": [
         {},
@@ -12302,13 +13492,223 @@
         {},
         {
           "function_ban_switch": true
-        }
+        },
+        {},
+        {}
+      ]
+    },
+    "110": {
+      "id": 110,
+      "editor_name": "PCT_WAIT_FOR_OTHERS_同行战斗局外等待中",
+      "desc_priority": 20,
+      "function_ban_list": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {}
       ]
     },
     "113": {
       "id": 113,
       "editor_name": "PCT_HOME_PET_FEED",
-      "ban_desc": "当前场景不允许该操作。",
+      "ban_desc": "魔法师暂忙，请稍后再试。",
       "desc_priority": 20,
       "function_ban_list": [
         {
@@ -12641,13 +14041,15 @@
         {},
         {
           "function_ban_switch": true
-        }
+        },
+        {},
+        {}
       ]
     },
     "114": {
       "id": 114,
       "editor_name": "PCT_PVP_RANK_MAIN_UI",
-      "ban_desc": "",
+      "ban_desc": "闪耀大赛中，无法进行该操作。",
       "desc_priority": 36,
       "function_ban_list": [
         {},
@@ -12898,13 +14300,15 @@
         },
         {},
         {},
+        {},
+        {},
         {}
       ]
     },
     "115": {
       "id": 115,
       "editor_name": "PCT_MARK_VIDEO_REC_处于留影准备阶段和拍摄阶段",
-      "ban_desc": "",
+      "ban_desc": "留影中，无法进行该操作。",
       "desc_priority": 20,
       "function_ban_list": [
         {},
@@ -13171,13 +14575,15 @@
         {},
         {
           "function_ban_switch": true
-        }
+        },
+        {},
+        {}
       ]
     },
     "116": {
       "id": 116,
       "editor_name": "PCT_MARK_VIDEO_REPLAY_处于留影预览阶段",
-      "ban_desc": "",
+      "ban_desc": "预览留影中，无法进行该操作。",
       "desc_priority": 20,
       "function_ban_list": [
         {},
@@ -13476,9 +14882,7 @@
           "function_ban_switch": true
         },
         {},
-        {
-          "function_ban_switch": true
-        },
+        {},
         {
           "function_ban_switch": true
         },
@@ -13496,13 +14900,15 @@
         {},
         {
           "function_ban_switch": true
-        }
+        },
+        {},
+        {}
       ]
     },
     "117": {
       "id": 117,
       "editor_name": "PCT_MARK_VIDEO_SHARE_处于留影分享阶段",
-      "ban_desc": "",
+      "ban_desc": "留影分享中，无法进行该操作。",
       "desc_priority": 20,
       "function_ban_list": [
         {},
@@ -13789,13 +15195,15 @@
         {},
         {
           "function_ban_switch": true
-        }
+        },
+        {},
+        {}
       ]
     },
     "118": {
       "id": 118,
       "editor_name": "PCT_MARK_VIDEO_WATCH_处于观影状态",
-      "ban_desc": "",
+      "ban_desc": "观赏留影中，无法进行该操作。",
       "desc_priority": 20,
       "function_ban_list": [
         {},
@@ -13946,6 +15354,8 @@
         {
           "function_ban_switch": true
         },
+        {},
+        {},
         {},
         {},
         {}
@@ -13954,7 +15364,7 @@
     "119": {
       "id": 119,
       "editor_name": "PCT_STORY_SEASON_DUNGEON_赛季副本屏蔽状态",
-      "ban_desc": "",
+      "ban_desc": "受到回忆力量的影响，暂时无法使用该力量。",
       "desc_priority": 20,
       "function_ban_list": [
         {},
@@ -14207,6 +15617,8 @@
         {
           "function_ban_switch": true
         },
+        {},
+        {},
         {},
         {},
         {},
@@ -14217,7 +15629,7 @@
     "120": {
       "id": 120,
       "editor_name": "PCT_LEGENDARY_BATTLE_MATCHING传说精灵挑战匹配中",
-      "ban_desc": "",
+      "ban_desc": "匹配中，无法进行该操作",
       "desc_priority": 20,
       "function_ban_list": [
         {},
@@ -14410,6 +15822,8 @@
         {
           "function_ban_switch": true
         },
+        {},
+        {},
         {},
         {},
         {}
@@ -14418,7 +15832,7 @@
     "121": {
       "id": 121,
       "editor_name": "PCT_NIGHT_MODE夜间模式状态",
-      "ban_desc": "",
+      "ban_desc": "夜间休息中，无法进行该操作",
       "desc_priority": 20,
       "function_ban_list": [
         {},
@@ -14547,13 +15961,15 @@
         {
           "function_ban_switch": true
         },
+        {},
+        {},
         {}
       ]
     },
     "122": {
       "id": 122,
       "editor_name": "PCT_PET_CLOSE_INTERACT精灵亲昵状态",
-      "ban_desc": "当前场景不允许该操作。",
+      "ban_desc": "魔法师暂忙，请稍后再试。",
       "desc_priority": 20,
       "function_ban_list": [
         {},
@@ -14679,6 +16095,1226 @@
         {},
         {},
         {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "123": {
+      "id": 123,
+      "editor_name": "PCT_MARK_MESSAGE_SHARE处于留言分享阶段",
+      "ban_desc": "开启了其他界面，无法使用该能力。",
+      "desc_priority": 20,
+      "function_ban_list": [
+        {},
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {}
+      ]
+    },
+    "124": {
+      "id": 124,
+      "editor_name": "PCT_PROP_BLINDBOX_藏在吓人箱中",
+      "ban_desc": "躲藏中，无法进行该操作。",
+      "desc_priority": 20,
+      "auto_clear_status": true,
+      "function_ban_list": [
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "125": {
+      "id": 125,
+      "editor_name": "PCT_PROP_HANDHELD_手持道具中",
+      "ban_desc": "手持中，无法进行该操作。",
+      "desc_priority": 20,
+      "auto_clear_status": true,
+      "function_ban_list": [
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "127": {
+      "id": 127,
+      "editor_name": "PCT_ROLEPLAY_EMOTE_播放RP动作中",
+      "desc_priority": 20,
+      "auto_clear_status": true,
+      "function_ban_list": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "128": {
+      "id": 128,
+      "editor_name": "PCT_DOUBLE_RIDE_LEADER_双人骑乘主人状态",
+      "ban_desc": "双人骑乘中，无法进行该操作。",
+      "desc_priority": 21,
+      "function_ban_list": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "129": {
+      "id": 129,
+      "editor_name": "PCT_MARK_VIDEO_SOCIAL_SHARE_处于留影社交分享状态",
+      "ban_desc": "正在分享留影，请稍后再试",
+      "desc_priority": 30,
+      "function_ban_list": [
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
         {},
         {}
       ]

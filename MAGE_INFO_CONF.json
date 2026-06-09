@@ -432,6 +432,34 @@
       "unlock_type": 1,
       "unlock_param": 16100002,
       "text": "露萌踏上了寻找主人的旅途……"
+    },
+    "10201": {
+      "id": 10201,
+      "belong_to": 102,
+      "show_tips": true,
+      "text": "长相奇怪的宫廷魔法师，是机幕方舟「小轱辘」的童年玩伴。",
+      "lock_res": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100660.100660'"
+    },
+    "10202": {
+      "id": 10202,
+      "belong_to": 102,
+      "unlock_type": 1,
+      "unlock_param": 70009012,
+      "text": "我们一起帮助马戏团排练节目，斯诺克学姐也放弃了收购马戏团的计划。"
+    },
+    "10203": {
+      "id": 10203,
+      "belong_to": 102,
+      "unlock_type": 1,
+      "unlock_param": 70009012,
+      "text": "希洛即将与小轱辘踏上马戏团巡演之路。"
+    },
+    "10204": {
+      "id": 10204,
+      "belong_to": 102,
+      "unlock_type": 1,
+      "unlock_param": 16100004,
+      "text": "马戏团离开了，希望他们的巡演顺利！"
     }
   },
   "LocalizationStrings": {}
