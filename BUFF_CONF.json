@@ -39673,6 +39673,7 @@
           ]
         }
       ],
+      "is_clean_when_rest": 2,
       "buff_trigger_priority": 1
     },
     "20600010": {
@@ -42666,7 +42667,6 @@
           ]
         }
       ],
-      "is_clean_when_rest": 1,
       "buff_trigger_priority": 1
     },
     "20641090": {
@@ -42691,7 +42691,6 @@
           ]
         }
       ],
-      "is_clean_when_rest": 1,
       "buff_trigger_priority": 1
     },
     "20641100": {
