@@ -320,6 +320,11 @@
       "activity_type": 39,
       "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_SeasonPreheating.UMG_Activity_SeasonPreheating_C'"
     },
+    "3902": {
+      "id": 3902,
+      "activity_type": 39,
+      "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_S3SeasonPreheating.UMG_Activity_S3SeasonPreheating_C'"
+    },
     "4001": {
       "id": 4001,
       "activity_type": 40,

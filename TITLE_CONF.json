@@ -1283,6 +1283,17 @@
           "subtitle": "调查任务"
         }
       ]
+    },
+    "PastActivityTerritory": {
+      "id": "PastActivityTerritory",
+      "title": "领地试炼",
+      "display_type": 1,
+      "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_huodong_png.img_huodong_png'",
+      "subtitle": [
+        {
+          "subtitle": "往期回顾"
+        }
+      ]
     }
   },
   "LocalizationStrings": {}

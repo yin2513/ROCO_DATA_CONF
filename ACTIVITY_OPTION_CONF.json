@@ -524,6 +524,36 @@
       "option_param2": "TaskModuleCmd.TraceParagraphByID",
       "option_param3": "70020"
     },
+    "2015": {
+      "id": 2015,
+      "option_type": 2,
+      "option_param2": "TaskModuleCmd.TraceParagraphByID",
+      "option_param3": "70037"
+    },
+    "2016": {
+      "id": 2016,
+      "option_type": 2,
+      "option_param2": "TaskModuleCmd.TraceParagraphByID",
+      "option_param3": "70033"
+    },
+    "2017": {
+      "id": 2017,
+      "option_type": 2,
+      "option_param2": "TaskModuleCmd.TraceParagraphByID",
+      "option_param3": "70034"
+    },
+    "2018": {
+      "id": 2018,
+      "option_type": 2,
+      "option_param2": "TaskModuleCmd.TraceParagraphByID",
+      "option_param3": "70035"
+    },
+    "2019": {
+      "id": 2019,
+      "option_type": 2,
+      "option_param2": "TaskModuleCmd.TraceParagraphByID",
+      "option_param3": "70036"
+    },
     "10001": {
       "id": 10001,
       "option_type": 4,

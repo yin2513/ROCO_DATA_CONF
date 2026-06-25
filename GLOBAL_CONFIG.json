@@ -3374,6 +3374,16 @@
       "id": 817,
       "key": "pay_cd",
       "num": 900
+    },
+    "report_mail_singel_coin_max": {
+      "id": 855,
+      "key": "report_mail_singel_coin_max",
+      "num": 100000
+    },
+    "report_coin_split_mail": {
+      "id": 856,
+      "key": "report_coin_split_mail",
+      "num": 80040
     }
   },
   "LocalizationStrings": {}
