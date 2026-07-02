@@ -5934,14 +5934,14 @@
     "410230": {
       "id": 410230,
       "name": "牵线木偶",
-      "Catch_Threshold": 1000,
+      "Catch_Threshold": 50000,
       "catch_guarant_rate": 1700,
       "Catch_Ball_level": 1
     },
     "410231": {
       "id": 410231,
       "name": "帅帅魔偶",
-      "Catch_Threshold": 250,
+      "Catch_Threshold": 50000,
       "catch_guarant_rate": 240,
       "Catch_Ball_level": 1
     },
@@ -7266,19 +7266,19 @@
     "410483": {
       "id": 410483,
       "name": "小丑豆豆",
-      "Catch_Threshold": 1000,
+      "Catch_Threshold": 50000,
       "catch_guarant_rate": 1000
     },
     "410484": {
       "id": 410484,
       "name": "小丑兔",
-      "Catch_Threshold": 500,
+      "Catch_Threshold": 50000,
       "catch_guarant_rate": 310
     },
     "410485": {
       "id": 410485,
       "name": "小丑公爵",
-      "Catch_Threshold": 250,
+      "Catch_Threshold": 50000,
       "catch_guarant_rate": 180
     },
     "410486": {
@@ -8146,13 +8146,13 @@
     "410655": {
       "id": 410655,
       "name": "加油海葵",
-      "Catch_Threshold": 1000,
+      "Catch_Threshold": 50000,
       "catch_guarant_rate": 1700
     },
     "410656": {
       "id": 410656,
       "name": "加油蟹",
-      "Catch_Threshold": 500,
+      "Catch_Threshold": 50000,
       "catch_guarant_rate": 525
     },
     "410657": {
@@ -8222,13 +8222,13 @@
     "410673": {
       "id": 410673,
       "name": "烟花团",
-      "Catch_Threshold": 1000,
+      "Catch_Threshold": 50000,
       "catch_guarant_rate": 1000
     },
     "410674": {
       "id": 410674,
       "name": "烟花伯爵",
-      "Catch_Threshold": 250,
+      "Catch_Threshold": 50000,
       "catch_guarant_rate": 180
     },
     "410675": {
@@ -8250,13 +8250,13 @@
     "410679": {
       "id": 410679,
       "name": "咕咕帽",
-      "Catch_Threshold": 1000,
+      "Catch_Threshold": 50000,
       "catch_guarant_rate": 1700
     },
     "410680": {
       "id": 410680,
       "name": "咕德帽帽",
-      "Catch_Threshold": 250,
+      "Catch_Threshold": 50000,
       "catch_guarant_rate": 240
     },
     "410681": {
@@ -8358,13 +8358,13 @@
     "410704": {
       "id": 410704,
       "name": "小鼓象",
-      "Catch_Threshold": 1000,
+      "Catch_Threshold": 50000,
       "catch_guarant_rate": 1700
     },
     "410705": {
       "id": 410705,
       "name": "巨鼓象",
-      "Catch_Threshold": 250,
+      "Catch_Threshold": 50000,
       "catch_guarant_rate": 240
     },
     "410706": {
@@ -8464,13 +8464,13 @@
     "410725": {
       "id": 410725,
       "name": "猴麦仔",
-      "Catch_Threshold": 1000,
+      "Catch_Threshold": 50000,
       "catch_guarant_rate": 1700
     },
     "410726": {
       "id": 410726,
       "name": "音碟吼",
-      "Catch_Threshold": 500,
+      "Catch_Threshold": 50000,
       "catch_guarant_rate": 525
     },
     "410727": {
@@ -8499,13 +8499,13 @@
     "410732": {
       "id": 410732,
       "name": "炫光迪迪",
-      "Catch_Threshold": 1000,
+      "Catch_Threshold": 50000,
       "catch_guarant_rate": 1000
     },
     "410733": {
       "id": 410733,
       "name": "​​霹雳迪迪",
-      "Catch_Threshold": 250,
+      "Catch_Threshold": 50000,
       "catch_guarant_rate": 180
     },
     "410734": {
@@ -8607,7 +8607,7 @@
     "410753": {
       "id": 410753,
       "name": "加油蟹_单只海葵的样子",
-      "Catch_Threshold": 500,
+      "Catch_Threshold": 50000,
       "catch_guarant_rate": 525
     },
     "420001": {

@@ -187,6 +187,10 @@
         {
           "effect": 3002,
           "random_weight": 100
+        },
+        {
+          "effect": 4,
+          "random_weight": 100
         }
       ]
     },
@@ -296,6 +300,10 @@
         },
         {
           "effect": 3002,
+          "random_weight": 100
+        },
+        {
+          "effect": 4,
           "random_weight": 100
         }
       ]
@@ -445,6 +453,10 @@
         },
         {
           "effect": 3,
+          "random_weight": 100
+        },
+        {
+          "effect": 4,
           "random_weight": 100
         }
       ]
@@ -642,6 +654,10 @@
         {
           "effect": 3002,
           "random_weight": 100
+        },
+        {
+          "effect": 4,
+          "random_weight": 100
         }
       ]
     },
@@ -660,6 +676,22 @@
         100
       ],
       "precious_egg_type": 1
+    },
+    "3012003": {
+      "id": 3012003,
+      "pet_id": 3012003,
+      "name": "鸭吉吉",
+      "model_id": 3012001,
+      "weight_low": 5110,
+      "weight_high": 7040,
+      "height_low": 28,
+      "height_high": 39,
+      "hatch_data": 300,
+      "voice_percent": [
+        0,
+        100
+      ],
+      "precious_egg_type": 6
     },
     "3014001": {
       "id": 3014001,
@@ -731,6 +763,10 @@
         },
         {
           "effect": 3,
+          "random_weight": 100
+        },
+        {
+          "effect": 4,
           "random_weight": 100
         }
       ]
@@ -806,6 +842,10 @@
         },
         {
           "effect": 3,
+          "random_weight": 100
+        },
+        {
+          "effect": 4,
           "random_weight": 100
         }
       ]
@@ -945,6 +985,10 @@
         },
         {
           "effect": 3002,
+          "random_weight": 100
+        },
+        {
+          "effect": 4,
           "random_weight": 100
         }
       ]
@@ -1100,6 +1144,10 @@
         },
         {
           "effect": 3,
+          "random_weight": 100
+        },
+        {
+          "effect": 4,
           "random_weight": 100
         }
       ]
@@ -1316,6 +1364,10 @@
         {
           "effect": 1007,
           "random_weight": 100
+        },
+        {
+          "effect": 4,
+          "random_weight": 100
         }
       ]
     },
@@ -1415,6 +1467,10 @@
         {
           "effect": 3,
           "random_weight": 100
+        },
+        {
+          "effect": 4,
+          "random_weight": 100
         }
       ]
     },
@@ -1490,6 +1546,10 @@
         {
           "effect": 3,
           "random_weight": 100
+        },
+        {
+          "effect": 4,
+          "random_weight": 100
         }
       ]
     },
@@ -1559,6 +1619,10 @@
         },
         {
           "effect": 3002,
+          "random_weight": 100
+        },
+        {
+          "effect": 4,
           "random_weight": 100
         }
       ]
@@ -1634,6 +1698,10 @@
         {
           "effect": 3,
           "random_weight": 100
+        },
+        {
+          "effect": 4,
+          "random_weight": 100
         }
       ]
     },
@@ -1707,6 +1775,10 @@
         },
         {
           "effect": 3,
+          "random_weight": 100
+        },
+        {
+          "effect": 4,
           "random_weight": 100
         }
       ]
@@ -1797,6 +1869,10 @@
         },
         {
           "effect": 3,
+          "random_weight": 100
+        },
+        {
+          "effect": 4,
           "random_weight": 100
         }
       ]
@@ -1919,6 +1995,10 @@
         {
           "effect": 3,
           "random_weight": 100
+        },
+        {
+          "effect": 4,
+          "random_weight": 100
         }
       ]
     },
@@ -1992,6 +2072,10 @@
         },
         {
           "effect": 3,
+          "random_weight": 100
+        },
+        {
+          "effect": 4,
           "random_weight": 100
         }
       ]
@@ -2113,6 +2197,10 @@
         {
           "effect": 3002,
           "random_weight": 100
+        },
+        {
+          "effect": 4,
+          "random_weight": 100
         }
       ]
     },
@@ -2211,6 +2299,10 @@
         },
         {
           "effect": 3,
+          "random_weight": 100
+        },
+        {
+          "effect": 4,
           "random_weight": 100
         }
       ]
@@ -2407,6 +2499,10 @@
         {
           "effect": 3002,
           "random_weight": 100
+        },
+        {
+          "effect": 4,
+          "random_weight": 100
         }
       ]
     },
@@ -2601,6 +2697,10 @@
         {
           "effect": 3002,
           "random_weight": 100
+        },
+        {
+          "effect": 4,
+          "random_weight": 100
         }
       ]
     },
@@ -2674,6 +2774,10 @@
         },
         {
           "effect": 3,
+          "random_weight": 100
+        },
+        {
+          "effect": 4,
           "random_weight": 100
         }
       ]
@@ -2820,6 +2924,10 @@
         {
           "effect": 3002,
           "random_weight": 100
+        },
+        {
+          "effect": 4,
+          "random_weight": 100
         }
       ]
     },
@@ -2939,6 +3047,10 @@
         },
         {
           "effect": 3002,
+          "random_weight": 100
+        },
+        {
+          "effect": 4,
           "random_weight": 100
         }
       ]
@@ -3129,6 +3241,10 @@
         {
           "effect": 1007,
           "random_weight": 100
+        },
+        {
+          "effect": 4,
+          "random_weight": 100
         }
       ]
     },
@@ -3296,6 +3412,10 @@
         {
           "effect": 3002,
           "random_weight": 100
+        },
+        {
+          "effect": 4,
+          "random_weight": 100
         }
       ]
     },
@@ -3365,6 +3485,10 @@
         },
         {
           "effect": 3002,
+          "random_weight": 100
+        },
+        {
+          "effect": 4,
           "random_weight": 100
         }
       ]
@@ -3439,6 +3563,10 @@
         },
         {
           "effect": 1007,
+          "random_weight": 100
+        },
+        {
+          "effect": 4,
           "random_weight": 100
         }
       ]
@@ -3526,6 +3654,10 @@
         {
           "effect": 3002,
           "random_weight": 100
+        },
+        {
+          "effect": 4,
+          "random_weight": 100
         }
       ]
     },
@@ -3599,6 +3731,10 @@
         },
         {
           "effect": 3,
+          "random_weight": 100
+        },
+        {
+          "effect": 4,
           "random_weight": 100
         }
       ]
@@ -3739,6 +3875,10 @@
         },
         {
           "effect": 3,
+          "random_weight": 100
+        },
+        {
+          "effect": 4,
           "random_weight": 100
         }
       ]
@@ -3904,6 +4044,10 @@
         {
           "effect": 1007,
           "random_weight": 100
+        },
+        {
+          "effect": 4,
+          "random_weight": 100
         }
       ]
     },
@@ -3977,6 +4121,10 @@
         },
         {
           "effect": 3,
+          "random_weight": 100
+        },
+        {
+          "effect": 4,
           "random_weight": 100
         }
       ]
@@ -4183,6 +4331,10 @@
         },
         {
           "effect": 3002,
+          "random_weight": 100
+        },
+        {
+          "effect": 4,
           "random_weight": 100
         }
       ]
@@ -4536,6 +4688,10 @@
         {
           "effect": 3,
           "random_weight": 100
+        },
+        {
+          "effect": 4,
+          "random_weight": 100
         }
       ]
     },
@@ -4638,6 +4794,10 @@
         {
           "effect": 3002,
           "random_weight": 100
+        },
+        {
+          "effect": 4,
+          "random_weight": 100
         }
       ]
     },
@@ -4731,6 +4891,10 @@
         {
           "effect": 1007,
           "random_weight": 100
+        },
+        {
+          "effect": 4,
+          "random_weight": 100
         }
       ]
     },
@@ -4816,6 +4980,10 @@
         },
         {
           "effect": 3002,
+          "random_weight": 100
+        },
+        {
+          "effect": 4,
           "random_weight": 100
         }
       ]
@@ -4911,6 +5079,10 @@
         },
         {
           "effect": 3002,
+          "random_weight": 100
+        },
+        {
+          "effect": 4,
           "random_weight": 100
         }
       ]
@@ -5063,6 +5235,10 @@
         },
         {
           "effect": 3002,
+          "random_weight": 100
+        },
+        {
+          "effect": 4,
           "random_weight": 100
         }
       ]
@@ -5239,6 +5415,10 @@
         },
         {
           "effect": 3002,
+          "random_weight": 100
+        },
+        {
+          "effect": 4,
           "random_weight": 100
         }
       ]
@@ -5489,6 +5669,10 @@
         {
           "effect": 3,
           "random_weight": 100
+        },
+        {
+          "effect": 4,
+          "random_weight": 100
         }
       ]
     },
@@ -5578,6 +5762,10 @@
         },
         {
           "effect": 3,
+          "random_weight": 100
+        },
+        {
+          "effect": 4,
           "random_weight": 100
         }
       ]
@@ -5692,6 +5880,10 @@
         },
         {
           "effect": 3,
+          "random_weight": 100
+        },
+        {
+          "effect": 4,
           "random_weight": 100
         }
       ]
@@ -5860,6 +6052,10 @@
         {
           "effect": 3002,
           "random_weight": 100
+        },
+        {
+          "effect": 4,
+          "random_weight": 100
         }
       ]
     },
@@ -5991,6 +6187,10 @@
         {
           "effect": 3,
           "random_weight": 100
+        },
+        {
+          "effect": 4,
+          "random_weight": 100
         }
       ]
     },
@@ -6077,6 +6277,10 @@
         {
           "effect": 3002,
           "random_weight": 100
+        },
+        {
+          "effect": 4,
+          "random_weight": 100
         }
       ]
     },
@@ -6162,6 +6366,10 @@
         },
         {
           "effect": 3002,
+          "random_weight": 100
+        },
+        {
+          "effect": 4,
           "random_weight": 100
         }
       ]
@@ -6665,6 +6873,10 @@
         {
           "effect": 3002,
           "random_weight": 100
+        },
+        {
+          "effect": 4,
+          "random_weight": 100
         }
       ]
     },
@@ -6783,6 +6995,10 @@
         {
           "effect": 1007,
           "random_weight": 100
+        },
+        {
+          "effect": 4,
+          "random_weight": 100
         }
       ]
     },
@@ -6865,6 +7081,10 @@
         },
         {
           "effect": 1007,
+          "random_weight": 100
+        },
+        {
+          "effect": 4,
           "random_weight": 100
         }
       ]
@@ -7169,6 +7389,10 @@
         {
           "effect": 3,
           "random_weight": 100
+        },
+        {
+          "effect": 4,
+          "random_weight": 100
         }
       ]
     },
@@ -7242,6 +7466,10 @@
         },
         {
           "effect": 3,
+          "random_weight": 100
+        },
+        {
+          "effect": 4,
           "random_weight": 100
         }
       ]
@@ -7424,6 +7652,10 @@
         {
           "effect": 3002,
           "random_weight": 100
+        },
+        {
+          "effect": 4,
+          "random_weight": 100
         }
       ]
     },
@@ -7533,6 +7765,10 @@
         },
         {
           "effect": 3002,
+          "random_weight": 100
+        },
+        {
+          "effect": 4,
           "random_weight": 100
         }
       ]
@@ -7664,6 +7900,10 @@
         },
         {
           "effect": 3,
+          "random_weight": 100
+        },
+        {
+          "effect": 4,
           "random_weight": 100
         }
       ]
@@ -7816,6 +8056,10 @@
         {
           "effect": 3002,
           "random_weight": 100
+        },
+        {
+          "effect": 4,
+          "random_weight": 100
         }
       ]
     },
@@ -7890,6 +8134,10 @@
         {
           "effect": 3,
           "random_weight": 100
+        },
+        {
+          "effect": 4,
+          "random_weight": 100
         }
       ]
     },
@@ -7963,6 +8211,10 @@
         },
         {
           "effect": 1007,
+          "random_weight": 100
+        },
+        {
+          "effect": 4,
           "random_weight": 100
         }
       ]
@@ -8619,6 +8871,10 @@
         {
           "effect": 3002,
           "random_weight": 100
+        },
+        {
+          "effect": 4,
+          "random_weight": 100
         }
       ]
     },
@@ -8855,6 +9111,10 @@
         {
           "effect": 3,
           "random_weight": 100
+        },
+        {
+          "effect": 4,
+          "random_weight": 100
         }
       ]
     },
@@ -9030,6 +9290,10 @@
         {
           "effect": 3002,
           "random_weight": 100
+        },
+        {
+          "effect": 4,
+          "random_weight": 100
         }
       ]
     },
@@ -9182,6 +9446,10 @@
         {
           "effect": 3002,
           "random_weight": 100
+        },
+        {
+          "effect": 4,
+          "random_weight": 100
         }
       ]
     },
@@ -9283,6 +9551,10 @@
         },
         {
           "effect": 3002,
+          "random_weight": 100
+        },
+        {
+          "effect": 4,
           "random_weight": 100
         }
       ]
@@ -9396,6 +9668,10 @@
         },
         {
           "effect": 3,
+          "random_weight": 100
+        },
+        {
+          "effect": 4,
           "random_weight": 100
         }
       ]
@@ -9549,6 +9825,10 @@
         },
         {
           "effect": 3002,
+          "random_weight": 100
+        },
+        {
+          "effect": 4,
           "random_weight": 100
         }
       ]
@@ -9734,6 +10014,10 @@
         {
           "effect": 1007,
           "random_weight": 100
+        },
+        {
+          "effect": 4,
+          "random_weight": 100
         }
       ]
     },
@@ -9870,6 +10154,10 @@
         {
           "effect": 3002,
           "random_weight": 100
+        },
+        {
+          "effect": 4,
+          "random_weight": 100
         }
       ]
     },
@@ -9939,6 +10227,10 @@
         },
         {
           "effect": 3002,
+          "random_weight": 100
+        },
+        {
+          "effect": 4,
           "random_weight": 100
         }
       ]
@@ -10192,6 +10484,10 @@
         {
           "effect": 3,
           "random_weight": 100
+        },
+        {
+          "effect": 4,
+          "random_weight": 100
         }
       ]
     },
@@ -10398,6 +10694,10 @@
         {
           "effect": 3002,
           "random_weight": 100
+        },
+        {
+          "effect": 4,
+          "random_weight": 100
         }
       ]
     },
@@ -10507,6 +10807,10 @@
         },
         {
           "effect": 3002,
+          "random_weight": 100
+        },
+        {
+          "effect": 4,
           "random_weight": 100
         }
       ]
@@ -10793,6 +11097,10 @@
         {
           "effect": 3002,
           "random_weight": 100
+        },
+        {
+          "effect": 4,
+          "random_weight": 100
         }
       ]
     },
@@ -10970,6 +11278,10 @@
         },
         {
           "effect": 3002,
+          "random_weight": 100
+        },
+        {
+          "effect": 4,
           "random_weight": 100
         }
       ]
@@ -11151,6 +11463,10 @@
         },
         {
           "effect": 3,
+          "random_weight": 100
+        },
+        {
+          "effect": 4,
           "random_weight": 100
         }
       ]
@@ -11621,6 +11937,10 @@
         {
           "effect": 3,
           "random_weight": 100
+        },
+        {
+          "effect": 4,
+          "random_weight": 100
         }
       ]
     },
@@ -11822,6 +12142,10 @@
         {
           "effect": 3002,
           "random_weight": 100
+        },
+        {
+          "effect": 4,
+          "random_weight": 100
         }
       ]
     },
@@ -11891,6 +12215,10 @@
         },
         {
           "effect": 3002,
+          "random_weight": 100
+        },
+        {
+          "effect": 4,
           "random_weight": 100
         }
       ]
@@ -12020,6 +12348,10 @@
         },
         {
           "effect": 3002,
+          "random_weight": 100
+        },
+        {
+          "effect": 4,
           "random_weight": 100
         }
       ]
@@ -12177,6 +12509,10 @@
         {
           "effect": 3,
           "random_weight": 100
+        },
+        {
+          "effect": 4,
+          "random_weight": 100
         }
       ]
     },
@@ -12282,6 +12618,10 @@
         },
         {
           "effect": 3,
+          "random_weight": 100
+        },
+        {
+          "effect": 4,
           "random_weight": 100
         }
       ]
@@ -12394,6 +12734,10 @@
         {
           "effect": 3002,
           "random_weight": 100
+        },
+        {
+          "effect": 4,
+          "random_weight": 100
         }
       ]
     },
@@ -12494,6 +12838,10 @@
         },
         {
           "effect": 3002,
+          "random_weight": 100
+        },
+        {
+          "effect": 4,
           "random_weight": 100
         }
       ]
@@ -12651,6 +12999,10 @@
         {
           "effect": 3,
           "random_weight": 100
+        },
+        {
+          "effect": 4,
+          "random_weight": 100
         }
       ]
     },
@@ -12773,6 +13125,10 @@
         {
           "effect": 3002,
           "random_weight": 100
+        },
+        {
+          "effect": 4,
+          "random_weight": 100
         }
       ]
     },
@@ -12863,6 +13219,10 @@
         },
         {
           "effect": 3,
+          "random_weight": 100
+        },
+        {
+          "effect": 4,
           "random_weight": 100
         }
       ]
@@ -13057,6 +13417,10 @@
         },
         {
           "effect": 3002,
+          "random_weight": 100
+        },
+        {
+          "effect": 4,
           "random_weight": 100
         }
       ]
@@ -13512,6 +13876,10 @@
         {
           "effect": 1007,
           "random_weight": 100
+        },
+        {
+          "effect": 4,
+          "random_weight": 100
         }
       ]
     },
@@ -13714,6 +14082,10 @@
         {
           "effect": 3,
           "random_weight": 100
+        },
+        {
+          "effect": 4,
+          "random_weight": 100
         }
       ]
     },
@@ -13787,6 +14159,10 @@
         },
         {
           "effect": 3,
+          "random_weight": 100
+        },
+        {
+          "effect": 4,
           "random_weight": 100
         }
       ]
@@ -13978,6 +14354,10 @@
         },
         {
           "effect": 3002,
+          "random_weight": 100
+        },
+        {
+          "effect": 4,
           "random_weight": 100
         }
       ]
@@ -14450,6 +14830,10 @@
         },
         {
           "effect": 3002,
+          "random_weight": 100
+        },
+        {
+          "effect": 4,
           "random_weight": 100
         }
       ]

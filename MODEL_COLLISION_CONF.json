@@ -9436,34 +9436,6 @@
         }
       ]
     },
-    "10362": {
-      "id": 10362,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            32000,
-            58000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
     "10363": {
       "id": 10363,
       "collision_info": [
@@ -10892,90 +10864,6 @@
         }
       ]
     },
-    "10414": {
-      "id": 10414,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            32000,
-            58000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
-    "10415": {
-      "id": 10415,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            32000,
-            58000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
-    "10416": {
-      "id": 10416,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            32000,
-            58000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
     "10417": {
       "id": 10417,
       "collision_info": [
@@ -11062,34 +10950,6 @@
     },
     "10420": {
       "id": 10420,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            32000,
-            58000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
-    "10422": {
-      "id": 10422,
       "collision_info": [
         {
           "comp_name": "HitedComponent",
@@ -20524,34 +20384,6 @@
         }
       ]
     },
-    "12382": {
-      "id": 12382,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            32000,
-            58000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
     "12383": {
       "id": 12383,
       "collision_info": [
@@ -21170,34 +21002,6 @@
     },
     "12405": {
       "id": 12405,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            32000,
-            58000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
-    "12406": {
-      "id": 12406,
       "collision_info": [
         {
           "comp_name": "HitedComponent",
@@ -21980,90 +21784,6 @@
         }
       ]
     },
-    "12434": {
-      "id": 12434,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            32000,
-            58000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
-    "12435": {
-      "id": 12435,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            32000,
-            58000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
-    "12436": {
-      "id": 12436,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            32000,
-            58000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
     "12437": {
       "id": 12437,
       "collision_info": [
@@ -22094,34 +21814,6 @@
     },
     "12438": {
       "id": 12438,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            32000,
-            58000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
-    "12440": {
-      "id": 12440,
       "collision_info": [
         {
           "comp_name": "HitedComponent",
@@ -32250,7 +31942,7 @@
           "type_name": "Sphere",
           "is_hit_box": true,
           "size_param": [
-            110000
+            80000
           ],
           "init_location": [
             0,
@@ -41725,6 +41417,34 @@
         }
       ]
     },
+    "14655": {
+      "id": 14655,
+      "collision_info": [
+        {
+          "comp_name": "HitedComponent",
+          "type_name": "Capsule",
+          "size_param": [
+            32000,
+            58000
+          ],
+          "init_location": [
+            0,
+            0,
+            0
+          ],
+          "init_rotation": [
+            0,
+            0,
+            0
+          ],
+          "init_scale": [
+            1000,
+            1000,
+            1000
+          ]
+        }
+      ]
+    },
     "14656": {
       "id": 14656,
       "collision_info": [
@@ -42677,34 +42397,6 @@
         }
       ]
     },
-    "14690": {
-      "id": 14690,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            32000,
-            58000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
     "14691": {
       "id": 14691,
       "collision_info": [
@@ -42791,34 +42483,6 @@
     },
     "14694": {
       "id": 14694,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            32000,
-            58000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
-    "14695": {
-      "id": 14695,
       "collision_info": [
         {
           "comp_name": "HitedComponent",
@@ -44469,622 +44133,6 @@
         }
       ]
     },
-    "14754": {
-      "id": 14754,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            32000,
-            58000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
-    "14755": {
-      "id": 14755,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            32000,
-            58000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
-    "14756": {
-      "id": 14756,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            32000,
-            58000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
-    "14758": {
-      "id": 14758,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            32000,
-            58000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
-    "14759": {
-      "id": 14759,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            32000,
-            58000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
-    "14760": {
-      "id": 14760,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            32000,
-            58000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
-    "14764": {
-      "id": 14764,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            32000,
-            58000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
-    "14765": {
-      "id": 14765,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            32000,
-            58000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
-    "14766": {
-      "id": 14766,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            32000,
-            58000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
-    "14767": {
-      "id": 14767,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            32000,
-            58000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
-    "14768": {
-      "id": 14768,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            32000,
-            58000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
-    "14775": {
-      "id": 14775,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            32000,
-            58000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
-    "14776": {
-      "id": 14776,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            32000,
-            58000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
-    "14777": {
-      "id": 14777,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            32000,
-            58000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
-    "14778": {
-      "id": 14778,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            32000,
-            58000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
-    "14779": {
-      "id": 14779,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            32000,
-            58000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
-    "14780": {
-      "id": 14780,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            32000,
-            58000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
-    "14781": {
-      "id": 14781,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            32000,
-            58000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
-    "14782": {
-      "id": 14782,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            32000,
-            58000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
-    "14783": {
-      "id": 14783,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            32000,
-            58000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
-    "14784": {
-      "id": 14784,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            32000,
-            58000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
-    "14799": {
-      "id": 14799,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            32000,
-            58000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
     "15001": {
       "id": 15001,
       "collision_info": [
@@ -46106,14 +45154,14 @@
           "type_name": "Box",
           "is_hit_box": true,
           "size_param": [
-            400000,
+            440000,
             70000,
-            40000
+            20000
           ],
           "init_location": [
             86,
-            312000,
-            65260
+            362000,
+            35260
           ],
           "init_rotation": [
             0,
@@ -46131,14 +45179,14 @@
           "type_name": "Box",
           "is_hit_box": true,
           "size_param": [
-            230000,
+            450000,
             65000,
             100000
           ],
           "init_location": [
-            10244,
-            255763,
-            50000
+            84559,
+            338508,
+            15259
           ],
           "init_rotation": [
             0,
@@ -46252,14 +45300,14 @@
           "type_name": "Box",
           "is_hit_box": true,
           "size_param": [
-            230000,
+            450000,
             65000,
             100000
           ],
           "init_location": [
-            -23000,
-            255763,
-            50000
+            -84560,
+            338500,
+            15260
           ],
           "init_rotation": [
             0,
@@ -48349,7 +47397,7 @@
           "type_name": "Capsule",
           "is_hit_box": true,
           "size_param": [
-            170000,
+            135000,
             300000
           ],
           "init_location": [
@@ -49023,90 +48071,6 @@
     },
     "15289": {
       "id": 15289,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            32000,
-            58000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
-    "15291": {
-      "id": 15291,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            32000,
-            58000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
-    "15292": {
-      "id": 15292,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            32000,
-            58000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
-    "15908": {
-      "id": 15908,
       "collision_info": [
         {
           "comp_name": "HitedComponent",
@@ -50524,14 +49488,14 @@
           "type_name": "Box",
           "is_hit_box": true,
           "size_param": [
-            400000,
+            440000,
             70000,
-            40000
+            20000
           ],
           "init_location": [
             86,
-            312000,
-            65260
+            362000,
+            35260
           ],
           "init_rotation": [
             0,
@@ -50549,14 +49513,14 @@
           "type_name": "Box",
           "is_hit_box": true,
           "size_param": [
-            230000,
+            450000,
             65000,
             100000
           ],
           "init_location": [
-            10244,
-            255763,
-            50000
+            84559,
+            338508,
+            15259
           ],
           "init_rotation": [
             0,
@@ -50670,14 +49634,14 @@
           "type_name": "Box",
           "is_hit_box": true,
           "size_param": [
-            230000,
+            450000,
             65000,
             100000
           ],
           "init_location": [
-            -23000,
-            255763,
-            50000
+            -84560,
+            338500,
+            15260
           ],
           "init_rotation": [
             0,
@@ -51369,7 +50333,7 @@
           "type_name": "Capsule",
           "is_hit_box": true,
           "size_param": [
-            170000,
+            135000,
             300000
           ],
           "init_location": [
@@ -52539,30 +51503,6 @@
             1000,
             1000
           ]
-        },
-        {
-          "comp_name": "CollisionCylinder",
-          "type_name": "Capsule",
-          "is_hit_box": true,
-          "size_param": [
-            1,
-            100000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
         }
       ]
     },
@@ -52965,6 +51905,29 @@
             0,
             0,
             50000
+          ],
+          "init_rotation": [
+            0,
+            0,
+            0
+          ],
+          "init_scale": [
+            1000,
+            1000,
+            1000
+          ]
+        },
+        {
+          "comp_name": "HitedComponent",
+          "type_name": "Capsule",
+          "size_param": [
+            32000,
+            58000
+          ],
+          "init_location": [
+            0,
+            0,
+            0
           ],
           "init_rotation": [
             0,
@@ -54181,96 +53144,6 @@
         }
       ]
     },
-    "21031": {
-      "id": 21031,
-      "collision_info": [
-        {
-          "comp_name": "HitComp",
-          "type_name": "Box",
-          "is_hit_box": true,
-          "size_param": [
-            75000,
-            75000,
-            75000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
-    "21032": {
-      "id": 21032,
-      "collision_info": [
-        {
-          "comp_name": "HitComp",
-          "type_name": "Box",
-          "is_hit_box": true,
-          "size_param": [
-            75000,
-            75000,
-            75000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            400,
-            400,
-            400
-          ]
-        }
-      ]
-    },
-    "21033": {
-      "id": 21033,
-      "collision_info": [
-        {
-          "comp_name": "HitComp",
-          "type_name": "Box",
-          "is_hit_box": true,
-          "size_param": [
-            75000,
-            75000,
-            75000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
     "70002": {
       "id": 70002,
       "collision_info": [
@@ -54387,174 +53260,6 @@
           "size_param": [
             32000,
             58000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
-    "1100001": {
-      "id": 1100001,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            60000,
-            110000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
-    "1100002": {
-      "id": 1100002,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            60000,
-            90000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
-    "1100003": {
-      "id": 1100003,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            60000,
-            90000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
-    "1100009": {
-      "id": 1100009,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            60000,
-            110000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
-    "1100010": {
-      "id": 1100010,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            60000,
-            90000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
-    "1100011": {
-      "id": 1100011,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            60000,
-            90000
           ],
           "init_location": [
             0,
@@ -55006,34 +53711,6 @@
     },
     "3010001": {
       "id": 3010001,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            32000,
-            58000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
-    "3010002": {
-      "id": 3010002,
       "collision_info": [
         {
           "comp_name": "HitedComponent",
@@ -55676,64 +54353,8 @@
         }
       ]
     },
-    "3062002": {
-      "id": 3062002,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            32000,
-            58000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
     "3064001": {
       "id": 3064001,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            32000,
-            58000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
-    "3064002": {
-      "id": 3064002,
       "collision_info": [
         {
           "comp_name": "HitedComponent",
@@ -55902,34 +54523,6 @@
     },
     "3075001": {
       "id": 3075001,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            32000,
-            58000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
-    "3075002": {
-      "id": 3075002,
       "collision_info": [
         {
           "comp_name": "HitedComponent",
@@ -56602,34 +55195,6 @@
     },
     "3142001": {
       "id": 3142001,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            32000,
-            58000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
-    "3142002": {
-      "id": 3142002,
       "collision_info": [
         {
           "comp_name": "HitedComponent",
@@ -57664,34 +56229,6 @@
         }
       ]
     },
-    "3227002": {
-      "id": 3227002,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            32000,
-            58000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
     "3230001": {
       "id": 3230001,
       "collision_info": [
@@ -57722,34 +56259,6 @@
     },
     "3234001": {
       "id": 3234001,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            32000,
-            58000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
-    "3234002": {
-      "id": 3234002,
       "collision_info": [
         {
           "comp_name": "HitedComponent",
@@ -58954,34 +57463,6 @@
     },
     "3367001": {
       "id": 3367001,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            32000,
-            58000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
-    "3367002": {
-      "id": 3367002,
       "collision_info": [
         {
           "comp_name": "HitedComponent",
@@ -62364,14 +60845,14 @@
           "type_name": "Box",
           "is_hit_box": true,
           "size_param": [
-            400000,
+            440000,
             70000,
-            40000
+            20000
           ],
           "init_location": [
             86,
-            312000,
-            65260
+            362000,
+            35260
           ],
           "init_rotation": [
             0,
@@ -62389,14 +60870,14 @@
           "type_name": "Box",
           "is_hit_box": true,
           "size_param": [
-            230000,
+            450000,
             65000,
             100000
           ],
           "init_location": [
-            10244,
-            255763,
-            50000
+            84559,
+            338508,
+            15259
           ],
           "init_rotation": [
             0,
@@ -62510,14 +60991,14 @@
           "type_name": "Box",
           "is_hit_box": true,
           "size_param": [
-            230000,
+            450000,
             65000,
             100000
           ],
           "init_location": [
-            -23000,
-            255763,
-            50000
+            -84560,
+            338500,
+            15260
           ],
           "init_rotation": [
             0,
@@ -62992,34 +61473,6 @@
         }
       ]
     },
-    "3487002": {
-      "id": 3487002,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            32000,
-            58000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
     "3490001": {
       "id": 3490001,
       "collision_info": [
@@ -63134,34 +61587,6 @@
     },
     "3499001": {
       "id": 3499001,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            32000,
-            58000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
-    "3499002": {
-      "id": 3499002,
       "collision_info": [
         {
           "comp_name": "HitedComponent",
@@ -63358,34 +61783,6 @@
     },
     "3531001": {
       "id": 3531001,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            32000,
-            58000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
-    "3531002": {
-      "id": 3531002,
       "collision_info": [
         {
           "comp_name": "HitedComponent",
@@ -63694,34 +62091,6 @@
     },
     "3572001": {
       "id": 3572001,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            32000,
-            58000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
-    "3572002": {
-      "id": 3572002,
       "collision_info": [
         {
           "comp_name": "HitedComponent",
@@ -64196,148 +62565,8 @@
         }
       ]
     },
-    "3659001": {
-      "id": 3659001,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            32000,
-            58000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
-    "3659002": {
-      "id": 3659002,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            32000,
-            58000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
     "3677001": {
       "id": 3677001,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            32000,
-            58000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
-    "3677002": {
-      "id": 3677002,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            32000,
-            58000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
-    "3683001": {
-      "id": 3683001,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            32000,
-            58000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
-    "3683002": {
-      "id": 3683002,
       "collision_info": [
         {
           "comp_name": "HitedComponent",
@@ -64420,232 +62649,8 @@
         }
       ]
     },
-    "3708001": {
-      "id": 3708001,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            32000,
-            58000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
-    "3708002": {
-      "id": 3708002,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            32000,
-            58000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
-    "3729001": {
-      "id": 3729001,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            32000,
-            58000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
-    "3729002": {
-      "id": 3729002,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            32000,
-            58000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
-    "3733001": {
-      "id": 3733001,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            32000,
-            58000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
-    "3736001": {
-      "id": 3736001,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            32000,
-            58000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
-    "3736002": {
-      "id": 3736002,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            32000,
-            58000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
     "3738001": {
       "id": 3738001,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            32000,
-            58000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
-    "3740001": {
-      "id": 3740001,
       "collision_info": [
         {
           "comp_name": "HitedComponent",
@@ -64730,34 +62735,6 @@
     },
     "3744002": {
       "id": 3744002,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            32000,
-            58000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
-    "3777001": {
-      "id": 3777001,
       "collision_info": [
         {
           "comp_name": "HitedComponent",
@@ -66048,118 +64025,6 @@
     },
     "3900081": {
       "id": 3900081,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            32000,
-            58000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
-    "4100000": {
-      "id": 4100000,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            32000,
-            58000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
-    "4100001": {
-      "id": 4100001,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            32000,
-            58000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
-    "4100002": {
-      "id": 4100002,
-      "collision_info": [
-        {
-          "comp_name": "HitedComponent",
-          "type_name": "Capsule",
-          "size_param": [
-            32000,
-            58000
-          ],
-          "init_location": [
-            0,
-            0,
-            0
-          ],
-          "init_rotation": [
-            0,
-            0,
-            0
-          ],
-          "init_scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
-    "4100004": {
-      "id": 4100004,
       "collision_info": [
         {
           "comp_name": "HitedComponent",

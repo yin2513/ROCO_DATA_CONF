@@ -360,6 +360,21 @@
         }
       ]
     },
+    "3042": {
+      "id": 3042,
+      "blackboard_override": [
+        {
+          "identifier": 4980736,
+          "blackboard_name": "[BB_PreAttack_Called_PartnerSheep]_Skill",
+          "data": 3012
+        },
+        {
+          "identifier": 4980736,
+          "blackboard_name": "[BB_PreAttack_Called_Suit_Kaluoer]_Skill",
+          "data": 3012
+        }
+      ]
+    },
     "3050": {
       "id": 3050,
       "blackboard_override": [
@@ -490,6 +505,31 @@
           "additional_para": [
             100
           ]
+        },
+        {
+          "identifier": 4980736,
+          "blackboard_name": "[BB_PreAttack_Called_PartnerSheep]_Skill",
+          "data": 3003
+        },
+        {
+          "identifier": 4980736,
+          "blackboard_name": "[BB_PreAttack_Called_Suit_Kaluoer]_Skill",
+          "data": 3003
+        }
+      ]
+    },
+    "3099": {
+      "id": 3099,
+      "blackboard_override": [
+        {
+          "identifier": 4980736,
+          "blackboard_name": "[BB_PreAttack_Called_PartnerSheep]_Skill",
+          "data": 3003
+        },
+        {
+          "identifier": 4980736,
+          "blackboard_name": "[BB_PreAttack_Called_Suit_Kaluoer]_Skill",
+          "data": 3003
         }
       ]
     },
@@ -503,6 +543,16 @@
           "additional_para": [
             100
           ]
+        },
+        {
+          "identifier": 4980736,
+          "blackboard_name": "[BB_PreAttack_Called_PartnerSheep]_Skill",
+          "data": 3003
+        },
+        {
+          "identifier": 4980736,
+          "blackboard_name": "[BB_PreAttack_Called_Suit_Kaluoer]_Skill",
+          "data": 3066
         }
       ]
     },
@@ -604,6 +654,15 @@
         }
       ]
     },
+    "3118": {
+      "id": 3118,
+      "blackboard_override": [
+        {
+          "identifier": 655361,
+          "blackboard_name": "[BB_Proud]_skip"
+        }
+      ]
+    },
     "3119": {
       "id": 3119,
       "blackboard_override": [
@@ -656,6 +715,24 @@
           "additional_para": [
             100
           ]
+        }
+      ]
+    },
+    "3128": {
+      "id": 3128,
+      "blackboard_override": [
+        {
+          "identifier": 11927552,
+          "blackboard_name": "[BB_Roar]_skip"
+        }
+      ]
+    },
+    "3129": {
+      "id": 3129,
+      "blackboard_override": [
+        {
+          "identifier": 11927552,
+          "blackboard_name": "[BB_Roar]_skip"
         }
       ]
     },
@@ -770,7 +847,7 @@
       "id": 3193,
       "blackboard_override": [
         {
-          "identifier": 12189696,
+          "identifier": 12189697,
           "blackboard_name": "[BB_Roar]_skip",
           "data": 1
         }
@@ -979,6 +1056,51 @@
           "identifier": 12255232,
           "blackboard_name": "[BB_Roar]_skip",
           "data": 1
+        }
+      ]
+    },
+    "3294": {
+      "id": 3294,
+      "blackboard_override": [
+        {
+          "identifier": 4980736,
+          "blackboard_name": "[BB_PreAttack_Called_PartnerSheep]_Skill",
+          "data": 3012
+        },
+        {
+          "identifier": 4980736,
+          "blackboard_name": "[BB_PreAttack_Called_Suit_Kaluoer]_Skill",
+          "data": 3012
+        }
+      ]
+    },
+    "3295": {
+      "id": 3295,
+      "blackboard_override": [
+        {
+          "identifier": 4980736,
+          "blackboard_name": "[BB_PreAttack_Called_PartnerSheep]_Skill",
+          "data": 3012
+        },
+        {
+          "identifier": 4980736,
+          "blackboard_name": "[BB_PreAttack_Called_Suit_Kaluoer]_Skill",
+          "data": 3012
+        }
+      ]
+    },
+    "3296": {
+      "id": 3296,
+      "blackboard_override": [
+        {
+          "identifier": 4980736,
+          "blackboard_name": "[BB_PreAttack_Called_PartnerSheep]_Skill",
+          "data": 3012
+        },
+        {
+          "identifier": 4980736,
+          "blackboard_name": "[BB_PreAttack_Called_Suit_Kaluoer]_Skill",
+          "data": 3012
         }
       ]
     },
@@ -1469,6 +1591,51 @@
           "identifier": 4980736,
           "blackboard_name": "[BB_Bird_L_FlyToPlayerFront]_IsFinish",
           "data": 1
+        }
+      ]
+    },
+    "3487": {
+      "id": 3487,
+      "blackboard_override": [
+        {
+          "identifier": 1703936,
+          "blackboard_name": "[BB_GroupPatrol]_GroupID",
+          "data": 230036
+        },
+        {
+          "identifier": 1703937,
+          "blackboard_name": "[BB_GroupPatrol]_GroupID",
+          "data": 230033
+        }
+      ]
+    },
+    "3488": {
+      "id": 3488,
+      "blackboard_override": [
+        {
+          "identifier": 1703936,
+          "blackboard_name": "[BB_GroupPatrol]_GroupID",
+          "data": 230036
+        },
+        {
+          "identifier": 1703937,
+          "blackboard_name": "[BB_GroupPatrol]_GroupID",
+          "data": 230033
+        }
+      ]
+    },
+    "3489": {
+      "id": 3489,
+      "blackboard_override": [
+        {
+          "identifier": 1703936,
+          "blackboard_name": "[BB_GroupPatrol]_GroupID",
+          "data": 230036
+        },
+        {
+          "identifier": 1703937,
+          "blackboard_name": "[BB_GroupPatrol]_GroupID",
+          "data": 230033
         }
       ]
     },
@@ -1980,6 +2147,16 @@
           "identifier": 1441792,
           "blackboard_name": "[BB_Backing]_MovType",
           "data": 2
+        },
+        {
+          "identifier": 5242880,
+          "blackboard_name": "[BB_PreAttack_Called_PartnerSheep]_Skill",
+          "data": 3011
+        },
+        {
+          "identifier": 5242880,
+          "blackboard_name": "[BB_PreAttack_Called_Suit_Kaluoer]_Skill",
+          "data": 3011
         }
       ]
     },
@@ -2006,6 +2183,16 @@
     "3529": {
       "id": 3529,
       "blackboard_override": [
+        {
+          "identifier": 4980736,
+          "blackboard_name": "[BB_PreAttack_Called_PartnerSheep]_Skill",
+          "data": 3010
+        },
+        {
+          "identifier": 4980736,
+          "blackboard_name": "[BB_PreAttack_Called_Suit_Kaluoer]_Skill",
+          "data": 3010
+        },
         {
           "identifier": 12058627,
           "blackboard_name": "[BB_Approach]_Skill",
@@ -2040,6 +2227,11 @@
         {
           "identifier": 12058628,
           "blackboard_name": "[BB_Approach]_Skill",
+          "data": 3064
+        },
+        {
+          "identifier": 4980736,
+          "blackboard_name": "[BB_PreAttack_Called_Suit_Kaluoer]_Skill",
           "data": 3064
         }
       ]
@@ -2382,6 +2574,32 @@
         }
       ]
     },
+    "3572": {
+      "id": 3572,
+      "blackboard_override": [
+        {
+          "identifier": 12058627,
+          "blackboard_name": "[BB_Sleep]_Duration",
+          "data": 1200,
+          "additional_para": [
+            100
+          ]
+        }
+      ]
+    },
+    "3573": {
+      "id": 3573,
+      "blackboard_override": [
+        {
+          "identifier": 12058627,
+          "blackboard_name": "[BB_Sleep]_Duration",
+          "data": 1200,
+          "additional_para": [
+            100
+          ]
+        }
+      ]
+    },
     "3582": {
       "id": 3582,
       "blackboard_override": [
@@ -2459,6 +2677,36 @@
           "identifier": 12124162,
           "blackboard_name": "[BB_FearAndFind]_skip",
           "data": 1
+        }
+      ]
+    },
+    "3683": {
+      "id": 3683,
+      "blackboard_override": [
+        {
+          "identifier": 1703936,
+          "blackboard_name": "[BB_GroupPatrol]_GroupID",
+          "data": 230036
+        },
+        {
+          "identifier": 1703937,
+          "blackboard_name": "[BB_GroupPatrol]_GroupID",
+          "data": 230033
+        }
+      ]
+    },
+    "3684": {
+      "id": 3684,
+      "blackboard_override": [
+        {
+          "identifier": 1703936,
+          "blackboard_name": "[BB_GroupPatrol]_GroupID",
+          "data": 230036
+        },
+        {
+          "identifier": 1703937,
+          "blackboard_name": "[BB_GroupPatrol]_GroupID",
+          "data": 230033
         }
       ]
     },
@@ -2884,16 +3132,6 @@
           "identifier": 327680,
           "blackboard_name": "[BB_Backing]_MovType",
           "data": 1
-        }
-      ]
-    },
-    "2600123": {
-      "id": 2600123,
-      "blackboard_override": [
-        {
-          "identifier": 12058626,
-          "blackboard_name": "[BB_PlayAnimationByName]_FirstAnimationName",
-          "addition_str": "Relax"
         }
       ]
     },

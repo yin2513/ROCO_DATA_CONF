@@ -84,6 +84,11 @@
       "id": 1016,
       "res_name": "Photo_week_17",
       "action": "Anger1"
+    },
+    "1025": {
+      "id": 1025,
+      "res_name": "Photo_week_26",
+      "action": "Think"
     }
   },
   "LocalizationStrings": {}

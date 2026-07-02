@@ -1,5 +1,28 @@
 {
   "RocoDataRows": {
+    "30000": {
+      "id": 30000,
+      "socket_info": [
+        {
+          "socket_name": "Seat_npc_1",
+          "location": [
+            0,
+            -19764,
+            55376
+          ],
+          "rotation": [
+            0,
+            899,
+            0
+          ],
+          "scale": [
+            1000,
+            1000,
+            1000
+          ]
+        }
+      ]
+    },
     "30001": {
       "id": 30001,
       "socket_info": [
@@ -20,12 +43,120 @@
             1000,
             1000
           ]
+        },
+        {
+          "socket_name": "Seat_npc_2",
+          "location": [
+            110023,
+            -11999,
+            59641
+          ],
+          "rotation": [
+            0,
+            899,
+            0
+          ],
+          "scale": [
+            1000,
+            1000,
+            1000
+          ]
+        },
+        {
+          "socket_name": "Seat_npc_3",
+          "location": [
+            -109976,
+            -12000,
+            59641
+          ],
+          "rotation": [
+            0,
+            899,
+            0
+          ],
+          "scale": [
+            1000,
+            1000,
+            1000
+          ]
         }
       ]
     },
     "30002": {
       "id": 30002,
       "socket_info": [
+        {
+          "socket_name": "Seat_npc_1",
+          "location": [
+            0,
+            240000,
+            54361
+          ],
+          "rotation": [
+            0,
+            -900,
+            0
+          ],
+          "scale": [
+            1000,
+            1000,
+            1000
+          ]
+        },
+        {
+          "socket_name": "Seat_npc_2",
+          "location": [
+            240000,
+            0,
+            54244
+          ],
+          "rotation": [
+            0,
+            -1799,
+            0
+          ],
+          "scale": [
+            1000,
+            1000,
+            1000
+          ]
+        },
+        {
+          "socket_name": "Seat_npc_3",
+          "location": [
+            0,
+            -240000,
+            54428
+          ],
+          "rotation": [
+            0,
+            899,
+            0
+          ],
+          "scale": [
+            1000,
+            1000,
+            1000
+          ]
+        },
+        {
+          "socket_name": "Seat_npc_4",
+          "location": [
+            -240000,
+            0,
+            54379
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "scale": [
+            1000,
+            1000,
+            1000
+          ]
+        },
         {
           "socket_name": "Seat_npc_5",
           "location": [
@@ -52,7 +183,7 @@
         {
           "socket_name": "Seat_npc_1",
           "location": [
-            -589,
+            -20589,
             0,
             46533
           ],
@@ -69,19 +200,19 @@
         }
       ]
     },
-    "30005": {
-      "id": 30005,
+    "30004": {
+      "id": 30004,
       "socket_info": [
         {
-          "socket_name": "Seat_npc_5",
+          "socket_name": "Seat_npc_1",
           "location": [
-            73000,
-            0,
-            102000
+            7939,
+            -22701,
+            70423
           ],
           "rotation": [
             0,
-            -900,
+            -364,
             0
           ],
           "scale": [
@@ -91,38 +222,15 @@
           ]
         },
         {
-          "socket_name": "Seat_npc_6",
+          "socket_name": "Seat_npc_2",
           "location": [
-            -107000,
-            0,
-            102000
+            -49562,
+            32353,
+            13478
           ],
           "rotation": [
             0,
-            -900,
-            0
-          ],
-          "scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
-    "30006": {
-      "id": 30006,
-      "socket_info": [
-        {
-          "socket_name": "Seat_npc_1",
-          "location": [
-            0,
-            0,
-            65000
-          ],
-          "rotation": [
-            0,
-            0,
+            475,
             0
           ],
           "scale": [
@@ -210,42 +318,19 @@
         }
       ]
     },
-    "6100010": {
-      "id": 6100010,
+    "6100002": {
+      "id": 6100002,
       "socket_info": [
         {
           "socket_name": "Seat_npc_1",
           "location": [
-            0,
-            0,
-            50000
-          ],
-          "rotation": [
-            0,
-            0,
+            195388,
+            -44796,
             0
           ],
-          "scale": [
-            1000,
-            1000,
-            1000
-          ]
-        }
-      ]
-    },
-    "6100011": {
-      "id": 6100011,
-      "socket_info": [
-        {
-          "socket_name": "Seat_npc_1",
-          "location": [
-            0,
-            0,
-            75000
-          ],
           "rotation": [
             0,
-            0,
+            899,
             0
           ],
           "scale": [

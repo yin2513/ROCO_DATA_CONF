@@ -1256,6 +1256,10 @@
       "id": 100065,
       "res_id": "/Game/ArtRes/Effects/G6Skill/Expression/G6_RP_Thanks.G6_RP_Thanks_C"
     },
+    "100074": {
+      "id": 100074,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/Expression/G6_RP_Birthday.G6_RP_Birthday_C"
+    },
     "200001": {
       "id": 200001,
       "res_id": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/SceneEffect/Pet/touch/World_touch_low_alert.World_touch_low_alert'"
