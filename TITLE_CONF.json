@@ -7,39 +7,39 @@
       "subtitle": [
         {
           "type_name": "Ball",
-          "subtitle": "咕噜球"
-        },
-        {
-          "type_name": "Material",
-          "subtitle": "材料"
-        },
-        {
-          "type_name": "Task",
-          "subtitle": "任务"
-        },
-        {
-          "type_name": "Precious",
-          "subtitle": "重要"
-        },
-        {
-          "type_name": "Magic",
-          "subtitle": "魔法"
-        },
-        {
-          "type_name": "SkillMachine",
-          "subtitle": "技能石"
-        },
-        {
-          "type_name": "Egg",
-          "subtitle": "精灵蛋"
-        },
-        {
-          "type_name": "Fruit",
           "subtitle": "精灵果实"
         },
         {
-          "type_name": "Furniture",
+          "type_name": "Material",
           "subtitle": "家具"
+        },
+        {
+          "type_name": "Task",
+          "subtitle": "精灵蛋"
+        },
+        {
+          "type_name": "Precious",
+          "subtitle": "当前所处商店的名称"
+        },
+        {
+          "type_name": "Magic",
+          "subtitle": "邮件"
+        },
+        {
+          "type_name": "SkillMachine",
+          "subtitle": "公告"
+        },
+        {
+          "type_name": "Egg",
+          "subtitle": "（选中图鉴的名称）"
+        },
+        {
+          "type_name": "Fruit",
+          "subtitle": "（选中精灵的名称）"
+        },
+        {
+          "type_name": "Furniture",
+          "subtitle": "孵蛋"
         }
       ]
     },
@@ -50,7 +50,7 @@
       "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/Bag/Raw/BagStatic/Frames/img_bagtitle_png.img_bagtitle_png'",
       "subtitle": [
         {
-          "subtitle": "精灵蛋"
+          "subtitle": "图片分享"
         }
       ]
     },
@@ -60,7 +60,7 @@
       "display_type": 2,
       "subtitle": [
         {
-          "subtitle": "当前所处商店的名称"
+          "subtitle": "视频分享"
         }
       ]
     },
@@ -71,11 +71,11 @@
       "subtitle": [
         {
           "type_name": "Mail",
-          "subtitle": "邮件"
+          "subtitle": "卡牌分享"
         },
         {
           "type_name": "Notice",
-          "subtitle": "公告"
+          "subtitle": "图片分享"
         }
       ]
     },
@@ -85,7 +85,7 @@
       "display_type": 2,
       "subtitle": [
         {
-          "subtitle": "（选中图鉴的名称）"
+          "subtitle": "视频分享"
         }
       ]
     },
@@ -95,7 +95,7 @@
       "display_type": 2,
       "subtitle": [
         {
-          "subtitle": "（选中图鉴的名称）"
+          "subtitle": "视频分享"
         }
       ]
     },
@@ -106,7 +106,7 @@
       "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/PetUIStatic/Frames/img_topbg_png.img_topbg_png'",
       "subtitle": [
         {
-          "subtitle": "（选中精灵的名称）"
+          "subtitle": "卡牌分享"
         }
       ]
     },
@@ -117,7 +117,7 @@
       "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/PetUIStatic/Frames/img_topbg_png.img_topbg_png'",
       "subtitle": [
         {
-          "subtitle": "（选中精灵的名称）"
+          "subtitle": "卡牌分享"
         }
       ]
     },
@@ -129,7 +129,7 @@
       "subtitle": [
         {
           "type_name": "Hatch",
-          "subtitle": "孵蛋"
+          "subtitle": "截图"
         }
       ]
     },
@@ -140,15 +140,15 @@
       "subtitle": [
         {
           "type_name": "PhotoShare",
-          "subtitle": "图片分享"
+          "subtitle": "个人名片"
         },
         {
           "type_name": "VideoShare",
-          "subtitle": "视频分享"
+          "subtitle": "赛季记录"
         },
         {
           "type_name": "cardshare",
-          "subtitle": "卡牌分享"
+          "subtitle": "活动"
         }
       ]
     },
@@ -159,51 +159,67 @@
       "subtitle": [
         {
           "type_name": "UMG_ShareUI_Photo_C",
-          "subtitle": "图片分享"
-        },
-        {
-          "type_name": "UMG_ShareUI_Video_C",
-          "subtitle": "视频分享"
-        },
-        {
-          "type_name": "UMG_ShareUI_Card_C",
-          "subtitle": "卡牌分享"
-        },
-        {
-          "type_name": "UMG_ShareUITakePhoto_C",
-          "subtitle": "截图"
-        },
-        {
-          "type_name": "UMG_BusinessCardShare_C",
-          "subtitle": "个人名片"
-        },
-        {
-          "type_name": "UMG_PVPShare_C",
-          "subtitle": "赛季记录"
-        },
-        {
-          "type_name": "UMG_CulturalActivities_SharePhoto_C",
-          "subtitle": "活动"
-        },
-        {
-          "type_name": "UMG_LineupSharing_C",
           "subtitle": "阵容分享"
         },
         {
-          "type_name": "UMG_PetReportShare_C",
+          "type_name": "UMG_ShareUI_Video_C",
           "subtitle": "精灵回顾分享"
         },
         {
-          "type_name": "UMG_TakephotoShare_C",
+          "type_name": "UMG_ShareUI_Card_C",
           "subtitle": "照片分享"
         },
         {
-          "type_name": "UMG_ShareUI_VideoShare_C",
+          "type_name": "UMG_ShareUITakePhoto_C",
           "subtitle": "留影分享"
         },
         {
-          "type_name": "UMG_PetGroupPhotoShare_C",
+          "type_name": "UMG_BusinessCardShare_C",
           "subtitle": "赛季合影"
+        },
+        {
+          "type_name": "UMG_PVPShare_C",
+          "subtitle": "一级区域名称"
+        },
+        {
+          "type_name": "UMG_CulturalActivities_SharePhoto_C",
+          "subtitle": "精灵旅行"
+        },
+        {
+          "type_name": "UMG_LineupSharing_C",
+          "subtitle": "进行中"
+        },
+        {
+          "type_name": "UMG_PetReportShare_C",
+          "subtitle": "旅途"
+        },
+        {
+          "type_name": "UMG_TakephotoShare_C",
+          "subtitle": "奇谭"
+        },
+        {
+          "type_name": "UMG_ShareUI_VideoShare_C",
+          "subtitle": "拾遗"
+        },
+        {
+          "type_name": "UMG_PetGroupPhotoShare_C",
+          "subtitle": "画面"
+        },
+        {
+          "type_name": "UMG_AppearanceSuit_Share1_C",
+          "subtitle": "镜头"
+        },
+        {
+          "type_name": "UMG_Shop_Share_C",
+          "subtitle": "音量"
+        },
+        {
+          "type_name": "UMG_Activity_TakePhotoCompetition_Share_C",
+          "subtitle": "用户"
+        },
+        {
+          "type_name": "UMG_ElvenAmbassador_SharePhoto",
+          "subtitle": "隐私设置"
         }
       ]
     },
@@ -214,11 +230,11 @@
       "subtitle": [
         {
           "type_name": "Map",
-          "subtitle": "一级区域名称"
+          "subtitle": "下载"
         },
         {
           "type_name": "Travel",
-          "subtitle": "精灵旅行"
+          "subtitle": "按键"
         }
       ]
     },
@@ -229,19 +245,19 @@
       "subtitle": [
         {
           "type_name": "AllTask",
-          "subtitle": "进行中"
+          "subtitle": "主要"
         },
         {
           "type_name": "Journey",
-          "subtitle": "旅途"
+          "subtitle": "精灵"
         },
         {
           "type_name": "Legendary",
-          "subtitle": "奇谭"
+          "subtitle": "战斗"
         },
         {
           "type_name": "Gleanings",
-          "subtitle": "拾遗"
+          "subtitle": "探索"
         }
       ]
     },
@@ -252,31 +268,31 @@
       "subtitle": [
         {
           "type_name": "Picture",
-          "subtitle": "画面"
+          "subtitle": "系统"
         },
         {
           "type_name": "Camera",
-          "subtitle": "镜头"
+          "subtitle": "头像"
         },
         {
           "type_name": "Sound",
-          "subtitle": "音量"
+          "subtitle": "称号"
         },
         {
           "type_name": "User",
-          "subtitle": "用户"
+          "subtitle": "昵称"
         },
         {
           "type_name": "Account",
-          "subtitle": "隐私设置"
+          "subtitle": "签名"
         },
         {
           "type_name": "Download",
-          "subtitle": "下载"
+          "subtitle": "主题背景"
         },
         {
           "type_name": "Keyboard",
-          "subtitle": "按键"
+          "subtitle": "服装"
         }
       ]
     },
@@ -287,23 +303,23 @@
       "subtitle": [
         {
           "type_name": "Main",
-          "subtitle": "主要"
+          "subtitle": "动作"
         },
         {
           "type_name": "Pet",
-          "subtitle": "精灵"
+          "subtitle": "好友列表"
         },
         {
           "type_name": "Battle",
-          "subtitle": "战斗"
+          "subtitle": "好友申请"
         },
         {
           "type_name": "Explore",
-          "subtitle": "探索"
+          "subtitle": "好友推荐"
         },
         {
           "type_name": "System",
-          "subtitle": "系统"
+          "subtitle": "WeGame好友"
         }
       ]
     },
@@ -314,19 +330,19 @@
       "subtitle": [
         {
           "type_name": "Headicon",
-          "subtitle": "头像"
+          "subtitle": "学院作业"
         },
         {
           "type_name": "Lable",
-          "subtitle": "称号"
+          "subtitle": "每日调查"
         },
         {
           "type_name": "Name",
-          "subtitle": "昵称"
+          "subtitle": "挑战"
         },
         {
           "type_name": "Signature",
-          "subtitle": "签名"
+          "subtitle": "精灵对战"
         }
       ]
     },
@@ -337,15 +353,15 @@
       "subtitle": [
         {
           "type_name": "Background",
-          "subtitle": "主题背景"
+          "subtitle": "限时挑战"
         },
         {
           "type_name": "Clothes",
-          "subtitle": "服装"
+          "subtitle": "回想"
         },
         {
           "type_name": "Act",
-          "subtitle": "动作"
+          "subtitle": "战斗教学"
         }
       ]
     },
@@ -356,19 +372,19 @@
       "subtitle": [
         {
           "type_name": "FriendList",
-          "subtitle": "好友列表"
+          "subtitle": "月刊"
         },
         {
           "type_name": "FriendApplication",
-          "subtitle": "好友申请"
+          "subtitle": "随机商店"
         },
         {
           "type_name": "AddFriend",
-          "subtitle": "好友推荐"
+          "subtitle": "预览"
         },
         {
           "type_name": "WegameFriend",
-          "subtitle": "WeGame好友"
+          "subtitle": "2"
         }
       ]
     },
@@ -379,31 +395,35 @@
       "subtitle": [
         {
           "type_name": "MagicManual",
-          "subtitle": "学院作业"
+          "subtitle": "套装"
         },
         {
           "type_name": "DailyTask",
-          "subtitle": "每日调查"
+          "subtitle": "法杖"
         },
         {
           "type_name": "PetChallenge",
-          "subtitle": "挑战"
+          "subtitle": "衣服"
         },
         {
           "type_name": "PVP",
-          "subtitle": "精灵对战"
+          "subtitle": "鞋帽"
         },
         {
           "type_name": "PVE",
-          "subtitle": "限时挑战"
+          "subtitle": "发型"
         },
         {
           "type_name": "reacall",
-          "subtitle": "回想"
+          "subtitle": "妆容"
         },
         {
           "type_name": "battle_teach",
-          "subtitle": "战斗教学"
+          "subtitle": "套装解锁"
+        },
+        {
+          "type_name": "badge_trial",
+          "subtitle": "基础炼金"
         }
       ]
     },
@@ -414,11 +434,11 @@
       "subtitle": [
         {
           "type_name": "Pika",
-          "subtitle": "月刊"
+          "subtitle": "技能炼金"
         },
         {
           "type_name": "MysteriousShop",
-          "subtitle": "随机商店"
+          "subtitle": "转化炼金"
         }
       ]
     },
@@ -429,12 +449,12 @@
       "subtitle": [
         {
           "type_name": "TryOn",
-          "subtitle": "预览"
+          "subtitle": "家园烹饪"
         },
         {},
         {},
         {
-          "subtitle": "2"
+          "subtitle": "精灵用品炼金"
         }
       ]
     },
@@ -445,27 +465,27 @@
       "subtitle": [
         {
           "type_name": "Suit",
-          "subtitle": "套装"
+          "subtitle": "类型选择"
         },
         {
           "type_name": "Wand",
-          "subtitle": "法杖"
+          "subtitle": "魔力上限"
         },
         {
           "type_name": "Clothes",
-          "subtitle": "衣服"
+          "subtitle": "体力上限"
         },
         {
           "type_name": "ACCESSORIES",
-          "subtitle": "鞋帽"
+          "subtitle": "恢复瓶"
         },
         {
           "type_name": "Hair",
-          "subtitle": "发型"
+          "subtitle": "推荐"
         },
         {
           "type_name": "SALON",
-          "subtitle": "妆容"
+          "subtitle": "周末"
         }
       ]
     },
@@ -476,7 +496,7 @@
       "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/Appearance/Raw/Frames/img_Closet_Title_png.img_Closet_Title_png'",
       "subtitle": [
         {
-          "subtitle": "套装解锁"
+          "subtitle": "其他"
         }
       ]
     },
@@ -487,23 +507,23 @@
       "subtitle": [
         {
           "type_name": "Basic",
-          "subtitle": "基础炼金"
+          "subtitle": "传说精灵"
         },
         {
           "type_name": "SkillMachine",
-          "subtitle": "技能炼金"
+          "subtitle": "对战剧场"
         },
         {
           "type_name": "Transform",
-          "subtitle": "转化炼金"
+          "subtitle": "首领角斗"
         },
         {
           "type_name": "Cook",
-          "subtitle": "家园烹饪"
+          "subtitle": "调查任务"
         },
         {
           "type_name": "PetItem",
-          "subtitle": "精灵用品炼金"
+          "subtitle": "往期活动"
         }
       ]
     },
@@ -514,19 +534,19 @@
       "subtitle": [
         {
           "type_name": "SelectType",
-          "subtitle": "类型选择"
+          "subtitle": "藏宝点"
         },
         {
           "type_name": "HP",
-          "subtitle": "魔力上限"
+          "subtitle": "精灵管理"
         },
         {
           "type_name": "Stamina",
-          "subtitle": "体力上限"
+          "subtitle": "放生"
         },
         {
           "type_name": "Bottle",
-          "subtitle": "恢复瓶"
+          "subtitle": "学院补给"
         }
       ]
     },
@@ -537,15 +557,15 @@
       "subtitle": [
         {
           "type_name": "TimeLimit",
-          "subtitle": "推荐"
+          "subtitle": "特惠商城"
         },
         {
           "type_name": "Rotation",
-          "subtitle": "周末"
+          "subtitle": "时装礼包"
         },
         {
           "type_name": "Other",
-          "subtitle": "其他"
+          "subtitle": "珍稀道具城"
         }
       ]
     },
@@ -555,7 +575,7 @@
       "head_icon": "PaperSprite'/Game/NewRoco/Modules/Activity/LegendaryBattle/Raw/Frames/img_biaoti_png.img_biaoti_png'",
       "subtitle": [
         {
-          "subtitle": "传说精灵"
+          "subtitle": "充值商城"
         }
       ]
     },
@@ -565,7 +585,7 @@
       "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/LevelSelection/Raw/Frames/img_biaoti_png.img_biaoti_png'",
       "subtitle": [
         {
-          "subtitle": "对战剧场"
+          "subtitle": "公告"
         }
       ]
     },
@@ -575,7 +595,7 @@
       "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/LevelSelection/Raw/Frames/img_biaoti_png.img_biaoti_png'",
       "subtitle": [
         {
-          "subtitle": "对战剧场"
+          "subtitle": "公告"
         }
       ]
     },
@@ -585,7 +605,7 @@
       "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/LevelSelection/Raw/Frames/img_biaoti_png.img_biaoti_png'",
       "subtitle": [
         {
-          "subtitle": "对战剧场"
+          "subtitle": "公告"
         }
       ]
     },
@@ -595,7 +615,7 @@
       "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/LevelSelection/Raw/Frames/img_biaoti1_png.img_biaoti1_png'",
       "subtitle": [
         {
-          "subtitle": "首领角斗"
+          "subtitle": "修复工具"
         }
       ]
     },
@@ -605,7 +625,7 @@
       "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/LevelSelection/Raw/Frames/img_biaoti1_png.img_biaoti1_png'",
       "subtitle": [
         {
-          "subtitle": "首领角斗"
+          "subtitle": "修复工具"
         }
       ]
     },
@@ -616,7 +636,7 @@
       "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_huodong_png.img_huodong_png'",
       "subtitle": [
         {
-          "subtitle": "调查任务"
+          "subtitle": "主题选择"
         }
       ]
     },
@@ -627,7 +647,7 @@
       "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_huodong_png.img_huodong_png'",
       "subtitle": [
         {
-          "subtitle": "往期活动"
+          "subtitle": "等级奖励"
         }
       ]
     },
@@ -638,7 +658,7 @@
       "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_huodong_png.img_huodong_png'",
       "subtitle": [
         {
-          "subtitle": "藏宝点"
+          "subtitle": "日常任务"
         }
       ]
     },
@@ -649,7 +669,7 @@
       "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/PetUIStatic/Frames/img_topbg1_png.img_topbg1_png'",
       "subtitle": [
         {
-          "subtitle": "精灵管理"
+          "subtitle": "解锁礼券"
         }
       ]
     },
@@ -660,7 +680,7 @@
       "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/PetUIStatic/Frames/img_topbg1_png.img_topbg1_png'",
       "subtitle": [
         {
-          "subtitle": "放生"
+          "subtitle": "精灵编队"
         }
       ]
     },
@@ -671,23 +691,23 @@
       "subtitle": [
         {
           "type_name": "MonthlyCard",
-          "subtitle": "学院补给"
+          "subtitle": "队伍选择"
         },
         {
           "type_name": "GiftPack",
-          "subtitle": "特惠商城"
+          "subtitle": "队伍编辑"
         },
         {
           "type_name": "FashionPack",
-          "subtitle": "时装礼包"
+          "subtitle": "闪耀大赛"
         },
         {
           "type_name": "DiamondExchange",
-          "subtitle": "珍稀道具城"
+          "subtitle": "赛季奖励"
         },
         {
           "type_name": "Recharge",
-          "subtitle": "充值商城"
+          "subtitle": "追忆回响"
         }
       ]
     },
@@ -697,7 +717,7 @@
       "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/LoginModule/RawRes/Atlas/LoginNew/Frames/img_youxiang_png.img_youxiang_png'",
       "subtitle": [
         {
-          "subtitle": "公告"
+          "subtitle": "崭新乐章"
         }
       ]
     },
@@ -707,7 +727,7 @@
       "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/LoginModule/RawRes/Atlas/LoginNew/Frames/img_Repair_png.img_Repair_png'",
       "subtitle": [
         {
-          "subtitle": "修复工具"
+          "subtitle": "相册"
         }
       ]
     },
@@ -718,7 +738,7 @@
       "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/BattlePass/Raw/Frames/img_title_png.img_title_png'",
       "subtitle": [
         {
-          "subtitle": "主题选择"
+          "subtitle": "云端相册"
         }
       ]
     },
@@ -729,11 +749,11 @@
       "subtitle": [
         {
           "type_name": "Reward",
-          "subtitle": "等级奖励"
+          "subtitle": "照片分享"
         },
         {
           "type_name": "Task",
-          "subtitle": "日常任务"
+          "subtitle": "扩建"
         }
       ]
     },
@@ -744,7 +764,7 @@
       "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/BattlePass/Raw/Frames/img_title_png.img_title_png'",
       "subtitle": [
         {
-          "subtitle": "解锁礼券"
+          "subtitle": "精灵入住"
         }
       ]
     },
@@ -755,7 +775,7 @@
       "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/Raw/PetTeam/Frames/img_biaoti_png.img_biaoti_png'",
       "subtitle": [
         {
-          "subtitle": "精灵编队"
+          "subtitle": "精灵照料"
         }
       ]
     },
@@ -766,7 +786,7 @@
       "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/Raw/PetTeam/Frames/img_biaoti_png.img_biaoti_png'",
       "subtitle": [
         {
-          "subtitle": "队伍选择"
+          "subtitle": "家具图鉴"
         }
       ]
     },
@@ -777,7 +797,7 @@
       "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/Raw/PetTeam/Frames/img_biaoti_png.img_biaoti_png'",
       "subtitle": [
         {
-          "subtitle": "队伍编辑"
+          "subtitle": "叮叮推荐"
         }
       ]
     },
@@ -788,7 +808,7 @@
       "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/PVPQualifier/Raw/Frames/img_biaoti_png.img_biaoti_png'",
       "subtitle": [
         {
-          "subtitle": "闪耀大赛"
+          "subtitle": "摆设"
         }
       ]
     },
@@ -799,7 +819,7 @@
       "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/PVPQualifier/Raw/Frames/img_biaoti_png.img_biaoti_png'",
       "subtitle": [
         {
-          "subtitle": "赛季奖励"
+          "subtitle": "小型摆件"
         }
       ]
     },
@@ -810,11 +830,15 @@
       "subtitle": [
         {
           "type_name": "WebMusic",
-          "subtitle": "追忆回响"
+          "subtitle": "地面"
         },
         {
           "type_name": "MobileMusic",
-          "subtitle": "崭新乐章"
+          "subtitle": "墙饰"
+        },
+        {
+          "type_name": "ScreenTecordingMusic",
+          "subtitle": "特殊"
         }
       ]
     },
@@ -826,11 +850,11 @@
       "subtitle": [
         {
           "type_name": "TemporaryAlbum",
-          "subtitle": "相册"
+          "subtitle": "装潢"
         },
         {
           "type_name": "CloudAlbum",
-          "subtitle": "云端相册"
+          "subtitle": "裁缝铺"
         }
       ]
     },
@@ -841,7 +865,7 @@
       "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/TakePhotos/Raw/Frames/img_biaoti_png.img_biaoti_png'",
       "subtitle": [
         {
-          "subtitle": "照片分享"
+          "subtitle": "更换背景"
         }
       ]
     },
@@ -852,7 +876,7 @@
       "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/Home/Raw/HouseExpansion/Frames/img_Expansion_Title2_png.img_Expansion_Title2_png'",
       "subtitle": [
         {
-          "subtitle": "扩建"
+          "subtitle": "精灵守卫"
         }
       ]
     },
@@ -863,7 +887,7 @@
       "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/Home/Raw/HomePlanting/Frames/img_ruzhu_biaoti_png.img_ruzhu_biaoti_png'",
       "subtitle": [
         {
-          "subtitle": "精灵入住"
+          "subtitle": "食物制作"
         }
       ]
     },
@@ -874,7 +898,7 @@
       "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/Home/Raw/HomePlanting/Frames/img_weiyang_biaoti_png.img_weiyang_biaoti_png'",
       "subtitle": [
         {
-          "subtitle": "精灵照料"
+          "subtitle": "编队调整"
         }
       ]
     },
@@ -885,7 +909,7 @@
       "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/Home/Raw/HomeFurnitureAtlas/Frames/img_FurnitureAtlas_Title_png.img_FurnitureAtlas_Title_png'",
       "subtitle": [
         {
-          "subtitle": "家具图鉴"
+          "subtitle": "分享编队"
         }
       ]
     },
@@ -896,35 +920,35 @@
       "subtitle": [
         {
           "type_name": "Recommendation",
-          "subtitle": "叮叮推荐"
+          "subtitle": "肤色"
         },
         {
           "type_name": "Furniture",
-          "subtitle": "家具"
+          "subtitle": "孵蛋"
         },
         {
           "type_name": "Furnish",
-          "subtitle": "摆设"
+          "subtitle": "眉毛"
         },
         {
           "type_name": "SmallFurnish",
-          "subtitle": "小型摆件"
+          "subtitle": "睫毛"
         },
         {
           "type_name": "Floor",
-          "subtitle": "地面"
+          "subtitle": "瞳孔"
         },
         {
           "type_name": "Wall",
-          "subtitle": "墙饰"
+          "subtitle": "贴花"
         },
         {
           "type_name": "Special",
-          "subtitle": "特殊"
+          "subtitle": "图片分享"
         },
         {
           "type_name": "Decoration",
-          "subtitle": "装潢"
+          "subtitle": "赛季天赋"
         }
       ]
     },
@@ -935,7 +959,7 @@
       "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/Appearance/Raw/Frames/img_TailorShop_Title_png.img_TailorShop_Title_png'",
       "subtitle": [
         {
-          "subtitle": "裁缝铺"
+          "subtitle": "暗夜拾光"
         }
       ]
     },
@@ -946,7 +970,7 @@
       "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/Appearance/Raw/Frames/img_TailorShop_Title_png.img_TailorShop_Title_png'",
       "subtitle": [
         {
-          "subtitle": "更换背景"
+          "subtitle": "精灵同行"
         }
       ]
     },
@@ -957,7 +981,7 @@
       "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/Home/Raw/HomeMain/Frames/img_Plant_protectionTitle_png.img_Plant_protectionTitle_png'",
       "subtitle": [
         {
-          "subtitle": "精灵守卫"
+          "subtitle": "推荐阵容"
         }
       ]
     },
@@ -968,7 +992,7 @@
       "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/Home/Raw/HomeMain/Frames/img_TitleFoodProcessing_png.img_TitleFoodProcessing_png'",
       "subtitle": [
         {
-          "subtitle": "食物制作"
+          "subtitle": "活动回顾"
         }
       ]
     },
@@ -978,7 +1002,7 @@
       "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/PetUIStatic/Frames/img_topbg1_png.img_topbg1_png'",
       "subtitle": [
         {
-          "subtitle": "编队调整"
+          "subtitle": "挑战分院代表"
         }
       ]
     },
@@ -988,7 +1012,7 @@
       "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/PetUIStatic/Frames/img_topbg1_png.img_topbg1_png'",
       "subtitle": [
         {
-          "subtitle": "分享编队"
+          "subtitle": "首领信物"
         }
       ]
     },
@@ -999,31 +1023,31 @@
       "subtitle": [
         {
           "type_name": "Skin",
-          "subtitle": "肤色"
+          "subtitle": "选择精灵"
         },
         {
           "type_name": "Hair",
-          "subtitle": "发型"
+          "subtitle": "推荐"
         },
         {
           "type_name": "Eyebrows",
-          "subtitle": "眉毛"
+          "subtitle": "魔法创造"
         },
         {
           "type_name": "Eyelash",
-          "subtitle": "睫毛"
+          "subtitle": "精灵祝福"
         },
         {
           "type_name": "Eyes",
-          "subtitle": "瞳孔"
+          "subtitle": "编队信息"
         },
         {
           "type_name": "Makeup",
-          "subtitle": "贴花"
+          "subtitle": "试用精灵"
         },
         {
           "type_name": "Suit",
-          "subtitle": "套装"
+          "subtitle": "类型选择"
         }
       ]
     },
@@ -1034,7 +1058,7 @@
       "subtitle": [
         {
           "type_name": "PetReportShare",
-          "subtitle": "图片分享"
+          "subtitle": "本期热门"
         }
       ]
     },
@@ -1045,7 +1069,7 @@
       "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_huodong_png.img_huodong_png'",
       "subtitle": [
         {
-          "subtitle": "赛季天赋"
+          "subtitle": "往期回顾"
         }
       ]
     },
@@ -1056,7 +1080,7 @@
       "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/SeasonIntegration/Raw/image/Frames/img_biaoti_png.img_biaoti_png'",
       "subtitle": [
         {
-          "subtitle": "暗夜拾光"
+          "subtitle": "合影评选赛"
         }
       ]
     },
@@ -1067,7 +1091,7 @@
       "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/Raw/PetTeam/Frames/img_biaoti_png.img_biaoti_png'",
       "subtitle": [
         {
-          "subtitle": "精灵编队"
+          "subtitle": "精灵照料"
         }
       ]
     },
@@ -1078,7 +1102,7 @@
       "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/BattlePass/Raw/Frames/img_title1_png.img_title1_png'",
       "subtitle": [
         {
-          "subtitle": "（选中精灵的名称）"
+          "subtitle": "卡牌分享"
         }
       ]
     },
@@ -1089,7 +1113,7 @@
       "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_jinglingjicheng_png.img_jinglingjicheng_png'",
       "subtitle": [
         {
-          "subtitle": "精灵同行"
+          "subtitle": "个人挑战"
         }
       ]
     },
@@ -1100,7 +1124,7 @@
       "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/Raw/PetTeam/Frames/img_shanyaoshaiji_png.img_shanyaoshaiji_png'",
       "subtitle": [
         {
-          "subtitle": "推荐阵容"
+          "subtitle": "全服挑战"
         }
       ]
     },
@@ -1111,7 +1135,7 @@
       "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_huodong_png.img_huodong_png'",
       "subtitle": [
         {
-          "subtitle": "活动回顾"
+          "subtitle": "（选中赛季的名称）"
         }
       ]
     },
@@ -1122,7 +1146,7 @@
       "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_Title_xuefenshangdian_png.Img_NPCShop_Title_xuefenshangdian_png'",
       "subtitle": [
         {
-          "subtitle": "挑战分院代表"
+          "subtitle": "重逢契约"
         }
       ]
     },
@@ -1133,7 +1157,7 @@
       "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/Raw/PetBag/Frames/img_mofachuangxin_png.img_mofachuangxin_png'",
       "subtitle": [
         {
-          "subtitle": "首领信物"
+          "subtitle": "精灵观察笔记"
         }
       ]
     },
@@ -1144,7 +1168,7 @@
       "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivityPetPeer/Frames/img_PetPeer_Title_png.img_PetPeer_Title_png'",
       "subtitle": [
         {
-          "subtitle": "选择精灵"
+          "subtitle": ""
         }
       ]
     },
@@ -1154,7 +1178,7 @@
       "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/PetUIStatic/Frames/img_topbg_png.img_topbg_png'",
       "subtitle": [
         {
-          "subtitle": "魔法创造"
+          "subtitle": ""
         }
       ]
     },
@@ -1165,7 +1189,7 @@
       "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivityPetCertification/Frames/img_Title_png.img_Title_png'",
       "subtitle": [
         {
-          "subtitle": "精灵祝福"
+          "subtitle": ""
         }
       ]
     },
@@ -1176,7 +1200,7 @@
       "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/Raw/PetTeam/Frames/img_shanyaoshaiji_png.img_shanyaoshaiji_png'",
       "subtitle": [
         {
-          "subtitle": "编队信息"
+          "subtitle": ""
         }
       ]
     },
@@ -1187,7 +1211,7 @@
       "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/Raw/PetTeam/Frames/img_shanyaoshaiji_png.img_shanyaoshaiji_png'",
       "subtitle": [
         {
-          "subtitle": "试用精灵"
+          "subtitle": ""
         }
       ]
     },
@@ -1198,7 +1222,7 @@
       "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_huodong_png.img_huodong_png'",
       "subtitle": [
         {
-          "subtitle": "本期热门"
+          "subtitle": ""
         }
       ]
     },
@@ -1209,7 +1233,7 @@
       "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_huodong_png.img_huodong_png'",
       "subtitle": [
         {
-          "subtitle": "往期回顾"
+          "subtitle": ""
         }
       ]
     },
@@ -1220,7 +1244,7 @@
       "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_huodong_png.img_huodong_png'",
       "subtitle": [
         {
-          "subtitle": "合影评选赛"
+          "subtitle": ""
         }
       ]
     },
@@ -1232,11 +1256,11 @@
       "subtitle": [
         {
           "type_name": "person",
-          "subtitle": "个人挑战"
+          "subtitle": ""
         },
         {
           "type_name": "global",
-          "subtitle": "全服挑战"
+          "subtitle": ""
         }
       ]
     },
@@ -1247,7 +1271,7 @@
       "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Images/Frames/img_Seasontitle_png.img_Seasontitle_png'",
       "subtitle": [
         {
-          "subtitle": "（选中赛季的名称）"
+          "subtitle": ""
         }
       ]
     },
@@ -1258,7 +1282,7 @@
       "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_huodong_png.img_huodong_png'",
       "subtitle": [
         {
-          "subtitle": "重逢契约"
+          "subtitle": ""
         }
       ]
     },
@@ -1266,10 +1290,10 @@
       "id": "ObservationNotesPanel",
       "title": "观察笔记",
       "display_type": 1,
-      "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_Title_xuefenshangdian_png.Img_NPCShop_Title_xuefenshangdian_png'",
+      "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/HerbologyBadge/Raw/Frames/img_huodong_biaoti_png.img_huodong_biaoti_png'",
       "subtitle": [
         {
-          "subtitle": "精灵观察笔记"
+          "subtitle": ""
         }
       ]
     },
@@ -1280,18 +1304,98 @@
       "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_Title_xuefenshangdian_png.Img_NPCShop_Title_xuefenshangdian_png'",
       "subtitle": [
         {
-          "subtitle": "调查任务"
+          "subtitle": "主题选择"
+        }
+      ]
+    },
+    "LotteryShow": {
+      "id": "LotteryShow",
+      "title": "领地试炼",
+      "display_type": 1,
+      "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_Title_xuefenshangdian_png.Img_NPCShop_Title_xuefenshangdian_png'",
+      "subtitle": [
+        {
+          "subtitle": ""
+        }
+      ]
+    },
+    "HerbologyAdventureProgress": {
+      "id": "HerbologyAdventureProgress",
+      "title": "咕噜球",
+      "display_type": 1,
+      "subtitle": [
+        {
+          "subtitle": ""
+        }
+      ]
+    },
+    "BadgeAdventureLogPanel": {
+      "id": "BadgeAdventureLogPanel",
+      "title": "材料",
+      "display_type": 1,
+      "subtitle": [
+        {
+          "subtitle": ""
+        }
+      ]
+    },
+    "HistoricalReview": {
+      "id": "HistoricalReview",
+      "title": "任务",
+      "display_type": 1,
+      "subtitle": [
+        {
+          "subtitle": ""
+        }
+      ]
+    },
+    "HerbologyBadgeTrial": {
+      "id": "HerbologyBadgeTrial",
+      "title": "重要",
+      "display_type": 1,
+      "subtitle": [
+        {
+          "subtitle": ""
+        }
+      ]
+    },
+    "HerbologyBadgeSelectPet": {
+      "id": "HerbologyBadgeSelectPet",
+      "title": "魔法",
+      "display_type": 1,
+      "subtitle": [
+        {
+          "subtitle": ""
+        }
+      ]
+    },
+    "HerbologyBadgeEntrance": {
+      "id": "HerbologyBadgeEntrance",
+      "title": "技能石",
+      "display_type": 1,
+      "subtitle": [
+        {
+          "subtitle": ""
+        },
+        {
+          "subtitle": ""
+        },
+        {
+          "subtitle": ""
+        },
+        {
+          "subtitle": ""
         }
       ]
     },
     "PastActivityTerritory": {
       "id": "PastActivityTerritory",
-      "title": "领地试炼",
+      "title": "精灵蛋",
       "display_type": 1,
       "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_huodong_png.img_huodong_png'",
       "subtitle": [
         {
-          "subtitle": "往期回顾"
+          "subtitle": ""
         }
       ]
     }

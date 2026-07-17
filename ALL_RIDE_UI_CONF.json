@@ -65,6 +65,29 @@
       "button_block_icon_double_ride": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/btn_hai2_3_png.btn_hai2_3_png'",
       "button_press_icon_double_ride": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/btn_hai2_2_png.btn_hai2_2_png'"
     },
+    "15": {
+      "id": 15,
+      "move_type": 15,
+      "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/btn_pingheng_png.btn_pingheng_png'",
+      "button_block_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/btn_xiao_qicheng_zhihui_png.btn_xiao_qicheng_zhihui_png'",
+      "button_press_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/btn_pingheng_xuanzhong_png.btn_pingheng_xuanzhong_png'",
+      "off_button_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/btn_CancelRide1_png.btn_CancelRide1_png'",
+      "off_button_block_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/btn_CancelRide4_png.btn_CancelRide4_png'",
+      "off_button_press_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/btn_CancelRide2_png.btn_CancelRide2_png'"
+    },
+    "16": {
+      "id": 16,
+      "move_type": 16,
+      "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/btn_xiao_qicheng_png.btn_xiao_qicheng_png'",
+      "button_block_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/btn_xiao_qicheng_zhihui_png.btn_xiao_qicheng_zhihui_png'",
+      "button_press_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/btn_xiao_qicheng_xuanzhong_png.btn_xiao_qicheng_xuanzhong_png'",
+      "off_button_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/btn_CancelRide1_png.btn_CancelRide1_png'",
+      "off_button_block_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/btn_CancelRide4_png.btn_CancelRide4_png'",
+      "off_button_press_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/btn_CancelRide2_png.btn_CancelRide2_png'",
+      "button_icon_double_ride": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/btn_qicheng2_1_png.btn_qicheng2_1_png'",
+      "button_block_icon_double_ride": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/btn_qicheng2_3_png.btn_qicheng2_3_png'",
+      "button_press_icon_double_ride": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/btn_qicheng2_2_png.btn_qicheng2_2_png'"
+    },
     "10001": {
       "id": 10001,
       "active_type": 1,
@@ -201,6 +224,86 @@
     "10014": {
       "id": 10014,
       "active_type": 14
+    },
+    "10015": {
+      "id": 10015,
+      "active_type": 15,
+      "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/btn_pingheng_png.btn_pingheng_png'",
+      "button_block_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/btn_pingheng_zhihui_png.btn_pingheng_zhihui_png'",
+      "button_press_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/btn_pingheng_xuanzhong_png.btn_pingheng_xuanzhong_png'"
+    },
+    "10016": {
+      "id": 10016,
+      "active_type": 16,
+      "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/btn_lu_xulichongci_png.btn_lu_xulichongci_png'",
+      "button_block_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/btn_lu_xulichongci_zhihui_png.btn_lu_xulichongci_zhihui_png'",
+      "button_press_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/btn_lu_xulichongci_xuanzhong_png.btn_lu_xulichongci_xuanzhong_png'",
+      "button_icon_double_ride": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/btn_lu_xulichongci_png.btn_lu_xulichongci_png'",
+      "button_block_icon_double_ride": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/btn_lu_xulichongci_zhihui_png.btn_lu_xulichongci_zhihui_png'",
+      "button_press_icon_double_ride": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/btn_lu_xulichongci_xuanzhong_png.btn_lu_xulichongci_xuanzhong_png'"
+    },
+    "10017": {
+      "id": 10017,
+      "active_type": 17,
+      "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/btn_lu_xulichongci_png.btn_lu_xulichongci_png'",
+      "button_block_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/btn_lu_xulichongci_zhihui_png.btn_lu_xulichongci_zhihui_png'",
+      "button_press_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/btn_lu_xulichongci_xuanzhong_png.btn_lu_xulichongci_xuanzhong_png'",
+      "button_icon_double_ride": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/btn_lu_xulichongci_png.btn_lu_xulichongci_png'",
+      "button_block_icon_double_ride": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/btn_lu_xulichongci_zhihui_png.btn_lu_xulichongci_zhihui_png'",
+      "button_press_icon_double_ride": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/btn_lu_xulichongci_xuanzhong_png.btn_lu_xulichongci_xuanzhong_png'"
+    },
+    "10018": {
+      "id": 10018,
+      "active_type": 18,
+      "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/btn_zhenchi_png.btn_zhenchi_png'",
+      "button_block_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/btn_zhenchi_zhihui_png.btn_zhenchi_zhihui_png'",
+      "button_press_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/btn_zhenchi_xuanzhong_png.btn_zhenchi_xuanzhong_png'",
+      "button_icon_double_ride": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/btn_zhenchi_png.btn_zhenchi_png'",
+      "button_block_icon_double_ride": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/btn_xiao_feixing_zhihui_png.btn_xiao_feixing_zhihui_png'",
+      "button_press_icon_double_ride": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/btn_zhenchi_xuanzhong_png.btn_zhenchi_xuanzhong_png'"
+    },
+    "10019": {
+      "id": 10019,
+      "active_type": 19,
+      "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUIBtn/Frames/btn_qitiaoxialuo_png.btn_qitiaoxialuo_png'",
+      "button_block_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUIBtn/Frames/btn_qitiaoxialuo_zhihui_png.btn_qitiaoxialuo_zhihui_png'",
+      "button_press_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUIBtn/Frames/btn_qitiaoxialuo_xuanzhong_png.btn_qitiaoxialuo_xuanzhong_png'",
+      "button_icon_double_ride": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUIBtn/Frames/btn_qitiaoxialuo_png.btn_qitiaoxialuo_png'",
+      "button_block_icon_double_ride": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUIBtn/Frames/btn_qitiaoxialuo_zhihui_png.btn_qitiaoxialuo_zhihui_png'",
+      "button_press_icon_double_ride": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUIBtn/Frames/btn_qitiaoxialuo_xuanzhong_png.btn_qitiaoxialuo_xuanzhong_png'"
+    },
+    "10020": {
+      "id": 10020,
+      "active_type": 20,
+      "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUIBtn/Frames/btn_xulitiaoyue_png.btn_xulitiaoyue_png'",
+      "button_block_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUIBtn/Frames/btn_xulitiaoyue_zhihui_png.btn_xulitiaoyue_zhihui_png'",
+      "button_press_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUIBtn/Frames/btn_xulitiaoyue_xuanzhong_png.btn_xulitiaoyue_xuanzhong_png'",
+      "button_icon_double_ride": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUIBtn/Frames/btn_xulitiaoyue_png.btn_xulitiaoyue_png'",
+      "button_block_icon_double_ride": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUIBtn/Frames/btn_xulitiaoyue_zhihui_png.btn_xulitiaoyue_zhihui_png'",
+      "button_press_icon_double_ride": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUIBtn/Frames/btn_xulitiaoyue_xuanzhong_png.btn_xulitiaoyue_xuanzhong_png'"
+    },
+    "10021": {
+      "id": 10021,
+      "active_type": 21,
+      "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/btn_huasha_png.btn_huasha_png'",
+      "button_block_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/btn_huasha_jinzhi_png.btn_huasha_jinzhi_png'",
+      "button_press_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/btn_huasha_xuanzhong_png.btn_huasha_xuanzhong_png'",
+      "button_icon_double_ride": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/btn_qichengchongci_png.btn_qichengchongci_png'",
+      "button_block_icon_double_ride": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/btn_qichengchongci_zhihui_png.btn_qichengchongci_zhihui_png'",
+      "button_press_icon_double_ride": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/btn_qichengchongci_xuanzhong_png.btn_qichengchongci_xuanzhong_png'"
+    },
+    "10022": {
+      "id": 10022,
+      "active_type": 22,
+      "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUIBtn/Frames/btn_touzhisiyecao_png.btn_touzhisiyecao_png'",
+      "button_block_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUIBtn/Frames/btn_touzhisiyecao_zhihui_png.btn_touzhisiyecao_zhihui_png'",
+      "button_press_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUIBtn/Frames/btn_touzhisiyecao_xuanzhong_png.btn_touzhisiyecao_xuanzhong_png'",
+      "button_icon_2": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUIBtn/Frames/btn_touzhinangua_png.btn_touzhinangua_png'",
+      "button_block_icon_2": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUIBtn/Frames/btn_touzhinangua_zhihui_png.btn_touzhinangua_zhihui_png'",
+      "button_press_icon_2": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUIBtn/Frames/btn_touzhinangua_xuanzhong_png.btn_touzhinangua_xuanzhong_png'",
+      "button_icon_double_ride": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUIBtn/Frames/btn_touzhisiyecao_png.btn_touzhisiyecao_png'",
+      "button_block_icon_double_ride": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUIBtn/Frames/btn_touzhisiyecao_zhihui_png.btn_touzhisiyecao_zhihui_png'",
+      "button_press_icon_double_ride": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUIBtn/Frames/btn_touzhisiyecao_xuanzhong_png.btn_touzhisiyecao_xuanzhong_png'"
     }
   },
   "LocalizationStrings": {}

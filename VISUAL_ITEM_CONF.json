@@ -475,6 +475,7 @@
     "6": {
       "id": 6,
       "displayName": "星光",
+      "discription": "花瓣",
       "bigIcon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/100893.100893'",
       "iconPath": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100893.100893'",
       "item_quality": 5,
@@ -483,8 +484,8 @@
     },
     "42": {
       "id": 42,
-      "displayName": "花瓣",
-      "discription": "可在可可果活动商店兑换奖励。",
+      "displayName": "可在可可果活动商店兑换奖励。",
+      "discription": "大赛活跃度",
       "bigIcon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/100874.100874'",
       "iconPath": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item64/100874.100874'",
       "item_quality": 4,
@@ -498,8 +499,8 @@
     },
     "68": {
       "id": 68,
-      "displayName": "大赛活跃度",
-      "discription": "可用来兑换绩点和分院服奖励。",
+      "displayName": "可用来兑换绩点和分院服奖励。",
+      "discription": "学分币（暂未用到）",
       "bigIcon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/100902.100902'",
       "iconPath": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100902.100902'",
       "item_quality": 4,
@@ -513,8 +514,8 @@
     },
     "69": {
       "id": 69,
-      "displayName": "学分币（暂未用到）",
-      "discription": "暂未使用",
+      "displayName": "暂未使用",
+      "discription": "庆典热度",
       "bigIcon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/100874.100874'",
       "iconPath": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100874.100874'",
       "item_quality": 5,
@@ -528,8 +529,8 @@
     },
     "12": {
       "id": 12,
-      "displayName": "庆典热度",
-      "discription": "用来在「火马迎新」活动中兑换奖励。",
+      "displayName": "用来在「火马迎新」活动中兑换奖励。",
+      "discription": "课题研究点",
       "bigIcon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/100896.100896'",
       "iconPath": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100896.100896'",
       "type_desc": "活动货币",
@@ -541,8 +542,8 @@
     },
     "17": {
       "id": 17,
-      "displayName": "课题研究点",
-      "discription": "达成图鉴课题后获得的纪念点数。",
+      "displayName": "达成图鉴课题后获得的纪念点数。",
+      "discription": "非凡之羽",
       "bigIcon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/100908.100908'",
       "iconPath": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100908.100908'",
       "item_quality": 4,
@@ -556,8 +557,8 @@
     },
     "51": {
       "id": 51,
-      "displayName": "非凡之羽",
-      "discription": "「凡羽掠影」活动中兑换代币。\n可在非凡商店中兑换各种限定奖励，活动结束后会被自动转换为洛克贝。",
+      "displayName": "「凡羽掠影」活动中兑换代币。\n可在非凡商店中兑换各种限定奖励，活动结束后会被自动转换为洛克贝。",
+      "discription": "狂欢代币",
       "bigIcon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/100921.100921'",
       "iconPath": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100921.100921'",
       "item_quality": 4,
@@ -571,8 +572,8 @@
     "74": {
       "id": 74,
       "sort_id": 1000303,
-      "displayName": "狂欢代币",
-      "discription": "响应魔力波动后可以获得的神奇魔法通货。\n可在赛季代币商店中兑换各种限定奖励。",
+      "displayName": "响应魔力波动后可以获得的神奇魔法通货。\n可在赛季代币商店中兑换各种限定奖励。",
+      "discription": "重逢手册经验",
       "bigIcon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/100942.100942'",
       "iconPath": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100942.100942'",
       "item_quality": 4,
@@ -589,14 +590,99 @@
         }
       ]
     },
+    "52": {
+      "id": 52,
+      "displayName": "用于在“重逢契约”回流活动中的“契约手册”提升等级",
+      "discription": "",
+      "bigIcon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100957.100957'",
+      "iconPath": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100957.100957'",
+      "item_quality": 4,
+      "type_desc": "活动货币",
+      "acquire_struct": [
+        {
+          "acquire_way_text": "「拾音律动」活动获得"
+        }
+      ]
+    },
+    "75": {
+      "id": 75,
+      "displayName": "",
+      "discription": "",
+      "bigIcon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100782.100782'",
+      "iconPath": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100782.100782'",
+      "item_quality": 5,
+      "type_desc": "珍稀货币",
+      "acquire_struct": [
+        {
+          "acquire_way_text": "珍稀道具城购买"
+        }
+      ]
+    },
+    "77": {
+      "id": 77,
+      "sort_id": 1000304,
+      "displayName": "",
+      "discription": "",
+      "bigIcon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/100979.100979'",
+      "iconPath": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item64/100979.100979'",
+      "item_quality": 4,
+      "type_desc": "赛季货币",
+      "acquire_struct": [
+        {
+          "acquire_way_text": "完成赛季作业获得"
+        },
+        {
+          "acquire_way_text": "赢得赛季露天对战获得"
+        },
+        {
+          "acquire_way_text": "参加闪耀大赛、星光对决获得"
+        }
+      ]
+    },
     "53": {
       "id": 53,
-      "displayName": "重逢手册经验",
-      "discription": "用于在“重逢契约”回流活动中的“契约手册”提升等级",
+      "displayName": "",
+      "discription": "",
       "bigIcon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/100937.100937'",
       "iconPath": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100937.100937'",
       "item_quality": 4,
       "type_desc": "活动货币"
+    },
+    "78": {
+      "id": 78,
+      "displayName": "",
+      "is_no_display_in_main": 1,
+      "is_hidetips": true
+    },
+    "79": {
+      "id": 79,
+      "sort_id": 109104,
+      "displayName": "",
+      "discription": "",
+      "bigIcon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100512.100512'",
+      "iconPath": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100512.100512'",
+      "item_quality": 4,
+      "type_desc": "地区货币",
+      "acquire_struct": [
+        {
+          "acquire_way_text": "洛克里安北部区域探索获得"
+        }
+      ]
+    },
+    "80": {
+      "id": 80,
+      "sort_id": 109105,
+      "displayName": "",
+      "discription": "",
+      "bigIcon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/101019.101019'",
+      "iconPath": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/101019.101019'",
+      "item_quality": 4,
+      "type_desc": "地区货币",
+      "acquire_struct": [
+        {
+          "acquire_way_text": "捕捉或击败巨人裂谷地区精灵获得"
+        }
+      ]
     }
   },
   "LocalizationStrings": {}

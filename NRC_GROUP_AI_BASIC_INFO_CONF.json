@@ -145,23 +145,27 @@
           "event_id": 10015,
           "abort_type": 1,
           "group_behavior_id": 10023,
-          "group_station_id": 10007
+          "group_station_id": 10007,
+          "auto_destroy": true
         },
         {
           "event_id": 10016,
           "abort_type": 1,
           "group_behavior_id": 10023,
-          "group_station_id": 10007
+          "group_station_id": 10007,
+          "auto_destroy": true
         },
         {
           "event_id": 10002,
           "abort_type": 2,
-          "group_behavior_id": 10022
+          "group_behavior_id": 10022,
+          "auto_destroy": true
         },
         {
           "event_id": 10001,
           "abort_type": 1,
-          "group_behavior_id": 10006
+          "group_behavior_id": 10006,
+          "auto_destroy": true
         }
       ]
     },
@@ -198,6 +202,12 @@
       "id": 100001,
       "editor_name": "世界群组",
       "event_array": [
+        {
+          "event_id": 230040,
+          "abort_type": 2,
+          "group_behavior_id": 230024,
+          "lock_fsm": true
+        },
         {
           "event_id": 300102,
           "abort_type": 2,
@@ -620,41 +630,327 @@
         {
           "event_id": 230026,
           "abort_type": 1,
-          "group_behavior_id": 230000
+          "group_behavior_id": 230035
         },
         {
           "event_id": 230027,
           "abort_type": 1,
-          "group_behavior_id": 230001
+          "group_behavior_id": 230001,
+          "lock_fsm": true
         },
         {
+          "event_id": 230028,
+          "abort_type": 2,
+          "group_behavior_id": 230002,
+          "lock_fsm": true
+        },
+        {
+          "event_id": 230029,
+          "abort_type": 2,
+          "group_behavior_id": 230003,
+          "group_station_id": 230008,
+          "lock_fsm": true
+        },
+        {
+          "event_id": 230030,
+          "abort_type": 2,
+          "group_behavior_id": 230004,
+          "group_station_id": 230008,
+          "lock_fsm": true
+        },
+        {
+          "event_id": 230031,
+          "abort_type": 2,
+          "group_behavior_id": 230005,
+          "lock_fsm": true
+        },
+        {
+          "event_id": 230032,
+          "abort_type": 2,
+          "group_behavior_id": 230006,
+          "lock_fsm": true
+        },
+        {
+          "event_id": 230033,
+          "abort_type": 2,
+          "group_behavior_id": 230017,
+          "lock_fsm": true
+        },
+        {
+          "event_id": 230034,
           "abort_type": 1,
+          "group_behavior_id": 230018,
           "auto_destroy": true,
           "lock_fsm": true
         },
         {
+          "event_id": 230035,
           "abort_type": 1,
+          "group_behavior_id": 230019,
           "auto_destroy": true,
           "lock_fsm": true
         },
         {
+          "event_id": 230036,
           "abort_type": 1,
+          "group_behavior_id": 230020,
           "auto_destroy": true,
           "lock_fsm": true
         },
         {
+          "event_id": 230037,
           "abort_type": 1,
+          "group_behavior_id": 230021,
           "auto_destroy": true,
           "lock_fsm": true
         },
         {
+          "event_id": 230038,
           "abort_type": 1,
+          "group_behavior_id": 230022,
           "auto_destroy": true,
           "lock_fsm": true
         },
         {
+          "event_id": 230039,
           "abort_type": 1,
+          "group_behavior_id": 230023,
           "auto_destroy": true,
+          "lock_fsm": true
+        },
+        {
+          "event_id": 230041,
+          "abort_type": 1,
+          "group_behavior_id": 230025,
+          "lock_fsm": true
+        },
+        {
+          "event_id": 230042,
+          "abort_type": 1,
+          "group_behavior_id": 230026,
+          "group_station_id": 10005,
+          "auto_destroy": true
+        },
+        {
+          "event_id": 230044,
+          "abort_type": 2,
+          "group_behavior_id": 230028,
+          "auto_destroy": true
+        },
+        {
+          "event_id": 230043,
+          "abort_type": 1,
+          "group_behavior_id": 230027,
+          "group_station_id": 300003,
+          "auto_destroy": true
+        },
+        {
+          "event_id": 230045,
+          "abort_type": 3,
+          "group_behavior_id": 230029,
+          "auto_destroy": true
+        },
+        {
+          "event_id": 230046,
+          "abort_type": 1,
+          "group_behavior_id": 230020,
+          "lock_fsm": true
+        },
+        {
+          "event_id": 230048,
+          "abort_type": 1,
+          "group_behavior_id": 230026,
+          "group_station_id": 10004,
+          "auto_destroy": true
+        },
+        {
+          "event_id": 230049,
+          "abort_type": 1,
+          "group_behavior_id": 230026,
+          "group_station_id": 10004,
+          "auto_destroy": true
+        },
+        {
+          "event_id": 230052,
+          "abort_type": 2
+        },
+        {
+          "event_id": 230050,
+          "abort_type": 1,
+          "group_behavior_id": 230031,
+          "lock_fsm": true
+        },
+        {
+          "event_id": 230051,
+          "abort_type": 1,
+          "group_behavior_id": 230032,
+          "group_station_id": 230009,
+          "lock_fsm": true
+        },
+        {
+          "event_id": 230075,
+          "group_behavior_id": 230055,
+          "auto_destroy": true
+        },
+        {
+          "event_id": 230062,
+          "abort_type": 2,
+          "group_behavior_id": 230042,
+          "group_station_id": 10006,
+          "auto_destroy": true
+        },
+        {
+          "event_id": 230061,
+          "abort_type": 2,
+          "group_behavior_id": 230041,
+          "group_station_id": 10006,
+          "auto_destroy": true
+        },
+        {
+          "event_id": 230081,
+          "abort_type": 2,
+          "group_behavior_id": 230061,
+          "group_station_id": 10006,
+          "auto_destroy": true
+        },
+        {
+          "event_id": 230060,
+          "abort_type": 2,
+          "group_behavior_id": 230040,
+          "group_station_id": 10006,
+          "auto_destroy": true
+        },
+        {
+          "event_id": 230080,
+          "abort_type": 2,
+          "group_behavior_id": 230060,
+          "group_station_id": 10006,
+          "auto_destroy": true
+        },
+        {
+          "event_id": 230059,
+          "group_station_id": 10006,
+          "auto_destroy": true
+        },
+        {
+          "event_id": 230065,
+          "abort_type": 2,
+          "group_behavior_id": 230045,
+          "auto_destroy": true
+        },
+        {
+          "event_id": 230064,
+          "abort_type": 2,
+          "group_behavior_id": 230044,
+          "auto_destroy": true
+        },
+        {
+          "event_id": 230063,
+          "group_behavior_id": 230043,
+          "auto_destroy": true
+        },
+        {
+          "event_id": 280220,
+          "group_behavior_id": 280208,
+          "auto_destroy": true,
+          "lock_fsm": true
+        },
+        {
+          "event_id": 280229,
+          "abort_type": 2,
+          "group_behavior_id": 280217,
+          "auto_destroy": true,
+          "lock_fsm": true
+        },
+        {
+          "event_id": 280221,
+          "group_behavior_id": 280209,
+          "auto_destroy": true,
+          "lock_fsm": true
+        },
+        {
+          "event_id": 280239,
+          "abort_type": 2,
+          "group_behavior_id": 280227,
+          "lock_fsm": true
+        },
+        {
+          "event_id": 280222,
+          "group_behavior_id": 280210,
+          "lock_fsm": true
+        },
+        {
+          "event_id": 280223,
+          "group_behavior_id": 280211,
+          "group_station_id": 280011,
+          "auto_destroy": true,
+          "lock_fsm": true
+        },
+        {
+          "event_id": 280224,
+          "group_behavior_id": 280212,
+          "lock_fsm": true
+        },
+        {
+          "event_id": 280226,
+          "abort_type": 2,
+          "group_behavior_id": 280214,
+          "lock_fsm": true
+        },
+        {
+          "event_id": 280225,
+          "group_behavior_id": 280213,
+          "group_station_id": 10001,
+          "lock_fsm": true
+        },
+        {
+          "event_id": 280227,
+          "group_behavior_id": 280215,
+          "auto_destroy": true,
+          "lock_fsm": true
+        },
+        {
+          "event_id": 280228,
+          "group_behavior_id": 280216,
+          "auto_destroy": true,
+          "lock_fsm": true
+        },
+        {
+          "event_id": 230070,
+          "group_behavior_id": 230050
+        },
+        {
+          "event_id": 230072,
+          "group_behavior_id": 230052,
+          "group_station_id": 10006,
+          "auto_destroy": true
+        },
+        {
+          "event_id": 230073,
+          "group_behavior_id": 230053,
+          "group_station_id": 10006
+        },
+        {
+          "event_id": 230074,
+          "group_behavior_id": 230054,
+          "lock_fsm": true
+        },
+        {
+          "event_id": 230087,
+          "group_behavior_id": 230069,
+          "group_station_id": 230009,
+          "auto_destroy": true,
+          "lock_fsm": true
+        },
+        {
+          "event_id": 280238,
+          "abort_type": 2,
+          "group_behavior_id": 280226,
+          "lock_fsm": true
+        },
+        {
+          "event_id": 280237,
+          "group_behavior_id": 280225,
           "lock_fsm": true
         }
       ]
@@ -911,6 +1207,19 @@
           "event_id": 10001,
           "abort_type": 1,
           "group_behavior_id": 10035
+        }
+      ]
+    },
+    "230014": {
+      "id": 230014,
+      "editor_name": "马戏群组",
+      "event_array": [
+        {
+          "event_id": 230047,
+          "abort_type": 1,
+          "group_behavior_id": 230030,
+          "group_station_id": 230009,
+          "auto_destroy": true
         }
       ]
     },
@@ -1207,9 +1516,29 @@
         }
       ]
     },
+    "230031": {
+      "id": 230031,
+      "editor_name": "马戏团四人组",
+      "event_array": [
+        {
+          "event_id": 230054,
+          "abort_type": 1,
+          "group_behavior_id": 230034,
+          "group_station_id": 300003,
+          "auto_destroy": true,
+          "lock_fsm": true
+        },
+        {
+          "event_id": 230053,
+          "abort_type": 1,
+          "auto_destroy": true,
+          "lock_fsm": true
+        }
+      ]
+    },
     "230032": {
       "id": 230032,
-      "editor_name": "--种间7--互殴组_雪豆丁vs呼呼猪",
+      "editor_name": "--种间7--互殴组_雪豆丁vs呼呼猪、恶魔狼",
       "event_array": [
         {
           "event_id": 10010,
@@ -1319,23 +1648,27 @@
           "event_id": 10015,
           "abort_type": 1,
           "group_behavior_id": 10023,
-          "group_station_id": 10007
+          "group_station_id": 10007,
+          "auto_destroy": true
         },
         {
           "event_id": 10016,
           "abort_type": 1,
           "group_behavior_id": 10023,
-          "group_station_id": 10007
+          "group_station_id": 10007,
+          "auto_destroy": true
         },
         {
           "event_id": 10002,
           "abort_type": 2,
-          "group_behavior_id": 10022
+          "group_behavior_id": 10022,
+          "auto_destroy": true
         },
         {
           "event_id": 10001,
           "abort_type": 1,
-          "group_behavior_id": 10006
+          "group_behavior_id": 10006,
+          "auto_destroy": true
         }
       ]
     },
@@ -1416,25 +1749,29 @@
         {
           "event_id": 380062,
           "abort_type": 2,
-          "group_behavior_id": 380063
+          "group_behavior_id": 380063,
+          "auto_destroy": true
         },
         {
           "event_id": 380063,
           "abort_type": 2,
           "group_behavior_id": 380064,
-          "group_station_id": 10003
+          "group_station_id": 10003,
+          "auto_destroy": true
         },
         {
           "event_id": 380061,
           "abort_type": 2,
           "group_behavior_id": 380062,
-          "group_station_id": 10003
+          "group_station_id": 10003,
+          "auto_destroy": true
         },
         {
           "event_id": 380060,
           "abort_type": 1,
           "group_behavior_id": 380061,
-          "group_station_id": 10003
+          "group_station_id": 10003,
+          "auto_destroy": true
         },
         {
           "event_id": 380077,
@@ -1451,23 +1788,27 @@
           "event_id": 10015,
           "abort_type": 1,
           "group_behavior_id": 10023,
-          "group_station_id": 10007
+          "group_station_id": 10007,
+          "auto_destroy": true
         },
         {
           "event_id": 10016,
           "abort_type": 1,
           "group_behavior_id": 10023,
-          "group_station_id": 10007
+          "group_station_id": 10007,
+          "auto_destroy": true
         },
         {
           "event_id": 10002,
           "abort_type": 2,
-          "group_behavior_id": 10022
+          "group_behavior_id": 10022,
+          "auto_destroy": true
         },
         {
           "event_id": 10001,
           "abort_type": 1,
-          "group_behavior_id": 10006
+          "group_behavior_id": 10006,
+          "auto_destroy": true
         }
       ]
     },
@@ -1510,23 +1851,27 @@
           "event_id": 10015,
           "abort_type": 1,
           "group_behavior_id": 10023,
-          "group_station_id": 10007
+          "group_station_id": 10007,
+          "auto_destroy": true
         },
         {
           "event_id": 10016,
           "abort_type": 1,
           "group_behavior_id": 10023,
-          "group_station_id": 10007
+          "group_station_id": 10007,
+          "auto_destroy": true
         },
         {
           "event_id": 10002,
           "abort_type": 2,
-          "group_behavior_id": 10022
+          "group_behavior_id": 10022,
+          "auto_destroy": true
         },
         {
           "event_id": 10001,
           "abort_type": 1,
-          "group_behavior_id": 10006
+          "group_behavior_id": 10006,
+          "auto_destroy": true
         }
       ]
     },
@@ -1711,6 +2056,363 @@
           "event_id": 230024,
           "abort_type": 1,
           "group_behavior_id": 230015
+        }
+      ]
+    },
+    "230054": {
+      "id": 230054,
+      "editor_name": "赛季大厅烟花伯爵",
+      "event_array": [
+        {
+          "event_id": 230055,
+          "group_behavior_id": 230036,
+          "auto_destroy": true
+        }
+      ]
+    },
+    "230055": {
+      "id": 230055,
+      "editor_name": "交汇镇烟花伯爵",
+      "event_array": [
+        {
+          "event_id": 230056,
+          "group_behavior_id": 230037,
+          "auto_destroy": true
+        }
+      ]
+    },
+    "230056": {
+      "id": 230056,
+      "editor_name": "赛季大厅巡游",
+      "event_array": [
+        {
+          "event_id": 230058,
+          "abort_type": 2,
+          "group_behavior_id": 230039
+        },
+        {
+          "event_id": 230057,
+          "group_behavior_id": 230038,
+          "group_station_id": 10009
+        }
+      ]
+    },
+    "230057": {
+      "id": 230057,
+      "editor_name": "--种间17--亲友-雪豆丁雪灵兽",
+      "event_array": [
+        {
+          "event_id": 10015,
+          "abort_type": 1,
+          "group_behavior_id": 10023,
+          "group_station_id": 10007,
+          "auto_destroy": true
+        },
+        {
+          "event_id": 10016,
+          "abort_type": 1,
+          "group_behavior_id": 10023,
+          "group_station_id": 10007,
+          "auto_destroy": true
+        },
+        {
+          "event_id": 10002,
+          "abort_type": 2,
+          "group_behavior_id": 10022,
+          "auto_destroy": true
+        },
+        {
+          "event_id": 10001,
+          "abort_type": 1,
+          "group_behavior_id": 10006,
+          "auto_destroy": true
+        }
+      ]
+    },
+    "230058": {
+      "id": 230058,
+      "editor_name": "【种内18】烈钻鸟-长尾火鸟-火羽",
+      "event_array": [
+        {
+          "event_id": 230095,
+          "abort_type": 2,
+          "group_behavior_id": 230078,
+          "group_station_id": 10009
+        },
+        {
+          "event_id": 230067,
+          "abort_type": 2,
+          "group_behavior_id": 230047,
+          "group_station_id": 10009
+        },
+        {
+          "event_id": 230066,
+          "abort_type": 1,
+          "group_behavior_id": 230046,
+          "group_station_id": 10009
+        }
+      ]
+    },
+    "230059": {
+      "id": 230059,
+      "editor_name": "【种内19】觅觅蝠-翻翻蝠-夜游魔",
+      "event_array": [
+        {
+          "event_id": 10001,
+          "abort_type": 4,
+          "group_behavior_id": 230048,
+          "group_station_id": 230010
+        },
+        {
+          "event_id": 10003,
+          "abort_type": 4,
+          "group_behavior_id": 230048,
+          "group_station_id": 230010
+        },
+        {
+          "event_id": 230069,
+          "abort_type": 4,
+          "group_behavior_id": 230049,
+          "group_station_id": 230010
+        },
+        {
+          "event_id": 230068,
+          "abort_type": 4,
+          "group_behavior_id": 230048,
+          "group_station_id": 230010
+        }
+      ]
+    },
+    "230060": {
+      "id": 230060,
+      "editor_name": "【种间17】珀尔鼬-笤帚一家",
+      "event_array": [
+        {
+          "event_id": 230071,
+          "group_behavior_id": 230051,
+          "group_station_id": 10004,
+          "auto_destroy": true
+        }
+      ]
+    },
+    "230061": {
+      "id": 230061,
+      "editor_name": "【种间】布谷鸟钟的小伙伴",
+      "event_array": [
+        {
+          "event_id": 10001,
+          "abort_type": 4,
+          "group_behavior_id": 230074,
+          "auto_destroy": true,
+          "lock_fsm": true
+        },
+        {
+          "event_id": 10023,
+          "group_behavior_id": 230073,
+          "auto_destroy": true,
+          "lock_fsm": true
+        }
+      ]
+    },
+    "230062": {
+      "id": 230062,
+      "editor_name": "【种内20】森豆丁进化链",
+      "event_array": [
+        {
+          "event_id": 10002,
+          "abort_type": 1,
+          "group_behavior_id": 10001,
+          "group_station_id": 10003
+        },
+        {
+          "event_id": 10006,
+          "abort_type": 1,
+          "group_behavior_id": 10001,
+          "group_station_id": 10004
+        },
+        {
+          "event_id": 10005,
+          "abort_type": 1,
+          "group_behavior_id": 10002
+        },
+        {
+          "event_id": 230076,
+          "abort_type": 1,
+          "group_behavior_id": 230056,
+          "group_station_id": 230009,
+          "lock_fsm": true
+        },
+        {
+          "event_id": 230077,
+          "group_behavior_id": 230058,
+          "lock_fsm": true
+        },
+        {
+          "event_id": 230078,
+          "group_behavior_id": 230057,
+          "lock_fsm": true
+        }
+      ]
+    },
+    "230063": {
+      "id": 230063,
+      "editor_name": "【种内21】火豆丁进化链",
+      "event_array": [
+        {
+          "event_id": 10018,
+          "abort_type": 1,
+          "group_behavior_id": 230063,
+          "group_station_id": 10002
+        },
+        {
+          "event_id": 10023,
+          "group_behavior_id": 230064,
+          "group_station_id": 10006,
+          "auto_destroy": true,
+          "lock_fsm": true
+        },
+        {
+          "event_id": 230084,
+          "group_behavior_id": 230065,
+          "group_station_id": 10006,
+          "auto_destroy": true,
+          "lock_fsm": true
+        },
+        {
+          "event_id": 230085,
+          "group_behavior_id": 230066,
+          "group_station_id": 10006,
+          "auto_destroy": true,
+          "lock_fsm": true
+        },
+        {
+          "event_id": 230091,
+          "group_behavior_id": 230064,
+          "group_station_id": 10006,
+          "auto_destroy": true,
+          "lock_fsm": true
+        },
+        {
+          "event_id": 230092,
+          "group_behavior_id": 230065,
+          "group_station_id": 10006,
+          "auto_destroy": true,
+          "lock_fsm": true
+        },
+        {
+          "event_id": 230093,
+          "group_behavior_id": 230066,
+          "group_station_id": 10006,
+          "auto_destroy": true,
+          "lock_fsm": true
+        }
+      ]
+    },
+    "230064": {
+      "id": 230064,
+      "editor_name": "【种内22】眼魔进化链",
+      "event_array": [
+        {
+          "event_id": 10006,
+          "abort_type": 2,
+          "group_behavior_id": 230076,
+          "auto_destroy": true,
+          "lock_fsm": true
+        },
+        {
+          "event_id": 10001,
+          "abort_type": 2,
+          "group_behavior_id": 230077,
+          "auto_destroy": true
+        },
+        {
+          "event_id": 230088,
+          "abort_type": 1,
+          "group_behavior_id": 230070,
+          "group_station_id": 10004,
+          "auto_destroy": true,
+          "lock_fsm": true
+        },
+        {
+          "event_id": 230094,
+          "group_behavior_id": 230075,
+          "auto_destroy": true
+        }
+      ]
+    },
+    "230065": {
+      "id": 230065,
+      "editor_name": "【种内23】霹雳进化链",
+      "event_array": [
+        {
+          "event_id": 230086,
+          "abort_type": 1,
+          "group_behavior_id": 230067,
+          "group_station_id": 230009,
+          "auto_destroy": true,
+          "lock_fsm": true
+        },
+        {
+          "event_id": 10017,
+          "group_behavior_id": 230068,
+          "auto_destroy": true,
+          "lock_fsm": true
+        },
+        {
+          "event_id": 10023,
+          "group_behavior_id": 230068,
+          "auto_destroy": true,
+          "lock_fsm": true
+        },
+        {
+          "event_id": 230084,
+          "group_behavior_id": 230068,
+          "auto_destroy": true,
+          "lock_fsm": true
+        }
+      ]
+    },
+    "230066": {
+      "id": 230066,
+      "editor_name": "【种内24】叮叮卯进化链",
+      "event_array": [
+        {
+          "event_id": 230089,
+          "abort_type": 2,
+          "group_behavior_id": 230072,
+          "auto_destroy": true,
+          "lock_fsm": true
+        },
+        {
+          "event_id": 230090,
+          "abort_type": 2,
+          "group_behavior_id": 230072,
+          "auto_destroy": true,
+          "lock_fsm": true
+        },
+        {
+          "event_id": 230082,
+          "abort_type": 1,
+          "group_behavior_id": 230062,
+          "auto_destroy": true
+        },
+        {
+          "event_id": 230083,
+          "abort_type": 1,
+          "group_behavior_id": 230062,
+          "auto_destroy": true
+        }
+      ]
+    },
+    "230067": {
+      "id": 230067,
+      "editor_name": "【种内25】友爱天天进化链",
+      "event_array": [
+        {
+          "event_id": 230079,
+          "abort_type": 1,
+          "group_behavior_id": 230059,
+          "auto_destroy": true
         }
       ]
     },
@@ -3134,6 +3836,133 @@
           "group_behavior_id": 280193,
           "auto_destroy": true,
           "lock_fsm": true
+        },
+        {
+          "event_id": 280208,
+          "group_behavior_id": 280196,
+          "auto_destroy": true,
+          "lock_fsm": true
+        },
+        {
+          "event_id": 280207,
+          "abort_type": 2,
+          "group_behavior_id": 280195,
+          "lock_fsm": true
+        },
+        {
+          "event_id": 280206,
+          "group_behavior_id": 280194,
+          "lock_fsm": true
+        },
+        {
+          "event_id": 280210,
+          "abort_type": 2,
+          "group_behavior_id": 280198,
+          "lock_fsm": true
+        },
+        {
+          "event_id": 280209,
+          "group_behavior_id": 280197,
+          "lock_fsm": true
+        },
+        {
+          "event_id": 280212,
+          "abort_type": 2,
+          "group_behavior_id": 280200,
+          "auto_destroy": true,
+          "lock_fsm": true
+        },
+        {
+          "event_id": 280211,
+          "group_behavior_id": 280199,
+          "auto_destroy": true,
+          "lock_fsm": true
+        },
+        {
+          "event_id": 280213,
+          "group_behavior_id": 280201,
+          "group_station_id": 230009,
+          "auto_destroy": true,
+          "lock_fsm": true
+        },
+        {
+          "event_id": 280214,
+          "group_behavior_id": 280202,
+          "lock_fsm": true
+        },
+        {
+          "event_id": 280215,
+          "group_behavior_id": 280203,
+          "lock_fsm": true
+        },
+        {
+          "event_id": 280216,
+          "group_behavior_id": 280204,
+          "group_station_id": 280011,
+          "auto_destroy": true,
+          "lock_fsm": true
+        },
+        {
+          "event_id": 280217,
+          "group_behavior_id": 280205,
+          "auto_destroy": true,
+          "lock_fsm": true
+        },
+        {
+          "event_id": 280219,
+          "abort_type": 2,
+          "group_behavior_id": 280207,
+          "auto_destroy": true,
+          "lock_fsm": true
+        },
+        {
+          "event_id": 280218,
+          "group_behavior_id": 280206,
+          "auto_destroy": true,
+          "lock_fsm": true
+        },
+        {
+          "event_id": 280230,
+          "group_behavior_id": 280218,
+          "auto_destroy": true,
+          "lock_fsm": true
+        },
+        {
+          "event_id": 280231,
+          "group_behavior_id": 280219,
+          "auto_destroy": true,
+          "lock_fsm": true
+        },
+        {
+          "event_id": 280233,
+          "abort_type": 2,
+          "group_behavior_id": 280221,
+          "auto_destroy": true,
+          "lock_fsm": true
+        },
+        {
+          "event_id": 280232,
+          "group_behavior_id": 280220,
+          "auto_destroy": true,
+          "lock_fsm": true
+        },
+        {
+          "event_id": 280234,
+          "group_behavior_id": 280222,
+          "auto_destroy": true,
+          "lock_fsm": true
+        },
+        {
+          "event_id": 280235,
+          "group_behavior_id": 280223,
+          "auto_destroy": true,
+          "lock_fsm": true
+        },
+        {
+          "event_id": 280236,
+          "group_behavior_id": 280224,
+          "auto_destroy": true,
+          "lock_fsm": true
         }
       ]
     },
@@ -3252,18 +4081,21 @@
           "event_id": 300024,
           "abort_type": 2,
           "group_behavior_id": 300024,
-          "group_station_id": 300003
+          "group_station_id": 300003,
+          "auto_destroy": true
         },
         {
           "event_id": 300019,
           "abort_type": 2,
-          "group_behavior_id": 300019
+          "group_behavior_id": 300019,
+          "auto_destroy": true
         },
         {
           "event_id": 300018,
           "abort_type": 1,
           "group_behavior_id": 300018,
-          "group_station_id": 10003
+          "group_station_id": 10003,
+          "auto_destroy": true
         }
       ]
     },
@@ -4367,8 +5199,7 @@
         {
           "event_id": 10068,
           "abort_type": 2,
-          "group_behavior_id": 10106,
-          "auto_destroy": true
+          "group_behavior_id": 10106
         },
         {
           "event_id": 10074,
@@ -4650,7 +5481,7 @@
           "event_id": 380006,
           "abort_type": 1,
           "group_behavior_id": 380006,
-          "group_station_id": 10009
+          "group_station_id": 280013
         }
       ]
     },
@@ -5199,6 +6030,34 @@
         {
           "event_id": 230022,
           "abort_type": 1
+        }
+      ]
+    },
+    "530007": {
+      "id": 530007,
+      "editor_name": "【BOSS】夜枭分身",
+      "event_array": [
+        {
+          "event_id": 230000,
+          "abort_type": 2
+        },
+        {
+          "event_id": 10001,
+          "abort_type": 2,
+          "group_behavior_id": 530049
+        },
+        {
+          "event_id": 230001
+        }
+      ]
+    },
+    "530008": {
+      "id": 530008,
+      "editor_name": "【BOSS】虚影毒王花朵",
+      "event_array": [
+        {
+          "event_id": 10001,
+          "group_behavior_id": 530051
         }
       ]
     }

@@ -223,7 +223,7 @@
       "event_sub_type": 24,
       "bb_pos_name": "Global_Lightdrop",
       "spread_dis": [
-        1000
+        1500
       ],
       "percep_effect_val": [
         100
@@ -430,6 +430,18 @@
         0
       ]
     },
+    "1000054": {
+      "id": 1000054,
+      "editor_name": "首领命中可交互场景物体",
+      "sense_event_type": 3,
+      "event_sub_type": 54
+    },
+    "1000055": {
+      "id": 1000055,
+      "editor_name": "首领被召唤物技能命中",
+      "sense_event_type": 3,
+      "event_sub_type": 55
+    },
     "1000059": {
       "id": 1000059,
       "editor_name": "家园.精灵收到呼唤",
@@ -561,6 +573,18 @@
       "event_sub_type": 69,
       "bb_pos_name": "Global_RunAwayLoc"
     },
+    "1000071": {
+      "id": 1000071,
+      "editor_name": "DAWET_ROLEPLAY_MUSIC",
+      "sense_event_type": 3,
+      "event_sub_type": 71,
+      "spread_dis": [
+        0
+      ],
+      "percep_effect_val": [
+        100
+      ]
+    },
     "2000003": {
       "id": 2000003,
       "editor_name": "游泳状态",
@@ -611,14 +635,14 @@
     },
     "2000013": {
       "id": 2000013,
-      "editor_name": "潜行状态",
+      "editor_name": "变身状态",
       "sense_event_type": 1,
       "event_sub_type": 13,
       "spread_dis": [
         2000
       ],
       "percep_effect_val": [
-        -12
+        -30
       ]
     },
     "2000022": {
@@ -691,6 +715,18 @@
       ],
       "percep_effect_val": [
         10
+      ]
+    },
+    "2000030": {
+      "id": 2000030,
+      "editor_name": "变身状态",
+      "sense_event_type": 1,
+      "event_sub_type": 30,
+      "spread_dis": [
+        2000
+      ],
+      "percep_effect_val": [
+        -10
       ]
     },
     "3000001": {
@@ -795,7 +831,7 @@
     },
     "4010077": {
       "id": 4010077,
-      "editor_name": "魔法星星炸宠物",
+      "editor_name": "魔法星星炸精灵",
       "sense_event_type": 2,
       "event_sub_type": 10077,
       "bb_pos_name": "Global_Heavydrop"

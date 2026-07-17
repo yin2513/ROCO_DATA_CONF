@@ -4572,6 +4572,606 @@
         }
       ]
     },
+    "139": {
+      "id": 139,
+      "star": 1,
+      "is_legendary_reward": 3735,
+      "reward": 1000032,
+      "show_award": [
+        {
+          "Type": 1,
+          "Id": 100699,
+          "Count": 20
+        },
+        {
+          "Type": 2,
+          "Id": 7,
+          "Count": 400
+        },
+        {
+          "Type": 1,
+          "Id": 100423
+        },
+        {
+          "Type": 1,
+          "Id": 100204
+        },
+        {
+          "Type": 2,
+          "Id": 1
+        }
+      ]
+    },
+    "140": {
+      "id": 140,
+      "star": 2,
+      "is_legendary_reward": 3735,
+      "reward": 1000033,
+      "show_award": [
+        {
+          "Type": 1,
+          "Id": 100699,
+          "Count": 20
+        },
+        {
+          "Type": 2,
+          "Id": 7,
+          "Count": 400
+        },
+        {
+          "Type": 1,
+          "Id": 100423
+        },
+        {
+          "Type": 1,
+          "Id": 100204
+        },
+        {
+          "Type": 2,
+          "Id": 1
+        }
+      ]
+    },
+    "141": {
+      "id": 141,
+      "star": 3,
+      "is_legendary_reward": 3735,
+      "reward": 1000034,
+      "show_award": [
+        {
+          "Type": 1,
+          "Id": 100699,
+          "Count": 20
+        },
+        {
+          "Type": 2,
+          "Id": 7,
+          "Count": 400
+        },
+        {
+          "Type": 1,
+          "Id": 100423
+        },
+        {
+          "Type": 1,
+          "Id": 100204
+        },
+        {
+          "Type": 2,
+          "Id": 1
+        }
+      ]
+    },
+    "142": {
+      "id": 142,
+      "star": 4,
+      "is_legendary_reward": 3735,
+      "reward": 1000035,
+      "show_award": [
+        {
+          "Type": 1,
+          "Id": 100699,
+          "Count": 20
+        },
+        {
+          "Type": 2,
+          "Id": 7,
+          "Count": 400
+        },
+        {
+          "Type": 1,
+          "Id": 100423
+        },
+        {
+          "Type": 1,
+          "Id": 100204
+        },
+        {
+          "Type": 2,
+          "Id": 1
+        }
+      ]
+    },
+    "143": {
+      "id": 143,
+      "star": 5,
+      "is_legendary_reward": 3735,
+      "reward": 1000035,
+      "show_award": [
+        {
+          "Type": 1,
+          "Id": 100699,
+          "Count": 20
+        },
+        {
+          "Type": 2,
+          "Id": 7,
+          "Count": 400
+        },
+        {
+          "Type": 1,
+          "Id": 100423
+        },
+        {
+          "Type": 1,
+          "Id": 100204
+        },
+        {
+          "Type": 2,
+          "Id": 1
+        }
+      ]
+    },
+    "144": {
+      "id": 144,
+      "star": 6,
+      "is_legendary_reward": 3735,
+      "reward": 1000035,
+      "show_award": [
+        {
+          "Type": 1,
+          "Id": 100699,
+          "Count": 20
+        },
+        {
+          "Type": 2,
+          "Id": 7,
+          "Count": 400
+        },
+        {
+          "Type": 1,
+          "Id": 100423
+        },
+        {
+          "Type": 1,
+          "Id": 100204
+        },
+        {
+          "Type": 2,
+          "Id": 1
+        }
+      ]
+    },
+    "145": {
+      "id": 145,
+      "star": 7,
+      "is_legendary_reward": 3735,
+      "reward": 1000035,
+      "show_award": [
+        {
+          "Type": 1,
+          "Id": 100699,
+          "Count": 20
+        },
+        {
+          "Type": 2,
+          "Id": 7,
+          "Count": 400
+        },
+        {
+          "Type": 1,
+          "Id": 100423
+        },
+        {
+          "Type": 1,
+          "Id": 100204
+        },
+        {
+          "Type": 2,
+          "Id": 1
+        }
+      ]
+    },
+    "146": {
+      "id": 146,
+      "star": 8,
+      "is_legendary_reward": 3735,
+      "reward": 1000035,
+      "show_award": [
+        {
+          "Type": 1,
+          "Id": 100699,
+          "Count": 20
+        },
+        {
+          "Type": 2,
+          "Id": 7,
+          "Count": 400
+        },
+        {
+          "Type": 1,
+          "Id": 100423
+        },
+        {
+          "Type": 1,
+          "Id": 100204
+        },
+        {
+          "Type": 2,
+          "Id": 1
+        }
+      ]
+    },
+    "147": {
+      "id": 147,
+      "star": 9,
+      "is_legendary_reward": 3735,
+      "reward": 1000035,
+      "show_award": [
+        {
+          "Type": 1,
+          "Id": 100699,
+          "Count": 20
+        },
+        {
+          "Type": 2,
+          "Id": 7,
+          "Count": 400
+        },
+        {
+          "Type": 1,
+          "Id": 100423
+        },
+        {
+          "Type": 1,
+          "Id": 100204
+        },
+        {
+          "Type": 2,
+          "Id": 1
+        }
+      ]
+    },
+    "148": {
+      "id": 148,
+      "star": 10,
+      "is_legendary_reward": 3735,
+      "reward": 1000035,
+      "show_award": [
+        {
+          "Type": 1,
+          "Id": 100699,
+          "Count": 20
+        },
+        {
+          "Type": 2,
+          "Id": 7,
+          "Count": 400
+        },
+        {
+          "Type": 1,
+          "Id": 100423
+        },
+        {
+          "Type": 1,
+          "Id": 100204
+        },
+        {
+          "Type": 2,
+          "Id": 1
+        }
+      ]
+    },
+    "149": {
+      "id": 149,
+      "star": 1,
+      "is_legendary_reward": 3232,
+      "reward": 1000032,
+      "show_award": [
+        {
+          "Type": 1,
+          "Id": 100699,
+          "Count": 20
+        },
+        {
+          "Type": 2,
+          "Id": 7,
+          "Count": 400
+        },
+        {
+          "Type": 1,
+          "Id": 100423
+        },
+        {
+          "Type": 1,
+          "Id": 100204
+        },
+        {
+          "Type": 2,
+          "Id": 1
+        }
+      ]
+    },
+    "150": {
+      "id": 150,
+      "star": 2,
+      "is_legendary_reward": 3232,
+      "reward": 1000033,
+      "show_award": [
+        {
+          "Type": 1,
+          "Id": 100699,
+          "Count": 20
+        },
+        {
+          "Type": 2,
+          "Id": 7,
+          "Count": 400
+        },
+        {
+          "Type": 1,
+          "Id": 100423
+        },
+        {
+          "Type": 1,
+          "Id": 100204
+        },
+        {
+          "Type": 2,
+          "Id": 1
+        }
+      ]
+    },
+    "151": {
+      "id": 151,
+      "star": 3,
+      "is_legendary_reward": 3232,
+      "reward": 1000034,
+      "show_award": [
+        {
+          "Type": 1,
+          "Id": 100699,
+          "Count": 20
+        },
+        {
+          "Type": 2,
+          "Id": 7,
+          "Count": 400
+        },
+        {
+          "Type": 1,
+          "Id": 100423
+        },
+        {
+          "Type": 1,
+          "Id": 100204
+        },
+        {
+          "Type": 2,
+          "Id": 1
+        }
+      ]
+    },
+    "152": {
+      "id": 152,
+      "star": 4,
+      "is_legendary_reward": 3232,
+      "reward": 1000035,
+      "show_award": [
+        {
+          "Type": 1,
+          "Id": 100699,
+          "Count": 20
+        },
+        {
+          "Type": 2,
+          "Id": 7,
+          "Count": 400
+        },
+        {
+          "Type": 1,
+          "Id": 100423
+        },
+        {
+          "Type": 1,
+          "Id": 100204
+        },
+        {
+          "Type": 2,
+          "Id": 1
+        }
+      ]
+    },
+    "153": {
+      "id": 153,
+      "star": 5,
+      "is_legendary_reward": 3232,
+      "reward": 1000035,
+      "show_award": [
+        {
+          "Type": 1,
+          "Id": 100699,
+          "Count": 20
+        },
+        {
+          "Type": 2,
+          "Id": 7,
+          "Count": 400
+        },
+        {
+          "Type": 1,
+          "Id": 100423
+        },
+        {
+          "Type": 1,
+          "Id": 100204
+        },
+        {
+          "Type": 2,
+          "Id": 1
+        }
+      ]
+    },
+    "154": {
+      "id": 154,
+      "star": 6,
+      "is_legendary_reward": 3232,
+      "reward": 1000035,
+      "show_award": [
+        {
+          "Type": 1,
+          "Id": 100699,
+          "Count": 20
+        },
+        {
+          "Type": 2,
+          "Id": 7,
+          "Count": 400
+        },
+        {
+          "Type": 1,
+          "Id": 100423
+        },
+        {
+          "Type": 1,
+          "Id": 100204
+        },
+        {
+          "Type": 2,
+          "Id": 1
+        }
+      ]
+    },
+    "155": {
+      "id": 155,
+      "star": 7,
+      "is_legendary_reward": 3232,
+      "reward": 1000035,
+      "show_award": [
+        {
+          "Type": 1,
+          "Id": 100699,
+          "Count": 20
+        },
+        {
+          "Type": 2,
+          "Id": 7,
+          "Count": 400
+        },
+        {
+          "Type": 1,
+          "Id": 100423
+        },
+        {
+          "Type": 1,
+          "Id": 100204
+        },
+        {
+          "Type": 2,
+          "Id": 1
+        }
+      ]
+    },
+    "156": {
+      "id": 156,
+      "star": 8,
+      "is_legendary_reward": 3232,
+      "reward": 1000035,
+      "show_award": [
+        {
+          "Type": 1,
+          "Id": 100699,
+          "Count": 20
+        },
+        {
+          "Type": 2,
+          "Id": 7,
+          "Count": 400
+        },
+        {
+          "Type": 1,
+          "Id": 100423
+        },
+        {
+          "Type": 1,
+          "Id": 100204
+        },
+        {
+          "Type": 2,
+          "Id": 1
+        }
+      ]
+    },
+    "157": {
+      "id": 157,
+      "star": 9,
+      "is_legendary_reward": 3232,
+      "reward": 1000035,
+      "show_award": [
+        {
+          "Type": 1,
+          "Id": 100699,
+          "Count": 20
+        },
+        {
+          "Type": 2,
+          "Id": 7,
+          "Count": 400
+        },
+        {
+          "Type": 1,
+          "Id": 100423
+        },
+        {
+          "Type": 1,
+          "Id": 100204
+        },
+        {
+          "Type": 2,
+          "Id": 1
+        }
+      ]
+    },
+    "158": {
+      "id": 158,
+      "star": 10,
+      "is_legendary_reward": 3232,
+      "reward": 1000035,
+      "show_award": [
+        {
+          "Type": 1,
+          "Id": 100699,
+          "Count": 20
+        },
+        {
+          "Type": 2,
+          "Id": 7,
+          "Count": 400
+        },
+        {
+          "Type": 1,
+          "Id": 100423
+        },
+        {
+          "Type": 1,
+          "Id": 100204
+        },
+        {
+          "Type": 2,
+          "Id": 1
+        }
+      ]
+    },
     "201": {
       "id": 201,
       "blood": 1,

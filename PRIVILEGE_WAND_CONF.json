@@ -8,6 +8,15 @@
         3502,
         3503
       ]
+    },
+    "2": {
+      "id": 2,
+      "fashion_item_id": 32501301,
+      "magic_transform_id": [
+        32000001,
+        32000002,
+        32000003
+      ]
     }
   },
   "LocalizationStrings": {}

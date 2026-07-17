@@ -1747,6 +1747,780 @@
       "buff": [
         20350641
       ]
+    },
+    "10167": {
+      "id": 10167,
+      "title": "",
+      "desc": "",
+      "target": 2,
+      "rank": 1,
+      "buff": [
+        21570010
+      ]
+    },
+    "10168": {
+      "id": 10168,
+      "title": "",
+      "desc": "",
+      "target": 2,
+      "rank": 1,
+      "buff": [
+        20231250,
+        20171620,
+        20400310,
+        20660020,
+        20030340
+      ]
+    },
+    "10169": {
+      "id": 10169,
+      "title": "",
+      "desc": "",
+      "target": 2,
+      "rank": 1,
+      "buff": [
+        20920230,
+        20171620,
+        20400310,
+        20660020,
+        20030340
+      ]
+    },
+    "10170": {
+      "id": 10170,
+      "title": "",
+      "desc": "",
+      "target": 2,
+      "rank": 1,
+      "buff": [
+        20510060,
+        20171620,
+        20400310,
+        20660020,
+        20030340
+      ]
+    },
+    "10171": {
+      "id": 10171,
+      "title": "",
+      "desc": "",
+      "rank": 1,
+      "buff": [
+        20111580
+      ]
+    },
+    "10172": {
+      "id": 10172,
+      "title": "",
+      "desc": "",
+      "rank": 1,
+      "buff": [
+        20370151
+      ]
+    },
+    "10173": {
+      "id": 10173,
+      "title": "",
+      "desc": "",
+      "rank": 1,
+      "buff": [
+        20173390
+      ]
+    },
+    "10174": {
+      "id": 10174,
+      "title": "",
+      "desc": "",
+      "rank": 1,
+      "buff": [
+        20320560
+      ]
+    },
+    "10175": {
+      "id": 10175,
+      "title": "",
+      "desc": "",
+      "rank": 1,
+      "buff": [
+        20170203
+      ]
+    },
+    "10176": {
+      "id": 10176,
+      "title": "",
+      "desc": "",
+      "rank": 1,
+      "buff": [
+        20320253
+      ]
+    },
+    "10177": {
+      "id": 10177,
+      "title": "",
+      "desc": "",
+      "rank": 1,
+      "buff": [
+        20490120,
+        20380042
+      ]
+    },
+    "10178": {
+      "id": 10178,
+      "title": "",
+      "desc": "",
+      "rank": 1,
+      "buff": [
+        20350920
+      ]
+    },
+    "10187": {
+      "id": 10187,
+      "title": "",
+      "desc": "",
+      "rank": 1,
+      "buff": [
+        20350640
+      ]
+    },
+    "10188": {
+      "id": 10188,
+      "title": "",
+      "desc": "",
+      "target": 2,
+      "rank": 1,
+      "buff": [
+        20670330
+      ]
+    },
+    "10189": {
+      "id": 10189,
+      "title": "",
+      "desc": "",
+      "target": 1,
+      "rank": 1,
+      "buff": [
+        21030070
+      ]
+    },
+    "10190": {
+      "id": 10190,
+      "title": "",
+      "desc": "",
+      "target": 2,
+      "rank": 1,
+      "buff": [
+        20010097
+      ]
+    },
+    "20001": {
+      "id": 20001,
+      "title": "",
+      "desc": "",
+      "rank": 1,
+      "buff": [
+        21520030
+      ]
+    },
+    "20002": {
+      "id": 20002,
+      "title": "",
+      "desc": "",
+      "rank": 1,
+      "buff": [
+        20490370,
+        21560010
+      ]
+    },
+    "20003": {
+      "id": 20003,
+      "title": "",
+      "desc": "",
+      "rank": 1,
+      "buff": [
+        20490380,
+        21520020,
+        21560020,
+        20641760,
+        20641770,
+        20641780,
+        20641790
+      ]
+    },
+    "20004": {
+      "id": 20004,
+      "title": "",
+      "desc": "",
+      "rank": 1,
+      "buff": [
+        20170013
+      ]
+    },
+    "80001": {
+      "id": 80001,
+      "title": "",
+      "desc": "",
+      "rank": 1,
+      "buff": [
+        28810000
+      ],
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/SkillIcon/200114.200114'"
+    },
+    "80002": {
+      "id": 80002,
+      "title": "",
+      "desc": "",
+      "rank": 1,
+      "buff": [
+        28810005
+      ],
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/SkillIcon/200114.200114'"
+    },
+    "80003": {
+      "id": 80003,
+      "title": "",
+      "desc": "",
+      "rank": 1,
+      "buff": [
+        28810034
+      ],
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/SkillIcon/200114.200114'"
+    },
+    "80004": {
+      "id": 80004,
+      "title": "",
+      "desc": "",
+      "rank": 1,
+      "buff": [
+        20420080
+      ],
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/SkillIcon/200114.200114'"
+    },
+    "80005": {
+      "id": 80005,
+      "title": "",
+      "desc": "",
+      "rank": 1,
+      "buff": [
+        20380100
+      ],
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/SkillIcon/200244.200244'"
+    },
+    "80006": {
+      "id": 80006,
+      "title": "",
+      "desc": "",
+      "rank": 1,
+      "buff": [
+        28810032
+      ],
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/SkillIcon/200114.200114'"
+    },
+    "80007": {
+      "id": 80007,
+      "title": "",
+      "desc": "",
+      "rank": 1,
+      "buff": [
+        28810001
+      ],
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/SkillIcon/200114.200114'"
+    },
+    "80008": {
+      "id": 80008,
+      "title": "",
+      "desc": "",
+      "rank": 1,
+      "buff": [
+        28810002
+      ],
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/SkillIcon/200114.200114'"
+    },
+    "80009": {
+      "id": 80009,
+      "title": "",
+      "desc": "",
+      "rank": 1,
+      "buff": [
+        28810003
+      ],
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/SkillIcon/200114.200114'"
+    },
+    "80010": {
+      "id": 80010,
+      "title": "",
+      "desc": "",
+      "rank": 1,
+      "buff": [
+        20420090
+      ],
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/SkillIcon/200114.200114'"
+    },
+    "80011": {
+      "id": 80011,
+      "title": "",
+      "desc": "",
+      "rank": 1,
+      "buff": [
+        28810004
+      ],
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/SkillIcon/200114.200114'"
+    },
+    "80012": {
+      "id": 80012,
+      "title": "",
+      "desc": "",
+      "rank": 1,
+      "buff": [
+        28810006
+      ],
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/SkillIcon/200114.200114'"
+    },
+    "80013": {
+      "id": 80013,
+      "title": "",
+      "desc": "",
+      "rank": 1,
+      "buff": [
+        28810007
+      ],
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/SkillIcon/200114.200114'"
+    },
+    "80014": {
+      "id": 80014,
+      "title": "",
+      "desc": "",
+      "target": 1,
+      "rank": 1,
+      "buff": [
+        28920001
+      ]
+    },
+    "80015": {
+      "id": 80015,
+      "title": "",
+      "desc": "",
+      "target": 2,
+      "rank": 1,
+      "buff": [
+        28920002
+      ]
+    },
+    "80016": {
+      "id": 80016,
+      "title": "",
+      "desc": "",
+      "target": 1,
+      "rank": 1,
+      "buff": [
+        28920003
+      ]
+    },
+    "80017": {
+      "id": 80017,
+      "title": "",
+      "desc": "",
+      "target": 1,
+      "rank": 1,
+      "buff": [
+        28920004
+      ]
+    },
+    "80018": {
+      "id": 80018,
+      "title": "",
+      "desc": "",
+      "target": 1,
+      "rank": 1,
+      "buff": [
+        28920006
+      ]
+    },
+    "80019": {
+      "id": 80019,
+      "title": "",
+      "desc": "",
+      "rank": 1,
+      "buff": [
+        28810008
+      ]
+    },
+    "80020": {
+      "id": 80020,
+      "title": "",
+      "desc": "",
+      "rank": 1,
+      "buff": [
+        28810009
+      ]
+    },
+    "80021": {
+      "id": 80021,
+      "title": "",
+      "desc": "",
+      "rank": 1,
+      "buff": [
+        28810010
+      ]
+    },
+    "80022": {
+      "id": 80022,
+      "title": "",
+      "desc": "",
+      "rank": 1,
+      "buff": [
+        28810011
+      ]
+    },
+    "80023": {
+      "id": 80023,
+      "title": "",
+      "desc": "",
+      "rank": 1,
+      "buff": [
+        28810012
+      ]
+    },
+    "80024": {
+      "id": 80024,
+      "title": "",
+      "desc": "",
+      "target": 2,
+      "rank": 1,
+      "buff": [
+        28800003
+      ]
+    },
+    "80025": {
+      "id": 80025,
+      "title": "",
+      "desc": "",
+      "target": 1,
+      "rank": 1,
+      "buff": [
+        28800008,
+        28800004
+      ]
+    },
+    "80026": {
+      "id": 80026,
+      "title": "",
+      "desc": "",
+      "target": 1,
+      "rank": 1,
+      "buff": [
+        28800009,
+        28800005
+      ]
+    },
+    "80027": {
+      "id": 80027,
+      "title": "",
+      "desc": "",
+      "target": 2,
+      "rank": 1,
+      "buff": [
+        28800006
+      ]
+    },
+    "80028": {
+      "id": 80028,
+      "title": "",
+      "desc": "",
+      "target": 2,
+      "rank": 1,
+      "buff": [
+        28800007
+      ]
+    },
+    "80029": {
+      "id": 80029,
+      "title": "",
+      "desc": "",
+      "target": 1,
+      "rank": 1,
+      "buff": [
+        28800008
+      ]
+    },
+    "80030": {
+      "id": 80030,
+      "title": "",
+      "desc": "",
+      "target": 1,
+      "rank": 1,
+      "buff": [
+        28800009
+      ]
+    },
+    "80031": {
+      "id": 80031,
+      "title": "",
+      "desc": "",
+      "target": 1,
+      "rank": 1,
+      "buff": [
+        28920122
+      ]
+    },
+    "81000": {
+      "id": 81000,
+      "title": "",
+      "desc": "",
+      "target": 2,
+      "rank": 1,
+      "buff": [
+        28930000
+      ]
+    },
+    "81001": {
+      "id": 81001,
+      "title": "",
+      "desc": "",
+      "target": 2,
+      "rank": 1,
+      "buff": [
+        28930001
+      ]
+    },
+    "81002": {
+      "id": 81002,
+      "title": "",
+      "desc": "",
+      "target": 2,
+      "rank": 1,
+      "buff": [
+        28930002
+      ]
+    },
+    "81003": {
+      "id": 81003,
+      "rank": 1,
+      "buff": [
+        20450100
+      ]
+    },
+    "81004": {
+      "id": 81004,
+      "target": 2,
+      "rank": 1,
+      "buff": [
+        20630080,
+        20400990,
+        20401000,
+        20401010,
+        20401020
+      ]
+    },
+    "82000": {
+      "id": 82000,
+      "title": "",
+      "desc": "",
+      "rank": 1,
+      "buff": [
+        20410030
+      ],
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/SkillIcon/200114.200114'"
+    },
+    "82001": {
+      "id": 82001,
+      "title": "",
+      "desc": "",
+      "rank": 1,
+      "buff": [
+        20170810
+      ],
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/SkillIcon/200114.200114'"
+    },
+    "82002": {
+      "id": 82002,
+      "title": "",
+      "desc": "",
+      "rank": 1,
+      "buff": [
+        28810013
+      ],
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/SkillIcon/200114.200114'"
+    },
+    "82003": {
+      "id": 82003,
+      "title": "",
+      "desc": "",
+      "rank": 1,
+      "buff": [
+        28810015
+      ],
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/SkillIcon/200114.200114'"
+    },
+    "82004": {
+      "id": 82004,
+      "title": "",
+      "desc": "",
+      "rank": 1,
+      "buff": [
+        28810036
+      ],
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/SkillIcon/200114.200114'"
+    },
+    "82005": {
+      "id": 82005,
+      "title": "",
+      "desc": "",
+      "rank": 1,
+      "buff": [
+        28810029
+      ],
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/SkillIcon/200114.200114'"
+    },
+    "82006": {
+      "id": 82006,
+      "title": "",
+      "desc": "",
+      "rank": 1,
+      "buff": [
+        28810017
+      ],
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/SkillIcon/200114.200114'"
+    },
+    "82007": {
+      "id": 82007,
+      "title": "",
+      "desc": "",
+      "rank": 1,
+      "buff": [
+        28810034
+      ],
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/SkillIcon/200114.200114'"
+    },
+    "82008": {
+      "id": 82008,
+      "title": "",
+      "desc": "",
+      "rank": 1,
+      "buff": [
+        28810035
+      ],
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/SkillIcon/200114.200114'"
+    },
+    "82009": {
+      "id": 82009,
+      "title": "",
+      "desc": "",
+      "rank": 1,
+      "buff": [
+        28810037
+      ],
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/SkillIcon/200114.200114'"
+    },
+    "82010": {
+      "id": 82010,
+      "title": "",
+      "desc": "",
+      "rank": 1,
+      "buff": [
+        28810019
+      ],
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/SkillIcon/200114.200114'"
+    },
+    "82011": {
+      "id": 82011,
+      "title": "",
+      "desc": "",
+      "rank": 1,
+      "buff": [
+        20190320
+      ],
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/SkillIcon/200114.200114'"
+    },
+    "82012": {
+      "id": 82012,
+      "title": "",
+      "desc": "",
+      "rank": 1,
+      "buff": [
+        28810021
+      ],
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/SkillIcon/200114.200114'"
+    },
+    "82013": {
+      "id": 82013,
+      "title": "",
+      "desc": "",
+      "rank": 1,
+      "buff": [
+        28810022
+      ],
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/SkillIcon/200114.200114'"
+    },
+    "82014": {
+      "id": 82014,
+      "title": "",
+      "desc": "",
+      "rank": 1,
+      "buff": [
+        28810030
+      ],
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/SkillIcon/200114.200114'"
+    },
+    "82015": {
+      "id": 82015,
+      "title": "",
+      "desc": "",
+      "rank": 1,
+      "buff": [
+        28810038
+      ],
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/SkillIcon/200114.200114'"
+    },
+    "82016": {
+      "id": 82016,
+      "title": "",
+      "desc": "",
+      "rank": 1,
+      "buff": [
+        28810026
+      ],
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/SkillIcon/200114.200114'"
+    },
+    "82017": {
+      "id": 82017,
+      "title": "",
+      "desc": "",
+      "rank": 1,
+      "buff": [
+        28810028
+      ],
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/SkillIcon/200114.200114'"
+    },
+    "82018": {
+      "id": 82018,
+      "title": "",
+      "desc": "",
+      "rank": 1,
+      "buff": [
+        28810039
+      ],
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/SkillIcon/200114.200114'"
+    },
+    "90001": {
+      "id": 90001,
+      "title": "",
+      "desc": "",
+      "rank": 1,
+      "buff": [
+        21560010,
+        21520030
+      ]
+    },
+    "90002": {
+      "id": 90002,
+      "title": "",
+      "desc": "",
+      "rank": 1,
+      "buff": [
+        21560020,
+        21520030,
+        21520020
+      ]
     }
   },
   "LocalizationStrings": {}

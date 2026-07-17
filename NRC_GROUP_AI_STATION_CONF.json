@@ -77,8 +77,7 @@
         0,
         0,
         0
-      ],
-      "individual_orinentation": 1
+      ]
     },
     "10006": {
       "id": 10006,
@@ -415,6 +414,87 @@
         0
       ]
     },
+    "230008": {
+      "id": 230008,
+      "editor_name": "栖息地群组聚集专用",
+      "station_param": [
+        300,
+        100,
+        -180,
+        180
+      ],
+      "station_center_type": 2,
+      "center_param": [
+        0,
+        0,
+        0
+      ]
+    },
+    "230009": {
+      "id": 230009,
+      "editor_name": "呼唤者周围一圈_大范围",
+      "station_param": [
+        400,
+        100,
+        -135,
+        135
+      ],
+      "center_param": [
+        0,
+        0,
+        0
+      ],
+      "individual_orinentation": 2
+    },
+    "230010": {
+      "id": 230010,
+      "editor_name": "玩家身后",
+      "station_param": [
+        500,
+        100,
+        135,
+        -135
+      ],
+      "station_center_type": 1,
+      "center_param": [
+        0,
+        0,
+        0
+      ]
+    },
+    "230011": {
+      "id": 230011,
+      "editor_name": "重心挤成一团",
+      "station_param": [
+        150,
+        0,
+        -165,
+        165
+      ],
+      "station_center_type": 2,
+      "center_param": [
+        0,
+        0,
+        0
+      ],
+      "individual_orinentation": 2
+    },
+    "230012": {
+      "id": 230012,
+      "editor_name": "包围玩家_小",
+      "station_param": [
+        250,
+        50,
+        -150,
+        150
+      ],
+      "station_center_type": 1,
+      "center_param": [
+        0,
+        0,
+        0
+      ]
+    },
     "280000": {
       "id": 280000,
       "editor_name": "圆形分布",
@@ -614,6 +694,21 @@
         0,
         120,
         -120
+      ],
+      "center_param": [
+        0,
+        0,
+        0
+      ]
+    },
+    "280013": {
+      "id": 280013,
+      "editor_name": "【卡波】睡眠站位",
+      "station_param": [
+        125,
+        0,
+        -120,
+        120
       ],
       "center_param": [
         0,

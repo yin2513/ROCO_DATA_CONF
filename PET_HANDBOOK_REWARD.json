@@ -770,6 +770,226 @@
         }
       ]
     },
+    "100036": {
+      "id": 100036,
+      "belong_area_handbook": 1,
+      "handbook_number": 360,
+      "handbook_reward": [
+        {
+          "handbook_reward_type": 1,
+          "handbook_reward_id": 100205,
+          "handbook_reward_number": 1
+        },
+        {
+          "handbook_reward_type": 2,
+          "handbook_reward_id": 3,
+          "handbook_reward_number": 5
+        },
+        {
+          "handbook_reward_type": 1,
+          "handbook_reward_id": 100002,
+          "handbook_reward_number": 20
+        }
+      ]
+    },
+    "100037": {
+      "id": 100037,
+      "belong_area_handbook": 1,
+      "handbook_number": 370,
+      "handbook_reward": [
+        {
+          "handbook_reward_type": 1,
+          "handbook_reward_id": 100205,
+          "handbook_reward_number": 1
+        },
+        {
+          "handbook_reward_type": 2,
+          "handbook_reward_id": 3,
+          "handbook_reward_number": 5
+        },
+        {
+          "handbook_reward_type": 1,
+          "handbook_reward_id": 100002,
+          "handbook_reward_number": 20
+        }
+      ]
+    },
+    "100038": {
+      "id": 100038,
+      "belong_area_handbook": 1,
+      "handbook_number": 380,
+      "handbook_reward": [
+        {
+          "handbook_reward_type": 1,
+          "handbook_reward_id": 100205,
+          "handbook_reward_number": 1
+        },
+        {
+          "handbook_reward_type": 2,
+          "handbook_reward_id": 3,
+          "handbook_reward_number": 5
+        },
+        {
+          "handbook_reward_type": 1,
+          "handbook_reward_id": 100002,
+          "handbook_reward_number": 20
+        }
+      ]
+    },
+    "100039": {
+      "id": 100039,
+      "belong_area_handbook": 1,
+      "handbook_number": 390,
+      "handbook_reward": [
+        {
+          "handbook_reward_type": 1,
+          "handbook_reward_id": 100205,
+          "handbook_reward_number": 1
+        },
+        {
+          "handbook_reward_type": 2,
+          "handbook_reward_id": 3,
+          "handbook_reward_number": 5
+        },
+        {
+          "handbook_reward_type": 1,
+          "handbook_reward_id": 100002,
+          "handbook_reward_number": 20
+        }
+      ]
+    },
+    "100040": {
+      "id": 100040,
+      "belong_area_handbook": 1,
+      "handbook_number": 400,
+      "handbook_reward": [
+        {
+          "handbook_reward_type": 1,
+          "handbook_reward_id": 100205,
+          "handbook_reward_number": 1
+        },
+        {
+          "handbook_reward_type": 2,
+          "handbook_reward_id": 3,
+          "handbook_reward_number": 5
+        },
+        {
+          "handbook_reward_type": 1,
+          "handbook_reward_id": 100002,
+          "handbook_reward_number": 20
+        }
+      ]
+    },
+    "100041": {
+      "id": 100041,
+      "belong_area_handbook": 1,
+      "handbook_number": 410,
+      "handbook_reward": [
+        {
+          "handbook_reward_type": 1,
+          "handbook_reward_id": 100205,
+          "handbook_reward_number": 1
+        },
+        {
+          "handbook_reward_type": 2,
+          "handbook_reward_id": 3,
+          "handbook_reward_number": 5
+        },
+        {
+          "handbook_reward_type": 1,
+          "handbook_reward_id": 100002,
+          "handbook_reward_number": 20
+        }
+      ]
+    },
+    "100042": {
+      "id": 100042,
+      "belong_area_handbook": 1,
+      "handbook_number": 420,
+      "handbook_reward": [
+        {
+          "handbook_reward_type": 1,
+          "handbook_reward_id": 100205,
+          "handbook_reward_number": 1
+        },
+        {
+          "handbook_reward_type": 2,
+          "handbook_reward_id": 3,
+          "handbook_reward_number": 5
+        },
+        {
+          "handbook_reward_type": 1,
+          "handbook_reward_id": 100002,
+          "handbook_reward_number": 20
+        }
+      ]
+    },
+    "100043": {
+      "id": 100043,
+      "belong_area_handbook": 1,
+      "handbook_number": 430,
+      "handbook_reward": [
+        {
+          "handbook_reward_type": 1,
+          "handbook_reward_id": 100205,
+          "handbook_reward_number": 1
+        },
+        {
+          "handbook_reward_type": 2,
+          "handbook_reward_id": 3,
+          "handbook_reward_number": 5
+        },
+        {
+          "handbook_reward_type": 1,
+          "handbook_reward_id": 100002,
+          "handbook_reward_number": 20
+        }
+      ]
+    },
+    "100044": {
+      "id": 100044,
+      "belong_area_handbook": 1,
+      "handbook_number": 440,
+      "handbook_reward": [
+        {
+          "handbook_reward_type": 1,
+          "handbook_reward_id": 100205,
+          "handbook_reward_number": 1
+        },
+        {
+          "handbook_reward_type": 2,
+          "handbook_reward_id": 3,
+          "handbook_reward_number": 5
+        },
+        {
+          "handbook_reward_type": 1,
+          "handbook_reward_id": 100002,
+          "handbook_reward_number": 20
+        }
+      ]
+    },
+    "100045": {
+      "id": 100045,
+      "belong_area_handbook": 1,
+      "handbook_number": 450,
+      "handbook_reward": [
+        {
+          "handbook_reward_type": 1,
+          "handbook_reward_id": 100205,
+          "handbook_reward_number": 1
+        },
+        {
+          "handbook_reward_type": 2,
+          "handbook_reward_id": 3,
+          "handbook_reward_number": 5
+        },
+        {
+          "handbook_reward_type": 1,
+          "handbook_reward_id": 100002,
+          "handbook_reward_number": 20
+        }
+      ]
+    },
     "200001": {
       "id": 200001,
       "belong_area_handbook": 2,
@@ -891,6 +1111,23 @@
         {
           "handbook_reward_type": 1,
           "handbook_reward_id": 111002,
+          "handbook_reward_number": 1
+        },
+        {
+          "handbook_reward_type": 1,
+          "handbook_reward_id": 100286,
+          "handbook_reward_number": 1
+        }
+      ]
+    },
+    "300006": {
+      "id": 300006,
+      "belong_area_handbook": 3,
+      "handbook_number": 227,
+      "handbook_reward": [
+        {
+          "handbook_reward_type": 1,
+          "handbook_reward_id": 111003,
           "handbook_reward_number": 1
         },
         {

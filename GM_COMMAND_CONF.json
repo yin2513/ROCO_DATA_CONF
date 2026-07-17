@@ -7833,6 +7833,86 @@
     },
     "1681": {
       "id": 1681,
+      "gm_group": "gm SceneRunAutoTest",
+      "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabScenePublic.SceneRunAutoTest"
+    },
+    "1682": {
+      "id": 1682,
+      "gm_group": "gm IntoGTSMS",
+      "gm_command": "gm Teleport -836320 789290 2220"
+    },
+    "1683": {
+      "id": 1683,
+      "gm_group": "gm IntoSCYJ",
+      "gm_command": "gm Teleport -562260 846460 1270"
+    },
+    "1684": {
+      "id": 1684,
+      "gm_group": "gm IntoYF",
+      "gm_command": "gm Teleport -556880 888650 6350"
+    },
+    "1685": {
+      "id": 1685,
+      "gm_group": "gm IntoBXGQWD",
+      "gm_command": "gm Teleport -555020 994180 4710"
+    },
+    "1686": {
+      "id": 1686,
+      "gm_group": "gm IntoBXGQHB",
+      "gm_command": "gm Teleport -512585 752425 2877"
+    },
+    "1687": {
+      "id": 1687,
+      "gm_group": "gm IntoBXGQZN",
+      "gm_command": "gm Teleport -512810 788445 2197"
+    },
+    "1688": {
+      "id": 1688,
+      "gm_group": "gm IntoWGJY",
+      "gm_command": "gm Teleport 787350 -562970 7970"
+    },
+    "1689": {
+      "id": 1689,
+      "gm_group": "gm IntoCCXW",
+      "gm_command": "gm Teleport -562030 945240 3230"
+    },
+    "1690": {
+      "id": 1690,
+      "gm_group": "gm IntoGXLHZH",
+      "gm_command": "gm Teleport -836650 737810 40"
+    },
+    "1691": {
+      "id": 1691,
+      "gm_group": "gm IntoZHCBS",
+      "gm_command": "gm Teleport -887330 840951 208"
+    },
+    "1692": {
+      "id": 1692,
+      "gm_group": "gm IntoWLGB",
+      "gm_command": "gm Teleport -836645 830755 105"
+    },
+    "1693": {
+      "id": 1693,
+      "gm_group": "gm GenerateSkillLoadTestNpc",
+      "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabAILoadTest.GenerateSkillLoadTestNpc"
+    },
+    "1694": {
+      "id": 1694,
+      "gm_group": "gm TriggerLoadTestSkill",
+      "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabAILoadTest.TriggerLoadTestSkill"
+    },
+    "1695": {
+      "id": 1695,
+      "gm_group": "gm ToggleLoadTestHidden",
+      "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabAILoadTest.ToggleLoadTestHidden"
+    },
+    "1696": {
+      "id": 1696,
+      "gm_group": "gm IntoSJYKJ",
+      "gm_command": "gm Teleport -509800 684680 30"
+    },
+    "1697": {
+      "id": 1697,
       "gm_group": "gm FashionRunAutoTest",
       "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabPlayer.FashionRunAutoTest"
     }

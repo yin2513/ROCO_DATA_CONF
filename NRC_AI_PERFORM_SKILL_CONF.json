@@ -400,6 +400,74 @@
       "parallel_playback": true,
       "skill_ref": "/Game/ArtRes/Effects/G6Skill/Jineng/World/S2/G6_Nor_FYH_World"
     },
+    "1103": {
+      "id": 1103,
+      "skill_ref": "/Game/ArtRes/Effects/G6Skill/Jineng/World/S3/G6_Cha_TP_100000_World"
+    },
+    "1104": {
+      "id": 1104,
+      "skill_ref": "/Game/ArtRes/Effects/G6Skill/Jineng/World/S3/G6_Ear_SY_708013_World"
+    },
+    "1105": {
+      "id": 1105,
+      "skill_ref": "/Game/ArtRes/Effects/G6Skill/Jineng/World/S3/G6_Elec_DCPZ_110028_World"
+    },
+    "1106": {
+      "id": 1106,
+      "skill_ref": "/Game/ArtRes/Effects/G6Skill/Jineng/World/S3/G6_Gho_XL_116015_World"
+    },
+    "1107": {
+      "id": 1107,
+      "skill_ref": "/Game/ArtRes/Effects/G6Skill/Jineng/World/S3/G6_Gho_XTXM_116019_World"
+    },
+    "1108": {
+      "id": 1108,
+      "skill_ref": "/Game/ArtRes/Effects/G6Skill/Jineng/World/S3/G6_Mar_PZ_714003_World"
+    },
+    "1109": {
+      "id": 1109,
+      "skill_ref": "/Game/ArtRes/Effects/G6Skill/Jineng/World/S3/G6_Worm_CQZH_212012_World"
+    },
+    "1110": {
+      "id": 1110,
+      "skill_ref": "/Game/ArtRes/Effects/G6Skill/Jineng/World/G6_Gra_HX_Word_1"
+    },
+    "1111": {
+      "id": 1111,
+      "skill_ref": "/Game/ArtRes/Effects/G6Skill/Jineng/World/G6_Ele_DWHL_110021B_WordA"
+    },
+    "1112": {
+      "id": 1112,
+      "skill_ref": "/Game/ArtRes/Effects/G6Skill/Jineng/World/G6_Ele_DWHL_110021B_WordB"
+    },
+    "1901": {
+      "id": 1901,
+      "skill_ref": "/Game/ArtRes/Effects/G6Skill/SceneEffect/G6_JLJH_yinfu"
+    },
+    "1902": {
+      "id": 1902,
+      "skill_ref": "/Game/ArtRes/Effects/G6Skill/SceneEffect/G6_JLJH_gantanhao"
+    },
+    "1903": {
+      "id": 1903,
+      "skill_ref": "/Game/ArtRes/Effects/G6Skill/SceneEffect/G6_JLJH_wenhao"
+    },
+    "1904": {
+      "id": 1904,
+      "skill_ref": "/Game/ArtRes/Effects/G6Skill/SceneEffect/G6_JLJH_sad"
+    },
+    "1905": {
+      "id": 1905,
+      "skill_ref": "/Game/ArtRes/Effects/G6Skill/SceneEffect/G6_JLJH_wait"
+    },
+    "1906": {
+      "id": 1906,
+      "skill_ref": "/Game/ArtRes/Effects/G6Skill/SceneEffect/G6_JLJH_Hgantanhao"
+    },
+    "1907": {
+      "id": 1907,
+      "skill_ref": "/Game/ArtRes/Effects/G6Skill/SceneEffect/G6_JLJH_CJwenhao"
+    },
     "2001": {
       "id": 2001,
       "skill_ref": "/Game/ArtRes/Effects/G6Skill/SceneEffect/Pet/G6_Pvb_Anger"
@@ -502,6 +570,10 @@
       "id": 2022,
       "parallel_playback": true,
       "skill_ref": "/Game/ArtRes/Effects/G6Skill/NPC/NPC_Ghost_Only"
+    },
+    "2023": {
+      "id": 2023,
+      "skill_ref": "/Game/ArtRes/Effects/G6Skill/Jineng/World/G6_Dem_TX_7999922_1"
     },
     "3001": {
       "id": 3001,
@@ -735,6 +807,14 @@
     "3051": {
       "id": 3051,
       "skill_ref": "/Game/ArtRes/Effects/G6Skill/SceneEffect/Pet/Ecology/G6_Scene_Ecology_LYellow_loop"
+    },
+    "3052": {
+      "id": 3052,
+      "skill_ref": "/Game/ArtRes/Effects/G6Skill/SceneEffect/Pet/Ecology/G6_Scene_Ecology_LYellow_loop2"
+    },
+    "3053": {
+      "id": 3053,
+      "skill_ref": "/Game/ArtRes/Effects/G6Skill/SceneEffect/Pet/Ecology/G6_Scene_Ecology_LYellow_loop3"
     },
     "3060": {
       "id": 3060,
@@ -1186,8 +1266,121 @@
       "interrupt_when_stop_ai": true,
       "skill_ref": "/Game/ArtRes/Effects/G6Skill/Jineng/World/S2/G6_Nor_DJYYZ_World_Only"
     },
+    "3153": {
+      "id": 3153,
+      "parallel_playback": true,
+      "skill_ref": "/Game/ArtRes/Effects/G6Skill/SceneEffect/Pet/Ecology/G6_Scene_Ecology_dustyshow"
+    },
+    "3154": {
+      "id": 3154,
+      "skill_ref": "/Game/ArtRes/Effects/G6Skill/Jineng/World/S3/G6_Cha_TP_100000_World_Wuwu"
+    },
+    "3155": {
+      "id": 3155,
+      "parallel_playback": true,
+      "skill_ref": "/Game/ArtRes/Effects/G6Skill/SceneEffect/Pet/Ecology/G6_Scene_Appear_Begroup"
+    },
+    "3156": {
+      "id": 3156,
+      "skill_ref": "/Game/ArtRes/Effects/G6Skill/Jineng/World/G6_Win_MQHJ_114016_Word1"
+    },
+    "3157": {
+      "id": 3157,
+      "skill_ref": "/Game/ArtRes/Effects/G6Skill/Test/G6_Earthquake_HJR"
+    },
+    "3158": {
+      "id": 3158,
+      "parallel_playback": true,
+      "interrupt_when_stop_ai": true,
+      "skill_ref": "/Game/ArtRes/Effects/G6Skill/Jineng/World/S2/G6_Nor_JGD"
+    },
+    "3159": {
+      "id": 3159,
+      "parallel_playback": true,
+      "interrupt_when_stop_ai": true,
+      "skill_ref": "/Game/ArtRes/Effects/G6Skill/Jineng/World/S2/G6_Nor_DJYYZ_World_LSZZ1"
+    },
+    "3160": {
+      "id": 3160,
+      "parallel_playback": true,
+      "interrupt_when_stop_ai": true,
+      "skill_ref": "/Game/ArtRes/Effects/G6Skill/Jineng/World/S2/G6_Nor_DJYYZ_World_LSZZ2"
+    },
+    "3161": {
+      "id": 3161,
+      "parallel_playback": true,
+      "interrupt_when_stop_ai": true,
+      "skill_ref": "/Game/ArtRes/Effects/G6Skill/Jineng/World/S2/G6_Nor_DJYYZ_World_LSZZ3"
+    },
+    "3162": {
+      "id": 3162,
+      "parallel_playback": true,
+      "interrupt_when_stop_ai": true,
+      "skill_ref": "/Game/ArtRes/Effects/G6Skill/Jineng/World/S2/G6_Nor_DJYYZ_World_LSZZ4"
+    },
+    "3163": {
+      "id": 3163,
+      "parallel_playback": true,
+      "interrupt_when_stop_ai": true,
+      "skill_ref": "/Game/ArtRes/Effects/G6Skill/Jineng/World/S2/G6_Nor_JGD_Player"
+    },
+    "3164": {
+      "id": 3164,
+      "parallel_playback": true,
+      "interrupt_when_stop_ai": true,
+      "skill_ref": "/Game/ArtRes/Effects/G6Skill/SceneEffect/HomeLand/G6_Scene_Homeland_Chazhuo01"
+    },
+    "3165": {
+      "id": 3165,
+      "parallel_playback": true,
+      "interrupt_when_stop_ai": true,
+      "skill_ref": "/Game/ArtRes/Effects/G6Skill/SceneEffect/HomeLand/G6_Scene_Homeland_Chazhuo02"
+    },
+    "3166": {
+      "id": 3166,
+      "parallel_playback": true,
+      "interrupt_when_stop_ai": true,
+      "skill_ref": "/Game/ArtRes/Effects/G6Skill/Home/G6_FNO_TBE_1006016"
+    },
+    "3167": {
+      "id": 3167,
+      "parallel_playback": true,
+      "interrupt_when_stop_ai": true,
+      "skill_ref": "/Game/ArtRes/Effects/G6Skill/Home/G6_FNO_PAT_1006017"
+    },
+    "3168": {
+      "id": 3168,
+      "parallel_playback": true,
+      "interrupt_when_stop_ai": true,
+      "skill_ref": "/Game/ArtRes/Effects/G6Skill/Jineng/World/G6_Common_LerpTo1"
+    },
+    "3169": {
+      "id": 3169,
+      "parallel_playback": true,
+      "interrupt_when_stop_ai": true,
+      "skill_ref": "/Game/ArtRes/Effects/G6Skill/PetScenePerform/G6_BWC_700018_YaoYao"
+    },
+    "3170": {
+      "id": 3170,
+      "parallel_playback": true,
+      "interrupt_when_stop_ai": true,
+      "skill_ref": "/Game/ArtRes/Effects/G6Skill/PetScenePerform/G6_BWC_700018_YaoYao1"
+    },
+    "3171": {
+      "id": 3171,
+      "parallel_playback": true,
+      "interrupt_when_stop_ai": true,
+      "skill_ref": "/Game/ArtRes/Effects/G6Skill/PetScenePerform/G6_BWC_700018_ZuJian"
+    },
+    "3172": {
+      "id": 3172,
+      "parallel_playback": true,
+      "interrupt_when_stop_ai": true,
+      "skill_ref": "/Game/ArtRes/Effects/G6Skill/PetScenePerform/G6_BWC_700018_ZuJian1"
+    },
     "5018": {
       "id": 5018,
+      "interrupt_when_stop_ai": true,
       "skill_ref": "/Game/ArtRes/Effects/G6Skill/PetScenePerform/G6_BWC_700018_LLY01"
     }
   },

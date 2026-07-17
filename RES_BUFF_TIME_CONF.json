@@ -808,6 +808,41 @@
         466
       ]
     },
+    "20010039": {
+      "id": 20010039,
+      "skill_time": [
+        2333,
+        2333
+      ],
+      "skill_pre_end": [
+        500,
+        500
+      ],
+      "skill_counter": [
+        500,
+        500
+      ],
+      "skill_interrupt": [
+        500,
+        500
+      ],
+      "skill_melee_before": [
+        0,
+        0
+      ],
+      "skill_melee_after": [
+        500,
+        500
+      ],
+      "skill_ranged_before": [
+        0,
+        0
+      ],
+      "skill_ranged_after": [
+        500,
+        500
+      ]
+    },
     "20010040": {
       "id": 20010040,
       "skill_time": [
@@ -946,6 +981,76 @@
       "skill_ranged_after": [
         466,
         466
+      ]
+    },
+    "20010044": {
+      "id": 20010044,
+      "skill_time": [
+        2333,
+        2333
+      ],
+      "skill_pre_end": [
+        500,
+        500
+      ],
+      "skill_counter": [
+        500,
+        500
+      ],
+      "skill_interrupt": [
+        500,
+        500
+      ],
+      "skill_melee_before": [
+        0,
+        0
+      ],
+      "skill_melee_after": [
+        500,
+        500
+      ],
+      "skill_ranged_before": [
+        0,
+        0
+      ],
+      "skill_ranged_after": [
+        500,
+        500
+      ]
+    },
+    "20010045": {
+      "id": 20010045,
+      "skill_time": [
+        2333,
+        2333
+      ],
+      "skill_pre_end": [
+        500,
+        500
+      ],
+      "skill_counter": [
+        500,
+        500
+      ],
+      "skill_interrupt": [
+        500,
+        500
+      ],
+      "skill_melee_before": [
+        0,
+        0
+      ],
+      "skill_melee_after": [
+        500,
+        500
+      ],
+      "skill_ranged_before": [
+        0,
+        0
+      ],
+      "skill_ranged_after": [
+        500,
+        500
       ]
     },
     "20010050": {
@@ -1473,6 +1578,76 @@
         466
       ]
     },
+    "20010074": {
+      "id": 20010074,
+      "skill_time": [
+        1500,
+        1500
+      ],
+      "skill_pre_end": [
+        466,
+        466
+      ],
+      "skill_counter": [
+        466,
+        466
+      ],
+      "skill_interrupt": [
+        466,
+        466
+      ],
+      "skill_melee_before": [
+        0,
+        0
+      ],
+      "skill_melee_after": [
+        466,
+        466
+      ],
+      "skill_ranged_before": [
+        0,
+        0
+      ],
+      "skill_ranged_after": [
+        466,
+        466
+      ]
+    },
+    "20010076": {
+      "id": 20010076,
+      "skill_time": [
+        1500,
+        1500
+      ],
+      "skill_pre_end": [
+        466,
+        466
+      ],
+      "skill_counter": [
+        466,
+        466
+      ],
+      "skill_interrupt": [
+        466,
+        466
+      ],
+      "skill_melee_before": [
+        0,
+        0
+      ],
+      "skill_melee_after": [
+        466,
+        466
+      ],
+      "skill_ranged_before": [
+        0,
+        0
+      ],
+      "skill_ranged_after": [
+        466,
+        466
+      ]
+    },
     "20010080": {
       "id": 20010080,
       "skill_time": [
@@ -1613,6 +1788,41 @@
         466
       ]
     },
+    "20010084": {
+      "id": 20010084,
+      "skill_time": [
+        1500,
+        1500
+      ],
+      "skill_pre_end": [
+        466,
+        466
+      ],
+      "skill_counter": [
+        466,
+        466
+      ],
+      "skill_interrupt": [
+        466,
+        466
+      ],
+      "skill_melee_before": [
+        0,
+        0
+      ],
+      "skill_melee_after": [
+        466,
+        466
+      ],
+      "skill_ranged_before": [
+        0,
+        0
+      ],
+      "skill_ranged_after": [
+        466,
+        466
+      ]
+    },
     "20010091": {
       "id": 20010091,
       "skill_time": [
@@ -1681,6 +1891,111 @@
       "skill_ranged_after": [
         466,
         466
+      ]
+    },
+    "20010094": {
+      "id": 20010094,
+      "skill_time": [
+        2333,
+        2333
+      ],
+      "skill_pre_end": [
+        500,
+        500
+      ],
+      "skill_counter": [
+        500,
+        500
+      ],
+      "skill_interrupt": [
+        500,
+        500
+      ],
+      "skill_melee_before": [
+        0,
+        0
+      ],
+      "skill_melee_after": [
+        500,
+        500
+      ],
+      "skill_ranged_before": [
+        0,
+        0
+      ],
+      "skill_ranged_after": [
+        500,
+        500
+      ]
+    },
+    "20010095": {
+      "id": 20010095,
+      "skill_time": [
+        1500,
+        1500
+      ],
+      "skill_pre_end": [
+        466,
+        466
+      ],
+      "skill_counter": [
+        466,
+        466
+      ],
+      "skill_interrupt": [
+        466,
+        466
+      ],
+      "skill_melee_before": [
+        0,
+        0
+      ],
+      "skill_melee_after": [
+        466,
+        466
+      ],
+      "skill_ranged_before": [
+        0,
+        0
+      ],
+      "skill_ranged_after": [
+        466,
+        466
+      ]
+    },
+    "20010096": {
+      "id": 20010096,
+      "skill_time": [
+        2333,
+        2333
+      ],
+      "skill_pre_end": [
+        500,
+        500
+      ],
+      "skill_counter": [
+        500,
+        500
+      ],
+      "skill_interrupt": [
+        500,
+        500
+      ],
+      "skill_melee_before": [
+        0,
+        0
+      ],
+      "skill_melee_after": [
+        500,
+        500
+      ],
+      "skill_ranged_before": [
+        0,
+        0
+      ],
+      "skill_ranged_after": [
+        500,
+        500
       ]
     },
     "20010100": {
@@ -4735,6 +5050,41 @@
         500
       ]
     },
+    "20011591": {
+      "id": 20011591,
+      "skill_time": [
+        2666,
+        2666
+      ],
+      "skill_pre_end": [
+        1433,
+        1433
+      ],
+      "skill_counter": [
+        1433,
+        1433
+      ],
+      "skill_interrupt": [
+        1433,
+        1433
+      ],
+      "skill_melee_before": [
+        0,
+        0
+      ],
+      "skill_melee_after": [
+        1433,
+        1433
+      ],
+      "skill_ranged_before": [
+        0,
+        0
+      ],
+      "skill_ranged_after": [
+        1433,
+        1433
+      ]
+    },
     "20040030": {
       "id": 20040030,
       "skill_time": [
@@ -5479,6 +5829,76 @@
         1066
       ]
     },
+    "20100092": {
+      "id": 20100092,
+      "skill_time": [
+        0,
+        2333
+      ],
+      "skill_pre_end": [
+        0,
+        1066
+      ],
+      "skill_counter": [
+        0,
+        1066
+      ],
+      "skill_interrupt": [
+        0,
+        1066
+      ],
+      "skill_melee_before": [
+        0,
+        0
+      ],
+      "skill_melee_after": [
+        0,
+        1066
+      ],
+      "skill_ranged_before": [
+        0,
+        0
+      ],
+      "skill_ranged_after": [
+        0,
+        1066
+      ]
+    },
+    "20100100": {
+      "id": 20100100,
+      "skill_time": [
+        0,
+        2333
+      ],
+      "skill_pre_end": [
+        0,
+        1066
+      ],
+      "skill_counter": [
+        0,
+        1066
+      ],
+      "skill_interrupt": [
+        0,
+        1066
+      ],
+      "skill_melee_before": [
+        0,
+        0
+      ],
+      "skill_melee_after": [
+        0,
+        1066
+      ],
+      "skill_ranged_before": [
+        0,
+        0
+      ],
+      "skill_ranged_after": [
+        0,
+        1066
+      ]
+    },
     "20110530": {
       "id": 20110530,
       "skill_time": [
@@ -5506,6 +5926,33 @@
         433
       ]
     },
+    "20173480": {
+      "id": 20173480,
+      "skill_time": [
+        2500
+      ],
+      "skill_pre_end": [
+        1533
+      ],
+      "skill_counter": [
+        1533
+      ],
+      "skill_interrupt": [
+        1533
+      ],
+      "skill_melee_before": [
+        0
+      ],
+      "skill_melee_after": [
+        1400
+      ],
+      "skill_ranged_before": [
+        0
+      ],
+      "skill_ranged_after": [
+        1400
+      ]
+    },
     "20380070": {
       "id": 20380070,
       "skill_time": [
@@ -5531,6 +5978,41 @@
       ],
       "skill_ranged_after": [
         3200
+      ]
+    },
+    "20380101": {
+      "id": 20380101,
+      "skill_time": [
+        3000,
+        166
+      ],
+      "skill_pre_end": [
+        1866,
+        100
+      ],
+      "skill_counter": [
+        1866,
+        100
+      ],
+      "skill_interrupt": [
+        1866,
+        100
+      ],
+      "skill_melee_before": [
+        0,
+        0
+      ],
+      "skill_melee_after": [
+        1866,
+        100
+      ],
+      "skill_ranged_before": [
+        0,
+        0
+      ],
+      "skill_ranged_after": [
+        1866,
+        100
       ]
     },
     "20380140": {
@@ -5671,28 +6153,28 @@
     "20480030": {
       "id": 20480030,
       "skill_time": [
-        6500
+        8333
       ],
       "skill_pre_end": [
-        6500
+        8333
       ],
       "skill_counter": [
-        6500
+        8333
       ],
       "skill_interrupt": [
-        6500
+        8333
       ],
       "skill_melee_before": [
         0
       ],
       "skill_melee_after": [
-        6500
+        8333
       ],
       "skill_ranged_before": [
         0
       ],
       "skill_ranged_after": [
-        6500
+        8333
       ]
     },
     "20480031": {
@@ -6530,6 +7012,33 @@
       ],
       "skill_ranged_after": [
         2666
+      ]
+    },
+    "20490400": {
+      "id": 20490400,
+      "skill_time": [
+        2000
+      ],
+      "skill_pre_end": [
+        2000
+      ],
+      "skill_counter": [
+        2000
+      ],
+      "skill_interrupt": [
+        2000
+      ],
+      "skill_melee_before": [
+        0
+      ],
+      "skill_melee_after": [
+        1166
+      ],
+      "skill_ranged_before": [
+        0
+      ],
+      "skill_ranged_after": [
+        1166
       ]
     },
     "20500010": {
@@ -7433,6 +7942,895 @@
       "skill_ranged_after": [
         1900,
         100
+      ]
+    },
+    "28810018": {
+      "id": 28810018,
+      "skill_time": [
+        2333,
+        2333
+      ],
+      "skill_pre_end": [
+        1000,
+        1000
+      ],
+      "skill_counter": [
+        1000,
+        1000
+      ],
+      "skill_interrupt": [
+        1000,
+        1000
+      ],
+      "skill_melee_before": [
+        0,
+        0
+      ],
+      "skill_melee_after": [
+        1000,
+        1000
+      ],
+      "skill_ranged_before": [
+        0,
+        0
+      ],
+      "skill_ranged_after": [
+        1000,
+        1000
+      ]
+    },
+    "28810023": {
+      "id": 28810023,
+      "skill_time": [
+        2666,
+        2666
+      ],
+      "skill_pre_end": [
+        1433,
+        1433
+      ],
+      "skill_counter": [
+        1433,
+        1433
+      ],
+      "skill_interrupt": [
+        1433,
+        1433
+      ],
+      "skill_melee_before": [
+        0,
+        0
+      ],
+      "skill_melee_after": [
+        1433,
+        1433
+      ],
+      "skill_ranged_before": [
+        0,
+        0
+      ],
+      "skill_ranged_after": [
+        1433,
+        1433
+      ]
+    },
+    "28810024": {
+      "id": 28810024,
+      "skill_time": [
+        2666,
+        2666
+      ],
+      "skill_pre_end": [
+        1433,
+        1433
+      ],
+      "skill_counter": [
+        1433,
+        1433
+      ],
+      "skill_interrupt": [
+        1433,
+        1433
+      ],
+      "skill_melee_before": [
+        0,
+        0
+      ],
+      "skill_melee_after": [
+        1433,
+        1433
+      ],
+      "skill_ranged_before": [
+        0,
+        0
+      ],
+      "skill_ranged_after": [
+        1433,
+        1433
+      ]
+    },
+    "28810025": {
+      "id": 28810025,
+      "skill_time": [
+        2666,
+        2666
+      ],
+      "skill_pre_end": [
+        1433,
+        1433
+      ],
+      "skill_counter": [
+        1433,
+        1433
+      ],
+      "skill_interrupt": [
+        1433,
+        1433
+      ],
+      "skill_melee_before": [
+        0,
+        0
+      ],
+      "skill_melee_after": [
+        1433,
+        1433
+      ],
+      "skill_ranged_before": [
+        0,
+        0
+      ],
+      "skill_ranged_after": [
+        1433,
+        1433
+      ]
+    },
+    "28810027": {
+      "id": 28810027,
+      "skill_time": [
+        2666,
+        2666
+      ],
+      "skill_pre_end": [
+        1433,
+        1433
+      ],
+      "skill_counter": [
+        1433,
+        1433
+      ],
+      "skill_interrupt": [
+        1433,
+        1433
+      ],
+      "skill_melee_before": [
+        0,
+        0
+      ],
+      "skill_melee_after": [
+        1433,
+        1433
+      ],
+      "skill_ranged_before": [
+        0,
+        0
+      ],
+      "skill_ranged_after": [
+        1433,
+        1433
+      ]
+    },
+    "28910020": {
+      "id": 28910020,
+      "skill_time": [
+        0,
+        2333
+      ],
+      "skill_pre_end": [
+        0,
+        1066
+      ],
+      "skill_counter": [
+        0,
+        1066
+      ],
+      "skill_interrupt": [
+        0,
+        1066
+      ],
+      "skill_melee_before": [
+        0,
+        0
+      ],
+      "skill_melee_after": [
+        0,
+        1066
+      ],
+      "skill_ranged_before": [
+        0,
+        0
+      ],
+      "skill_ranged_after": [
+        0,
+        1066
+      ]
+    },
+    "28910059": {
+      "id": 28910059,
+      "skill_time": [
+        0,
+        2333
+      ],
+      "skill_pre_end": [
+        0,
+        1066
+      ],
+      "skill_counter": [
+        0,
+        1066
+      ],
+      "skill_interrupt": [
+        0,
+        1066
+      ],
+      "skill_melee_before": [
+        0,
+        0
+      ],
+      "skill_melee_after": [
+        0,
+        1066
+      ],
+      "skill_ranged_before": [
+        0,
+        0
+      ],
+      "skill_ranged_after": [
+        0,
+        1066
+      ]
+    },
+    "28910081": {
+      "id": 28910081,
+      "skill_time": [
+        2666
+      ],
+      "skill_pre_end": [
+        1433
+      ],
+      "skill_counter": [
+        1433
+      ],
+      "skill_interrupt": [
+        1433
+      ],
+      "skill_melee_before": [
+        0
+      ],
+      "skill_melee_after": [
+        1433
+      ],
+      "skill_ranged_before": [
+        0
+      ],
+      "skill_ranged_after": [
+        1433
+      ]
+    },
+    "28910099": {
+      "id": 28910099,
+      "skill_time": [
+        0,
+        2666
+      ],
+      "skill_pre_end": [
+        0,
+        1433
+      ],
+      "skill_counter": [
+        0,
+        1433
+      ],
+      "skill_interrupt": [
+        0,
+        1433
+      ],
+      "skill_melee_before": [
+        0,
+        0
+      ],
+      "skill_melee_after": [
+        0,
+        1433
+      ],
+      "skill_ranged_before": [
+        0,
+        0
+      ],
+      "skill_ranged_after": [
+        0,
+        1433
+      ]
+    },
+    "28910154": {
+      "id": 28910154,
+      "skill_time": [
+        0,
+        2333
+      ],
+      "skill_pre_end": [
+        0,
+        1066
+      ],
+      "skill_counter": [
+        0,
+        1066
+      ],
+      "skill_interrupt": [
+        0,
+        1066
+      ],
+      "skill_melee_before": [
+        0,
+        0
+      ],
+      "skill_melee_after": [
+        0,
+        1066
+      ],
+      "skill_ranged_before": [
+        0,
+        0
+      ],
+      "skill_ranged_after": [
+        0,
+        1066
+      ]
+    },
+    "28910251": {
+      "id": 28910251,
+      "skill_time": [
+        2666
+      ],
+      "skill_pre_end": [
+        1433
+      ],
+      "skill_counter": [
+        1433
+      ],
+      "skill_interrupt": [
+        1433
+      ],
+      "skill_melee_before": [
+        0
+      ],
+      "skill_melee_after": [
+        1433
+      ],
+      "skill_ranged_before": [
+        0
+      ],
+      "skill_ranged_after": [
+        1433
+      ]
+    },
+    "28910253": {
+      "id": 28910253,
+      "skill_time": [
+        0,
+        2666
+      ],
+      "skill_pre_end": [
+        0,
+        1433
+      ],
+      "skill_counter": [
+        0,
+        1433
+      ],
+      "skill_interrupt": [
+        0,
+        1433
+      ],
+      "skill_melee_before": [
+        0,
+        0
+      ],
+      "skill_melee_after": [
+        0,
+        1433
+      ],
+      "skill_ranged_before": [
+        0,
+        0
+      ],
+      "skill_ranged_after": [
+        0,
+        1433
+      ]
+    },
+    "28910279": {
+      "id": 28910279,
+      "skill_time": [
+        2666
+      ],
+      "skill_pre_end": [
+        1433
+      ],
+      "skill_counter": [
+        1433
+      ],
+      "skill_interrupt": [
+        1433
+      ],
+      "skill_melee_before": [
+        0
+      ],
+      "skill_melee_after": [
+        1433
+      ],
+      "skill_ranged_before": [
+        0
+      ],
+      "skill_ranged_after": [
+        1433
+      ]
+    },
+    "28910280": {
+      "id": 28910280,
+      "skill_time": [
+        2666
+      ],
+      "skill_pre_end": [
+        1433
+      ],
+      "skill_counter": [
+        1433
+      ],
+      "skill_interrupt": [
+        1433
+      ],
+      "skill_melee_before": [
+        0
+      ],
+      "skill_melee_after": [
+        1433
+      ],
+      "skill_ranged_before": [
+        0
+      ],
+      "skill_ranged_after": [
+        1433
+      ]
+    },
+    "28910281": {
+      "id": 28910281,
+      "skill_time": [
+        2666
+      ],
+      "skill_pre_end": [
+        1433
+      ],
+      "skill_counter": [
+        1433
+      ],
+      "skill_interrupt": [
+        1433
+      ],
+      "skill_melee_before": [
+        0
+      ],
+      "skill_melee_after": [
+        1433
+      ],
+      "skill_ranged_before": [
+        0
+      ],
+      "skill_ranged_after": [
+        1433
+      ]
+    },
+    "28910282": {
+      "id": 28910282,
+      "skill_time": [
+        2666
+      ],
+      "skill_pre_end": [
+        1433
+      ],
+      "skill_counter": [
+        1433
+      ],
+      "skill_interrupt": [
+        1433
+      ],
+      "skill_melee_before": [
+        0
+      ],
+      "skill_melee_after": [
+        1433
+      ],
+      "skill_ranged_before": [
+        0
+      ],
+      "skill_ranged_after": [
+        1433
+      ]
+    },
+    "28910303": {
+      "id": 28910303,
+      "skill_time": [
+        2666,
+        2666
+      ],
+      "skill_pre_end": [
+        1433,
+        1433
+      ],
+      "skill_counter": [
+        1433,
+        1433
+      ],
+      "skill_interrupt": [
+        1433,
+        1433
+      ],
+      "skill_melee_before": [
+        0,
+        0
+      ],
+      "skill_melee_after": [
+        1433,
+        1433
+      ],
+      "skill_ranged_before": [
+        0,
+        0
+      ],
+      "skill_ranged_after": [
+        1433,
+        1433
+      ]
+    },
+    "28910307": {
+      "id": 28910307,
+      "skill_time": [
+        2333,
+        2333
+      ],
+      "skill_pre_end": [
+        500,
+        500
+      ],
+      "skill_counter": [
+        500,
+        500
+      ],
+      "skill_interrupt": [
+        500,
+        500
+      ],
+      "skill_melee_before": [
+        0,
+        0
+      ],
+      "skill_melee_after": [
+        500,
+        500
+      ],
+      "skill_ranged_before": [
+        0,
+        0
+      ],
+      "skill_ranged_after": [
+        500,
+        500
+      ]
+    },
+    "28910309": {
+      "id": 28910309,
+      "skill_time": [
+        2666,
+        2666
+      ],
+      "skill_pre_end": [
+        1433,
+        1433
+      ],
+      "skill_counter": [
+        1433,
+        1433
+      ],
+      "skill_interrupt": [
+        1433,
+        1433
+      ],
+      "skill_melee_before": [
+        0,
+        0
+      ],
+      "skill_melee_after": [
+        1433,
+        1433
+      ],
+      "skill_ranged_before": [
+        0,
+        0
+      ],
+      "skill_ranged_after": [
+        1433,
+        1433
+      ]
+    },
+    "28910310": {
+      "id": 28910310,
+      "skill_time": [
+        2666,
+        2666
+      ],
+      "skill_pre_end": [
+        1433,
+        1433
+      ],
+      "skill_counter": [
+        1433,
+        1433
+      ],
+      "skill_interrupt": [
+        1433,
+        1433
+      ],
+      "skill_melee_before": [
+        0,
+        0
+      ],
+      "skill_melee_after": [
+        1433,
+        1433
+      ],
+      "skill_ranged_before": [
+        0,
+        0
+      ],
+      "skill_ranged_after": [
+        1433,
+        1433
+      ]
+    },
+    "28910311": {
+      "id": 28910311,
+      "skill_time": [
+        166,
+        1133
+      ],
+      "skill_pre_end": [
+        100,
+        1100
+      ],
+      "skill_counter": [
+        100,
+        1100
+      ],
+      "skill_interrupt": [
+        100,
+        1100
+      ],
+      "skill_melee_before": [
+        0,
+        0
+      ],
+      "skill_melee_after": [
+        100,
+        1100
+      ],
+      "skill_ranged_before": [
+        0,
+        0
+      ],
+      "skill_ranged_after": [
+        100,
+        1100
+      ]
+    },
+    "28910337": {
+      "id": 28910337,
+      "skill_time": [
+        2833
+      ],
+      "skill_pre_end": [
+        1100
+      ],
+      "skill_counter": [
+        1100
+      ],
+      "skill_interrupt": [
+        1100
+      ],
+      "skill_melee_before": [
+        0
+      ],
+      "skill_melee_after": [
+        1100
+      ],
+      "skill_ranged_before": [
+        0
+      ],
+      "skill_ranged_after": [
+        1100
+      ]
+    },
+    "28910340": {
+      "id": 28910340,
+      "skill_time": [
+        2333,
+        2333
+      ],
+      "skill_pre_end": [
+        500,
+        500
+      ],
+      "skill_counter": [
+        500,
+        500
+      ],
+      "skill_interrupt": [
+        500,
+        500
+      ],
+      "skill_melee_before": [
+        0,
+        0
+      ],
+      "skill_melee_after": [
+        500,
+        500
+      ],
+      "skill_ranged_before": [
+        0,
+        0
+      ],
+      "skill_ranged_after": [
+        500,
+        500
+      ]
+    },
+    "28910341": {
+      "id": 28910341,
+      "skill_time": [
+        2666,
+        2666
+      ],
+      "skill_pre_end": [
+        1433,
+        1433
+      ],
+      "skill_counter": [
+        1433,
+        1433
+      ],
+      "skill_interrupt": [
+        1433,
+        1433
+      ],
+      "skill_melee_before": [
+        0,
+        0
+      ],
+      "skill_melee_after": [
+        1433,
+        1433
+      ],
+      "skill_ranged_before": [
+        0,
+        0
+      ],
+      "skill_ranged_after": [
+        1433,
+        1433
+      ]
+    },
+    "28910342": {
+      "id": 28910342,
+      "skill_time": [
+        2666,
+        2666
+      ],
+      "skill_pre_end": [
+        1433,
+        1433
+      ],
+      "skill_counter": [
+        1433,
+        1433
+      ],
+      "skill_interrupt": [
+        1433,
+        1433
+      ],
+      "skill_melee_before": [
+        0,
+        0
+      ],
+      "skill_melee_after": [
+        1433,
+        1433
+      ],
+      "skill_ranged_before": [
+        0,
+        0
+      ],
+      "skill_ranged_after": [
+        1433,
+        1433
+      ]
+    },
+    "28910347": {
+      "id": 28910347,
+      "skill_time": [
+        2666,
+        2666
+      ],
+      "skill_pre_end": [
+        1433,
+        1433
+      ],
+      "skill_counter": [
+        1433,
+        1433
+      ],
+      "skill_interrupt": [
+        1433,
+        1433
+      ],
+      "skill_melee_before": [
+        0,
+        0
+      ],
+      "skill_melee_after": [
+        1433,
+        1433
+      ],
+      "skill_ranged_before": [
+        0,
+        0
+      ],
+      "skill_ranged_after": [
+        1433,
+        1433
+      ]
+    },
+    "28910348": {
+      "id": 28910348,
+      "skill_time": [
+        2666,
+        2666
+      ],
+      "skill_pre_end": [
+        1433,
+        1433
+      ],
+      "skill_counter": [
+        1433,
+        1433
+      ],
+      "skill_interrupt": [
+        1433,
+        1433
+      ],
+      "skill_melee_before": [
+        0,
+        0
+      ],
+      "skill_melee_after": [
+        1433,
+        1433
+      ],
+      "skill_ranged_before": [
+        0,
+        0
+      ],
+      "skill_ranged_after": [
+        1433,
+        1433
       ]
     },
     "29990071": {

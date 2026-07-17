@@ -53,7 +53,7 @@
     "takephoto_storage_num": {
       "id": 9,
       "key": "takephoto_storage_num",
-      "num": 50
+      "num": 300
     },
     "takephoto_coercive_esc_distance": {
       "id": 10,
@@ -106,7 +106,8 @@
         1105,
         1106,
         1107,
-        1111
+        1111,
+        1053
       ]
     },
     "takephoto_coercive_esc_height": {
@@ -141,7 +142,7 @@
     "takephoto_cloud_storage_num": {
       "id": 25,
       "key": "takephoto_cloud_storage_num",
-      "num": 10
+      "num": 50
     },
     "takephoto_rolecard_enlarge_max": {
       "id": 26,
@@ -280,6 +281,54 @@
       "id": 51,
       "key": "takephoto_identify_pet_max",
       "num": 6
+    },
+    "takephoto_petAI_range": {
+      "id": 52,
+      "key": "takephoto_petAI_range",
+      "num": 1500
+    },
+    "takephoto_cloud_task_storage_num": {
+      "id": 53,
+      "key": "takephoto_cloud_task_storage_num",
+      "num": 10
+    },
+    "takephoto_brightness": {
+      "id": 54,
+      "key": "takephoto_brightness",
+      "numList": [
+        10,
+        100
+      ]
+    },
+    "takephoto_auto_selfie_distance": {
+      "id": 55,
+      "key": "takephoto_auto_selfie_distance",
+      "num": 300
+    },
+    "takephoto_auto_selfie_offset_Z": {
+      "id": 56,
+      "key": "takephoto_auto_selfie_offset_Z",
+      "num": 50
+    },
+    "takephoto_auto_selfie_rot_Z": {
+      "id": 57,
+      "key": "takephoto_auto_selfie_rot_Z",
+      "num": -10
+    },
+    "takephoto_auto_selfie_distance_rider": {
+      "id": 58,
+      "key": "takephoto_auto_selfie_distance_rider",
+      "num": 500
+    },
+    "takephoto_auto_selfie_rot_Z_rider": {
+      "id": 59,
+      "key": "takephoto_auto_selfie_rot_Z_rider",
+      "num": -10
+    },
+    "takephoto_storage_num_PC": {
+      "id": 60,
+      "key": "takephoto_storage_num_PC",
+      "num": 500
     }
   },
   "LocalizationStrings": {}

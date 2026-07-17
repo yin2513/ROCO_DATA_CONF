@@ -1,32 +1,26 @@
 {
   "RocoDataRows": {
     "Unknown_0": {
-      "world_id": 1,
-      "close_watermark": 137
+      "world_id": 137,
+      "close_watermark": 1
     },
     "Unknown_1": {
-      "world_id": 3,
-      "close_watermark": 17
+      "world_id": 17
     },
     "Unknown_2": {
-      "world_id": 4,
-      "close_watermark": 60
+      "world_id": 60
     },
     "Unknown_3": {
-      "world_id": 5,
-      "close_watermark": 47
+      "world_id": 47
     },
     "Unknown_4": {
-      "world_id": 6,
-      "close_watermark": 127
+      "world_id": 127
     },
     "Unknown_5": {
-      "world_id": 7,
-      "close_watermark": 63
+      "world_id": 63
     },
     "Unknown_6": {
-      "world_id": 8,
-      "close_watermark": 45
+      "world_id": 45
     }
   },
   "LocalizationStrings": {}

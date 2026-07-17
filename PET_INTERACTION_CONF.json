@@ -209,7 +209,8 @@
         {
           "interact_cond": 7,
           "interact_cond_param": [
-            "3064"
+            "3064",
+            "5019"
           ]
         }
       ],
@@ -274,7 +275,8 @@
         {
           "interact_cond": 7,
           "interact_cond_param": [
-            "3016"
+            "3016",
+            "5053"
           ]
         }
       ],
@@ -293,6 +295,71 @@
         }
       ],
       "action_type": 10135
+    },
+    "10071": {
+      "id": 10071,
+      "interact_cond_group": [
+        {
+          "interact_cond": 7,
+          "interact_cond_param": [
+            "3466"
+          ]
+        }
+      ],
+      "action_type": 10135,
+      "action_param1": "1"
+    },
+    "10072": {
+      "id": 10072,
+      "interact_cond_group": [
+        {
+          "interact_cond": 7,
+          "interact_cond_param": [
+            "3343"
+          ]
+        }
+      ],
+      "action_type": 10135,
+      "action_param1": "1"
+    },
+    "10073": {
+      "id": 10073,
+      "interact_cond_group": [
+        {
+          "interact_cond": 7,
+          "interact_cond_param": [
+            "3323"
+          ]
+        }
+      ],
+      "action_type": 10135,
+      "action_param1": "1"
+    },
+    "10074": {
+      "id": 10074,
+      "interact_cond_group": [
+        {
+          "interact_cond": 7,
+          "interact_cond_param": [
+            "3758"
+          ]
+        }
+      ],
+      "action_type": 10135,
+      "action_param1": "1"
+    },
+    "10075": {
+      "id": 10075,
+      "interact_cond_group": [
+        {
+          "interact_cond": 7,
+          "interact_cond_param": [
+            "3288"
+          ]
+        }
+      ],
+      "action_type": 10135,
+      "action_param1": "1"
     },
     "10150": {
       "id": 10150,
@@ -1040,6 +1107,364 @@
       "action_type": 10016,
       "action_param1": "610770"
     },
+    "10221": {
+      "id": 10221,
+      "action_type": 10016,
+      "action_param1": "612465"
+    },
+    "10222": {
+      "id": 10222,
+      "action_type": 10016,
+      "action_param1": "612466"
+    },
+    "10223": {
+      "id": 10223,
+      "action_type": 10016,
+      "action_param1": "612467"
+    },
+    "10224": {
+      "id": 10224,
+      "interact_cond_group": [
+        {
+          "interact_cond": 5,
+          "interact_cond_param": [
+            "60000"
+          ]
+        }
+      ],
+      "action_type": 10016,
+      "action_param1": "550000002"
+    },
+    "10225": {
+      "id": 10225,
+      "action_type": 10016,
+      "action_param1": "612479"
+    },
+    "10226": {
+      "id": 10226,
+      "interact_cond_group": [
+        {
+          "interact_cond": 5,
+          "interact_cond_param": [
+            "30000"
+          ]
+        }
+      ],
+      "action_type": 10016,
+      "action_param1": "612471"
+    },
+    "10227": {
+      "id": 10227,
+      "interact_cond_group": [
+        {
+          "interact_cond": 5,
+          "interact_cond_param": [
+            "30000"
+          ]
+        }
+      ],
+      "action_type": 10016,
+      "action_param1": "612473"
+    },
+    "10228": {
+      "id": 10228,
+      "interact_cond_group": [
+        {
+          "interact_cond": 5,
+          "interact_cond_param": [
+            "30000"
+          ]
+        }
+      ],
+      "action_type": 10016,
+      "action_param1": "612474"
+    },
+    "10229": {
+      "id": 10229,
+      "interact_cond_group": [
+        {
+          "interact_cond": 5,
+          "interact_cond_param": [
+            "30000"
+          ]
+        }
+      ],
+      "action_type": 10016,
+      "action_param1": "612475"
+    },
+    "10230": {
+      "id": 10230,
+      "interact_cond_group": [
+        {
+          "interact_cond": 5,
+          "interact_cond_param": [
+            "70000"
+          ]
+        }
+      ],
+      "action_type": 10016,
+      "action_param1": "612471"
+    },
+    "10240": {
+      "id": 10240,
+      "interact_cond_group": [
+        {
+          "interact_cond": 5,
+          "interact_cond_param": [
+            "60000"
+          ]
+        }
+      ],
+      "action_type": 10015,
+      "action_param1": "601130",
+      "action_param2": "601130"
+    },
+    "10241": {
+      "id": 10241,
+      "interact_cond_group": [
+        {
+          "interact_cond": 5,
+          "interact_cond_param": [
+            "60000"
+          ]
+        }
+      ],
+      "action_type": 10015,
+      "action_param1": "601131",
+      "action_param2": "601131"
+    },
+    "10242": {
+      "id": 10242,
+      "interact_cond_group": [
+        {
+          "interact_cond": 5,
+          "interact_cond_param": [
+            "60000"
+          ]
+        }
+      ],
+      "action_type": 10015,
+      "action_param1": "601132",
+      "action_param2": "601132"
+    },
+    "10401": {
+      "id": 10401,
+      "interact_cond_group": [
+        {
+          "interact_cond": 16,
+          "interact_cond_param": [
+            "15"
+          ]
+        }
+      ],
+      "action_type": 20020,
+      "action_param1": "SALS_SMALL_ENERGY_LOCKED"
+    },
+    "10402": {
+      "id": 10402,
+      "interact_cond_group": [
+        {
+          "interact_cond": 16,
+          "interact_cond_param": [
+            "15"
+          ]
+        }
+      ],
+      "action_type": 20020,
+      "action_param1": "SALS_MID_ENERGY_LOCKED"
+    },
+    "10403": {
+      "id": 10403,
+      "interact_cond_group": [
+        {
+          "interact_cond": 16,
+          "interact_cond_param": [
+            "20"
+          ]
+        }
+      ],
+      "action_type": 20020,
+      "action_param1": "SALS_BIG_ENERGY_LOCKED"
+    },
+    "10404": {
+      "id": 10404,
+      "interact_cond_group": [
+        {
+          "interact_cond": 16,
+          "interact_cond_param": [
+            "20"
+          ]
+        }
+      ],
+      "action_type": 20020,
+      "action_param1": "SALS_MID_ENERGY_LOCKED"
+    },
+    "10405": {
+      "id": 10405,
+      "interact_cond_group": [
+        {
+          "interact_cond": 16,
+          "interact_cond_param": [
+            "30"
+          ]
+        }
+      ],
+      "action_type": 20020,
+      "action_param1": "SALS_SMALL_ENERGY_LOCKED"
+    },
+    "10406": {
+      "id": 10406,
+      "interact_cond_group": [
+        {
+          "interact_cond": 16,
+          "interact_cond_param": [
+            "5"
+          ]
+        }
+      ],
+      "action_type": 20020,
+      "action_param1": "SALS_SMALL_ENERGY_LOCKED"
+    },
+    "10407": {
+      "id": 10407,
+      "interact_cond_group": [
+        {
+          "interact_cond": 16,
+          "interact_cond_param": [
+            "99"
+          ]
+        }
+      ],
+      "action_type": 20020,
+      "action_param1": "SALS_SMALL_ENERGY_LOCKED"
+    },
+    "10408": {
+      "id": 10408,
+      "interact_cond_group": [
+        {
+          "interact_cond": 16,
+          "interact_cond_param": [
+            "30"
+          ]
+        }
+      ],
+      "action_type": 20020,
+      "action_param1": "SALS_BIG_ENERGY_LOCKED"
+    },
+    "10409": {
+      "id": 10409,
+      "interact_cond_group": [
+        {
+          "interact_cond": 16,
+          "interact_cond_param": [
+            "60"
+          ]
+        }
+      ],
+      "action_type": 20020,
+      "action_param1": "SALS_BIG_ENERGY_LOCKED"
+    },
+    "10410": {
+      "id": 10410,
+      "interact_cond_group": [
+        {
+          "interact_cond": 16,
+          "interact_cond_param": [
+            "90"
+          ]
+        }
+      ],
+      "action_type": 20020,
+      "action_param1": "SALS_BIG_ENERGY_LOCKED"
+    },
+    "10484": {
+      "id": 10484,
+      "priority": 1,
+      "weight": 100,
+      "cond_logic_type": 1,
+      "interact_cond_group": [
+        {
+          "interact_cond": 1,
+          "interact_cond_param": [
+            "SDT_FIRE"
+          ]
+        },
+        {
+          "interact_cond": 10,
+          "interact_cond_param": [
+            "SALS_TRIGGER_OFF"
+          ]
+        }
+      ],
+      "action_type": 20003,
+      "action_param1": "SALS_TRIGGER_ON",
+      "action_param2": "10014"
+    },
+    "10485": {
+      "id": 10485,
+      "priority": 1,
+      "weight": 100,
+      "cond_logic_type": 1,
+      "interact_cond_group": [
+        {
+          "interact_cond": 1,
+          "interact_cond_param": [
+            "SDT_FIRE"
+          ]
+        },
+        {
+          "interact_cond": 10,
+          "interact_cond_param": [
+            "SALS_TRIGGER_OFF"
+          ]
+        }
+      ],
+      "action_type": 10135
+    },
+    "10486": {
+      "id": 10486,
+      "priority": 1,
+      "weight": 100,
+      "cond_logic_type": 1,
+      "interact_cond_group": [
+        {
+          "interact_cond": 1,
+          "interact_cond_param": [
+            "SDT_WATER"
+          ]
+        },
+        {
+          "interact_cond": 10,
+          "interact_cond_param": [
+            "SALS_TRIGGER_ON"
+          ]
+        }
+      ],
+      "action_type": 20003,
+      "action_param1": "SALS_TRIGGER_OFF",
+      "action_param2": "10014"
+    },
+    "10487": {
+      "id": 10487,
+      "priority": 1,
+      "weight": 100,
+      "cond_logic_type": 1,
+      "interact_cond_group": [
+        {
+          "interact_cond": 1,
+          "interact_cond_param": [
+            "SDT_WATER"
+          ]
+        },
+        {
+          "interact_cond": 10,
+          "interact_cond_param": [
+            "SALS_TRIGGER_ON"
+          ]
+        }
+      ],
+      "action_type": 10135
+    },
     "10501": {
       "id": 10501,
       "interact_cond_group": [
@@ -1380,6 +1805,18 @@
           "interact_cond": 4,
           "interact_cond_param": [
             "100001"
+          ]
+        }
+      ],
+      "action_type": 10135
+    },
+    "10529": {
+      "id": 10529,
+      "interact_cond_group": [
+        {
+          "interact_cond": 7,
+          "interact_cond_param": [
+            "3004"
           ]
         }
       ],
@@ -2117,6 +2554,48 @@
       ],
       "action_type": 10135
     },
+    "30005": {
+      "id": 30005,
+      "interact_cond_group": [
+        {
+          "interact_cond": 5,
+          "interact_cond_param": [
+            "1000"
+          ]
+        }
+      ],
+      "action_type": 10015,
+      "action_param1": "601130",
+      "action_param2": "601130"
+    },
+    "30006": {
+      "id": 30006,
+      "interact_cond_group": [
+        {
+          "interact_cond": 5,
+          "interact_cond_param": [
+            "20000"
+          ]
+        }
+      ],
+      "action_type": 10015,
+      "action_param1": "601131",
+      "action_param2": "601131"
+    },
+    "30007": {
+      "id": 30007,
+      "interact_cond_group": [
+        {
+          "interact_cond": 5,
+          "interact_cond_param": [
+            "60000"
+          ]
+        }
+      ],
+      "action_type": 10015,
+      "action_param1": "601132",
+      "action_param2": "601132"
+    },
     "38001": {
       "id": 38001,
       "interact_cond_group": [
@@ -2442,6 +2921,43 @@
         }
       ],
       "action_type": 10135
+    },
+    "540002": {
+      "id": 540002,
+      "interact_cond_group": [
+        {
+          "interact_cond": 6,
+          "interact_cond_param": [
+            "1"
+          ]
+        }
+      ],
+      "action_type": 20007
+    },
+    "540003": {
+      "id": 540003,
+      "interact_cond_group": [
+        {
+          "interact_cond": 6,
+          "interact_cond_param": [
+            "1"
+          ]
+        }
+      ],
+      "action_type": 20007
+    },
+    "540004": {
+      "id": 540004,
+      "interact_cond_group": [
+        {
+          "interact_cond": 1,
+          "interact_cond_param": [
+            "SDT_WATER"
+          ]
+        }
+      ],
+      "action_type": 10135,
+      "action_param1": "1"
     },
     "1340801": {
       "id": 1340801,
@@ -2906,6 +3422,118 @@
       "action_type": 10019,
       "action_param1": "SALS_TRIGGER_ON",
       "action_param2": "SALS_TRIGGER_OFF"
+    },
+    "5541001": {
+      "id": 5541001,
+      "interact_cond_group": [
+        {
+          "interact_cond": 1,
+          "interact_cond_param": [
+            "SDT_WATER"
+          ]
+        }
+      ],
+      "action_type": 20011,
+      "action_param1": "1010037",
+      "action_param2": "WT_HEAVYRAIN"
+    },
+    "5541002": {
+      "id": 5541002,
+      "interact_cond_group": [
+        {
+          "interact_cond": 1,
+          "interact_cond_param": [
+            "SDT_STONE"
+          ]
+        }
+      ],
+      "action_type": 20011,
+      "action_param1": "1010037",
+      "action_param2": "WT_SANDSTORM"
+    },
+    "5541003": {
+      "id": 5541003,
+      "interact_cond_group": [
+        {
+          "interact_cond": 1,
+          "interact_cond_param": [
+            "SDT_TOXIC"
+          ]
+        }
+      ],
+      "action_type": 20011,
+      "action_param1": "1010037",
+      "action_param2": "WT_FOGGY"
+    },
+    "5541004": {
+      "id": 5541004,
+      "interact_cond_group": [
+        {
+          "interact_cond": 1,
+          "interact_cond_param": [
+            "SDT_ICE"
+          ]
+        }
+      ],
+      "action_type": 20011,
+      "action_param1": "1010037",
+      "action_param2": "WT_SNOW"
+    },
+    "5541101": {
+      "id": 5541101,
+      "interact_cond_group": [
+        {
+          "interact_cond": 1,
+          "interact_cond_param": [
+            "SDT_WATER"
+          ]
+        }
+      ],
+      "action_type": 20011,
+      "action_param1": "1010038",
+      "action_param2": "WT_HEAVYRAIN"
+    },
+    "5541102": {
+      "id": 5541102,
+      "interact_cond_group": [
+        {
+          "interact_cond": 1,
+          "interact_cond_param": [
+            "SDT_STONE"
+          ]
+        }
+      ],
+      "action_type": 20011,
+      "action_param1": "1010038",
+      "action_param2": "WT_SANDSTORM"
+    },
+    "5541103": {
+      "id": 5541103,
+      "interact_cond_group": [
+        {
+          "interact_cond": 1,
+          "interact_cond_param": [
+            "SDT_TOXIC"
+          ]
+        }
+      ],
+      "action_type": 20011,
+      "action_param1": "1010038",
+      "action_param2": "WT_FOGGY"
+    },
+    "5541104": {
+      "id": 5541104,
+      "interact_cond_group": [
+        {
+          "interact_cond": 1,
+          "interact_cond_param": [
+            "SDT_ICE"
+          ]
+        }
+      ],
+      "action_type": 20011,
+      "action_param1": "1010038",
+      "action_param2": "WT_SNOW"
     },
     "5556001": {
       "id": 5556001,
@@ -4472,6 +5100,149 @@
       ],
       "action_type": 10016,
       "action_param1": "550000002"
+    },
+    "550000002": {
+      "id": 550000002,
+      "interact_cond_group": [
+        {
+          "interact_cond": 5,
+          "interact_cond_param": [
+            "60000"
+          ]
+        }
+      ],
+      "action_type": 10011,
+      "action_param1": "612287"
+    },
+    "550000003": {
+      "id": 550000003,
+      "interact_cond_group": [
+        {
+          "interact_cond": 5,
+          "interact_cond_param": [
+            "180000"
+          ]
+        }
+      ],
+      "action_type": 10016,
+      "action_param1": "550000002"
+    },
+    "550000004": {
+      "id": 550000004,
+      "interact_cond_group": [
+        {
+          "interact_cond": 5,
+          "interact_cond_param": [
+            "30000"
+          ]
+        }
+      ],
+      "action_type": 10016,
+      "action_param1": "550000023"
+    },
+    "550000005": {
+      "id": 550000005,
+      "interact_cond_group": [
+        {
+          "interact_cond": 5,
+          "interact_cond_param": [
+            "30000"
+          ]
+        }
+      ],
+      "action_type": 10016,
+      "action_param1": "550000019"
+    },
+    "550000006": {
+      "id": 550000006,
+      "interact_cond_group": [
+        {
+          "interact_cond": 5,
+          "interact_cond_param": [
+            "60000"
+          ]
+        }
+      ],
+      "action_type": 10011,
+      "action_param1": "612286"
+    },
+    "550000050": {
+      "id": 550000050,
+      "interact_cond_group": [
+        {
+          "interact_cond": 5,
+          "interact_cond_param": [
+            "180000"
+          ]
+        }
+      ],
+      "action_type": 10016,
+      "action_param1": "550000050"
+    },
+    "550000051": {
+      "id": 550000051,
+      "interact_cond_group": [
+        {
+          "interact_cond": 5,
+          "interact_cond_param": [
+            "180000"
+          ]
+        }
+      ],
+      "action_type": 10016,
+      "action_param1": "550000303"
+    },
+    "550000052": {
+      "id": 550000052,
+      "interact_cond_group": [
+        {
+          "interact_cond": 5,
+          "interact_cond_param": [
+            "30000"
+          ]
+        }
+      ],
+      "action_type": 10016,
+      "action_param1": "550000300"
+    },
+    "550000053": {
+      "id": 550000053,
+      "interact_cond_group": [
+        {
+          "interact_cond": 5,
+          "interact_cond_param": [
+            "30000"
+          ]
+        }
+      ],
+      "action_type": 10016,
+      "action_param1": "550000301"
+    },
+    "550000054": {
+      "id": 550000054,
+      "interact_cond_group": [
+        {
+          "interact_cond": 5,
+          "interact_cond_param": [
+            "30000"
+          ]
+        }
+      ],
+      "action_type": 10016,
+      "action_param1": "550000304"
+    },
+    "550000055": {
+      "id": 550000055,
+      "interact_cond_group": [
+        {
+          "interact_cond": 5,
+          "interact_cond_param": [
+            "30000"
+          ]
+        }
+      ],
+      "action_type": 10016,
+      "action_param1": "550000305"
     }
   },
   "LocalizationStrings": {}

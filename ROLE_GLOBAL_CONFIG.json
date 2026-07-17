@@ -1130,6 +1130,17 @@
       "str": "SkillBlueprint'/Game/ArtRes/Effects/Particle/Scene/Avatar/BaoGua/G6_BaoGua_Common.G6_BaoGua_Common'",
       "is_loc": 2
     },
+    "idle_super_suits_weight": {
+      "id": 291,
+      "key": "idle_super_suits_weight",
+      "num": 100,
+      "is_loc": 2
+    },
+    "chat_bubble_setting_cd": {
+      "id": 292,
+      "key": "chat_bubble_setting_cd",
+      "num": 1000
+    },
     "player_pact_alchemy_panel_default": {
       "id": 293,
       "key": "player_pact_alchemy_panel_default",

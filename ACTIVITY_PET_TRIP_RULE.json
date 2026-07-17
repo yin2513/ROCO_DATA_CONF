@@ -6,27 +6,23 @@
     },
     "2": {
       "id": 2,
-      "addtime": 60
+      "addtime": 120
     },
     "3": {
       "id": 3,
-      "addtime": 120
-    },
-    "4": {
-      "id": 4,
-      "addtime": 120
+      "addtime": 720
     },
     "5": {
       "id": 5,
-      "addtime": 240
+      "addtime": 720
     },
     "6": {
       "id": 6,
-      "addtime": 60
+      "addtime": 120
     },
     "7": {
       "id": 7,
-      "addtime": 60
+      "addtime": 360
     }
   },
   "LocalizationStrings": {}

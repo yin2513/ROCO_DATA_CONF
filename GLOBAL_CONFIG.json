@@ -630,7 +630,9 @@
         55262,
         55263,
         13408,
-        56008
+        56008,
+        55411,
+        55410
       ],
       "is_loc": 2
     },
@@ -2102,7 +2104,8 @@
         10057,
         50001,
         50002,
-        50003
+        50003,
+        10058
       ],
       "is_loc": 2
     },
@@ -2115,13 +2118,13 @@
     "owl_slot_cd": {
       "id": 616,
       "key": "owl_slot_cd",
-      "num": 22,
+      "num": 2,
       "is_loc": 2
     },
     "put_prop_cd": {
       "id": 617,
       "key": "put_prop_cd",
-      "num": 10,
+      "num": 3,
       "is_loc": 2
     },
     "relationtree_interact_distance": {
@@ -2151,7 +2154,7 @@
     "owl_fruit_cd": {
       "id": 622,
       "key": "owl_fruit_cd",
-      "num": 22,
+      "num": 2,
       "is_loc": 2
     },
     "relationtree_anim_option_num": {
@@ -2927,7 +2930,16 @@
         55554,
         55555,
         55556,
-        60280
+        60280,
+        68010,
+        68011,
+        68012,
+        55575,
+        55576,
+        55577,
+        55598,
+        55599,
+        55600
       ],
       "is_loc": 2
     },
@@ -3087,7 +3099,14 @@
         20014,
         20035,
         20034,
-        20006
+        20006,
+        20058,
+        20059,
+        20060,
+        20061,
+        60005,
+        60007,
+        60009
       ],
       "is_loc": 2
     },
@@ -3370,10 +3389,177 @@
       "key": "ai_coach_tips_time",
       "num": 600
     },
+    "role_play_frequent_tab_threshold": {
+      "id": 810,
+      "key": "role_play_frequent_tab_threshold",
+      "num": 10
+    },
+    "role_play_pin_max_count": {
+      "id": 811,
+      "key": "role_play_pin_max_count",
+      "num": 10
+    },
+    "role_play_frequent_list_capacity": {
+      "id": 812,
+      "key": "role_play_frequent_list_capacity",
+      "num": 10
+    },
+    "scary_shadow_disable_distance_from_player": {
+      "id": 813,
+      "key": "scary_shadow_disable_distance_from_player",
+      "num": 1500
+    },
+    "scary_shadow_disable_time_after_battle": {
+      "id": 814,
+      "key": "scary_shadow_disable_time_after_battle",
+      "num": 5
+    },
+    "scary_shadow_disable_time_after_star_magic": {
+      "id": 815,
+      "key": "scary_shadow_disable_time_after_star_magic",
+      "num": 5
+    },
+    "white_moon_disable_eternal_night_effect_area": {
+      "id": 816,
+      "key": "white_moon_disable_eternal_night_effect_area",
+      "numList": [
+        700403,
+        700404,
+        700405,
+        700670
+      ]
+    },
     "pay_cd": {
       "id": 817,
       "key": "pay_cd",
       "num": 900
+    },
+    "pika_shop_page_turn": {
+      "id": 818,
+      "key": "pika_shop_page_turn",
+      "numList": [
+        1,
+        2,
+        3
+      ]
+    },
+    "trans_nightmare_blood_rate": {
+      "id": 819,
+      "key": "trans_nightmare_blood_rate",
+      "num": 1000
+    },
+    "goddess_update_storyflag": {
+      "id": 820,
+      "key": "goddess_update_storyflag",
+      "numList": [
+        1041,
+        1042
+      ]
+    },
+    "create_magic_recyle_item": {
+      "id": 821,
+      "key": "create_magic_recyle_item",
+      "num": 100729
+    },
+    "create_magic_item_demand": {
+      "id": 822,
+      "key": "create_magic_item_demand",
+      "num": 100727
+    },
+    "create_magic_child_list": {
+      "id": 823,
+      "key": "create_magic_child_list",
+      "str": ""
+    },
+    "level1_pumpkin_role_aura_effect_id": {
+      "id": 824,
+      "key": "level1_pumpkin_role_aura_effect_id",
+      "num": 670000001
+    },
+    "level2_pumpkin_role_aura_effect_id": {
+      "id": 825,
+      "key": "level2_pumpkin_role_aura_effect_id",
+      "num": 670000003
+    },
+    "level3_pumpkin_role_aura_effect_id": {
+      "id": 826,
+      "key": "level3_pumpkin_role_aura_effect_id",
+      "num": 670000005
+    },
+    "pet_player_distance_disable_shadow_aura_effect_id": {
+      "id": 827,
+      "key": "pet_player_distance_disable_shadow_aura_effect_id",
+      "num": 670000007
+    },
+    "eternal_night_energy_loss_world_buff_id": {
+      "id": 828,
+      "key": "eternal_night_energy_loss_world_buff_id",
+      "num": 60001
+    },
+    "role_play_max": {
+      "id": 829,
+      "key": "role_play_max",
+      "num": 10
+    },
+    "role_play_ding_max": {
+      "id": 830,
+      "key": "role_play_ding_max",
+      "num": 10
+    },
+    "PC_key_change_announcement": {
+      "id": 831,
+      "key": "PC_key_change_announcement",
+      "num": 1,
+      "numList": [
+        9996
+      ],
+      "str": ""
+    },
+    "role_play_use": {
+      "id": 832,
+      "key": "role_play_use"
+    },
+    "building_npc_stable": {
+      "id": 834,
+      "key": "building_npc_stable",
+      "numList": [
+        5000,
+        7500,
+        10000
+      ]
+    },
+    "building_npc_stable_by_goddess": {
+      "id": 835,
+      "key": "building_npc_stable_by_goddess",
+      "numList": [
+        7500,
+        10000,
+        15000
+      ]
+    },
+    "mark_interact_distance_check": {
+      "id": 836,
+      "key": "mark_interact_distance_check",
+      "num": 1000
+    },
+    "warehouse_box_recipe": {
+      "id": 837,
+      "key": "warehouse_box_recipe",
+      "num": -1
+    },
+    "closely_follow_yaw_lerp_speed": {
+      "id": 846,
+      "key": "closely_follow_yaw_lerp_speed"
+    },
+    "closely_follow_stop_dis": {
+      "id": 847,
+      "key": "closely_follow_stop_dis",
+      "num": 6000
+    },
+    "qqmusic_txt_limit": {
+      "id": 848,
+      "key": "qqmusic_txt_limit",
+      "num": 100
     },
     "report_mail_singel_coin_max": {
       "id": 855,
@@ -3384,6 +3570,21 @@
       "id": 856,
       "key": "report_coin_split_mail",
       "num": 80040
+    },
+    "lordpet_bond_touch_vision_range": {
+      "id": 857,
+      "key": "lordpet_bond_touch_vision_range",
+      "num": 60
+    },
+    "lordpet_bond_touch_distance": {
+      "id": 858,
+      "key": "lordpet_bond_touch_distance",
+      "num": 229
+    },
+    "facephoto_max_count": {
+      "id": 862,
+      "key": "facephoto_max_count",
+      "num": 2
     }
   },
   "LocalizationStrings": {}

@@ -116,6 +116,13 @@
       "valueType": "int",
       "cvar": "r.CheckFramebufferFetchSupport",
       "value": "1"
+    },
+    "16": {
+      "id": 16,
+      "overrideId": 1016,
+      "valueType": "int",
+      "cvar": "g.AutoResolutionWhenOverProportion",
+      "value": "1"
     }
   },
   "LocalizationStrings": {}

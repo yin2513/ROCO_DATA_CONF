@@ -13,8 +13,8 @@
       "texture_id": 1,
       "is_free_item": true,
       "item_quality": 3,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "2": {
       "id": 2,
@@ -29,8 +29,8 @@
       "texture_id": 2,
       "is_free_item": true,
       "item_quality": 3,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "3": {
       "id": 3,
@@ -45,8 +45,8 @@
       "texture_id": 3,
       "is_free_item": true,
       "item_quality": 3,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "4": {
       "id": 4,
@@ -61,8 +61,8 @@
       "texture_id": 4,
       "is_free_item": true,
       "item_quality": 3,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "5": {
       "id": 5,
@@ -77,8 +77,8 @@
       "texture_id": 5,
       "is_free_item": true,
       "item_quality": 3,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "6": {
       "id": 6,
@@ -93,8 +93,8 @@
       "texture_id": 1,
       "is_free_item": true,
       "item_quality": 3,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "7": {
       "id": 7,
@@ -109,8 +109,8 @@
       "texture_id": 2,
       "is_free_item": true,
       "item_quality": 3,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "8": {
       "id": 8,
@@ -125,8 +125,8 @@
       "texture_id": 3,
       "is_free_item": true,
       "item_quality": 3,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "9": {
       "id": 9,
@@ -141,8 +141,8 @@
       "texture_id": 4,
       "is_free_item": true,
       "item_quality": 3,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "10": {
       "id": 10,
@@ -157,8 +157,8 @@
       "texture_id": 5,
       "is_free_item": true,
       "item_quality": 3,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "11": {
       "id": 11,
@@ -173,8 +173,8 @@
       "texture_id": 1,
       "is_free_item": true,
       "item_quality": 3,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "12": {
       "id": 12,
@@ -189,8 +189,8 @@
       "texture_id": 2,
       "is_free_item": true,
       "item_quality": 3,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "13": {
       "id": 13,
@@ -205,8 +205,8 @@
       "texture_id": 3,
       "is_free_item": true,
       "item_quality": 3,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "14": {
       "id": 14,
@@ -221,8 +221,8 @@
       "texture_id": 4,
       "is_free_item": true,
       "item_quality": 3,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "15": {
       "id": 15,
@@ -237,8 +237,8 @@
       "texture_id": 5,
       "is_free_item": true,
       "item_quality": 3,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "16": {
       "id": 16,
@@ -253,8 +253,8 @@
       "texture_id": 1,
       "is_present_colour": true,
       "item_quality": 5,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "17": {
       "id": 17,
@@ -270,8 +270,8 @@
       ],
       "texture_id": 2,
       "item_quality": 5,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "18": {
       "id": 18,
@@ -287,8 +287,8 @@
       ],
       "texture_id": 3,
       "item_quality": 5,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "19": {
       "id": 19,
@@ -304,8 +304,8 @@
       ],
       "texture_id": 4,
       "item_quality": 5,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "20": {
       "id": 20,
@@ -320,8 +320,8 @@
       "texture_id": 1,
       "is_present_colour": true,
       "item_quality": 5,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "21": {
       "id": 21,
@@ -337,8 +337,8 @@
       ],
       "texture_id": 2,
       "item_quality": 5,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "22": {
       "id": 22,
@@ -354,8 +354,8 @@
       ],
       "texture_id": 3,
       "item_quality": 5,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "23": {
       "id": 23,
@@ -371,8 +371,8 @@
       ],
       "texture_id": 4,
       "item_quality": 5,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "24": {
       "id": 24,
@@ -387,8 +387,8 @@
       "texture_id": 1,
       "is_present_colour": true,
       "item_quality": 5,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "25": {
       "id": 25,
@@ -404,8 +404,8 @@
       ],
       "texture_id": 2,
       "item_quality": 5,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "26": {
       "id": 26,
@@ -421,8 +421,8 @@
       ],
       "texture_id": 3,
       "item_quality": 5,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "27": {
       "id": 27,
@@ -438,8 +438,8 @@
       ],
       "texture_id": 4,
       "item_quality": 5,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "28": {
       "id": 28,
@@ -454,8 +454,8 @@
       "texture_id": 1,
       "is_present_colour": true,
       "item_quality": 4,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "29": {
       "id": 29,
@@ -471,8 +471,8 @@
       ],
       "texture_id": 2,
       "item_quality": 4,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "30": {
       "id": 30,
@@ -488,8 +488,8 @@
       ],
       "texture_id": 3,
       "item_quality": 4,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "31": {
       "id": 31,
@@ -505,8 +505,8 @@
       ],
       "texture_id": 4,
       "item_quality": 4,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "32": {
       "id": 32,
@@ -522,8 +522,8 @@
       ],
       "texture_id": 5,
       "item_quality": 4,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "33": {
       "id": 33,
@@ -1094,8 +1094,8 @@
       "texture_id": 1,
       "is_free_item": true,
       "item_quality": 3,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "78": {
       "id": 78,
@@ -1110,8 +1110,8 @@
       "texture_id": 2,
       "is_free_item": true,
       "item_quality": 3,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "79": {
       "id": 79,
@@ -1126,8 +1126,8 @@
       "texture_id": 3,
       "is_free_item": true,
       "item_quality": 3,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "80": {
       "id": 80,
@@ -1142,8 +1142,8 @@
       "texture_id": 4,
       "is_free_item": true,
       "item_quality": 3,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "81": {
       "id": 81,
@@ -1158,8 +1158,8 @@
       "texture_id": 5,
       "is_free_item": true,
       "item_quality": 3,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "82": {
       "id": 82,
@@ -1174,8 +1174,8 @@
       "texture_id": 1,
       "is_free_item": true,
       "item_quality": 3,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "83": {
       "id": 83,
@@ -1190,8 +1190,8 @@
       "texture_id": 2,
       "is_free_item": true,
       "item_quality": 3,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "84": {
       "id": 84,
@@ -1206,8 +1206,8 @@
       "texture_id": 3,
       "is_free_item": true,
       "item_quality": 3,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "85": {
       "id": 85,
@@ -1222,8 +1222,8 @@
       "texture_id": 4,
       "is_free_item": true,
       "item_quality": 3,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "86": {
       "id": 86,
@@ -1238,8 +1238,8 @@
       "texture_id": 5,
       "is_free_item": true,
       "item_quality": 3,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "87": {
       "id": 87,
@@ -1254,8 +1254,8 @@
       "texture_id": 1,
       "is_free_item": true,
       "item_quality": 3,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "88": {
       "id": 88,
@@ -1270,8 +1270,8 @@
       "texture_id": 2,
       "is_free_item": true,
       "item_quality": 3,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "89": {
       "id": 89,
@@ -1286,8 +1286,8 @@
       "texture_id": 3,
       "is_free_item": true,
       "item_quality": 3,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "90": {
       "id": 90,
@@ -1302,8 +1302,8 @@
       "texture_id": 4,
       "is_free_item": true,
       "item_quality": 3,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "91": {
       "id": 91,
@@ -1318,8 +1318,8 @@
       "texture_id": 5,
       "is_free_item": true,
       "item_quality": 3,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "92": {
       "id": 92,
@@ -1334,8 +1334,8 @@
       "texture_id": 1,
       "is_present_colour": true,
       "item_quality": 5,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "93": {
       "id": 93,
@@ -1351,8 +1351,8 @@
       ],
       "texture_id": 2,
       "item_quality": 5,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "94": {
       "id": 94,
@@ -1368,8 +1368,8 @@
       ],
       "texture_id": 3,
       "item_quality": 5,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "95": {
       "id": 95,
@@ -1385,8 +1385,8 @@
       ],
       "texture_id": 4,
       "item_quality": 5,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "96": {
       "id": 96,
@@ -1401,8 +1401,8 @@
       "texture_id": 1,
       "is_present_colour": true,
       "item_quality": 5,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "97": {
       "id": 97,
@@ -1418,8 +1418,8 @@
       ],
       "texture_id": 2,
       "item_quality": 5,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "98": {
       "id": 98,
@@ -1435,8 +1435,8 @@
       ],
       "texture_id": 3,
       "item_quality": 5,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "99": {
       "id": 99,
@@ -1452,8 +1452,8 @@
       ],
       "texture_id": 4,
       "item_quality": 5,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "100": {
       "id": 100,
@@ -1468,8 +1468,8 @@
       "texture_id": 1,
       "is_present_colour": true,
       "item_quality": 5,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "101": {
       "id": 101,
@@ -1485,8 +1485,8 @@
       ],
       "texture_id": 2,
       "item_quality": 5,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "102": {
       "id": 102,
@@ -1502,8 +1502,8 @@
       ],
       "texture_id": 3,
       "item_quality": 5,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "103": {
       "id": 103,
@@ -1519,8 +1519,8 @@
       ],
       "texture_id": 4,
       "item_quality": 5,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "104": {
       "id": 104,
@@ -1535,8 +1535,8 @@
       "texture_id": 1,
       "is_present_colour": true,
       "item_quality": 4,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "105": {
       "id": 105,
@@ -1552,8 +1552,8 @@
       ],
       "texture_id": 2,
       "item_quality": 4,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "106": {
       "id": 106,
@@ -1569,8 +1569,8 @@
       ],
       "texture_id": 3,
       "item_quality": 4,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "107": {
       "id": 107,
@@ -1586,8 +1586,8 @@
       ],
       "texture_id": 4,
       "item_quality": 4,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "108": {
       "id": 108,
@@ -1603,8 +1603,8 @@
       ],
       "texture_id": 5,
       "item_quality": 4,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "109": {
       "id": 109,
@@ -2295,8 +2295,8 @@
       "texture_id": 1,
       "is_present_colour": true,
       "item_quality": 5,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "184": {
       "id": 184,
@@ -2312,8 +2312,8 @@
       ],
       "texture_id": 2,
       "item_quality": 5,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "185": {
       "id": 185,
@@ -2329,8 +2329,8 @@
       ],
       "texture_id": 3,
       "item_quality": 5,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "186": {
       "id": 186,
@@ -2346,8 +2346,8 @@
       ],
       "texture_id": 4,
       "item_quality": 5,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "187": {
       "id": 187,
@@ -2362,8 +2362,8 @@
       "texture_id": 1,
       "is_present_colour": true,
       "item_quality": 5,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "188": {
       "id": 188,
@@ -2379,8 +2379,8 @@
       ],
       "texture_id": 2,
       "item_quality": 5,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "189": {
       "id": 189,
@@ -2396,8 +2396,8 @@
       ],
       "texture_id": 3,
       "item_quality": 5,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "190": {
       "id": 190,
@@ -2413,8 +2413,8 @@
       ],
       "texture_id": 4,
       "item_quality": 5,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "191": {
       "id": 191,
@@ -2463,8 +2463,8 @@
       "texture_id": 1,
       "is_present_colour": true,
       "item_quality": 4,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "196": {
       "id": 196,
@@ -2480,8 +2480,8 @@
       ],
       "texture_id": 2,
       "item_quality": 4,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "197": {
       "id": 197,
@@ -2497,8 +2497,8 @@
       ],
       "texture_id": 3,
       "item_quality": 4,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "198": {
       "id": 198,
@@ -2514,8 +2514,8 @@
       ],
       "texture_id": 4,
       "item_quality": 4,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "199": {
       "id": 199,
@@ -2531,8 +2531,8 @@
       ],
       "texture_id": 5,
       "item_quality": 4,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "200": {
       "id": 200,
@@ -2547,8 +2547,8 @@
       "texture_id": 1,
       "is_present_colour": true,
       "item_quality": 4,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "201": {
       "id": 201,
@@ -2564,8 +2564,8 @@
       ],
       "texture_id": 2,
       "item_quality": 4,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "202": {
       "id": 202,
@@ -2581,8 +2581,8 @@
       ],
       "texture_id": 3,
       "item_quality": 4,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "203": {
       "id": 203,
@@ -2598,8 +2598,8 @@
       ],
       "texture_id": 4,
       "item_quality": 4,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "204": {
       "id": 204,
@@ -2615,8 +2615,8 @@
       ],
       "texture_id": 5,
       "item_quality": 4,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "205": {
       "id": 205,
@@ -2631,8 +2631,8 @@
       "texture_id": 1,
       "is_present_colour": true,
       "item_quality": 4,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "206": {
       "id": 206,
@@ -2648,8 +2648,8 @@
       ],
       "texture_id": 2,
       "item_quality": 4,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "207": {
       "id": 207,
@@ -2665,8 +2665,8 @@
       ],
       "texture_id": 3,
       "item_quality": 4,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "208": {
       "id": 208,
@@ -2682,8 +2682,8 @@
       ],
       "texture_id": 4,
       "item_quality": 4,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "209": {
       "id": 209,
@@ -2699,8 +2699,8 @@
       ],
       "texture_id": 5,
       "item_quality": 4,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "210": {
       "id": 210,
@@ -2715,8 +2715,8 @@
       "texture_id": 1,
       "is_present_colour": true,
       "item_quality": 4,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "211": {
       "id": 211,
@@ -2732,8 +2732,8 @@
       ],
       "texture_id": 2,
       "item_quality": 4,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "212": {
       "id": 212,
@@ -2749,8 +2749,8 @@
       ],
       "texture_id": 3,
       "item_quality": 4,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "213": {
       "id": 213,
@@ -2766,8 +2766,8 @@
       ],
       "texture_id": 4,
       "item_quality": 4,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "214": {
       "id": 214,
@@ -2783,8 +2783,8 @@
       ],
       "texture_id": 5,
       "item_quality": 4,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "215": {
       "id": 215,
@@ -2808,8 +2808,8 @@
       "texture_id": 1,
       "is_present_colour": true,
       "item_quality": 5,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "217": {
       "id": 217,
@@ -2825,8 +2825,8 @@
       ],
       "texture_id": 2,
       "item_quality": 5,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "218": {
       "id": 218,
@@ -2842,8 +2842,8 @@
       ],
       "texture_id": 3,
       "item_quality": 5,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "219": {
       "id": 219,
@@ -2859,8 +2859,8 @@
       ],
       "texture_id": 4,
       "item_quality": 5,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "220": {
       "id": 220,
@@ -2875,8 +2875,8 @@
       "texture_id": 1,
       "is_present_colour": true,
       "item_quality": 5,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "221": {
       "id": 221,
@@ -2892,8 +2892,8 @@
       ],
       "texture_id": 2,
       "item_quality": 5,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "222": {
       "id": 222,
@@ -2909,8 +2909,8 @@
       ],
       "texture_id": 3,
       "item_quality": 5,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "223": {
       "id": 223,
@@ -2926,8 +2926,8 @@
       ],
       "texture_id": 4,
       "item_quality": 5,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "224": {
       "id": 224,
@@ -2962,8 +2962,8 @@
       "texture_id": 1,
       "is_present_colour": true,
       "item_quality": 5,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "227": {
       "id": 227,
@@ -2978,8 +2978,8 @@
       "texture_id": 1,
       "is_present_colour": true,
       "item_quality": 5,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "228": {
       "id": 228,
@@ -2995,8 +2995,8 @@
       ],
       "texture_id": 2,
       "item_quality": 5,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "229": {
       "id": 229,
@@ -3012,8 +3012,8 @@
       ],
       "texture_id": 2,
       "item_quality": 5,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "230": {
       "id": 230,
@@ -3029,8 +3029,8 @@
       ],
       "texture_id": 3,
       "item_quality": 5,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "231": {
       "id": 231,
@@ -3046,8 +3046,8 @@
       ],
       "texture_id": 3,
       "item_quality": 5,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "232": {
       "id": 232,
@@ -3063,8 +3063,8 @@
       ],
       "texture_id": 4,
       "item_quality": 5,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "233": {
       "id": 233,
@@ -3080,8 +3080,8 @@
       ],
       "texture_id": 4,
       "item_quality": 5,
-      "launch_item": true,
-      "hair_lock": true
+      "hair_lock": true,
+      "launch_item": true
     },
     "234": {
       "id": 234,
@@ -3699,6 +3699,743 @@
       ],
       "texture_id": 4,
       "item_quality": 5,
+      "launch_item": true
+    },
+    "275": {
+      "id": 275,
+      "name": "",
+      "gender": 3,
+      "type": 4,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/34000016.34000016'",
+      "avatar_id": 34000016,
+      "item_quality": 5,
+      "launch_item": true
+    },
+    "276": {
+      "id": 276,
+      "name": "",
+      "gender": 1,
+      "type": 5,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/15000016.15000016'",
+      "avatar_id": 15000016,
+      "item_quality": 5,
+      "launch_item": true
+    },
+    "277": {
+      "id": 277,
+      "name": "",
+      "gender": 2,
+      "type": 5,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/25000016.25000016'",
+      "avatar_id": 25000016,
+      "item_quality": 5,
+      "launch_item": true
+    },
+    "278": {
+      "id": 278,
+      "name": "",
+      "gender": 3,
+      "type": 4,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/34000019.34000019'",
+      "avatar_id": 34000019,
+      "item_quality": 5,
+      "launch_item": true
+    },
+    "280": {
+      "id": 280,
+      "name": "",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10102701.10102701'",
+      "avatar_id": 11027028,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "texture_id": 1,
+      "is_present_colour": true,
+      "item_quality": 5,
+      "launch_item": true
+    },
+    "281": {
+      "id": 281,
+      "name": "",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20102701.20102701'",
+      "avatar_id": 21027028,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "texture_id": 1,
+      "is_present_colour": true,
+      "item_quality": 5,
+      "launch_item": true
+    },
+    "282": {
+      "id": 282,
+      "name": "",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10102702.10102702'",
+      "avatar_id": 11027028,
+      "colour_type": 2,
+      "colour_id": [
+        "#e8ce83",
+        "#69f6fb"
+      ],
+      "texture_id": 2,
+      "item_quality": 5,
+      "launch_item": true
+    },
+    "283": {
+      "id": 283,
+      "name": "",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20102702.20102702'",
+      "avatar_id": 21027028,
+      "colour_type": 2,
+      "colour_id": [
+        "#e8ce83",
+        "#69f6fb"
+      ],
+      "texture_id": 2,
+      "item_quality": 5,
+      "launch_item": true
+    },
+    "284": {
+      "id": 284,
+      "name": "",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10102703.10102703'",
+      "avatar_id": 11027028,
+      "colour_type": 1,
+      "colour_id": [
+        "#65031a",
+        "#b6012c"
+      ],
+      "texture_id": 3,
+      "item_quality": 5,
+      "launch_item": true
+    },
+    "285": {
+      "id": 285,
+      "name": "",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20102703.20102703'",
+      "avatar_id": 21027028,
+      "colour_type": 1,
+      "colour_id": [
+        "#63041a",
+        "#ce0031"
+      ],
+      "texture_id": 3,
+      "item_quality": 5,
+      "launch_item": true
+    },
+    "286": {
+      "id": 286,
+      "name": "",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10102704.10102704'",
+      "avatar_id": 11027028,
+      "colour_type": 2,
+      "colour_id": [
+        "#dde6e4",
+        "#7adec2"
+      ],
+      "texture_id": 4,
+      "item_quality": 5,
+      "launch_item": true
+    },
+    "287": {
+      "id": 287,
+      "name": "",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20102704.20102704'",
+      "avatar_id": 21027028,
+      "colour_type": 2,
+      "colour_id": [
+        "#dde6e4",
+        "#7adec2"
+      ],
+      "texture_id": 4,
+      "item_quality": 5,
+      "launch_item": true
+    },
+    "288": {
+      "id": 288,
+      "name": "",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10102201.10102201'",
+      "avatar_id": 11022023,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "texture_id": 1,
+      "is_present_colour": true,
+      "item_quality": 4,
+      "launch_item": true
+    },
+    "289": {
+      "id": 289,
+      "name": "",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20102201.20102201'",
+      "avatar_id": 21022023,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "texture_id": 1,
+      "is_present_colour": true,
+      "item_quality": 4,
+      "launch_item": true
+    },
+    "290": {
+      "id": 290,
+      "name": "",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10102202.10102202'",
+      "avatar_id": 11022023,
+      "colour_type": 1,
+      "colour_id": [
+        "#fefadf",
+        "#d7eaee"
+      ],
+      "texture_id": 2,
+      "item_quality": 4,
+      "launch_item": true
+    },
+    "291": {
+      "id": 291,
+      "name": "",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20102202.20102202'",
+      "avatar_id": 21022023,
+      "colour_type": 1,
+      "colour_id": [
+        "#fefadf",
+        "#d7eaee"
+      ],
+      "texture_id": 2,
+      "item_quality": 4,
+      "launch_item": true
+    },
+    "292": {
+      "id": 292,
+      "name": "",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10102203.10102203'",
+      "avatar_id": 11022023,
+      "colour_type": 1,
+      "colour_id": [
+        "#a3a5ce",
+        "#af79b7"
+      ],
+      "texture_id": 3,
+      "item_quality": 4,
+      "launch_item": true
+    },
+    "293": {
+      "id": 293,
+      "name": "",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20102203.20102203'",
+      "avatar_id": 21022023,
+      "colour_type": 1,
+      "colour_id": [
+        "#a3a5ce",
+        "#af79b7"
+      ],
+      "texture_id": 3,
+      "item_quality": 4,
+      "launch_item": true
+    },
+    "294": {
+      "id": 294,
+      "name": "",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10102204.10102204'",
+      "avatar_id": 11022023,
+      "colour_type": 2,
+      "colour_id": [
+        "#b7d2db",
+        "#effdff"
+      ],
+      "texture_id": 4,
+      "item_quality": 4,
+      "launch_item": true
+    },
+    "295": {
+      "id": 295,
+      "name": "",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20102204.20102204'",
+      "avatar_id": 21022023,
+      "colour_type": 2,
+      "colour_id": [
+        "#b7d2db",
+        "#effdff"
+      ],
+      "texture_id": 4,
+      "item_quality": 4,
+      "launch_item": true
+    },
+    "296": {
+      "id": 296,
+      "name": "",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10102205.10102205'",
+      "avatar_id": 11022023,
+      "colour_type": 2,
+      "colour_id": [
+        "#d0c8b1",
+        "#f1ecd7"
+      ],
+      "texture_id": 5,
+      "item_quality": 4,
+      "launch_item": true
+    },
+    "297": {
+      "id": 297,
+      "name": "",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20102205.20102205'",
+      "avatar_id": 21022023,
+      "colour_type": 2,
+      "colour_id": [
+        "#d0c8b1",
+        "#f1ecd7"
+      ],
+      "texture_id": 5,
+      "item_quality": 4,
+      "launch_item": true
+    },
+    "298": {
+      "id": 298,
+      "name": "",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10102401.10102401'",
+      "avatar_id": 11024025,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "texture_id": 1,
+      "is_present_colour": true,
+      "item_quality": 4,
+      "launch_item": true
+    },
+    "299": {
+      "id": 299,
+      "name": "",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20102401.20102401'",
+      "avatar_id": 21024025,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "texture_id": 1,
+      "is_present_colour": true,
+      "item_quality": 4,
+      "launch_item": true
+    },
+    "300": {
+      "id": 300,
+      "name": "",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10102402.10102402'",
+      "avatar_id": 11024025,
+      "colour_type": 2,
+      "colour_id": [
+        "#e9b0a9",
+        "#ffddca"
+      ],
+      "texture_id": 2,
+      "item_quality": 4,
+      "launch_item": true
+    },
+    "301": {
+      "id": 301,
+      "name": "",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20102402.20102402'",
+      "avatar_id": 21024025,
+      "colour_type": 2,
+      "colour_id": [
+        "#e9b0a9",
+        "#ffddca"
+      ],
+      "texture_id": 2,
+      "item_quality": 4,
+      "launch_item": true
+    },
+    "302": {
+      "id": 302,
+      "name": "",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10102403.10102403'",
+      "avatar_id": 11024025,
+      "colour_type": 2,
+      "colour_id": [
+        "#574b55",
+        "#e8c37c"
+      ],
+      "texture_id": 3,
+      "item_quality": 4,
+      "launch_item": true
+    },
+    "303": {
+      "id": 303,
+      "name": "",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20102403.20102403'",
+      "avatar_id": 21024025,
+      "colour_type": 2,
+      "colour_id": [
+        "#574b55",
+        "#e8c37c"
+      ],
+      "texture_id": 3,
+      "item_quality": 4,
+      "launch_item": true
+    },
+    "304": {
+      "id": 304,
+      "name": "",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10102404.10102404'",
+      "avatar_id": 11024025,
+      "colour_type": 2,
+      "colour_id": [
+        "#8464ad",
+        "#e6c9ff"
+      ],
+      "texture_id": 4,
+      "item_quality": 4,
+      "launch_item": true
+    },
+    "305": {
+      "id": 305,
+      "name": "",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20102404.20102404'",
+      "avatar_id": 21024025,
+      "colour_type": 2,
+      "colour_id": [
+        "#8464ad",
+        "#e6c9ff"
+      ],
+      "texture_id": 4,
+      "item_quality": 4,
+      "launch_item": true
+    },
+    "306": {
+      "id": 306,
+      "name": "",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10102405.10102405'",
+      "avatar_id": 11024025,
+      "colour_type": 2,
+      "colour_id": [
+        "#eba63f",
+        "#f6d68d"
+      ],
+      "texture_id": 5,
+      "item_quality": 4,
+      "launch_item": true
+    },
+    "307": {
+      "id": 307,
+      "name": "",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20102405.20102405'",
+      "avatar_id": 21024025,
+      "colour_type": 2,
+      "colour_id": [
+        "#eba63f",
+        "#f6d68d"
+      ],
+      "texture_id": 5,
+      "item_quality": 4,
+      "launch_item": true
+    },
+    "308": {
+      "id": 308,
+      "name": "",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10103201.10103201'",
+      "avatar_id": 11032033,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "texture_id": 1,
+      "is_present_colour": true,
+      "item_quality": 5,
+      "launch_item": true
+    },
+    "309": {
+      "id": 309,
+      "name": "",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20103201.20103201'",
+      "avatar_id": 21032033,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "texture_id": 1,
+      "is_present_colour": true,
+      "item_quality": 5,
+      "launch_item": true
+    },
+    "310": {
+      "id": 310,
+      "name": "",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10103202.10103202'",
+      "avatar_id": 11032033,
+      "colour_type": 2,
+      "colour_id": [
+        "#f48d96",
+        "b4d048"
+      ],
+      "texture_id": 2,
+      "item_quality": 5,
+      "launch_item": true
+    },
+    "311": {
+      "id": 311,
+      "name": "",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20103202.20103202'",
+      "avatar_id": 21032033,
+      "colour_type": 2,
+      "colour_id": [
+        "#f48d96",
+        "b4d048"
+      ],
+      "texture_id": 2,
+      "item_quality": 5,
+      "launch_item": true
+    },
+    "312": {
+      "id": 312,
+      "name": "",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10103203.10103203'",
+      "avatar_id": 11032033,
+      "colour_type": 2,
+      "colour_id": [
+        "#c44113",
+        "#454a43"
+      ],
+      "texture_id": 3,
+      "item_quality": 5,
+      "launch_item": true
+    },
+    "313": {
+      "id": 313,
+      "name": "",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20103203.20103203'",
+      "avatar_id": 21032033,
+      "colour_type": 2,
+      "colour_id": [
+        "#c44113",
+        "#454a43"
+      ],
+      "texture_id": 3,
+      "item_quality": 5,
+      "launch_item": true
+    },
+    "314": {
+      "id": 314,
+      "name": "",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10103204.10103204'",
+      "avatar_id": 11032033,
+      "colour_type": 1,
+      "colour_id": [
+        "#d5f4f6",
+        "#f3d8dd"
+      ],
+      "texture_id": 4,
+      "item_quality": 5,
+      "launch_item": true
+    },
+    "315": {
+      "id": 315,
+      "name": "",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20103204.20103204'",
+      "avatar_id": 21032033,
+      "colour_type": 1,
+      "colour_id": [
+        "#d5f4f6",
+        "#f3d8dd"
+      ],
+      "texture_id": 4,
+      "item_quality": 5,
+      "launch_item": true
+    },
+    "316": {
+      "id": 316,
+      "name": "",
+      "gender": 1,
+      "type": 3,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/13013000.13013000'",
+      "avatar_id": 13013000,
+      "item_quality": 5,
+      "launch_item": true
+    },
+    "317": {
+      "id": 317,
+      "name": "",
+      "gender": 2,
+      "type": 3,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/23013000.23013000'",
+      "avatar_id": 23013000,
+      "item_quality": 5,
+      "launch_item": true
+    },
+    "318": {
+      "id": 318,
+      "name": "",
+      "gender": 3,
+      "type": 4,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/34000017.34000017'",
+      "avatar_id": 34000017,
+      "item_quality": 5,
+      "launch_item": true
+    },
+    "319": {
+      "id": 319,
+      "name": "",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10103301.10103301'",
+      "avatar_id": 11033034,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "texture_id": 1,
+      "is_present_colour": true,
+      "item_quality": 5,
+      "launch_item": true
+    },
+    "320": {
+      "id": 320,
+      "name": "",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20103301.20103301'",
+      "avatar_id": 21033034,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "texture_id": 1,
+      "is_present_colour": true,
+      "item_quality": 5,
+      "launch_item": true
+    },
+    "321": {
+      "id": 321,
+      "name": "",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10103302.10103302'",
+      "avatar_id": 11033034,
+      "colour_type": 2,
+      "colour_id": [
+        "#c1eded",
+        "#9ad5e6"
+      ],
+      "texture_id": 2,
+      "item_quality": 5,
+      "launch_item": true
+    },
+    "322": {
+      "id": 322,
+      "name": "",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20103302.20103302'",
+      "avatar_id": 21033034,
+      "colour_type": 2,
+      "colour_id": [
+        "#c1eded",
+        "#9ad5e6"
+      ],
+      "texture_id": 2,
+      "item_quality": 5,
+      "launch_item": true
+    },
+    "323": {
+      "id": 323,
+      "name": "",
+      "gender": 3,
+      "type": 4,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/34000018.34000018'",
+      "avatar_id": 34000018,
+      "item_quality": 5,
+      "launch_item": true
+    },
+    "349": {
+      "id": 349,
+      "name": "",
+      "gender": 3,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/30000005.30000005'",
+      "avatar_id": 30000005,
+      "item_quality": 4,
+      "launch_item": true
+    },
+    "350": {
+      "id": 350,
+      "name": "",
+      "gender": 3,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/30000006.30000006'",
+      "avatar_id": 30000006,
+      "item_quality": 4,
+      "launch_item": true
+    },
+    "351": {
+      "id": 351,
+      "name": "",
+      "gender": 3,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/30000008.30000008'",
+      "avatar_id": 30000008,
+      "item_quality": 4,
       "launch_item": true
     }
   },

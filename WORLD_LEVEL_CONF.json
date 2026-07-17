@@ -11,12 +11,12 @@
       "promote_desc": [
         {
           "icon": "PaperSprite'/Game/NewRoco/Modules/System/LevelUpUI/Raw/Atlas/LevelUpUIStatic/Frames/img_wanjia_png.img_wanjia_png'",
-          "promote_text": "魔法等级上限",
+          "promote_text": "",
           "value": "20"
         },
         {
           "icon": "PaperSprite'/Game/NewRoco/Modules/System/LevelUpUI/Raw/Atlas/LevelUpUIStatic/Frames/img_jingling_png.img_jingling_png'",
-          "promote_text": "精灵听话等级上限",
+          "promote_text": "",
           "value": "20"
         }
       ],
@@ -51,29 +51,29 @@
       "promote_desc": [
         {
           "icon": "PaperSprite'/Game/NewRoco/Modules/System/LevelUpUI/Raw/Atlas/LevelUpUIStatic/Frames/img_wanjia_png.img_wanjia_png'",
-          "promote_text": "魔法等级上限",
+          "promote_text": "",
           "value": "30"
         },
         {
           "icon": "PaperSprite'/Game/NewRoco/Modules/System/LevelUpUI/Raw/Atlas/LevelUpUIStatic/Frames/img_jingling_png.img_jingling_png'",
-          "promote_text": "精灵听话等级上限",
+          "promote_text": "",
           "value": "30"
         }
       ],
-      "update_task_des": "完成突破任务一",
+      "update_task_des": "精灵研究员",
       "revival_desc": [
         {
           "up_icon": "PaperSprite'/Game/NewRoco/Modules/System/LevelUpUI/Raw/Atlas/LevelUpUIStatic/Frames/img_shan_png.img_shan_png'",
-          "desc": "大世界精灵等级提升"
+          "desc": ""
         },
         {
           "up_icon": "PaperSprite'/Game/NewRoco/Modules/System/LevelUpUI/Raw/Atlas/LevelUpUIStatic/Frames/img_wanjia_png.img_wanjia_png'",
-          "desc": "魔法等级上限提升至",
+          "desc": "",
           "upvalue": "30"
         },
         {
           "up_icon": "PaperSprite'/Game/NewRoco/Modules/System/LevelUpUI/Raw/Atlas/LevelUpUIStatic/Frames/img_jingling_png.img_jingling_png'",
-          "desc": "精灵听话等级提升至",
+          "desc": "",
           "upvalue": "30"
         }
       ],
@@ -95,7 +95,7 @@
     "3": {
       "id": 3,
       "world_level": 2,
-      "title": "精灵研究员",
+      "title": "精灵学士",
       "update_grade_level": 30,
       "update_task_id": 52080201,
       "is_auto_accept_task": true,
@@ -108,29 +108,29 @@
       "promote_desc": [
         {
           "icon": "PaperSprite'/Game/NewRoco/Modules/System/LevelUpUI/Raw/Atlas/LevelUpUIStatic/Frames/img_wanjia_png.img_wanjia_png'",
-          "promote_text": "魔法等级上限",
+          "promote_text": "",
           "value": "40"
         },
         {
           "icon": "PaperSprite'/Game/NewRoco/Modules/System/LevelUpUI/Raw/Atlas/LevelUpUIStatic/Frames/img_jingling_png.img_jingling_png'",
-          "promote_text": "精灵听话等级上限",
+          "promote_text": "",
           "value": "40"
         }
       ],
-      "update_task_des": "完成突破任务二",
+      "update_task_des": "精灵博学者",
       "revival_desc": [
         {
           "up_icon": "PaperSprite'/Game/NewRoco/Modules/System/LevelUpUI/Raw/Atlas/LevelUpUIStatic/Frames/img_shan_png.img_shan_png'",
-          "desc": "大世界精灵等级提升"
+          "desc": ""
         },
         {
           "up_icon": "PaperSprite'/Game/NewRoco/Modules/System/LevelUpUI/Raw/Atlas/LevelUpUIStatic/Frames/img_wanjia_png.img_wanjia_png'",
-          "desc": "魔法等级上限提升至",
+          "desc": "",
           "upvalue": "40"
         },
         {
           "up_icon": "PaperSprite'/Game/NewRoco/Modules/System/LevelUpUI/Raw/Atlas/LevelUpUIStatic/Frames/img_jingling_png.img_jingling_png'",
-          "desc": "精灵听话等级提升至",
+          "desc": "",
           "upvalue": "40"
         }
       ],
@@ -152,7 +152,7 @@
     "4": {
       "id": 4,
       "world_level": 3,
-      "title": "精灵学士",
+      "title": "精灵魔法师",
       "update_grade_level": 40,
       "update_task_id": 52080301,
       "is_auto_accept_task": true,
@@ -165,29 +165,29 @@
       "promote_desc": [
         {
           "icon": "PaperSprite'/Game/NewRoco/Modules/System/LevelUpUI/Raw/Atlas/LevelUpUIStatic/Frames/img_wanjia_png.img_wanjia_png'",
-          "promote_text": "魔法等级上限",
+          "promote_text": "",
           "value": "50"
         },
         {
           "icon": "PaperSprite'/Game/NewRoco/Modules/System/LevelUpUI/Raw/Atlas/LevelUpUIStatic/Frames/img_jingling_png.img_jingling_png'",
-          "promote_text": "精灵听话等级上限",
+          "promote_text": "",
           "value": "50"
         }
       ],
-      "update_task_des": "完成突破任务三",
+      "update_task_des": "日之魔法师",
       "revival_desc": [
         {
           "up_icon": "PaperSprite'/Game/NewRoco/Modules/System/LevelUpUI/Raw/Atlas/LevelUpUIStatic/Frames/img_shan_png.img_shan_png'",
-          "desc": "大世界精灵等级提升"
+          "desc": ""
         },
         {
           "up_icon": "PaperSprite'/Game/NewRoco/Modules/System/LevelUpUI/Raw/Atlas/LevelUpUIStatic/Frames/img_wanjia_png.img_wanjia_png'",
-          "desc": "魔法等级上限提升至",
+          "desc": "",
           "upvalue": "50"
         },
         {
           "up_icon": "PaperSprite'/Game/NewRoco/Modules/System/LevelUpUI/Raw/Atlas/LevelUpUIStatic/Frames/img_jingling_png.img_jingling_png'",
-          "desc": "精灵听话等级提升至",
+          "desc": "",
           "upvalue": "50"
         }
       ],
@@ -209,7 +209,7 @@
     "5": {
       "id": 5,
       "world_level": 4,
-      "title": "精灵博学者",
+      "title": "月之魔法师",
       "update_grade_level": 50,
       "update_task_id": 52080401,
       "is_auto_accept_task": true,
@@ -222,29 +222,29 @@
       "promote_desc": [
         {
           "icon": "PaperSprite'/Game/NewRoco/Modules/System/LevelUpUI/Raw/Atlas/LevelUpUIStatic/Frames/img_wanjia_png.img_wanjia_png'",
-          "promote_text": "魔法等级上限",
+          "promote_text": "",
           "value": "60"
         },
         {
           "icon": "PaperSprite'/Game/NewRoco/Modules/System/LevelUpUI/Raw/Atlas/LevelUpUIStatic/Frames/img_jingling_png.img_jingling_png'",
-          "promote_text": "精灵听话等级上限",
+          "promote_text": "",
           "value": "60"
         }
       ],
-      "update_task_des": "完成突破任务四",
+      "update_task_des": "星之魔法师",
       "revival_desc": [
         {
           "up_icon": "PaperSprite'/Game/NewRoco/Modules/System/LevelUpUI/Raw/Atlas/LevelUpUIStatic/Frames/img_shan_png.img_shan_png'",
-          "desc": "大世界精灵等级提升"
+          "desc": ""
         },
         {
           "up_icon": "PaperSprite'/Game/NewRoco/Modules/System/LevelUpUI/Raw/Atlas/LevelUpUIStatic/Frames/img_wanjia_png.img_wanjia_png'",
-          "desc": "魔法等级上限提升至",
+          "desc": "",
           "upvalue": "60"
         },
         {
           "up_icon": "PaperSprite'/Game/NewRoco/Modules/System/LevelUpUI/Raw/Atlas/LevelUpUIStatic/Frames/img_jingling_png.img_jingling_png'",
-          "desc": "精灵听话等级提升至",
+          "desc": "",
           "upvalue": "60"
         }
       ],
@@ -265,7 +265,7 @@
     "6": {
       "id": 6,
       "world_level": 5,
-      "title": "精灵魔法师",
+      "title": "梦之魔法师",
       "update_grade_level": 60,
       "update_task_id": 52080501,
       "is_auto_accept_task": true,
@@ -278,24 +278,24 @@
       "promote_desc": [
         {
           "icon": "PaperSprite'/Game/NewRoco/Modules/System/LevelUpUI/Raw/Atlas/LevelUpUIStatic/Frames/img_wanjia_png.img_wanjia_png'",
-          "promote_text": "魔法等级上限",
+          "promote_text": "",
           "value": "70"
         },
         {
           "icon": "PaperSprite'/Game/NewRoco/Modules/System/LevelUpUI/Raw/Atlas/LevelUpUIStatic/Frames/img_jingling_png.img_jingling_png'",
-          "promote_text": "精灵听话等级上限",
+          "promote_text": "",
           "value": "60"
         }
       ],
-      "update_task_des": "完成突破任务五",
+      "update_task_des": "大魔法师",
       "revival_desc": [
         {
           "up_icon": "PaperSprite'/Game/NewRoco/Modules/System/LevelUpUI/Raw/Atlas/LevelUpUIStatic/Frames/img_shan_png.img_shan_png'",
-          "desc": "大世界精灵等级提升"
+          "desc": ""
         },
         {
           "up_icon": "PaperSprite'/Game/NewRoco/Modules/System/LevelUpUI/Raw/Atlas/LevelUpUIStatic/Frames/img_wanjia_png.img_wanjia_png'",
-          "desc": "魔法等级上限提升至",
+          "desc": "",
           "upvalue": "70"
         }
       ],
@@ -316,7 +316,7 @@
     "7": {
       "id": 7,
       "world_level": 6,
-      "title": "日之魔法师",
+      "title": "",
       "update_grade_level": 90,
       "update_task_id": 30027001,
       "is_auto_accept_task": true,
@@ -329,24 +329,24 @@
       "promote_desc": [
         {
           "icon": "PaperSprite'/Game/NewRoco/Modules/System/LevelUpUI/Raw/Atlas/LevelUpUIStatic/Frames/img_wanjia_png.img_wanjia_png'",
-          "promote_text": "魔法等级上限",
+          "promote_text": "",
           "value": "70"
         },
         {
           "icon": "PaperSprite'/Game/NewRoco/Modules/System/LevelUpUI/Raw/Atlas/LevelUpUIStatic/Frames/img_jingling_png.img_jingling_png'",
-          "promote_text": "精灵听话等级上限",
+          "promote_text": "",
           "value": "60"
         }
       ],
-      "update_task_des": "完成突破任务六",
+      "update_task_des": "",
       "revival_desc": [
         {
           "up_icon": "PaperSprite'/Game/NewRoco/Modules/System/LevelUpUI/Raw/Atlas/LevelUpUIStatic/Frames/img_shan_png.img_shan_png'",
-          "desc": "大世界精灵等级提升"
+          "desc": ""
         },
         {
           "up_icon": "PaperSprite'/Game/NewRoco/Modules/System/LevelUpUI/Raw/Atlas/LevelUpUIStatic/Frames/img_wanjia_png.img_wanjia_png'",
-          "desc": "魔法等级上限提升至",
+          "desc": "",
           "upvalue": "70"
         }
       ],
@@ -367,7 +367,7 @@
     "8": {
       "id": 8,
       "world_level": 7,
-      "title": "月之魔法师",
+      "title": "",
       "update_grade_level": 90,
       "update_task_id": 30028001,
       "is_auto_accept_task": true,
@@ -380,24 +380,24 @@
       "promote_desc": [
         {
           "icon": "PaperSprite'/Game/NewRoco/Modules/System/LevelUpUI/Raw/Atlas/LevelUpUIStatic/Frames/img_wanjia_png.img_wanjia_png'",
-          "promote_text": "魔法等级上限",
+          "promote_text": "",
           "value": "70"
         },
         {
           "icon": "PaperSprite'/Game/NewRoco/Modules/System/LevelUpUI/Raw/Atlas/LevelUpUIStatic/Frames/img_jingling_png.img_jingling_png'",
-          "promote_text": "精灵听话等级上限",
+          "promote_text": "",
           "value": "60"
         }
       ],
-      "update_task_des": "完成突破任务七",
+      "update_task_des": "",
       "revival_desc": [
         {
           "up_icon": "PaperSprite'/Game/NewRoco/Modules/System/LevelUpUI/Raw/Atlas/LevelUpUIStatic/Frames/img_shan_png.img_shan_png'",
-          "desc": "大世界精灵等级提升"
+          "desc": ""
         },
         {
           "up_icon": "PaperSprite'/Game/NewRoco/Modules/System/LevelUpUI/Raw/Atlas/LevelUpUIStatic/Frames/img_wanjia_png.img_wanjia_png'",
-          "desc": "魔法等级上限提升至",
+          "desc": "",
           "upvalue": "70"
         }
       ],
@@ -418,7 +418,7 @@
     "9": {
       "id": 9,
       "world_level": 8,
-      "title": "星之魔法师",
+      "title": "",
       "update_grade_level": 90,
       "update_task_id": 30029001,
       "is_auto_accept_task": true,
@@ -431,24 +431,24 @@
       "promote_desc": [
         {
           "icon": "PaperSprite'/Game/NewRoco/Modules/System/LevelUpUI/Raw/Atlas/LevelUpUIStatic/Frames/img_wanjia_png.img_wanjia_png'",
-          "promote_text": "魔法等级上限",
+          "promote_text": "",
           "value": "70"
         },
         {
           "icon": "PaperSprite'/Game/NewRoco/Modules/System/LevelUpUI/Raw/Atlas/LevelUpUIStatic/Frames/img_jingling_png.img_jingling_png'",
-          "promote_text": "精灵听话等级上限",
+          "promote_text": "",
           "value": "60"
         }
       ],
-      "update_task_des": "完成突破任务八",
+      "update_task_des": "",
       "revival_desc": [
         {
           "up_icon": "PaperSprite'/Game/NewRoco/Modules/System/LevelUpUI/Raw/Atlas/LevelUpUIStatic/Frames/img_shan_png.img_shan_png'",
-          "desc": "大世界精灵等级提升"
+          "desc": ""
         },
         {
           "up_icon": "PaperSprite'/Game/NewRoco/Modules/System/LevelUpUI/Raw/Atlas/LevelUpUIStatic/Frames/img_wanjia_png.img_wanjia_png'",
-          "desc": "魔法等级上限提升至",
+          "desc": "",
           "upvalue": "70"
         }
       ],
@@ -469,7 +469,7 @@
     "10": {
       "id": 10,
       "world_level": 9,
-      "title": "梦之魔法师",
+      "title": "",
       "update_grade_level": 90,
       "update_task_id": 30029005,
       "is_auto_accept_task": true,
@@ -482,24 +482,24 @@
       "promote_desc": [
         {
           "icon": "PaperSprite'/Game/NewRoco/Modules/System/LevelUpUI/Raw/Atlas/LevelUpUIStatic/Frames/img_wanjia_png.img_wanjia_png'",
-          "promote_text": "魔法等级上限",
+          "promote_text": "",
           "value": "70"
         },
         {
           "icon": "PaperSprite'/Game/NewRoco/Modules/System/LevelUpUI/Raw/Atlas/LevelUpUIStatic/Frames/img_jingling_png.img_jingling_png'",
-          "promote_text": "精灵听话等级上限",
+          "promote_text": "",
           "value": "60"
         }
       ],
-      "update_task_des": "完成突破任务九",
+      "update_task_des": "",
       "revival_desc": [
         {
           "up_icon": "PaperSprite'/Game/NewRoco/Modules/System/LevelUpUI/Raw/Atlas/LevelUpUIStatic/Frames/img_shan_png.img_shan_png'",
-          "desc": "大世界精灵等级提升"
+          "desc": ""
         },
         {
           "up_icon": "PaperSprite'/Game/NewRoco/Modules/System/LevelUpUI/Raw/Atlas/LevelUpUIStatic/Frames/img_wanjia_png.img_wanjia_png'",
-          "desc": "魔法等级上限提升至",
+          "desc": "",
           "upvalue": "70"
         }
       ],
@@ -520,7 +520,7 @@
     "11": {
       "id": 11,
       "world_level": 10,
-      "title": "大魔法师",
+      "title": "",
       "update_grade_level": 90,
       "update_task_id": 30029005,
       "is_auto_accept_task": true,
@@ -532,24 +532,24 @@
       "promote_desc": [
         {
           "icon": "PaperSprite'/Game/NewRoco/Modules/System/LevelUpUI/Raw/Atlas/LevelUpUIStatic/Frames/img_wanjia_png.img_wanjia_png'",
-          "promote_text": "魔法等级上限",
+          "promote_text": "",
           "value": "70"
         },
         {
           "icon": "PaperSprite'/Game/NewRoco/Modules/System/LevelUpUI/Raw/Atlas/LevelUpUIStatic/Frames/img_jingling_png.img_jingling_png'",
-          "promote_text": "精灵听话等级上限",
+          "promote_text": "",
           "value": "60"
         }
       ],
-      "update_task_des": "完成突破任务十",
+      "update_task_des": "",
       "revival_desc": [
         {
           "up_icon": "PaperSprite'/Game/NewRoco/Modules/System/LevelUpUI/Raw/Atlas/LevelUpUIStatic/Frames/img_shan_png.img_shan_png'",
-          "desc": "大世界精灵等级提升"
+          "desc": ""
         },
         {
           "up_icon": "PaperSprite'/Game/NewRoco/Modules/System/LevelUpUI/Raw/Atlas/LevelUpUIStatic/Frames/img_wanjia_png.img_wanjia_png'",
-          "desc": "魔法等级上限提升至",
+          "desc": "",
           "upvalue": "70"
         }
       ],

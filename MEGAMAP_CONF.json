@@ -134,7 +134,7 @@
     },
     "18": {
       "id": 18,
-      "genre": "对战NPC",
+      "genre": "露天对战",
       "class": 9,
       "display_level_min": "1",
       "display_level_max": "10000",
@@ -150,7 +150,7 @@
     },
     "20": {
       "id": 20,
-      "genre": "对战NPC（特殊）",
+      "genre": "隐藏对战",
       "class": 9,
       "display_level_min": "1",
       "display_level_max": "10000",
@@ -2518,7 +2518,7 @@
     },
     "317": {
       "id": 317,
-      "genre": "加尔",
+      "genre": "黑化加尔",
       "class": 7,
       "display_level_min": "1",
       "display_level_max": "10000",
@@ -2542,7 +2542,7 @@
     },
     "320": {
       "id": 320,
-      "genre": "超能球球",
+      "genre": "星星眼",
       "class": 7,
       "display_level_min": "1",
       "display_level_max": "10000",
@@ -3278,7 +3278,7 @@
     },
     "412": {
       "id": 412,
-      "genre": "古齿帝牙",
+      "genre": "冰晶古齿虎",
       "class": 7,
       "display_level_min": "1",
       "display_level_max": "10000",
@@ -3382,7 +3382,7 @@
     },
     "425": {
       "id": 425,
-      "genre": "雷暴奔奔",
+      "genre": "雷神之子",
       "class": 7,
       "display_level_min": "1",
       "display_level_max": "10000",
@@ -6478,7 +6478,7 @@
     },
     "812": {
       "id": 812,
-      "genre": "猴唛仔",
+      "genre": "猴麦仔",
       "class": 7,
       "display_level_min": "1",
       "display_level_max": "10000",
@@ -6526,7 +6526,7 @@
     },
     "818": {
       "id": 818,
-      "genre": "机墓方舟",
+      "genre": "机幕方舟",
       "class": 7,
       "display_level_min": "1",
       "display_level_max": "10000",
@@ -6566,7 +6566,7 @@
     },
     "823": {
       "id": 823,
-      "genre": "方方狐",
+      "genre": "宝藏小狐",
       "class": 7,
       "display_level_min": "1",
       "display_level_max": "10000",
@@ -6574,7 +6574,7 @@
     },
     "824": {
       "id": 824,
-      "genre": "狐脸擦擦",
+      "genre": "宝藏沙狐",
       "class": 7,
       "display_level_min": "1",
       "display_level_max": "10000",
@@ -6603,6 +6603,366 @@
       "display_level_min": "1",
       "display_level_max": "10000",
       "icon": "3745"
+    },
+    "828": {
+      "id": 828,
+      "genre": "赛季对战",
+      "class": 9,
+      "display_level_min": "1",
+      "display_level_max": "10000",
+      "icon": "img_season1_battle"
+    },
+    "829": {
+      "id": 829,
+      "genre": "不咕钟零件",
+      "class": 7,
+      "display_level_min": "1",
+      "display_level_max": "10000",
+      "icon": "100946"
+    },
+    "830": {
+      "id": 830,
+      "genre": "烈钻鸟",
+      "class": 7,
+      "display_level_min": "1",
+      "display_level_max": "10000",
+      "icon": "3078"
+    },
+    "831": {
+      "id": 831,
+      "genre": "长尾火鸟",
+      "class": 7,
+      "display_level_min": "1",
+      "display_level_max": "10000",
+      "icon": "3079"
+    },
+    "832": {
+      "id": 832,
+      "genre": "火羽",
+      "class": 7,
+      "display_level_min": "1",
+      "display_level_max": "10000",
+      "icon": "3080"
+    },
+    "833": {
+      "id": 833,
+      "genre": "瑰眼仔",
+      "class": 7,
+      "display_level_min": "1",
+      "display_level_max": "10000",
+      "icon": "3183"
+    },
+    "834": {
+      "id": 834,
+      "genre": "耳翎瑰魅",
+      "class": 7,
+      "display_level_min": "1",
+      "display_level_max": "10000",
+      "icon": "3184"
+    },
+    "835": {
+      "id": 835,
+      "genre": "邪眼巨魔",
+      "class": 7,
+      "display_level_min": "1",
+      "display_level_max": "10000",
+      "icon": "3185"
+    },
+    "836": {
+      "id": 836,
+      "genre": "友爱天天",
+      "class": 7,
+      "display_level_min": "1",
+      "display_level_max": "10000",
+      "icon": "3228"
+    },
+    "837": {
+      "id": 837,
+      "genre": "友爱星飞",
+      "class": 7,
+      "display_level_min": "1",
+      "display_level_max": "10000",
+      "icon": "3229"
+    },
+    "838": {
+      "id": 838,
+      "genre": "丢丢_火山附近的样子",
+      "class": 7,
+      "display_level_min": "1",
+      "display_level_max": "10000",
+      "icon": "3288"
+    },
+    "839": {
+      "id": 839,
+      "genre": "卡卡虫_火山附近的样子",
+      "class": 7,
+      "display_level_min": "1",
+      "display_level_max": "10000",
+      "icon": "3291"
+    },
+    "840": {
+      "id": 840,
+      "genre": "卡瓦重_火山附近的样子",
+      "class": 7,
+      "display_level_min": "1",
+      "display_level_max": "10000",
+      "icon": "3294"
+    },
+    "841": {
+      "id": 841,
+      "genre": "觅觅蝠",
+      "class": 7,
+      "display_level_min": "1",
+      "display_level_max": "10000",
+      "icon": "3321"
+    },
+    "842": {
+      "id": 842,
+      "genre": "翻翻蝠",
+      "class": 7,
+      "display_level_min": "1",
+      "display_level_max": "10000",
+      "icon": "3322"
+    },
+    "843": {
+      "id": 843,
+      "genre": "夜游魔",
+      "class": 7,
+      "display_level_min": "1",
+      "display_level_max": "10000",
+      "icon": "3323"
+    },
+    "844": {
+      "id": 844,
+      "genre": "雪灵兽",
+      "class": 7,
+      "display_level_min": "1",
+      "display_level_max": "10000",
+      "icon": "3341"
+    },
+    "845": {
+      "id": 845,
+      "genre": "幻雪兽",
+      "class": 7,
+      "display_level_min": "1",
+      "display_level_max": "10000",
+      "icon": "3342"
+    },
+    "846": {
+      "id": 846,
+      "genre": "饮雪狂兽",
+      "class": 7,
+      "display_level_min": "1",
+      "display_level_max": "10000",
+      "icon": "3343"
+    },
+    "847": {
+      "id": 847,
+      "genre": "芽眼魔",
+      "class": 7,
+      "display_level_min": "1",
+      "display_level_max": "10000",
+      "icon": "3347"
+    },
+    "848": {
+      "id": 848,
+      "genre": "叶眼魔",
+      "class": 7,
+      "display_level_min": "1",
+      "display_level_max": "10000",
+      "icon": "3348"
+    },
+    "849": {
+      "id": 849,
+      "genre": "障眼魔",
+      "class": 7,
+      "display_level_min": "1",
+      "display_level_max": "10000",
+      "icon": "3349"
+    },
+    "850": {
+      "id": 850,
+      "genre": "霹雳宝宝",
+      "class": 7,
+      "display_level_min": "1",
+      "display_level_max": "10000",
+      "icon": "3351"
+    },
+    "851": {
+      "id": 851,
+      "genre": "雷鸣小子",
+      "class": 7,
+      "display_level_min": "1",
+      "display_level_max": "10000",
+      "icon": "3352"
+    },
+    "852": {
+      "id": 852,
+      "genre": "雷神之子",
+      "class": 7,
+      "display_level_min": "1",
+      "display_level_max": "10000",
+      "icon": "3353"
+    },
+    "853": {
+      "id": 853,
+      "genre": "碎晶蝎",
+      "class": 7,
+      "display_level_min": "1",
+      "display_level_max": "10000",
+      "icon": "3402"
+    },
+    "854": {
+      "id": 854,
+      "genre": "晶尾蝎",
+      "class": 7,
+      "display_level_min": "1",
+      "display_level_max": "10000",
+      "icon": "3403"
+    },
+    "855": {
+      "id": 855,
+      "genre": "蝎子王",
+      "class": 7,
+      "display_level_min": "1",
+      "display_level_max": "10000",
+      "icon": "3404"
+    },
+    "856": {
+      "id": 856,
+      "genre": "梦游_穿星星睡衣的样子",
+      "class": 7,
+      "display_level_min": "1",
+      "display_level_max": "10000",
+      "icon": "3440"
+    },
+    "857": {
+      "id": 857,
+      "genre": "梦悠悠_穿星星睡衣的样子",
+      "class": 7,
+      "display_level_min": "1",
+      "display_level_max": "10000",
+      "icon": "3441"
+    },
+    "858": {
+      "id": 858,
+      "genre": "星云旅者",
+      "class": 7,
+      "display_level_min": "1",
+      "display_level_max": "10000",
+      "icon": "3466"
+    },
+    "859": {
+      "id": 859,
+      "genre": "不咕钟",
+      "class": 7,
+      "display_level_min": "1",
+      "display_level_max": "10000",
+      "icon": "3616"
+    },
+    "860": {
+      "id": 860,
+      "genre": "溯源钟",
+      "class": 7,
+      "display_level_min": "1",
+      "display_level_max": "10000",
+      "icon": "3617"
+    },
+    "861": {
+      "id": 861,
+      "genre": "莫比乌乌",
+      "class": 7,
+      "display_level_min": "1",
+      "display_level_max": "10000",
+      "icon": "3747"
+    },
+    "862": {
+      "id": 862,
+      "genre": "克莱因龙",
+      "class": 7,
+      "display_level_min": "1",
+      "display_level_max": "10000",
+      "icon": "3748"
+    },
+    "863": {
+      "id": 863,
+      "genre": "森豆丁",
+      "class": 7,
+      "display_level_min": "1",
+      "display_level_max": "10000",
+      "icon": "3749"
+    },
+    "864": {
+      "id": 864,
+      "genre": "森蛮人",
+      "class": 7,
+      "display_level_min": "1",
+      "display_level_max": "10000",
+      "icon": "3750"
+    },
+    "865": {
+      "id": 865,
+      "genre": "森巨人",
+      "class": 7,
+      "display_level_min": "1",
+      "display_level_max": "10000",
+      "icon": "3751"
+    },
+    "866": {
+      "id": 866,
+      "genre": "叮叮卯",
+      "class": 7,
+      "display_level_min": "1",
+      "display_level_max": "10000",
+      "icon": "3752"
+    },
+    "867": {
+      "id": 867,
+      "genre": "飞飞钥",
+      "class": 7,
+      "display_level_min": "1",
+      "display_level_max": "10000",
+      "icon": "3753"
+    },
+    "868": {
+      "id": 868,
+      "genre": "火豆丁",
+      "class": 7,
+      "display_level_min": "1",
+      "display_level_max": "10000",
+      "icon": "3754"
+    },
+    "869": {
+      "id": 869,
+      "genre": "火蛮人",
+      "class": 7,
+      "display_level_min": "1",
+      "display_level_max": "10000",
+      "icon": "3755"
+    },
+    "870": {
+      "id": 870,
+      "genre": "火巨人",
+      "class": 7,
+      "display_level_min": "1",
+      "display_level_max": "10000",
+      "icon": "3756"
+    },
+    "871": {
+      "id": 871,
+      "genre": "点点",
+      "class": 7,
+      "display_level_min": "1",
+      "display_level_max": "10000",
+      "icon": "3757"
+    },
+    "872": {
+      "id": 872,
+      "genre": "珀尔鼬",
+      "class": 7,
+      "display_level_min": "1",
+      "display_level_max": "10000",
+      "icon": "3758"
     }
   },
   "LocalizationStrings": {}

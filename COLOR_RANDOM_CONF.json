@@ -16,8 +16,7 @@
       "ui_color_1": "#3c32cf",
       "ui_color_2": "#83d256",
       "shine_strength": 10,
-      "prob": 200,
-      "ratio": 30000
+      "ratio": 100000
     },
     "2": {
       "id": 2,
@@ -35,8 +34,7 @@
       "ui_color_1": "#3c32cf",
       "ui_color_2": "#3ed7d7",
       "shine_strength": 10,
-      "prob": 200,
-      "ratio": 30000
+      "ratio": 100000
     },
     "3": {
       "id": 3,
@@ -54,8 +52,7 @@
       "ui_color_1": "#3c32cf",
       "ui_color_2": "#b869ed",
       "shine_strength": 10,
-      "prob": 200,
-      "ratio": 30000
+      "ratio": 100000
     },
     "4": {
       "id": 4,
@@ -73,8 +70,7 @@
       "ui_color_1": "#3c32cf",
       "ui_color_2": "#e5576f",
       "shine_strength": 10,
-      "prob": 200,
-      "ratio": 30000
+      "ratio": 100000
     },
     "5": {
       "id": 5,
@@ -92,8 +88,7 @@
       "ui_color_1": "#3c32cf",
       "ui_color_2": "#f9c924",
       "shine_strength": 10,
-      "prob": 200,
-      "ratio": 30000
+      "ratio": 100000
     },
     "6": {
       "id": 6,
@@ -111,8 +106,7 @@
       "ui_color_1": "#83d256",
       "ui_color_2": "#3ed7d7",
       "shine_strength": 10,
-      "prob": 200,
-      "ratio": 30000
+      "ratio": 100000
     },
     "7": {
       "id": 7,
@@ -130,8 +124,7 @@
       "ui_color_1": "#83d256",
       "ui_color_2": "#b869ed",
       "shine_strength": 10,
-      "prob": 200,
-      "ratio": 30000
+      "ratio": 100000
     },
     "8": {
       "id": 8,
@@ -149,8 +142,7 @@
       "ui_color_1": "#83d256",
       "ui_color_2": "#e5576f",
       "shine_strength": 10,
-      "prob": 200,
-      "ratio": 30000
+      "ratio": 100000
     },
     "9": {
       "id": 9,
@@ -168,8 +160,7 @@
       "ui_color_1": "#83d256",
       "ui_color_2": "#f9c924",
       "shine_strength": 10,
-      "prob": 200,
-      "ratio": 30000
+      "ratio": 100000
     },
     "10": {
       "id": 10,
@@ -187,8 +178,7 @@
       "ui_color_1": "#3ed7d7",
       "ui_color_2": "#b869ed",
       "shine_strength": 10,
-      "prob": 200,
-      "ratio": 30000
+      "ratio": 100000
     },
     "11": {
       "id": 11,
@@ -206,8 +196,7 @@
       "ui_color_1": "#3ed7d7",
       "ui_color_2": "#e5576f",
       "shine_strength": 10,
-      "prob": 200,
-      "ratio": 30000
+      "ratio": 100000
     },
     "12": {
       "id": 12,
@@ -225,8 +214,7 @@
       "ui_color_1": "#3ed7d7",
       "ui_color_2": "#f9c924",
       "shine_strength": 10,
-      "prob": 200,
-      "ratio": 30000
+      "ratio": 100000
     },
     "13": {
       "id": 13,
@@ -244,8 +232,7 @@
       "ui_color_1": "#b869ed",
       "ui_color_2": "#e5576f",
       "shine_strength": 10,
-      "prob": 200,
-      "ratio": 30000
+      "ratio": 100000
     },
     "14": {
       "id": 14,
@@ -263,8 +250,7 @@
       "ui_color_1": "#b869ed",
       "ui_color_2": "#f9c924",
       "shine_strength": 10,
-      "prob": 200,
-      "ratio": 30000
+      "ratio": 100000
     },
     "15": {
       "id": 15,
@@ -282,8 +268,7 @@
       "ui_color_1": "#e5576f",
       "ui_color_2": "#f9c924",
       "shine_strength": 10,
-      "prob": 200,
-      "ratio": 30000
+      "ratio": 100000
     },
     "16": {
       "id": 16,
@@ -301,8 +286,7 @@
       "ui_color_1": "#bac8fb",
       "ui_color_2": "#3c32cf",
       "shine_strength": 10,
-      "prob": 283,
-      "ratio": 30000
+      "ratio": 100000
     },
     "17": {
       "id": 17,
@@ -320,8 +304,7 @@
       "ui_color_1": "#bac8fb",
       "ui_color_2": "#83d256",
       "shine_strength": 10,
-      "prob": 283,
-      "ratio": 30000
+      "ratio": 100000
     },
     "18": {
       "id": 18,
@@ -339,8 +322,7 @@
       "ui_color_1": "#bac8fb",
       "ui_color_2": "#3ed7d7",
       "shine_strength": 10,
-      "prob": 283,
-      "ratio": 30000
+      "ratio": 100000
     },
     "19": {
       "id": 19,
@@ -358,8 +340,7 @@
       "ui_color_1": "#bac8fb",
       "ui_color_2": "#b869ed",
       "shine_strength": 10,
-      "prob": 283,
-      "ratio": 30000
+      "ratio": 100000
     },
     "20": {
       "id": 20,
@@ -377,8 +358,7 @@
       "ui_color_1": "#bac8fb",
       "ui_color_2": "#e5576f",
       "shine_strength": 10,
-      "prob": 283,
-      "ratio": 30000
+      "ratio": 100000
     },
     "21": {
       "id": 21,
@@ -396,8 +376,7 @@
       "ui_color_1": "#bac8fb",
       "ui_color_2": "#f9c924",
       "shine_strength": 10,
-      "prob": 283,
-      "ratio": 30000
+      "ratio": 100000
     },
     "22": {
       "id": 22,
@@ -415,8 +394,7 @@
       "ui_color_1": "#aedfae",
       "ui_color_2": "#3c32cf",
       "shine_strength": 10,
-      "prob": 283,
-      "ratio": 30000
+      "ratio": 100000
     },
     "23": {
       "id": 23,
@@ -434,8 +412,7 @@
       "ui_color_1": "#aedfae",
       "ui_color_2": "#3ed7d7",
       "shine_strength": 10,
-      "prob": 283,
-      "ratio": 30000
+      "ratio": 100000
     },
     "24": {
       "id": 24,
@@ -453,8 +430,7 @@
       "ui_color_1": "#aedfae",
       "ui_color_2": "#b869ed",
       "shine_strength": 10,
-      "prob": 283,
-      "ratio": 30000
+      "ratio": 100000
     },
     "25": {
       "id": 25,
@@ -472,8 +448,7 @@
       "ui_color_1": "#aedfae",
       "ui_color_2": "#e5576f",
       "shine_strength": 10,
-      "prob": 283,
-      "ratio": 30000
+      "ratio": 100000
     },
     "26": {
       "id": 26,
@@ -491,8 +466,7 @@
       "ui_color_1": "#a8e5e5",
       "ui_color_2": "#83d256",
       "shine_strength": 10,
-      "prob": 283,
-      "ratio": 30000
+      "ratio": 100000
     },
     "27": {
       "id": 27,
@@ -510,8 +484,7 @@
       "ui_color_1": "#a8e5e5",
       "ui_color_2": "#b869ed",
       "shine_strength": 10,
-      "prob": 283,
-      "ratio": 30000
+      "ratio": 100000
     },
     "28": {
       "id": 28,
@@ -529,8 +502,7 @@
       "ui_color_1": "#a8e5e5",
       "ui_color_2": "#e5576f",
       "shine_strength": 10,
-      "prob": 283,
-      "ratio": 30000
+      "ratio": 100000
     },
     "29": {
       "id": 29,
@@ -548,8 +520,7 @@
       "ui_color_1": "#a8e5e5",
       "ui_color_2": "#f9c924",
       "shine_strength": 10,
-      "prob": 283,
-      "ratio": 30000
+      "ratio": 100000
     },
     "30": {
       "id": 30,
@@ -567,8 +538,7 @@
       "ui_color_1": "#dbbceb",
       "ui_color_2": "#3ed7d7",
       "shine_strength": 10,
-      "prob": 283,
-      "ratio": 30000
+      "ratio": 100000
     },
     "31": {
       "id": 31,
@@ -586,8 +556,7 @@
       "ui_color_1": "#dbbceb",
       "ui_color_2": "#b869ed",
       "shine_strength": 10,
-      "prob": 283,
-      "ratio": 30000
+      "ratio": 100000
     },
     "32": {
       "id": 32,
@@ -605,8 +574,7 @@
       "ui_color_1": "#dbbceb",
       "ui_color_2": "#e5576f",
       "shine_strength": 10,
-      "prob": 283,
-      "ratio": 30000
+      "ratio": 100000
     },
     "33": {
       "id": 33,
@@ -624,8 +592,7 @@
       "ui_color_1": "#dbbceb",
       "ui_color_2": "#f9c924",
       "shine_strength": 10,
-      "prob": 283,
-      "ratio": 30000
+      "ratio": 100000
     },
     "34": {
       "id": 34,
@@ -643,8 +610,7 @@
       "ui_color_1": "#fdcdd3",
       "ui_color_2": "#3c32cf",
       "shine_strength": 10,
-      "prob": 283,
-      "ratio": 30000
+      "ratio": 100000
     },
     "35": {
       "id": 35,
@@ -662,8 +628,7 @@
       "ui_color_1": "#fdcdd3",
       "ui_color_2": "#b869ed",
       "shine_strength": 10,
-      "prob": 283,
-      "ratio": 30000
+      "ratio": 100000
     },
     "36": {
       "id": 36,
@@ -681,8 +646,7 @@
       "ui_color_1": "#fdcdd3",
       "ui_color_2": "#f9c924",
       "shine_strength": 10,
-      "prob": 283,
-      "ratio": 30000
+      "ratio": 100000
     },
     "37": {
       "id": 37,
@@ -700,8 +664,7 @@
       "ui_color_1": "#f1d397",
       "ui_color_2": "#3c32cf",
       "shine_strength": 10,
-      "prob": 283,
-      "ratio": 30000
+      "ratio": 100000
     },
     "38": {
       "id": 38,
@@ -719,8 +682,7 @@
       "ui_color_1": "#f1d397",
       "ui_color_2": "#83d256",
       "shine_strength": 10,
-      "prob": 283,
-      "ratio": 30000
+      "ratio": 100000
     },
     "39": {
       "id": 39,
@@ -738,8 +700,7 @@
       "ui_color_1": "#f1d397",
       "ui_color_2": "#3ed7d7",
       "shine_strength": 10,
-      "prob": 283,
-      "ratio": 30000
+      "ratio": 100000
     }
   },
   "LocalizationStrings": {}

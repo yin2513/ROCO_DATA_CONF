@@ -1098,9 +1098,202 @@
       "ai_type": 3,
       "is_movable": true
     },
+    "65": {
+      "id": 65,
+      "name_text": "一起嗨Ⅰ",
+      "behavior_type": 2,
+      "RPbehavior_type": 121,
+      "range": 1500,
+      "star": [
+        65,
+        1
+      ],
+      "toast_text": "一起嗨Ⅰ",
+      "ui_order": 40,
+      "male_skill_id": 100066,
+      "female_skill_id": 100066,
+      "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_watch.icon_pose_watch'",
+      "ai_type": 3,
+      "is_movable": true
+    },
+    "66": {
+      "id": 66,
+      "name_text": "一起嗨Ⅱ",
+      "behavior_type": 2,
+      "RPbehavior_type": 123,
+      "range": 1500,
+      "star": [
+        66,
+        1
+      ],
+      "toast_text": "一起嗨Ⅱ",
+      "ui_order": 42,
+      "male_skill_id": 100067,
+      "female_skill_id": 100067,
+      "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_bear.icon_pose_bear'",
+      "ai_type": 3,
+      "is_movable": true
+    },
+    "67": {
+      "id": 67,
+      "name_text": "小板凳",
+      "behavior_type": 2,
+      "RPbehavior_type": 125,
+      "range": 1500,
+      "star": [
+        67,
+        1
+      ],
+      "toast_text": "小板凳",
+      "ui_order": 44,
+      "male_skill_id": 100068,
+      "female_skill_id": 100068,
+      "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_newspaper.icon_pose_newspaper'",
+      "ai_type": 3,
+      "is_movable": true,
+      "is_loop": true
+    },
+    "68": {
+      "id": 68,
+      "name_text": "木头长椅",
+      "behavior_type": 2,
+      "RPbehavior_type": 127,
+      "range": 1500,
+      "star": [
+        68,
+        1
+      ],
+      "toast_text": "木头长椅",
+      "ui_order": 46,
+      "male_skill_id": 100069,
+      "female_skill_id": 100069,
+      "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_reliable.icon_pose_reliable'",
+      "ai_type": 3,
+      "is_movable": true
+    },
+    "69": {
+      "id": 69,
+      "name_text": "木头圆桌",
+      "behavior_type": 2,
+      "RPbehavior_type": 122,
+      "range": 1500,
+      "star": [
+        65,
+        2
+      ],
+      "toast_text": "木头圆桌",
+      "ui_order": 41,
+      "male_skill_id": 100066,
+      "female_skill_id": 100066,
+      "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_watch.icon_pose_watch'",
+      "ai_type": 3,
+      "is_movable": true
+    },
+    "70": {
+      "id": 70,
+      "name_text": "旧皮箱",
+      "behavior_type": 2,
+      "RPbehavior_type": 124,
+      "range": 1500,
+      "star": [
+        66,
+        2
+      ],
+      "toast_text": "旧皮箱",
+      "ui_order": 43,
+      "male_skill_id": 100067,
+      "female_skill_id": 100067,
+      "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_bear.icon_pose_bear'",
+      "ai_type": 3,
+      "is_movable": true
+    },
+    "71": {
+      "id": 71,
+      "name_text": "知识板凳",
+      "behavior_type": 2,
+      "RPbehavior_type": 126,
+      "range": 1500,
+      "star": [
+        67,
+        2
+      ],
+      "toast_text": "知识板凳",
+      "ui_order": 45,
+      "male_skill_id": 100068,
+      "female_skill_id": 100068,
+      "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_newspaper.icon_pose_newspaper'",
+      "ai_type": 3,
+      "is_movable": true
+    },
+    "72": {
+      "id": 72,
+      "name_text": "舒适课桌",
+      "behavior_type": 2,
+      "RPbehavior_type": 128,
+      "range": 1500,
+      "star": [
+        68,
+        2
+      ],
+      "toast_text": "舒适课桌",
+      "ui_order": 47,
+      "male_skill_id": 100069,
+      "female_skill_id": 100069,
+      "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_reliable.icon_pose_reliable'",
+      "ai_type": 3,
+      "is_movable": true
+    },
+    "73": {
+      "id": 73,
+      "name_text": "鹅鹅鹅长椅",
+      "behavior_type": 2,
+      "RPbehavior_type": 118,
+      "range": 1500,
+      "toast_text": "鹅鹅鹅长椅",
+      "ui_order": 48,
+      "male_skill_id": 100070,
+      "female_skill_id": 100070,
+      "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_nose.icon_pose_nose'",
+      "card_pose_resource_path": "RolePlayNose",
+      "pose_get_ways": "吓人箱",
+      "ai_type": 3,
+      "is_movable": true
+    },
+    "74": {
+      "id": 74,
+      "name_text": "吓人箱",
+      "behavior_type": 2,
+      "RPbehavior_type": 119,
+      "range": 1500,
+      "toast_text": "星星躺枕",
+      "ui_order": 50,
+      "male_skill_id": 100071,
+      "female_skill_id": 100071,
+      "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_bump.icon_pose_bump'",
+      "card_pose_resource_path": "RolePlayBump",
+      "pose_get_ways": "星星躺枕",
+      "ai_type": 3,
+      "is_movable": true
+    },
+    "75": {
+      "id": 75,
+      "name_text": "南瓜墩",
+      "behavior_type": 2,
+      "RPbehavior_type": 120,
+      "range": 1500,
+      "toast_text": "南瓜墩",
+      "ui_order": 52,
+      "male_skill_id": 100072,
+      "female_skill_id": 100072,
+      "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_Chest.icon_pose_Chest'",
+      "card_pose_resource_path": "RolePlayChest",
+      "pose_get_ways": "篝火",
+      "ai_type": 3,
+      "is_movable": true
+    },
     "77": {
       "id": 77,
-      "name_text": "一起嗨Ⅰ",
+      "name_text": "篝火",
       "behavior_type": 2,
       "RPbehavior_type": 146,
       "range": 1500,
@@ -1108,7 +1301,7 @@
         77,
         1
       ],
-      "toast_text": "一起嗨Ⅰ",
+      "toast_text": "智慧树",
       "ui_order": 55,
       "male_skill_id": 100074,
       "female_skill_id": 100074,
@@ -1118,7 +1311,7 @@
     },
     "78": {
       "id": 78,
-      "name_text": "一起嗨Ⅱ",
+      "name_text": "智慧树",
       "behavior_type": 2,
       "RPbehavior_type": 147,
       "range": 1500,
@@ -1126,7 +1319,7 @@
         77,
         2
       ],
-      "toast_text": "一起嗨Ⅱ",
+      "toast_text": "",
       "ui_order": 56,
       "male_skill_id": 100074,
       "female_skill_id": 100074,
@@ -1136,98 +1329,122 @@
     },
     "68000": {
       "id": 68000,
-      "name_text": "小板凳",
+      "name_text": "",
       "behavior_type": 6,
       "RPbehavior_type": 37,
-      "toast_text": "小板凳",
+      "toast_text": "",
       "icon_path": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Props/img_danrenbandeng.img_danrenbandeng'"
     },
     "68001": {
       "id": 68001,
-      "name_text": "木头长椅",
+      "name_text": "",
       "behavior_type": 6,
       "RPbehavior_type": 38,
-      "toast_text": "木头长椅",
+      "toast_text": "",
       "icon_path": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Props/img_shuangrenchangdeng.img_shuangrenchangdeng'"
     },
     "68002": {
       "id": 68002,
-      "name_text": "木头圆桌",
+      "name_text": "",
       "behavior_type": 6,
       "RPbehavior_type": 39,
-      "toast_text": "木头圆桌",
+      "toast_text": "",
       "icon_path": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Props/img_sirenmuzhuo.img_sirenmuzhuo'"
     },
     "68003": {
       "id": 68003,
-      "name_text": "旧皮箱",
+      "name_text": "",
       "behavior_type": 6,
       "RPbehavior_type": 43,
-      "toast_text": "旧皮箱",
+      "toast_text": "",
       "icon_path": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Props/img_EnvComInte_Chair_001.img_EnvComInte_Chair_001'"
     },
     "68004": {
       "id": 68004,
-      "name_text": "知识板凳",
+      "name_text": "",
       "behavior_type": 6,
       "RPbehavior_type": 44,
-      "toast_text": "知识板凳",
+      "toast_text": "",
       "icon_path": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Props/img_EnvComInte_Chair_002.img_EnvComInte_Chair_002'"
     },
     "68005": {
       "id": 68005,
-      "name_text": "舒适课桌",
+      "name_text": "",
       "behavior_type": 6,
       "RPbehavior_type": 45,
-      "toast_text": "舒适课桌",
+      "toast_text": "",
       "icon_path": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Props/img_EnvComInte_Chair_003.img_EnvComInte_Chair_003'"
     },
     "68006": {
       "id": 68006,
-      "name_text": "鹅鹅鹅长椅",
+      "name_text": "",
       "behavior_type": 6,
       "RPbehavior_type": 59,
-      "toast_text": "鹅鹅鹅长椅",
+      "toast_text": "",
       "icon_path": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Props/img_qq_bench.img_qq_bench'"
     },
     "68007": {
       "id": 68007,
-      "name_text": "吓人箱",
+      "name_text": "",
       "behavior_type": 6,
       "RPbehavior_type": 105,
-      "toast_text": "吓人箱",
+      "toast_text": "",
       "icon_path": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Props/img_S2_BlindBox_001.img_S2_BlindBox_001'"
     },
     "68008": {
       "id": 68008,
-      "name_text": "星星躺枕",
+      "name_text": "",
       "behavior_type": 6,
       "RPbehavior_type": 106,
-      "toast_text": "星星躺枕",
+      "toast_text": "",
       "icon_path": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Props/img_S2_StarPillow_001.img_S2_StarPillow_001'"
     },
     "68009": {
       "id": 68009,
-      "name_text": "南瓜墩",
+      "name_text": "",
       "behavior_type": 6,
       "RPbehavior_type": 107,
-      "toast_text": "南瓜墩",
+      "toast_text": "",
       "icon_path": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Props/img_S2_PumpkinChair_001.img_S2_PumpkinChair_001'"
+    },
+    "68010": {
+      "id": 68010,
+      "name_text": "",
+      "behavior_type": 6,
+      "RPbehavior_type": 111,
+      "toast_text": "",
+      "icon_path": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Props/img_S3_MagicBook_001.img_S3_MagicBook_001'"
+    },
+    "68011": {
+      "id": 68011,
+      "name_text": "",
+      "behavior_type": 6,
+      "RPbehavior_type": 112,
+      "toast_text": "",
+      "icon_path": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Props/img_S3_CardboardBox_001.img_S3_CardboardBox_001'"
+    },
+    "68012": {
+      "id": 68012,
+      "name_text": "",
+      "behavior_type": 6,
+      "RPbehavior_type": 113,
+      "toast_text": "",
+      "icon_path": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Props/img_S3_Pinwheel_001.img_S3_Pinwheel_001'"
     },
     "640006": {
       "id": 640006,
-      "name_text": "篝火",
+      "name_text": "",
       "behavior_type": 6,
       "RPbehavior_type": 57,
-      "toast_text": "篝火",
+      "toast_text": "",
       "icon_path": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Props/img_bonfire_chair.img_bonfire_chair'"
     },
     "640007": {
       "id": 640007,
-      "name_text": "智慧树",
+      "name_text": "",
       "behavior_type": 6,
       "RPbehavior_type": 58,
-      "toast_text": "智慧树",
+      "toast_text": "",
       "icon_path": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Props/img_EnvSpeTree_chair.img_EnvSpeTree_chair'"
     }
   },

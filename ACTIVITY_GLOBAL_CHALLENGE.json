@@ -2,10 +2,6 @@
   "RocoDataRows": {
     "4900001": {
       "id": 4900001,
-      "global_count_type": 1,
-      "global_count_type_param": [
-        320037
-      ],
       "is_show_count": true,
       "img": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/ActivityCollegeGlory/Textures/img_niudanji.img_niudanji'",
       "img_des": "累计获得吱吱币",
@@ -18,10 +14,6 @@
     },
     "4900002": {
       "id": 4900002,
-      "global_count_type": 1,
-      "global_count_type_param": [
-        320037
-      ],
       "belong_sign": 10,
       "des": "获得吱吱币300000000枚",
       "require_count": 300000000,
@@ -29,10 +21,6 @@
     },
     "4900003": {
       "id": 4900003,
-      "global_count_type": 1,
-      "global_count_type_param": [
-        320037
-      ],
       "belong_sign": 10,
       "des": "获得吱吱币400000000枚",
       "require_count": 400000000,
@@ -40,10 +28,6 @@
     },
     "4900004": {
       "id": 4900004,
-      "global_count_type": 1,
-      "global_count_type_param": [
-        320037
-      ],
       "belong_sign": 10,
       "des": "获得吱吱币500000000枚",
       "require_count": 500000000,
@@ -51,10 +35,6 @@
     },
     "4900005": {
       "id": 4900005,
-      "global_count_type": 1,
-      "global_count_type_param": [
-        320037
-      ],
       "belong_sign": 10,
       "des": "获得吱吱币610000000枚",
       "require_count": 610000000,
@@ -62,39 +42,21 @@
     },
     "4900006": {
       "id": 4900006,
-      "global_count_type": 1,
-      "global_count_type_param": [
-        320037
-      ],
       "belong_sign": 10,
       "des": "废弃"
     },
     "4900007": {
       "id": 4900007,
-      "global_count_type": 1,
-      "global_count_type_param": [
-        320037
-      ],
       "belong_sign": 10,
       "des": "废弃"
     },
     "4900008": {
       "id": 4900008,
-      "global_count_type": 1,
-      "global_count_type_param": [
-        320037
-      ],
       "belong_sign": 10,
       "des": "废弃"
     },
     "4900101": {
       "id": 4900101,
-      "global_count_type": 2,
-      "global_count_type_param": [
-        210058,
-        210009,
-        210014
-      ],
       "is_show_count": true,
       "img": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/ActivityCollegeGlory/Textures/img_shushu.img_shushu'",
       "img_des": "累计和「吱吱鼠」互动",
@@ -107,12 +69,6 @@
     },
     "4900102": {
       "id": 4900102,
-      "global_count_type": 2,
-      "global_count_type_param": [
-        210058,
-        210009,
-        210014
-      ],
       "belong_sign": 20,
       "des": "与「吱吱鼠」互动30000000次",
       "require_count": 30000000,
@@ -120,12 +76,6 @@
     },
     "4900103": {
       "id": 4900103,
-      "global_count_type": 2,
-      "global_count_type_param": [
-        210058,
-        210009,
-        210014
-      ],
       "belong_sign": 20,
       "des": "与「吱吱鼠」互动40000000次",
       "require_count": 40000000,
@@ -133,12 +83,6 @@
     },
     "4900104": {
       "id": 4900104,
-      "global_count_type": 2,
-      "global_count_type_param": [
-        210058,
-        210009,
-        210014
-      ],
       "belong_sign": 20,
       "des": "与「吱吱鼠」互动50000000次",
       "require_count": 50000000,
@@ -146,12 +90,6 @@
     },
     "4900105": {
       "id": 4900105,
-      "global_count_type": 2,
-      "global_count_type_param": [
-        210058,
-        210009,
-        210014
-      ],
       "belong_sign": 20,
       "des": "与「吱吱鼠」互动61000000次",
       "require_count": 61000000,
@@ -159,51 +97,21 @@
     },
     "4900106": {
       "id": 4900106,
-      "global_count_type": 2,
-      "global_count_type_param": [
-        210058,
-        210009,
-        210014
-      ],
       "belong_sign": 20,
       "des": "废弃"
     },
     "4900107": {
       "id": 4900107,
-      "global_count_type": 2,
-      "global_count_type_param": [
-        210058,
-        210009,
-        210014
-      ],
       "belong_sign": 20,
       "des": "废弃"
     },
     "4900108": {
       "id": 4900108,
-      "global_count_type": 2,
-      "global_count_type_param": [
-        210058,
-        210009,
-        210014
-      ],
       "belong_sign": 20,
       "des": "废弃"
     },
     "4900201": {
       "id": 4900201,
-      "global_count_type": 5,
-      "global_count_type_param": [
-        20000101,
-        20000102,
-        20000103,
-        20000104,
-        20000105,
-        20000106,
-        20000107,
-        20000108,
-        20000109
-      ],
       "is_show_count": true,
       "img": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/ActivityCollegeGlory/Textures/img_meng.img_meng'",
       "img_des": "累计参与玩闹时刻",
@@ -216,18 +124,6 @@
     },
     "4900202": {
       "id": 4900202,
-      "global_count_type": 5,
-      "global_count_type_param": [
-        20000101,
-        20000102,
-        20000103,
-        20000104,
-        20000105,
-        20000106,
-        20000107,
-        20000108,
-        20000109
-      ],
       "belong_sign": 30,
       "des": "参与玩闹时刻30000000次",
       "require_count": 30000000,
@@ -235,18 +131,6 @@
     },
     "4900203": {
       "id": 4900203,
-      "global_count_type": 5,
-      "global_count_type_param": [
-        20000101,
-        20000102,
-        20000103,
-        20000104,
-        20000105,
-        20000106,
-        20000107,
-        20000108,
-        20000109
-      ],
       "belong_sign": 30,
       "des": "参与玩闹时刻40000000次",
       "require_count": 40000000,
@@ -254,18 +138,6 @@
     },
     "4900204": {
       "id": 4900204,
-      "global_count_type": 5,
-      "global_count_type_param": [
-        20000101,
-        20000102,
-        20000103,
-        20000104,
-        20000105,
-        20000106,
-        20000107,
-        20000108,
-        20000109
-      ],
       "belong_sign": 30,
       "des": "参与玩闹时刻50000000次",
       "require_count": 50000000,
@@ -273,18 +145,6 @@
     },
     "4900205": {
       "id": 4900205,
-      "global_count_type": 5,
-      "global_count_type_param": [
-        20000101,
-        20000102,
-        20000103,
-        20000104,
-        20000105,
-        20000106,
-        20000107,
-        20000108,
-        20000109
-      ],
       "belong_sign": 30,
       "des": "参与玩闹时刻61000000次",
       "require_count": 61000000,
@@ -292,52 +152,16 @@
     },
     "4900206": {
       "id": 4900206,
-      "global_count_type": 5,
-      "global_count_type_param": [
-        20000101,
-        20000102,
-        20000103,
-        20000104,
-        20000105,
-        20000106,
-        20000107,
-        20000108,
-        20000109
-      ],
       "belong_sign": 30,
       "des": "废弃"
     },
     "4900207": {
       "id": 4900207,
-      "global_count_type": 5,
-      "global_count_type_param": [
-        20000101,
-        20000102,
-        20000103,
-        20000104,
-        20000105,
-        20000106,
-        20000107,
-        20000108,
-        20000109
-      ],
       "belong_sign": 30,
       "des": "废弃"
     },
     "4900208": {
       "id": 4900208,
-      "global_count_type": 5,
-      "global_count_type_param": [
-        20000101,
-        20000102,
-        20000103,
-        20000104,
-        20000105,
-        20000106,
-        20000107,
-        20000108,
-        20000109
-      ],
       "belong_sign": 30,
       "des": "废弃"
     }

@@ -806,7 +806,7 @@
     "questionnaireMax": {
       "id": 115,
       "key": "questionnaireMax",
-      "num": 4,
+      "num": 3,
       "is_loc": 2
     },
     "activity_give_appearanche_option_1600019": {
@@ -1148,6 +1148,12 @@
       "str": "操作频繁，请稍后再试",
       "is_loc": 1
     },
+    "activity_invite_friend_limit": {
+      "id": 177,
+      "key": "activity_invite_friend_limit",
+      "num": 100,
+      "str": ""
+    },
     "takephoto_competition_fakejudge_threshold": {
       "id": 178,
       "key": "takephoto_competition_fakejudge_threshold",
@@ -1167,6 +1173,36 @@
       "id": 181,
       "key": "takephoto_competition_auto_refresh",
       "num": 180
+    },
+    "Share_ElvenAmbassador_title": {
+      "id": 182,
+      "key": "Share_ElvenAmbassador_title",
+      "str": ""
+    },
+    "Share_ElvenAmbassador_name": {
+      "id": 183,
+      "key": "Share_ElvenAmbassador_name",
+      "str": ""
+    },
+    "Share_ElvenAmbassador_text": {
+      "id": 184,
+      "key": "Share_ElvenAmbassador_text",
+      "str": ""
+    },
+    "Share_ElvenAmbassador_issued": {
+      "id": 185,
+      "key": "Share_ElvenAmbassador_issued",
+      "str": ""
+    },
+    "Share_ElvenAmbassador_date": {
+      "id": 186,
+      "key": "Share_ElvenAmbassador_date",
+      "str": ""
+    },
+    "activity_pet_information_bagitem_id": {
+      "id": 197,
+      "key": "activity_pet_information_bagitem_id",
+      "num": 320040
     },
     "email_title_limit_characters": {
       "id": 290,

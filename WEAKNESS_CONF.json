@@ -3,8 +3,6 @@
     "1": {
       "id": 1,
       "refresh_content_id": 30300501,
-      "editor_name": "首领战测试数据-恶魔狼",
-      "typeweakness_number": 1,
       "option": [
         {
           "weakness_point": [
@@ -46,8 +44,6 @@
     "2": {
       "id": 2,
       "refresh_content_id": 2301029,
-      "editor_name": "首领战-恶魔狼",
-      "typeweakness_number": 1,
       "option": [
         {
           "weakness_point": [
@@ -89,8 +85,6 @@
     "3": {
       "id": 3,
       "refresh_content_id": 1200805,
-      "editor_name": "首领战-布克棱岩",
-      "typeweakness_number": 1,
       "option": [
         {
           "weakness_point": [
@@ -118,8 +112,6 @@
     "4": {
       "id": 4,
       "refresh_content_id": 1200806,
-      "editor_name": "首领战-岚鸟",
-      "typeweakness_number": 1,
       "option": [
         {
           "weakness_point": [
@@ -168,8 +160,6 @@
     "5": {
       "id": 5,
       "refresh_content_id": 1200807,
-      "editor_name": "首领战-花魁蜂后",
-      "typeweakness_number": 1,
       "option": [
         {
           "weakness_point": [
@@ -225,8 +215,6 @@
     "6": {
       "id": 6,
       "refresh_content_id": 1200808,
-      "editor_name": "首领战-奇丽花",
-      "typeweakness_number": 1,
       "option": [
         {
           "weakness_point": [
@@ -240,8 +228,6 @@
     "7": {
       "id": 7,
       "refresh_content_id": 1200809,
-      "editor_name": "首领战-千棘盔",
-      "typeweakness_number": 1,
       "option": [
         {
           "weakness_point": [
@@ -276,8 +262,6 @@
     "8": {
       "id": 8,
       "refresh_content_id": 30300501,
-      "editor_name": "首领战-伊里斯",
-      "typeweakness_number": 1,
       "option": [
         {
           "weakness_point": [
@@ -340,8 +324,6 @@
     "9": {
       "id": 9,
       "refresh_content_id": 1200819,
-      "editor_name": "伴星圣所-伊里斯",
-      "typeweakness_number": 1,
       "option": [
         {
           "weakness_point": [
@@ -404,8 +386,6 @@
     "10": {
       "id": 10,
       "refresh_content_id": 1200820,
-      "editor_name": "首领战-雪影娃娃",
-      "typeweakness_number": 1,
       "option": [
         {
           "weakness_point": [
@@ -419,8 +399,6 @@
     "11": {
       "id": 11,
       "refresh_content_id": 1200860,
-      "editor_name": "首领战-噩梦音速犬",
-      "typeweakness_number": 1,
       "option": [
         {
           "weakness_point": [
@@ -455,8 +433,6 @@
     "12": {
       "id": 12,
       "refresh_content_id": 1200861,
-      "editor_name": "首领战-噩梦蹦蹦花",
-      "typeweakness_number": 1,
       "option": [
         {
           "weakness_point": [
@@ -470,8 +446,6 @@
     "13": {
       "id": 13,
       "refresh_content_id": 1000730,
-      "editor_name": "首领战-噩梦晶石蜗",
-      "typeweakness_number": 1,
       "option": [
         {
           "weakness_point": [
@@ -520,8 +494,6 @@
     "14": {
       "id": 14,
       "refresh_content_id": 1000733,
-      "editor_name": "首领战-噩梦瞌睡王",
-      "typeweakness_number": 1,
       "option": [
         {
           "weakness_point": [
@@ -556,8 +528,6 @@
     "15": {
       "id": 15,
       "refresh_content_id": 1000734,
-      "editor_name": "噩梦奇丽花",
-      "typeweakness_number": 1,
       "option": [
         {
           "weakness_point": [
@@ -571,8 +541,6 @@
     "16": {
       "id": 16,
       "refresh_content_id": 1000729,
-      "editor_name": "首领战-噩梦魔眷鸟",
-      "typeweakness_number": 1,
       "option": [
         {
           "weakness_point": [
@@ -586,8 +554,6 @@
     "17": {
       "id": 17,
       "refresh_content_id": 1001080,
-      "editor_name": "A2首领-伊兰亚龙",
-      "typeweakness_number": 1,
       "option": [
         {
           "weakness_point": [
@@ -601,8 +567,6 @@
     "18": {
       "id": 18,
       "refresh_content_id": 1001081,
-      "editor_name": "A2首领-爵士鹿",
-      "typeweakness_number": 1,
       "option": [
         {
           "weakness_point": [
@@ -637,8 +601,6 @@
     "19": {
       "id": 19,
       "refresh_content_id": 1001082,
-      "editor_name": "A2首领-棋契陛下",
-      "typeweakness_number": 1,
       "option": [
         {
           "weakness_point": [
@@ -652,8 +614,6 @@
     "20": {
       "id": 20,
       "refresh_content_id": 1001083,
-      "editor_name": "A2首领-钻石蜗",
-      "typeweakness_number": 1,
       "option": [
         {
           "weakness_point": [
@@ -681,8 +641,6 @@
     "21": {
       "id": 21,
       "refresh_content_id": 1001084,
-      "editor_name": "A2首领-蹦蹦花",
-      "typeweakness_number": 1,
       "option": [
         {
           "weakness_point": [
@@ -717,8 +675,6 @@
     "22": {
       "id": 22,
       "refresh_content_id": 1001085,
-      "editor_name": "A2首领-圣剑-X",
-      "typeweakness_number": 1,
       "option": [
         {
           "weakness_point": [
@@ -753,8 +709,6 @@
     "23": {
       "id": 23,
       "refresh_content_id": 1001086,
-      "editor_name": "A2首领-幽影树",
-      "typeweakness_number": 1,
       "option": [
         {
           "weakness_point": [
@@ -789,8 +743,6 @@
     "24": {
       "id": 24,
       "refresh_content_id": 1001087,
-      "editor_name": "A2首领-恶魔狼",
-      "typeweakness_number": 1,
       "option": [
         {
           "weakness_point": [
@@ -825,8 +777,6 @@
     "25": {
       "id": 25,
       "refresh_content_id": 1001088,
-      "editor_name": "A2首领-仪式巨像",
-      "typeweakness_number": 1,
       "option": [
         {
           "weakness_point": [
@@ -840,8 +790,6 @@
     "26": {
       "id": 26,
       "refresh_content_id": 1001089,
-      "editor_name": "A2首领-梦想三三",
-      "typeweakness_number": 1,
       "option": [
         {
           "weakness_point": [
@@ -855,8 +803,6 @@
     "27": {
       "id": 27,
       "refresh_content_id": 1001584,
-      "editor_name": "A1首领-噩梦魔眷鸟（中级）",
-      "typeweakness_number": 1,
       "option": [
         {
           "weakness_point": [
@@ -891,8 +837,6 @@
     "28": {
       "id": 28,
       "refresh_content_id": 1001585,
-      "editor_name": "A1首领-噩梦魔眷鸟（高级）",
-      "typeweakness_number": 1,
       "option": [
         {
           "weakness_point": [
@@ -927,8 +871,6 @@
     "29": {
       "id": 29,
       "refresh_content_id": 1001593,
-      "editor_name": "A1首领-噩梦獠牙猪（中级）",
-      "typeweakness_number": 1,
       "option": [
         {
           "weakness_point": [
@@ -942,8 +884,6 @@
     "30": {
       "id": 30,
       "refresh_content_id": 1001594,
-      "editor_name": "A1首领-噩梦獠牙猪（高级）",
-      "typeweakness_number": 1,
       "option": [
         {
           "weakness_point": [
@@ -957,8 +897,6 @@
     "31": {
       "id": 31,
       "refresh_content_id": 1001600,
-      "editor_name": "A1首领-噩梦噩梦晶石蜗（中级）",
-      "typeweakness_number": 1,
       "option": [
         {
           "weakness_point": [
@@ -1007,8 +945,6 @@
     "32": {
       "id": 32,
       "refresh_content_id": 1001601,
-      "editor_name": "A1首领-噩梦噩梦晶石蜗（高级）",
-      "typeweakness_number": 1,
       "option": [
         {
           "weakness_point": [
@@ -1057,8 +993,6 @@
     "33": {
       "id": 33,
       "refresh_content_id": 1001612,
-      "editor_name": "A2首领-噩梦首领01（初级）",
-      "typeweakness_number": 1,
       "option": [
         {
           "weakness_point": [
@@ -1093,8 +1027,6 @@
     "34": {
       "id": 34,
       "refresh_content_id": 1001613,
-      "editor_name": "A2首领-噩梦首领01（中级）",
-      "typeweakness_number": 1,
       "option": [
         {
           "weakness_point": [
@@ -1129,8 +1061,6 @@
     "35": {
       "id": 35,
       "refresh_content_id": 1001614,
-      "editor_name": "A2首领-噩梦首领01（高级）",
-      "typeweakness_number": 1,
       "option": [
         {
           "weakness_point": [
@@ -1165,8 +1095,6 @@
     "36": {
       "id": 36,
       "refresh_content_id": 1001623,
-      "editor_name": "A2首领-噩梦首领02（初级）",
-      "typeweakness_number": 1,
       "option": [
         {
           "weakness_point": [
@@ -1201,8 +1129,6 @@
     "37": {
       "id": 37,
       "refresh_content_id": 1001624,
-      "editor_name": "A2首领-噩梦首领02（中级）",
-      "typeweakness_number": 1,
       "option": [
         {
           "weakness_point": [
@@ -1237,8 +1163,6 @@
     "38": {
       "id": 38,
       "refresh_content_id": 1001625,
-      "editor_name": "A2首领-噩梦首领02（高级）",
-      "typeweakness_number": 1,
       "option": [
         {
           "weakness_point": [
@@ -1273,8 +1197,6 @@
     "39": {
       "id": 39,
       "refresh_content_id": 1001634,
-      "editor_name": "A2首领-噩梦首领03（初级）",
-      "typeweakness_number": 1,
       "option": [
         {
           "weakness_point": [
@@ -1302,8 +1224,6 @@
     "40": {
       "id": 40,
       "refresh_content_id": 1001635,
-      "editor_name": "A2首领-噩梦首领03（中级）",
-      "typeweakness_number": 1,
       "option": [
         {
           "weakness_point": [
@@ -1331,8 +1251,6 @@
     "41": {
       "id": 41,
       "refresh_content_id": 1001636,
-      "editor_name": "A2首领-噩梦首领03（高级）",
-      "typeweakness_number": 1,
       "option": [
         {
           "weakness_point": [
@@ -1360,8 +1278,6 @@
     "42": {
       "id": 42,
       "refresh_content_id": 1001645,
-      "editor_name": "A2首领-噩梦首领04（初级）",
-      "typeweakness_number": 1,
       "option": [
         {
           "weakness_point": [
@@ -1396,8 +1312,6 @@
     "43": {
       "id": 43,
       "refresh_content_id": 1001646,
-      "editor_name": "A2首领-噩梦首领04（中级）",
-      "typeweakness_number": 1,
       "option": [
         {
           "weakness_point": [
@@ -1432,8 +1346,6 @@
     "44": {
       "id": 44,
       "refresh_content_id": 1001647,
-      "editor_name": "A2首领-噩梦首领04（高级）",
-      "typeweakness_number": 1,
       "option": [
         {
           "weakness_point": [
@@ -1468,8 +1380,6 @@
     "45": {
       "id": 45,
       "refresh_content_id": 1001656,
-      "editor_name": "A2首领-噩梦首领05（初级）",
-      "typeweakness_number": 1,
       "option": [
         {
           "weakness_point": [
@@ -1504,8 +1414,6 @@
     "46": {
       "id": 46,
       "refresh_content_id": 1001657,
-      "editor_name": "A2首领-噩梦首领05（中级）",
-      "typeweakness_number": 1,
       "option": [
         {
           "weakness_point": [
@@ -1540,8 +1448,6 @@
     "47": {
       "id": 47,
       "refresh_content_id": 1001658,
-      "editor_name": "A2首领-噩梦首领05（高级）",
-      "typeweakness_number": 1,
       "option": [
         {
           "weakness_point": [
@@ -1576,8 +1482,6 @@
     "48": {
       "id": 48,
       "refresh_content_id": 1001667,
-      "editor_name": "A2首领-噩梦首领06（初级）",
-      "typeweakness_number": 1,
       "option": [
         {
           "weakness_point": [
@@ -1591,8 +1495,6 @@
     "49": {
       "id": 49,
       "refresh_content_id": 1001668,
-      "editor_name": "A2首领-噩梦首领06（中级）",
-      "typeweakness_number": 1,
       "option": [
         {
           "weakness_point": [
@@ -1606,8 +1508,6 @@
     "50": {
       "id": 50,
       "refresh_content_id": 1001669,
-      "editor_name": "A2首领-噩梦首领06（高级）",
-      "typeweakness_number": 1,
       "option": [
         {
           "weakness_point": [
@@ -1621,8 +1521,6 @@
     "51": {
       "id": 51,
       "refresh_content_id": 1001686,
-      "editor_name": "首领战-黑猫巫师",
-      "typeweakness_number": 1,
       "option": [
         {
           "weakness_point": [
@@ -1636,8 +1534,6 @@
     "52": {
       "id": 52,
       "refresh_content_id": 2400540,
-      "editor_name": "首领角斗-恶魔狼1",
-      "typeweakness_number": 1,
       "option": [
         {
           "weakness_point": [
@@ -1665,8 +1561,6 @@
     "53": {
       "id": 53,
       "refresh_content_id": 2400563,
-      "editor_name": "首领角斗-恶魔狼2",
-      "typeweakness_number": 1,
       "option": [
         {
           "weakness_point": [
@@ -1694,8 +1588,6 @@
     "54": {
       "id": 54,
       "refresh_content_id": 2400564,
-      "editor_name": "首领角斗-恶魔狼3",
-      "typeweakness_number": 1,
       "option": [
         {
           "weakness_point": [
@@ -1723,8 +1615,6 @@
     "55": {
       "id": 55,
       "refresh_content_id": 2400565,
-      "editor_name": "首领角斗-恶魔狼4",
-      "typeweakness_number": 1,
       "option": [
         {
           "weakness_point": [
@@ -1752,8 +1642,6 @@
     "56": {
       "id": 56,
       "refresh_content_id": 4300072,
-      "editor_name": "首领战-裘卡",
-      "typeweakness_number": 1,
       "option": [
         {
           "weakness_point": [
@@ -1788,8 +1676,6 @@
     "57": {
       "id": 57,
       "refresh_content_id": 1200811,
-      "editor_name": "首领战-音速犬",
-      "typeweakness_number": 1,
       "option": [
         {
           "weakness_point": [
@@ -1824,8 +1710,6 @@
     "58": {
       "id": 58,
       "refresh_content_id": 31000051,
-      "editor_name": "首领战-主线-花魁蜂后",
-      "typeweakness_number": 1,
       "option": [
         {
           "weakness_point": [
@@ -1881,8 +1765,6 @@
     "59": {
       "id": 59,
       "refresh_content_id": 31000052,
-      "editor_name": "首领战-主线-奇丽花",
-      "typeweakness_number": 1,
       "option": [
         {
           "weakness_point": [
@@ -1896,8 +1778,6 @@
     "60": {
       "id": 60,
       "refresh_content_id": 31000053,
-      "editor_name": "首领战-主线-千棘盔",
-      "typeweakness_number": 1,
       "option": [
         {
           "weakness_point": [
@@ -1932,8 +1812,6 @@
     "61": {
       "id": 61,
       "refresh_content_id": 2400570,
-      "editor_name": "首领角斗-圣剑-X-1",
-      "typeweakness_number": 1,
       "option": [
         {
           "weakness_point": [
@@ -1968,8 +1846,6 @@
     "62": {
       "id": 62,
       "refresh_content_id": 2400571,
-      "editor_name": "首领角斗-圣剑-X-2",
-      "typeweakness_number": 1,
       "option": [
         {
           "weakness_point": [
@@ -2004,8 +1880,6 @@
     "63": {
       "id": 63,
       "refresh_content_id": 2400572,
-      "editor_name": "首领角斗-圣剑-X-3",
-      "typeweakness_number": 1,
       "option": [
         {
           "weakness_point": [
@@ -2040,8 +1914,6 @@
     "64": {
       "id": 64,
       "refresh_content_id": 2400573,
-      "editor_name": "首领角斗-圣剑-X-4",
-      "typeweakness_number": 1,
       "option": [
         {
           "weakness_point": [
@@ -2076,8 +1948,6 @@
     "65": {
       "id": 65,
       "refresh_content_id": 1002628,
-      "editor_name": "首领战-火神",
-      "typeweakness_number": 1,
       "option": [
         {
           "weakness_point": [
@@ -2112,8 +1982,6 @@
     "66": {
       "id": 66,
       "refresh_content_id": 1002627,
-      "editor_name": "首领战-水灵",
-      "typeweakness_number": 1,
       "option": [
         {
           "weakness_point": [
@@ -2148,8 +2016,6 @@
     "67": {
       "id": 67,
       "refresh_content_id": 1002626,
-      "editor_name": "首领战-魔力猫",
-      "typeweakness_number": 1,
       "option": [
         {
           "weakness_point": [
@@ -2179,6 +2045,74 @@
             "locator_4"
           ]
         }
+      ]
+    },
+    "68": {
+      "id": 68,
+      "refresh_content_id": 1002655,
+      "option": [
+        {
+          "weakness_point": [
+            "locator_1",
+            "locator_2",
+            "locator_3"
+          ]
+        }
+      ]
+    },
+    "69": {
+      "id": 69,
+      "refresh_content_id": 1002656,
+      "option": [
+        {
+          "weakness_point": [
+            "locator_1",
+            "locator_2",
+            "locator_3"
+          ]
+        }
+      ]
+    },
+    "70": {
+      "id": 70,
+      "refresh_content_id": 1002657,
+      "option": [
+        {
+          "weakness_point": [
+            "locator_1",
+            "locator_2",
+            "locator_3"
+          ]
+        }
+      ]
+    },
+    "71": {
+      "id": 71,
+      "refresh_content_id": 1002672,
+      "option": [
+        {
+          "weakness_point": [
+            "locator_1"
+          ]
+        },
+        {
+          "weakness_point": [
+            "locator_2"
+          ]
+        },
+        {
+          "weakness_point": [
+            "locator_3"
+          ]
+        },
+        {
+          "weakness_point": [
+            "locator_4"
+          ]
+        }
+      ],
+      "buff_random_range": [
+        5
       ]
     }
   },

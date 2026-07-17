@@ -61,6 +61,11 @@
       "id": 12,
       "editor_name": "精灵主动逃跑",
       "behavior_group_id": 10004
+    },
+    "13": {
+      "id": 13,
+      "editor_name": "战后逃跑并记住进战",
+      "behavior_group_id": 10019
     }
   },
   "LocalizationStrings": {}

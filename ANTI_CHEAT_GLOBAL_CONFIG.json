@@ -84,6 +84,18 @@
       "num": 3000,
       "is_loc": 2
     },
+    "15": {
+      "id": 15,
+      "key": "player_move_check_security_speed",
+      "num": 10000,
+      "is_loc": 2
+    },
+    "16": {
+      "id": 16,
+      "key": "player_move_check_security_dis",
+      "num": 1000,
+      "is_loc": 2
+    },
     "101": {
       "id": 101,
       "key": "stamina_check_upper_bound_percent",

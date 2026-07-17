@@ -23,35 +23,40 @@
       "area": "洛克里安",
       "book_id": 3,
       "pet_num": 100,
-      "reward_id": 2002022
+      "reward_id": 2002022,
+      "unlock_anim": "MI_UI_Book04"
     },
     "2705310": {
       "id": 2705310,
       "area": "洛克里安",
       "book_id": 3,
       "pet_num": 80,
-      "reward_id": 2002049
+      "reward_id": 2002049,
+      "unlock_anim": "MI_UI_Book04"
     },
     "2705311": {
       "id": 2705311,
       "area": "洛克里安",
       "book_id": 3,
       "pet_num": 70,
-      "reward_id": 2002054
+      "reward_id": 2002054,
+      "unlock_anim": "MI_UI_Book04"
     },
     "2705328": {
       "id": 2705328,
       "area": "洛克里安",
       "book_id": 3,
       "pet_num": 100,
-      "reward_id": 2002061
+      "reward_id": 2002061,
+      "unlock_anim": "MI_UI_Book04"
     },
     "2705329": {
       "id": 2705329,
       "area": "洛克里安",
       "book_id": 3,
       "pet_num": 60,
-      "reward_id": 2002065
+      "reward_id": 2002065,
+      "unlock_anim": "MI_UI_Book04"
     },
     "2705330": {
       "id": 2705330,
@@ -64,7 +69,8 @@
       "area": "洛克里安",
       "book_id": 3,
       "pet_num": 120,
-      "reward_id": 2002064
+      "reward_id": 2002064,
+      "unlock_anim": "MI_UI_Book04"
     },
     "2705332": {
       "id": 2705332,
@@ -77,7 +83,8 @@
       "area": "洛克里安",
       "book_id": 3,
       "pet_num": 60,
-      "reward_id": 2002048
+      "reward_id": 2002048,
+      "unlock_anim": "MI_UI_Book04"
     },
     "2705334": {
       "id": 2705334,
@@ -108,14 +115,16 @@
       "area": "洛克里安",
       "book_id": 3,
       "pet_num": 140,
-      "reward_id": 2002062
+      "reward_id": 2002062,
+      "unlock_anim": "MI_UI_Book04"
     },
     "2705340": {
       "id": 2705340,
       "area": "洛克里安",
       "book_id": 3,
       "pet_num": 80,
-      "reward_id": 2002053
+      "reward_id": 2002053,
+      "unlock_anim": "MI_UI_Book04"
     },
     "2705341": {
       "id": 2705341,
@@ -134,7 +143,8 @@
       "area": "洛克里安",
       "book_id": 3,
       "pet_num": 50,
-      "reward_id": 2002063
+      "reward_id": 2002063,
+      "unlock_anim": "MI_UI_Book04"
     },
     "2705344": {
       "id": 2705344,
@@ -159,7 +169,8 @@
       "area": "洛克里安",
       "book_id": 3,
       "pet_num": 40,
-      "reward_id": 2002066
+      "reward_id": 2002066,
+      "unlock_anim": "MI_UI_Book04"
     },
     "2705348": {
       "id": 2705348,
@@ -175,108 +186,113 @@
     },
     "2705350": {
       "id": 2705350,
-      "area": "洛克里安",
+      "area": "风眠省",
       "book_id": 2,
       "pet_num": 8,
-      "reward_id": 2002011
+      "reward_id": 2002011,
+      "unlock_anim": "MI_UI_Book03"
     },
     "2705351": {
       "id": 2705351,
-      "area": "洛克里安",
+      "area": "风眠省",
       "book_id": 2,
       "reward_id": 2002011
     },
     "2705352": {
       "id": 2705352,
-      "area": "洛克里安",
+      "area": "风眠省",
       "book_id": 2,
       "reward_id": 2002054
     },
     "2705353": {
       "id": 2705353,
-      "area": "洛克里安",
+      "area": "风眠省",
       "book_id": 2,
       "reward_id": 2002028
     },
     "2705354": {
       "id": 2705354,
-      "area": "洛克里安",
+      "area": "风眠省",
       "book_id": 2,
       "reward_id": 2002054
     },
     "2705355": {
       "id": 2705355,
-      "area": "洛克里安",
+      "area": "风眠省",
       "book_id": 2,
       "reward_id": 2002054
     },
     "2705356": {
       "id": 2705356,
-      "area": "洛克里安",
+      "area": "风眠省",
       "book_id": 2,
       "pet_num": 30,
-      "reward_id": 2002028
+      "reward_id": 2002028,
+      "unlock_anim": "MI_UI_Book03"
     },
     "2705357": {
       "id": 2705357,
-      "area": "洛克里安",
+      "area": "风眠省",
       "book_id": 2,
       "pet_num": 60,
-      "reward_id": 2002019
+      "reward_id": 2002019,
+      "unlock_anim": "MI_UI_Book03"
     },
     "2705358": {
       "id": 2705358,
-      "area": "洛克里安",
+      "area": "风眠省",
       "book_id": 2,
       "reward_id": 2002028
     },
     "2705359": {
       "id": 2705359,
-      "area": "洛克里安",
+      "area": "风眠省",
       "book_id": 2,
       "pet_num": 90,
-      "reward_id": 2002013
+      "reward_id": 2002013,
+      "unlock_anim": "MI_UI_Book03"
     },
     "2705360": {
       "id": 2705360,
-      "area": "洛克里安",
+      "area": "风眠省",
       "book_id": 2,
       "reward_id": 2002054
     },
     "2705361": {
       "id": 2705361,
-      "area": "洛克里安",
+      "area": "风眠省",
       "book_id": 2,
       "reward_id": 2002054
     },
     "2705362": {
       "id": 2705362,
-      "area": "洛克里安",
+      "area": "风眠省",
       "book_id": 2,
       "pet_num": 120,
-      "reward_id": 2002026
+      "reward_id": 2002026,
+      "unlock_anim": "MI_UI_Book03"
     },
     "2705363": {
       "id": 2705363,
-      "area": "洛克里安",
+      "area": "风眠省",
       "book_id": 2,
       "reward_id": 2002026
     },
     "2705364": {
       "id": 2705364,
-      "area": "洛克里安",
+      "area": "风眠省",
       "book_id": 2,
       "reward_id": 2002054
     },
     "2705365": {
       "id": 2705365,
-      "area": "洛克里安",
+      "area": "风眠省",
       "book_id": 2,
       "reward_id": 2002013
     },
     "2705366": {
       "id": 2705366,
-      "area": "洛克里安",
+      "area": "风眠省",
       "book_id": 2,
       "reward_id": 2002054
     },
@@ -285,7 +301,8 @@
       "area": "洛克里安",
       "book_id": 3,
       "pet_num": 60,
-      "reward_id": 2002067
+      "reward_id": 2002067,
+      "unlock_anim": "MI_UI_Book04"
     },
     "2705456": {
       "id": 2705456,
@@ -295,45 +312,69 @@
     },
     "5100240": {
       "id": 5100240,
-      "area": "洛克里安",
+      "area": "世界",
       "book_id": 1,
       "reward_id": 2002054
     },
     "5100241": {
       "id": 5100241,
-      "area": "洛克里安",
+      "area": "世界",
       "book_id": 1,
       "reward_id": 2002054
     },
     "5100242": {
       "id": 5100242,
-      "area": "洛克里安",
+      "area": "世界",
       "book_id": 1,
       "reward_id": 2002054
     },
     "5100246": {
       "id": 5100246,
-      "area": "洛克里安",
+      "area": "世界",
       "book_id": 1,
       "reward_id": 2002054
     },
     "5100247": {
       "id": 5100247,
-      "area": "洛克里安",
+      "area": "世界",
       "book_id": 1,
       "reward_id": 2002054
     },
     "5100250": {
       "id": 5100250,
-      "area": "洛克里安",
+      "area": "世界",
       "book_id": 1,
       "reward_id": 2002054
     },
     "5100251": {
       "id": 5100251,
-      "area": "洛克里安",
+      "area": "世界",
       "book_id": 1,
       "reward_id": 2002054
+    },
+    "5502334": {
+      "id": 5502334,
+      "area": "",
+      "book_id": 3,
+      "pet_num": 10,
+      "reward_id": 550000008,
+      "unlock_anim": "MI_UI_Book05"
+    },
+    "6001168": {
+      "id": 6001168,
+      "area": "",
+      "book_id": 3,
+      "pet_num": 190,
+      "reward_id": 2002068,
+      "unlock_anim": "MI_UI_Book05"
+    },
+    "6001169": {
+      "id": 6001169,
+      "area": "",
+      "book_id": 3,
+      "pet_num": 215,
+      "reward_id": 2002069,
+      "unlock_anim": "MI_UI_Book05"
     }
   },
   "LocalizationStrings": {}

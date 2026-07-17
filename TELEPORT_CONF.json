@@ -2,7 +2,6 @@
   "RocoDataRows": {
     "17": {
       "id": 17,
-      "editor_name": "副本出口",
       "teleport_actor_types": [
         2
       ],
@@ -23,7 +22,6 @@
     },
     "18": {
       "id": 18,
-      "editor_name": "魔法学院保底复活点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -45,7 +43,6 @@
     },
     "19": {
       "id": 19,
-      "editor_name": "地图传送-A1室内-商店街-皮卡服装店",
       "teleport_actor_types": [
         2
       ],
@@ -66,7 +63,6 @@
     },
     "20": {
       "id": 20,
-      "editor_name": "地图传送-A1室外-商店街-皮卡服装店",
       "teleport_actor_types": [
         2
       ],
@@ -87,7 +83,6 @@
     },
     "28": {
       "id": 28,
-      "editor_name": "出生点附近的复活点",
       "resurrection_group": 1,
       "scene_res_id": 10003,
       "teleport_actor_types": [
@@ -110,7 +105,6 @@
     },
     "39": {
       "id": 39,
-      "editor_name": "轻风山主线任务营地",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -132,7 +126,6 @@
     },
     "40": {
       "id": 40,
-      "editor_name": "轻风山主线任务营地",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -154,7 +147,6 @@
     },
     "41": {
       "id": 41,
-      "editor_name": "A0副本入口",
       "teleport_actor_types": [
         2
       ],
@@ -175,7 +167,6 @@
     },
     "42": {
       "id": 42,
-      "editor_name": "轻风山地铁站",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -197,7 +188,6 @@
     },
     "43": {
       "id": 43,
-      "editor_name": "商店街飞艇站",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -219,7 +209,6 @@
     },
     "44": {
       "id": 44,
-      "editor_name": "宠物园飞艇站",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -241,7 +230,6 @@
     },
     "45": {
       "id": 45,
-      "editor_name": "奥贝斯坦湖枯枝传送点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -263,7 +251,6 @@
     },
     "46": {
       "id": 46,
-      "editor_name": "月牙湖岸枯枝传送点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -285,7 +272,6 @@
     },
     "47": {
       "id": 47,
-      "editor_name": "商店街周边枯枝传送点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -307,7 +293,6 @@
     },
     "48": {
       "id": 48,
-      "editor_name": "聆风塔地枯枝传送点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -329,7 +314,6 @@
     },
     "49": {
       "id": 49,
-      "editor_name": "风息山口枯枝传送点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -351,7 +335,6 @@
     },
     "50": {
       "id": 50,
-      "editor_name": "守护地任务1复活点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -373,7 +356,6 @@
     },
     "51": {
       "id": 51,
-      "editor_name": "风眠圣所复活点5",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -395,7 +377,6 @@
     },
     "52": {
       "id": 52,
-      "editor_name": "风眠圣所复活点2",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -417,7 +398,6 @@
     },
     "53": {
       "id": 53,
-      "editor_name": "风眠圣所复活点3",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -439,7 +419,6 @@
     },
     "54": {
       "id": 54,
-      "editor_name": "风眠圣所复活点4",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -461,7 +440,6 @@
     },
     "55": {
       "id": 55,
-      "editor_name": "星霜洞穴复活点1",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -483,7 +461,6 @@
     },
     "56": {
       "id": 56,
-      "editor_name": "星霜洞穴复活点2",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -505,7 +482,6 @@
     },
     "57": {
       "id": 57,
-      "editor_name": "EC营地复活点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -527,7 +503,6 @@
     },
     "58": {
       "id": 58,
-      "editor_name": "星霜崖地后山复活点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -549,7 +524,6 @@
     },
     "59": {
       "id": 59,
-      "editor_name": "星霜崖地山道复活点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -571,7 +545,6 @@
     },
     "60": {
       "id": 60,
-      "editor_name": "星霜崖地山顶复活点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -593,7 +566,6 @@
     },
     "61": {
       "id": 61,
-      "editor_name": "岚语峰西侧",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -615,7 +587,6 @@
     },
     "62": {
       "id": 62,
-      "editor_name": "魇兽之森",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -637,7 +608,6 @@
     },
     "63": {
       "id": 63,
-      "editor_name": "旧飞艇航道",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -659,7 +629,6 @@
     },
     "64": {
       "id": 64,
-      "editor_name": "挽风屏障",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -681,7 +650,6 @@
     },
     "65": {
       "id": 65,
-      "editor_name": "叽叽喳喳台地",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -703,7 +671,6 @@
     },
     "66": {
       "id": 66,
-      "editor_name": "星霜崖地",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -725,7 +692,6 @@
     },
     "67": {
       "id": 67,
-      "editor_name": "轻风山",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -747,7 +713,6 @@
     },
     "68": {
       "id": 68,
-      "editor_name": "魔法空间复活点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -769,7 +734,6 @@
     },
     "69": {
       "id": 69,
-      "editor_name": "风眠圣所复活点5",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -791,7 +755,6 @@
     },
     "71": {
       "id": 71,
-      "editor_name": "风眠圣所复活点71",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -813,7 +776,6 @@
     },
     "72": {
       "id": 72,
-      "editor_name": "战斗01副本出口",
       "teleport_actor_types": [
         2
       ],
@@ -834,7 +796,6 @@
     },
     "73": {
       "id": 73,
-      "editor_name": "战斗02副本出口",
       "teleport_actor_types": [
         2
       ],
@@ -855,7 +816,6 @@
     },
     "74": {
       "id": 74,
-      "editor_name": "战斗01副本复活点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -877,7 +837,6 @@
     },
     "75": {
       "id": 75,
-      "editor_name": "战斗02副本复活点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -899,7 +858,6 @@
     },
     "76": {
       "id": 76,
-      "editor_name": "行动副本出口",
       "teleport_actor_types": [
         2
       ],
@@ -920,7 +878,6 @@
     },
     "77": {
       "id": 77,
-      "editor_name": "行动副本复活点1",
       "teleport_actor_types": [
         2
       ],
@@ -941,7 +898,6 @@
     },
     "78": {
       "id": 78,
-      "editor_name": "行动副本复活点2",
       "teleport_actor_types": [
         2
       ],
@@ -962,7 +918,6 @@
     },
     "79": {
       "id": 79,
-      "editor_name": "行动副本复活点2",
       "teleport_actor_types": [
         2
       ],
@@ -983,7 +938,6 @@
     },
     "80": {
       "id": 80,
-      "editor_name": "火盆副本出口",
       "teleport_actor_types": [
         2
       ],
@@ -1004,7 +958,6 @@
     },
     "81": {
       "id": 81,
-      "editor_name": "火盆副本复活点1",
       "teleport_actor_types": [
         2
       ],
@@ -1025,7 +978,6 @@
     },
     "82": {
       "id": 82,
-      "editor_name": "火盆副本复活点2",
       "teleport_actor_types": [
         2
       ],
@@ -1046,7 +998,6 @@
     },
     "83": {
       "id": 83,
-      "editor_name": "火盆副本复活点2",
       "teleport_actor_types": [
         2
       ],
@@ -1067,7 +1018,6 @@
     },
     "84": {
       "id": 84,
-      "editor_name": "战斗03副本出口",
       "teleport_actor_types": [
         2
       ],
@@ -1088,7 +1038,6 @@
     },
     "85": {
       "id": 85,
-      "editor_name": "战斗04副本出口",
       "teleport_actor_types": [
         2
       ],
@@ -1109,7 +1058,6 @@
     },
     "86": {
       "id": 86,
-      "editor_name": "战斗05副本出口",
       "teleport_actor_types": [
         2
       ],
@@ -1130,7 +1078,6 @@
     },
     "87": {
       "id": 87,
-      "editor_name": "战斗06副本出口",
       "teleport_actor_types": [
         2
       ],
@@ -1151,7 +1098,6 @@
     },
     "88": {
       "id": 88,
-      "editor_name": "战斗03副本复活点",
       "teleport_actor_types": [
         2
       ],
@@ -1172,7 +1118,6 @@
     },
     "89": {
       "id": 89,
-      "editor_name": "战斗04副本复活点",
       "teleport_actor_types": [
         2
       ],
@@ -1193,7 +1138,6 @@
     },
     "90": {
       "id": 90,
-      "editor_name": "战斗05副本复活点",
       "teleport_actor_types": [
         2
       ],
@@ -1214,7 +1158,6 @@
     },
     "91": {
       "id": 91,
-      "editor_name": "遗迹双巫团-副本复活点",
       "teleport_actor_types": [
         2
       ],
@@ -1235,7 +1178,6 @@
     },
     "92": {
       "id": 92,
-      "editor_name": "石碓副本出口",
       "teleport_actor_types": [
         2
       ],
@@ -1256,7 +1198,6 @@
     },
     "93": {
       "id": 93,
-      "editor_name": "石碓副本复活点",
       "teleport_actor_types": [
         2
       ],
@@ -1277,7 +1218,6 @@
     },
     "94": {
       "id": 94,
-      "editor_name": "水位副本出口",
       "teleport_actor_types": [
         2
       ],
@@ -1298,7 +1238,6 @@
     },
     "95": {
       "id": 95,
-      "editor_name": "水位副本复活点1",
       "teleport_actor_types": [
         2
       ],
@@ -1319,7 +1258,6 @@
     },
     "96": {
       "id": 96,
-      "editor_name": "水位副本复活点2",
       "teleport_actor_types": [
         2
       ],
@@ -1340,7 +1278,6 @@
     },
     "97": {
       "id": 97,
-      "editor_name": "破风副本复活点1",
       "teleport_actor_types": [
         2
       ],
@@ -1361,7 +1298,6 @@
     },
     "98": {
       "id": 98,
-      "editor_name": "破风副本复活点2",
       "teleport_actor_types": [
         2
       ],
@@ -1382,7 +1318,6 @@
     },
     "99": {
       "id": 99,
-      "editor_name": "破风副本出口",
       "teleport_actor_types": [
         2
       ],
@@ -1403,7 +1338,6 @@
     },
     "100": {
       "id": 100,
-      "editor_name": "魔力猫首领战测试逃离点",
       "teleport_actor_types": [
         2
       ],
@@ -1424,7 +1358,6 @@
     },
     "101": {
       "id": 101,
-      "editor_name": "传送副本出口",
       "teleport_actor_types": [
         2
       ],
@@ -1445,7 +1378,6 @@
     },
     "103": {
       "id": 103,
-      "editor_name": "矿工副本出口",
       "teleport_actor_types": [
         2
       ],
@@ -1466,7 +1398,6 @@
     },
     "104": {
       "id": 104,
-      "editor_name": "传送副本复活点1",
       "teleport_actor_types": [
         2
       ],
@@ -1487,7 +1418,6 @@
     },
     "105": {
       "id": 105,
-      "editor_name": "破风副本复活点3",
       "teleport_actor_types": [
         2
       ],
@@ -1508,7 +1438,6 @@
     },
     "106": {
       "id": 106,
-      "editor_name": "矿工副本复活点1",
       "teleport_actor_types": [
         2
       ],
@@ -1529,7 +1458,6 @@
     },
     "107": {
       "id": 107,
-      "editor_name": "矿工副本复活点1",
       "teleport_actor_types": [
         2
       ],
@@ -1550,7 +1478,6 @@
     },
     "108": {
       "id": 108,
-      "editor_name": "石碓副本复活点2",
       "teleport_actor_types": [
         2
       ],
@@ -1571,7 +1498,6 @@
     },
     "109": {
       "id": 109,
-      "editor_name": "石碓副本复活点3",
       "teleport_actor_types": [
         2
       ],
@@ -1592,7 +1518,6 @@
     },
     "110": {
       "id": 110,
-      "editor_name": "伴星圣所副本出口2",
       "teleport_actor_types": [
         2
       ],
@@ -1613,7 +1538,6 @@
     },
     "111": {
       "id": 111,
-      "editor_name": "140002炼金",
       "teleport_actor_types": [
         2
       ],
@@ -1634,7 +1558,6 @@
     },
     "112": {
       "id": 112,
-      "editor_name": "140003炼金",
       "teleport_actor_types": [
         2
       ],
@@ -1655,7 +1578,6 @@
     },
     "114": {
       "id": 114,
-      "editor_name": "71030292炼金",
       "teleport_actor_types": [
         2
       ],
@@ -1676,7 +1598,6 @@
     },
     "115": {
       "id": 115,
-      "editor_name": "71030293炼金",
       "teleport_actor_types": [
         2
       ],
@@ -1697,7 +1618,6 @@
     },
     "116": {
       "id": 116,
-      "editor_name": "71030294炼金",
       "teleport_actor_types": [
         2
       ],
@@ -1718,7 +1638,6 @@
     },
     "117": {
       "id": 117,
-      "editor_name": "71030295炼金",
       "teleport_actor_types": [
         2
       ],
@@ -1739,7 +1658,6 @@
     },
     "118": {
       "id": 118,
-      "editor_name": "商店街中心炼金传送点",
       "teleport_actor_types": [
         2
       ],
@@ -1760,7 +1678,6 @@
     },
     "121": {
       "id": 121,
-      "editor_name": "咸水湾南部",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -1782,7 +1699,6 @@
     },
     "122": {
       "id": 122,
-      "editor_name": "咸水湾北部",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -1804,7 +1720,6 @@
     },
     "123": {
       "id": 123,
-      "editor_name": "圣所前哨",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -1826,7 +1741,6 @@
     },
     "124": {
       "id": 124,
-      "editor_name": "晨曦山",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -1848,7 +1762,6 @@
     },
     "125": {
       "id": 125,
-      "editor_name": "彼得大道",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -1870,7 +1783,6 @@
     },
     "126": {
       "id": 126,
-      "editor_name": "北半岛",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -1892,7 +1804,6 @@
     },
     "127": {
       "id": 127,
-      "editor_name": "峡湾",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -1914,7 +1825,6 @@
     },
     "128": {
       "id": 128,
-      "editor_name": "王国城堡",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -1936,7 +1846,6 @@
     },
     "129": {
       "id": 129,
-      "editor_name": "金叶原",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -1958,7 +1867,6 @@
     },
     "130": {
       "id": 130,
-      "editor_name": "魔力猫首领战复活点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -1980,7 +1888,6 @@
     },
     "131": {
       "id": 131,
-      "editor_name": "幻化宝箱副本出口",
       "teleport_actor_types": [
         2
       ],
@@ -2001,7 +1908,6 @@
     },
     "132": {
       "id": 132,
-      "editor_name": "飞行副本出口",
       "teleport_actor_types": [
         2
       ],
@@ -2022,7 +1928,6 @@
     },
     "133": {
       "id": 133,
-      "editor_name": "宝箱副本复活点1",
       "teleport_actor_types": [
         2
       ],
@@ -2043,7 +1948,6 @@
     },
     "134": {
       "id": 134,
-      "editor_name": "飞行副本复活点1",
       "teleport_actor_types": [
         2
       ],
@@ -2064,7 +1968,6 @@
     },
     "135": {
       "id": 135,
-      "editor_name": "飞行副本复活点2",
       "teleport_actor_types": [
         2
       ],
@@ -2085,7 +1988,6 @@
     },
     "136": {
       "id": 136,
-      "editor_name": "星星空间-星星战斗重置点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -2107,7 +2009,6 @@
     },
     "137": {
       "id": 137,
-      "editor_name": "恶水沼泽传送点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -2129,7 +2030,6 @@
     },
     "138": {
       "id": 138,
-      "editor_name": "净化绿洲传送点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -2151,7 +2051,6 @@
     },
     "139": {
       "id": 139,
-      "editor_name": "微光湿地传送点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -2173,7 +2072,6 @@
     },
     "140": {
       "id": 140,
-      "editor_name": "巨人裂谷顶部传送点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -2195,7 +2093,6 @@
     },
     "141": {
       "id": 141,
-      "editor_name": "巨人裂谷底部传送点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -2217,7 +2114,6 @@
     },
     "142": {
       "id": 142,
-      "editor_name": "独角兽领地传送点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -2239,7 +2135,6 @@
     },
     "143": {
       "id": 143,
-      "editor_name": "采邑地传送点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -2261,7 +2156,6 @@
     },
     "144": {
       "id": 144,
-      "editor_name": "花影迷宫传送点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -2283,7 +2177,6 @@
     },
     "145": {
       "id": 145,
-      "editor_name": "庭院山崖传送点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -2305,7 +2198,6 @@
     },
     "146": {
       "id": 146,
-      "editor_name": "幻鸩庭院传送点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -2327,7 +2219,6 @@
     },
     "147": {
       "id": 147,
-      "editor_name": "北部荒原顶部传送点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -2349,7 +2240,6 @@
     },
     "148": {
       "id": 148,
-      "editor_name": "北部荒原底部传送点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -2371,7 +2261,6 @@
     },
     "149": {
       "id": 149,
-      "editor_name": "甜水农庄传送点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -2393,7 +2282,6 @@
     },
     "150": {
       "id": 150,
-      "editor_name": "大道半岛南部传送点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -2415,7 +2303,6 @@
     },
     "151": {
       "id": 151,
-      "editor_name": "大道半岛内部传送点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -2437,7 +2324,6 @@
     },
     "152": {
       "id": 152,
-      "editor_name": "首领战-恶魔狼战斗重置点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -2459,7 +2345,6 @@
     },
     "153": {
       "id": 153,
-      "editor_name": "首领战-布克棱岩战斗重置点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -2481,7 +2366,6 @@
     },
     "154": {
       "id": 154,
-      "editor_name": "首领战-岚鸟战斗重置点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -2503,7 +2387,6 @@
     },
     "155": {
       "id": 155,
-      "editor_name": "首领战-花魁蜂后战斗重置点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -2525,7 +2408,6 @@
     },
     "156": {
       "id": 156,
-      "editor_name": "首领战-奇丽花战斗重置点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -2547,7 +2429,6 @@
     },
     "157": {
       "id": 157,
-      "editor_name": "首领战-千棘盔战斗重置点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -2569,7 +2450,6 @@
     },
     "158": {
       "id": 158,
-      "editor_name": "伴星圣所副本出口",
       "teleport_actor_types": [
         2
       ],
@@ -2590,7 +2470,6 @@
     },
     "159": {
       "id": 159,
-      "editor_name": "首领战-魔力猫测试重置点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -2612,7 +2491,6 @@
     },
     "160": {
       "id": 160,
-      "editor_name": "矿工副本出口2",
       "teleport_actor_types": [
         2
       ],
@@ -2633,7 +2511,6 @@
     },
     "161": {
       "id": 161,
-      "editor_name": "独角兽领地炼金传送",
       "teleport_actor_types": [
         2
       ],
@@ -2654,7 +2531,6 @@
     },
     "162": {
       "id": 162,
-      "editor_name": "晨曦山炼金传送",
       "teleport_actor_types": [
         2
       ],
@@ -2675,7 +2551,6 @@
     },
     "163": {
       "id": 163,
-      "editor_name": "圣所前哨炼金传送",
       "teleport_actor_types": [
         2
       ],
@@ -2696,7 +2571,6 @@
     },
     "164": {
       "id": 164,
-      "editor_name": "水位副本复活点3",
       "teleport_actor_types": [
         2
       ],
@@ -2717,7 +2591,6 @@
     },
     "165": {
       "id": 165,
-      "editor_name": "水位副本传送点",
       "teleport_actor_types": [
         2
       ],
@@ -2738,7 +2611,6 @@
     },
     "166": {
       "id": 166,
-      "editor_name": "圣所前哨东 炼金传送点",
       "teleport_actor_types": [
         2
       ],
@@ -2759,7 +2631,6 @@
     },
     "167": {
       "id": 167,
-      "editor_name": "首领战-伊里斯战斗重置点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -2781,7 +2652,6 @@
     },
     "168": {
       "id": 168,
-      "editor_name": "A1-轻风山复活点2",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -2803,7 +2673,6 @@
     },
     "169": {
       "id": 169,
-      "editor_name": "新序章-C2复活点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -2825,7 +2694,6 @@
     },
     "170": {
       "id": 170,
-      "editor_name": "新序章-C3断崖复活点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -2847,7 +2715,6 @@
     },
     "171": {
       "id": 171,
-      "editor_name": "新序章-C3-营地复活点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -2869,7 +2736,6 @@
     },
     "172": {
       "id": 172,
-      "editor_name": "新序章 -B1-出生复活点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -2891,7 +2757,6 @@
     },
     "173": {
       "id": 173,
-      "editor_name": "新序章-B2-洞窟复活点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -2913,7 +2778,6 @@
     },
     "174": {
       "id": 174,
-      "editor_name": "风眠圣所阶段6复活点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -2935,7 +2799,6 @@
     },
     "175": {
       "id": 175,
-      "editor_name": "首领战-雪灵战斗重置点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -2957,7 +2820,6 @@
     },
     "176": {
       "id": 176,
-      "editor_name": "风眠圣所阶段1复活点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -2979,7 +2841,6 @@
     },
     "178": {
       "id": 178,
-      "editor_name": "祈雨器副本复活点1",
       "teleport_actor_types": [
         2
       ],
@@ -3000,7 +2861,6 @@
     },
     "179": {
       "id": 179,
-      "editor_name": "水系02副本复活点1",
       "teleport_actor_types": [
         2
       ],
@@ -3021,7 +2881,6 @@
     },
     "180": {
       "id": 180,
-      "editor_name": "冰水系02副本复活点2",
       "teleport_actor_types": [
         2
       ],
@@ -3042,7 +2901,6 @@
     },
     "181": {
       "id": 181,
-      "editor_name": "冰水系02副本复活点2",
       "teleport_actor_types": [
         2
       ],
@@ -3063,7 +2921,6 @@
     },
     "182": {
       "id": 182,
-      "editor_name": "地水系02副本复活点2",
       "teleport_actor_types": [
         2
       ],
@@ -3084,7 +2941,6 @@
     },
     "185": {
       "id": 185,
-      "editor_name": "地下花园副本复活点",
       "teleport_actor_types": [
         2
       ],
@@ -3105,7 +2961,6 @@
     },
     "187": {
       "id": 187,
-      "editor_name": "奇谭任务首领-千棘盔战斗重置点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -3127,7 +2982,6 @@
     },
     "188": {
       "id": 188,
-      "editor_name": "水之道副本复活点1",
       "teleport_actor_types": [
         2
       ],
@@ -3148,7 +3002,6 @@
     },
     "189": {
       "id": 189,
-      "editor_name": "水之道副本复活点2",
       "teleport_actor_types": [
         2
       ],
@@ -3169,7 +3022,6 @@
     },
     "190": {
       "id": 190,
-      "editor_name": "风眠圣所枯枝传送点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -3191,7 +3043,6 @@
     },
     "191": {
       "id": 191,
-      "editor_name": "噩梦首领-噩梦音速犬战斗重置点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -3213,7 +3064,6 @@
     },
     "192": {
       "id": 192,
-      "editor_name": "幻井花屋副本传送点（测试）",
       "teleport_actor_types": [
         2
       ],
@@ -3234,7 +3084,6 @@
     },
     "193": {
       "id": 193,
-      "editor_name": "沉船遗迹副本传送点（测试）",
       "teleport_actor_types": [
         2
       ],
@@ -3255,7 +3104,6 @@
     },
     "197": {
       "id": 197,
-      "editor_name": "噩梦首领-蹦蹦花战斗重置点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -3277,7 +3125,6 @@
     },
     "198": {
       "id": 198,
-      "editor_name": "风眠圣所上方炼金传送点",
       "teleport_actor_types": [
         2
       ],
@@ -3298,7 +3145,6 @@
     },
     "199": {
       "id": 199,
-      "editor_name": "岚语峰西侧炼金传送位置",
       "teleport_actor_types": [
         2
       ],
@@ -3319,7 +3165,6 @@
     },
     "200": {
       "id": 200,
-      "editor_name": "噩梦首领-噩梦魔眷鸟战斗重置点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -3328,7 +3173,7 @@
       "teleport_dest_type": 1,
       "teleport_dest": [
         {
-          "dest_id": 101034265,
+          "dest_id": 101036599,
           "dest_weight": 100
         }
       ],
@@ -3341,7 +3186,6 @@
     },
     "201": {
       "id": 201,
-      "editor_name": "噩梦首领-噩梦晶石蜗战斗重置点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -3363,7 +3207,6 @@
     },
     "202": {
       "id": 202,
-      "editor_name": "噩梦首领-噩梦瞌睡王战斗重置点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -3385,7 +3228,6 @@
     },
     "203": {
       "id": 203,
-      "editor_name": "噩梦首领-噩梦獠牙猪战斗重置点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -3394,7 +3236,7 @@
       "teleport_dest_type": 1,
       "teleport_dest": [
         {
-          "dest_id": 101034268,
+          "dest_id": 101036606,
           "dest_weight": 100
         }
       ],
@@ -3407,7 +3249,6 @@
     },
     "204": {
       "id": 204,
-      "editor_name": "传说精灵团体战-凡鹰",
       "teleport_actor_types": [
         2
       ],
@@ -3422,7 +3263,6 @@
     },
     "205": {
       "id": 205,
-      "editor_name": "雪山副本复活点",
       "teleport_actor_types": [
         2
       ],
@@ -3443,7 +3283,6 @@
     },
     "206": {
       "id": 206,
-      "editor_name": "雪山副本出口",
       "teleport_actor_types": [
         2
       ],
@@ -3464,7 +3303,6 @@
     },
     "207": {
       "id": 207,
-      "editor_name": "传说精灵团体战-龙息帕尔",
       "teleport_actor_types": [
         2
       ],
@@ -3485,7 +3323,6 @@
     },
     "208": {
       "id": 208,
-      "editor_name": "星星魔法空间副本退出点",
       "teleport_actor_types": [
         2
       ],
@@ -3506,7 +3343,6 @@
     },
     "209": {
       "id": 209,
-      "editor_name": "星星魔法空间复活点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -3528,7 +3364,6 @@
     },
     "210": {
       "id": 210,
-      "editor_name": "12层PVE爬塔传送点",
       "teleport_actor_types": [
         2
       ],
@@ -3549,7 +3384,6 @@
     },
     "211": {
       "id": 211,
-      "editor_name": "A2伊兰亚龙",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -3571,7 +3405,6 @@
     },
     "212": {
       "id": 212,
-      "editor_name": "A2首领-爵士鹿",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -3593,7 +3426,6 @@
     },
     "213": {
       "id": 213,
-      "editor_name": "A2首领-棋契陛下",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -3615,7 +3447,6 @@
     },
     "214": {
       "id": 214,
-      "editor_name": "A2首领-钻石蜗",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -3637,7 +3468,6 @@
     },
     "215": {
       "id": 215,
-      "editor_name": "A2首领-蹦蹦花",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -3659,7 +3489,6 @@
     },
     "216": {
       "id": 216,
-      "editor_name": "A2首领-圣剑-X",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -3681,7 +3510,6 @@
     },
     "217": {
       "id": 217,
-      "editor_name": "A2首领-幽影树",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -3703,7 +3531,6 @@
     },
     "218": {
       "id": 218,
-      "editor_name": "A2首领-恶魔狼",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -3725,7 +3552,6 @@
     },
     "219": {
       "id": 219,
-      "editor_name": "A2首领-仪式巨像",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -3747,7 +3573,6 @@
     },
     "220": {
       "id": 220,
-      "editor_name": "A2首领-梦想三三",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -3769,7 +3594,6 @@
     },
     "221": {
       "id": 221,
-      "editor_name": "首领战-黑猫巫师战斗重置点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -3791,7 +3615,6 @@
     },
     "222": {
       "id": 222,
-      "editor_name": "传说精灵团体战-翼王",
       "teleport_actor_types": [
         2
       ],
@@ -3806,7 +3629,6 @@
     },
     "223": {
       "id": 223,
-      "editor_name": "传说精灵团体战-机幕方舟（V101）",
       "teleport_actor_types": [
         2
       ],
@@ -3827,7 +3649,6 @@
     },
     "224": {
       "id": 224,
-      "editor_name": "传说精灵团体战-凡鹰（V101）",
       "teleport_actor_types": [
         2
       ],
@@ -3846,9 +3667,88 @@
         "deviation_online": 300
       }
     },
+    "225": {
+      "id": 225,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 671031127,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 671031127,
+        "dest_outside_radius_online": 400,
+        "dest_inside_radius_online": 200,
+        "deviation_online": 300
+      }
+    },
+    "226": {
+      "id": 226,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 671031130,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 671031130,
+        "dest_outside_radius_online": 400,
+        "dest_inside_radius_online": 200,
+        "deviation_online": 300
+      }
+    },
+    "227": {
+      "id": 227,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 671031132,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 671031132,
+        "dest_outside_radius_online": 400,
+        "dest_inside_radius_online": 200,
+        "deviation_online": 300
+      }
+    },
+    "228": {
+      "id": 228,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 241030066,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 241030066,
+        "dest_outside_radius_online": 400,
+        "dest_inside_radius_online": 200,
+        "deviation_online": 300
+      }
+    },
     "301": {
       "id": 301,
-      "editor_name": "魔法学院魔力之源",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -3870,7 +3770,6 @@
     },
     "302": {
       "id": 302,
-      "editor_name": "咸水湾-魔力之源",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -3892,7 +3791,6 @@
     },
     "303": {
       "id": 303,
-      "editor_name": "沉船漩涡-魔力之源",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -3914,7 +3812,6 @@
     },
     "304": {
       "id": 304,
-      "editor_name": "圣所前哨-魔力之源",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -3936,7 +3833,6 @@
     },
     "305": {
       "id": 305,
-      "editor_name": "回填山涧-魔力之源",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -3958,7 +3854,6 @@
     },
     "306": {
       "id": 306,
-      "editor_name": "采邑地-魔力之源",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -3980,7 +3875,6 @@
     },
     "307": {
       "id": 307,
-      "editor_name": "独角兽领地-魔力之源",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -4002,7 +3896,6 @@
     },
     "308": {
       "id": 308,
-      "editor_name": "恶水沼泽-魔力之源",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -4024,7 +3917,6 @@
     },
     "309": {
       "id": 309,
-      "editor_name": "黑水峡-魔力之源",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -4046,7 +3938,6 @@
     },
     "310": {
       "id": 310,
-      "editor_name": "甜水农庄-魔力之源",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -4068,7 +3959,6 @@
     },
     "311": {
       "id": 311,
-      "editor_name": "咕嘟咕嘟浅滩-魔力之源",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -4090,7 +3980,6 @@
     },
     "312": {
       "id": 312,
-      "editor_name": "银蛇河口-魔力之源",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -4112,7 +4001,6 @@
     },
     "313": {
       "id": 313,
-      "editor_name": "王国城堡-魔力之源",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -4134,7 +4022,6 @@
     },
     "314": {
       "id": 314,
-      "editor_name": "港口驻地-魔力之源",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -4156,7 +4043,6 @@
     },
     "315": {
       "id": 315,
-      "editor_name": "向日葵海岸-魔力之源",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -4178,7 +4064,6 @@
     },
     "316": {
       "id": 316,
-      "editor_name": "彼得大道-魔力之源",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -4200,7 +4085,6 @@
     },
     "317": {
       "id": 317,
-      "editor_name": "交汇镇-魔力之源",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -4222,7 +4106,6 @@
     },
     "318": {
       "id": 318,
-      "editor_name": "监管区-魔力之源",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -4244,7 +4127,6 @@
     },
     "319": {
       "id": 319,
-      "editor_name": "拾荒港口-魔力之源",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -4266,7 +4148,6 @@
     },
     "320": {
       "id": 320,
-      "editor_name": "晨曦山-魔力之源",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -4288,7 +4169,6 @@
     },
     "321": {
       "id": 321,
-      "editor_name": "信仰者村落-魔力之源",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -4310,7 +4190,6 @@
     },
     "322": {
       "id": 322,
-      "editor_name": "月兔暗港-魔力之源",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -4332,7 +4211,6 @@
     },
     "323": {
       "id": 323,
-      "editor_name": "望风半岛-魔力之源",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -4354,7 +4232,6 @@
     },
     "324": {
       "id": 324,
-      "editor_name": "金叶原-魔力之源",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -4376,7 +4253,6 @@
     },
     "325": {
       "id": 325,
-      "editor_name": "瀑下的遗藏副本传送点",
       "teleport_actor_types": [
         2
       ],
@@ -4397,7 +4273,6 @@
     },
     "326": {
       "id": 326,
-      "editor_name": "眠星风阵副本传送点",
       "teleport_actor_types": [
         2
       ],
@@ -4418,7 +4293,6 @@
     },
     "327": {
       "id": 327,
-      "editor_name": "隧洞的遗藏副本传送点",
       "teleport_actor_types": [
         2
       ],
@@ -4439,7 +4313,6 @@
     },
     "328": {
       "id": 328,
-      "editor_name": "大隐于市副本传送点",
       "teleport_actor_types": [
         2
       ],
@@ -4460,7 +4333,6 @@
     },
     "330": {
       "id": 330,
-      "editor_name": "遗迹双巫团副本传送点",
       "teleport_actor_types": [
         2
       ],
@@ -4481,7 +4353,6 @@
     },
     "331": {
       "id": 331,
-      "editor_name": "风灵水域副本传送点",
       "teleport_actor_types": [
         2
       ],
@@ -4502,7 +4373,6 @@
     },
     "332": {
       "id": 332,
-      "editor_name": "矿窟的遗藏副本传送点",
       "teleport_actor_types": [
         2
       ],
@@ -4523,7 +4393,6 @@
     },
     "333": {
       "id": 333,
-      "editor_name": "破风山谷副本传送点",
       "teleport_actor_types": [
         2
       ],
@@ -4544,7 +4413,6 @@
     },
     "334": {
       "id": 334,
-      "editor_name": "水晶屋副本传送点",
       "teleport_actor_types": [
         2
       ],
@@ -4565,7 +4433,6 @@
     },
     "335": {
       "id": 335,
-      "editor_name": "星落遗船副本传送点",
       "teleport_actor_types": [
         2
       ],
@@ -4586,7 +4453,6 @@
     },
     "337": {
       "id": 337,
-      "editor_name": "高塔之秘副本传送点",
       "teleport_actor_types": [
         2
       ],
@@ -4607,7 +4473,6 @@
     },
     "338": {
       "id": 338,
-      "editor_name": "万千奇境副本传送点",
       "teleport_actor_types": [
         2
       ],
@@ -4628,7 +4493,6 @@
     },
     "339": {
       "id": 339,
-      "editor_name": "镜中世界副本传送点",
       "teleport_actor_types": [
         2
       ],
@@ -4649,7 +4513,6 @@
     },
     "340": {
       "id": 340,
-      "editor_name": "恩佐的秘密实验室传送点",
       "teleport_actor_types": [
         2
       ],
@@ -4670,7 +4533,6 @@
     },
     "341": {
       "id": 341,
-      "editor_name": "水之道副本传送点",
       "teleport_actor_types": [
         2
       ],
@@ -4691,7 +4553,6 @@
     },
     "342": {
       "id": 342,
-      "editor_name": "石柱阵副本传送点",
       "teleport_actor_types": [
         2
       ],
@@ -4712,7 +4573,6 @@
     },
     "343": {
       "id": 343,
-      "editor_name": "沙漠之星副本传送点",
       "teleport_actor_types": [
         2
       ],
@@ -4733,7 +4593,6 @@
     },
     "344": {
       "id": 344,
-      "editor_name": "觅踪花园副本传送点",
       "teleport_actor_types": [
         2
       ],
@@ -4754,7 +4613,6 @@
     },
     "345": {
       "id": 345,
-      "editor_name": "黑巫赠宝副本传送点",
       "teleport_actor_types": [
         2
       ],
@@ -4775,7 +4633,6 @@
     },
     "346": {
       "id": 346,
-      "editor_name": "地下花园副本传送点",
       "teleport_actor_types": [
         2
       ],
@@ -4796,7 +4653,6 @@
     },
     "347": {
       "id": 347,
-      "editor_name": "上升通道副本传送点",
       "teleport_actor_types": [
         2
       ],
@@ -4817,7 +4673,6 @@
     },
     "348": {
       "id": 348,
-      "editor_name": "石柱阵副本复活点1",
       "teleport_actor_types": [
         2
       ],
@@ -4838,7 +4693,6 @@
     },
     "349": {
       "id": 349,
-      "editor_name": "石柱阵副本复活点2",
       "teleport_actor_types": [
         2
       ],
@@ -4859,7 +4713,6 @@
     },
     "350": {
       "id": 350,
-      "editor_name": "风眠圣所阶段7复活点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -4881,7 +4734,6 @@
     },
     "351": {
       "id": 351,
-      "editor_name": "真实之门副本传送点",
       "teleport_actor_types": [
         2
       ],
@@ -4902,7 +4754,6 @@
     },
     "352": {
       "id": 352,
-      "editor_name": "花中之巫副本传送点",
       "teleport_actor_types": [
         2
       ],
@@ -4923,7 +4774,6 @@
     },
     "353": {
       "id": 353,
-      "editor_name": "精灵王的馈赠副本传送点",
       "teleport_actor_types": [
         2
       ],
@@ -4944,7 +4794,6 @@
     },
     "354": {
       "id": 354,
-      "editor_name": "传送魔镜副本传送点",
       "teleport_actor_types": [
         2
       ],
@@ -4965,7 +4814,6 @@
     },
     "355": {
       "id": 355,
-      "editor_name": "沙丘木窟副本传送点",
       "teleport_actor_types": [
         2
       ],
@@ -4986,7 +4834,6 @@
     },
     "356": {
       "id": 356,
-      "editor_name": "幻影屋副本传送点",
       "teleport_actor_types": [
         2
       ],
@@ -5007,7 +4854,6 @@
     },
     "357": {
       "id": 357,
-      "editor_name": "花中之巫复活点",
       "teleport_actor_types": [
         2
       ],
@@ -5028,7 +4874,6 @@
     },
     "359": {
       "id": 359,
-      "editor_name": "瀑下的遗藏复活点",
       "teleport_actor_types": [
         2
       ],
@@ -5049,7 +4894,6 @@
     },
     "360": {
       "id": 360,
-      "editor_name": "幻影屋副本复活点",
       "teleport_actor_types": [
         2
       ],
@@ -5070,7 +4914,6 @@
     },
     "361": {
       "id": 361,
-      "editor_name": "黑巫赠宝副本复活点",
       "teleport_actor_types": [
         2
       ],
@@ -5091,7 +4934,6 @@
     },
     "362": {
       "id": 362,
-      "editor_name": "黑巫赠宝副本传送点",
       "teleport_actor_types": [
         2
       ],
@@ -5112,7 +4954,6 @@
     },
     "363": {
       "id": 363,
-      "editor_name": "风眠圣所阶段8复活点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -5134,7 +4975,6 @@
     },
     "364": {
       "id": 364,
-      "editor_name": "矿窟的遗藏复活点",
       "teleport_actor_types": [
         2
       ],
@@ -5155,7 +4995,6 @@
     },
     "365": {
       "id": 365,
-      "editor_name": "精灵王的馈赠副本复活点",
       "teleport_actor_types": [
         2
       ],
@@ -5176,7 +5015,6 @@
     },
     "366": {
       "id": 366,
-      "editor_name": "隧洞的遗藏副本复活点",
       "teleport_actor_types": [
         2
       ],
@@ -5197,7 +5035,6 @@
     },
     "367": {
       "id": 367,
-      "editor_name": "上升通道顶部出口",
       "teleport_actor_types": [
         2
       ],
@@ -5218,7 +5055,6 @@
     },
     "368": {
       "id": 368,
-      "editor_name": "幻影屋副本复活点",
       "teleport_actor_types": [
         2
       ],
@@ -5239,7 +5075,6 @@
     },
     "369": {
       "id": 369,
-      "editor_name": "大隐于市复活点",
       "teleport_actor_types": [
         2
       ],
@@ -5260,7 +5095,6 @@
     },
     "370": {
       "id": 370,
-      "editor_name": "水晶屋复活点",
       "teleport_actor_types": [
         2
       ],
@@ -5281,7 +5115,6 @@
     },
     "371": {
       "id": 371,
-      "editor_name": "真实之门复活点",
       "teleport_actor_types": [
         2
       ],
@@ -5302,7 +5135,6 @@
     },
     "372": {
       "id": 372,
-      "editor_name": "恩佐的临时实验室复活点",
       "teleport_actor_types": [
         2
       ],
@@ -5321,9 +5153,188 @@
         "deviation_online": 300
       }
     },
+    "373": {
+      "id": 373,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 552550014,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 552550014,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "374": {
+      "id": 374,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 552540023,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 552540023,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "375": {
+      "id": 375,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 552570006,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 552570006,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "376": {
+      "id": 376,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 552550054,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 552550054,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "377": {
+      "id": 377,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 552540065,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 552540065,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "378": {
+      "id": 378,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 552580201,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 552580201,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "379": {
+      "id": 379,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 552590201,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 552590201,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "380": {
+      "id": 380,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 552600201,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 552600201,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "381": {
+      "id": 381,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 552610201,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 552610201,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
     "382": {
       "id": 382,
-      "editor_name": "魔法学院-竞技场魔力之源",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -5345,7 +5356,6 @@
     },
     "383": {
       "id": 383,
-      "editor_name": "魔法学院-生态社魔力之源",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -5367,7 +5377,6 @@
     },
     "384": {
       "id": 384,
-      "editor_name": "魔法学院-仪式广场魔力之源",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -5389,7 +5398,6 @@
     },
     "385": {
       "id": 385,
-      "editor_name": "下水道通用出口传送点",
       "teleport_actor_types": [
         2
       ],
@@ -5410,7 +5418,6 @@
     },
     "386": {
       "id": 386,
-      "editor_name": "地图传送-A2室内-王国城堡-皮卡服装店",
       "teleport_actor_types": [
         2
       ],
@@ -5431,7 +5438,6 @@
     },
     "387": {
       "id": 387,
-      "editor_name": "地图传送-A2室内-彼得大道-皮卡服装店",
       "teleport_actor_types": [
         2
       ],
@@ -5452,7 +5458,6 @@
     },
     "388": {
       "id": 388,
-      "editor_name": "彼得大道下水道1-复活点",
       "teleport_actor_types": [
         2
       ],
@@ -5473,7 +5478,6 @@
     },
     "389": {
       "id": 389,
-      "editor_name": "彼得大道下水道2-复活点",
       "teleport_actor_types": [
         2
       ],
@@ -5494,7 +5498,6 @@
     },
     "390": {
       "id": 390,
-      "editor_name": "彼得大道下水道1-入口",
       "teleport_actor_types": [
         2
       ],
@@ -5515,7 +5518,6 @@
     },
     "391": {
       "id": 391,
-      "editor_name": "彼得大道下水道2-入口",
       "teleport_actor_types": [
         2
       ],
@@ -5536,7 +5538,6 @@
     },
     "392": {
       "id": 392,
-      "editor_name": "道具店室内传送点",
       "teleport_actor_types": [
         2
       ],
@@ -5557,7 +5558,6 @@
     },
     "393": {
       "id": 393,
-      "editor_name": "安妮商店传送点",
       "teleport_actor_types": [
         2
       ],
@@ -5578,7 +5578,6 @@
     },
     "394": {
       "id": 394,
-      "editor_name": "安妮商店室外传送点",
       "teleport_actor_types": [
         2
       ],
@@ -5599,7 +5598,6 @@
     },
     "395": {
       "id": 395,
-      "editor_name": "地图传送-A2室外-王国城堡-皮卡服装店",
       "teleport_actor_types": [
         2
       ],
@@ -5620,7 +5618,6 @@
     },
     "396": {
       "id": 396,
-      "editor_name": "地图传送-A2室外-彼得大道-皮卡服装店",
       "teleport_actor_types": [
         2
       ],
@@ -5639,9 +5636,88 @@
         "deviation_online": 300
       }
     },
+    "397": {
+      "id": 397,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 552620043,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 552620043,
+        "dest_outside_radius_online": 200,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "398": {
+      "id": 398,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 552560062,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 552560062,
+        "dest_outside_radius_online": 200,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "399": {
+      "id": 399,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 552550055,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 552550055,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "400": {
+      "id": 400,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 552540069,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 552540069,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
     "401": {
       "id": 401,
-      "editor_name": "序章_雪山_临时复活点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -5663,7 +5739,6 @@
     },
     "402": {
       "id": 402,
-      "editor_name": "序章_白树空间_临时复活点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -5685,7 +5760,6 @@
     },
     "403": {
       "id": 403,
-      "editor_name": "序章_洞窟_临时复活点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -5707,7 +5781,6 @@
     },
     "404": {
       "id": 404,
-      "editor_name": "序章_飞艇_临时复活点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -5727,9 +5800,448 @@
         "deviation_online": 300
       }
     },
+    "405": {
+      "id": 405,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 552630051,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 552630051,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "406": {
+      "id": 406,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 552630052,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 552630052,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "407": {
+      "id": 407,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 552640000,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 552640000,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "408": {
+      "id": 408,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 552640053,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 552640053,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "409": {
+      "id": 409,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 552650000,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 552650000,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "410": {
+      "id": 410,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 552650053,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 552650053,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "411": {
+      "id": 411,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 552660000,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 552660000,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "412": {
+      "id": 412,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 552660053,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 552660053,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "413": {
+      "id": 413,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 552670000,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 552670000,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "414": {
+      "id": 414,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 552670053,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 552670053,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "415": {
+      "id": 415,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 552680000,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 552680000,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "416": {
+      "id": 416,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 552680053,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 552680053,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "417": {
+      "id": 417,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 552690000,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 552690000,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "418": {
+      "id": 418,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 552690053,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 552690053,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "419": {
+      "id": 419,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 552700000,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 552700000,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "420": {
+      "id": 420,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 552700053,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 552700053,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "421": {
+      "id": 421,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 552710000,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 552710000,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "422": {
+      "id": 422,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 552710053,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 552710053,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "423": {
+      "id": 423,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 552720000,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 552720000,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "424": {
+      "id": 424,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 552720053,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 552720053,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "425": {
+      "id": 425,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 552570006,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 552570006,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "426": {
+      "id": 426,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 552570046,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 552570046,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
     "501": {
       "id": 501,
-      "editor_name": "任务副本-噩梦广场出口",
       "teleport_actor_types": [
         2
       ],
@@ -5750,7 +6262,6 @@
     },
     "502": {
       "id": 502,
-      "editor_name": "首领战-裘卡战斗重置点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -5772,7 +6283,6 @@
     },
     "503": {
       "id": 503,
-      "editor_name": "任务副本-幻境1F复活点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -5794,7 +6304,6 @@
     },
     "504": {
       "id": 504,
-      "editor_name": "任务副本-幻境2F复活点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -5816,7 +6325,6 @@
     },
     "505": {
       "id": 505,
-      "editor_name": "任务副本-幻境3F复活点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -5838,7 +6346,6 @@
     },
     "506": {
       "id": 506,
-      "editor_name": "任务副本-幻境4F复活点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -5860,7 +6367,6 @@
     },
     "507": {
       "id": 507,
-      "editor_name": "任务副本-幻境出口",
       "teleport_actor_types": [
         2
       ],
@@ -5881,7 +6387,6 @@
     },
     "508": {
       "id": 508,
-      "editor_name": "魔法学院默认传送点",
       "teleport_actor_types": [
         2
       ],
@@ -5902,7 +6407,6 @@
     },
     "509": {
       "id": 509,
-      "editor_name": "B1任务-珂赛特对战复活点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -5924,7 +6428,6 @@
     },
     "510": {
       "id": 510,
-      "editor_name": "B1任务-希露德对战复活点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -5946,7 +6449,6 @@
     },
     "511": {
       "id": 511,
-      "editor_name": "A2任务-学院驻地复活点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -5968,7 +6470,6 @@
     },
     "512": {
       "id": 512,
-      "editor_name": "A2任务-王国城堡保底复活点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -5990,7 +6491,6 @@
     },
     "513": {
       "id": 513,
-      "editor_name": "A2任务-彼得大道保底复活点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -6012,7 +6512,6 @@
     },
     "514": {
       "id": 514,
-      "editor_name": "A2任务-拾荒港口保底复活点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -6034,7 +6533,6 @@
     },
     "515": {
       "id": 515,
-      "editor_name": "A2任务-月兔酒馆保底复活点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -6056,7 +6554,6 @@
     },
     "516": {
       "id": 516,
-      "editor_name": "B1任务-最终战学院出口",
       "teleport_actor_types": [
         2
       ],
@@ -6077,7 +6574,6 @@
     },
     "517": {
       "id": 517,
-      "editor_name": "B1任务-仪典学-灵镜世界出口",
       "teleport_actor_types": [
         2
       ],
@@ -6098,7 +6594,6 @@
     },
     "601": {
       "id": 601,
-      "editor_name": "首领战-雪影娃娃",
       "teleport_actor_types": [
         2
       ],
@@ -6119,7 +6614,6 @@
     },
     "602": {
       "id": 602,
-      "editor_name": "首领战-布克棱岩",
       "teleport_actor_types": [
         2
       ],
@@ -6140,7 +6634,6 @@
     },
     "603": {
       "id": 603,
-      "editor_name": "首领战-岚鸟",
       "teleport_actor_types": [
         2
       ],
@@ -6161,7 +6654,6 @@
     },
     "604": {
       "id": 604,
-      "editor_name": "首领战-花魁蜂后",
       "teleport_actor_types": [
         2
       ],
@@ -6182,7 +6674,6 @@
     },
     "605": {
       "id": 605,
-      "editor_name": "首领战-奇丽花",
       "teleport_actor_types": [
         2
       ],
@@ -6203,7 +6694,6 @@
     },
     "606": {
       "id": 606,
-      "editor_name": "首领战-千棘盔",
       "teleport_actor_types": [
         2
       ],
@@ -6224,7 +6714,6 @@
     },
     "607": {
       "id": 607,
-      "editor_name": "首领战-音速犬",
       "teleport_actor_types": [
         2
       ],
@@ -6245,7 +6734,6 @@
     },
     "608": {
       "id": 608,
-      "editor_name": "首领战-伊兰龙",
       "teleport_actor_types": [
         2
       ],
@@ -6266,7 +6754,6 @@
     },
     "609": {
       "id": 609,
-      "editor_name": "首领战-波普鹿",
       "teleport_actor_types": [
         2
       ],
@@ -6287,7 +6774,6 @@
     },
     "610": {
       "id": 610,
-      "editor_name": "首领战-棋契陛下",
       "teleport_actor_types": [
         2
       ],
@@ -6308,7 +6794,6 @@
     },
     "611": {
       "id": 611,
-      "editor_name": "首领战-钻石蜗",
       "teleport_actor_types": [
         2
       ],
@@ -6329,7 +6814,6 @@
     },
     "612": {
       "id": 612,
-      "editor_name": "首领战-蹦蹦果",
       "teleport_actor_types": [
         2
       ],
@@ -6350,7 +6834,6 @@
     },
     "613": {
       "id": 613,
-      "editor_name": "首领战-圣剑骑士",
       "teleport_actor_types": [
         2
       ],
@@ -6371,7 +6854,6 @@
     },
     "614": {
       "id": 614,
-      "editor_name": "首领战-幻影荆棘",
       "teleport_actor_types": [
         2
       ],
@@ -6392,7 +6874,6 @@
     },
     "615": {
       "id": 615,
-      "editor_name": "首领战-恶魔狼王",
       "teleport_actor_types": [
         2
       ],
@@ -6413,7 +6894,6 @@
     },
     "616": {
       "id": 616,
-      "editor_name": "首领战-祭礼巨像",
       "teleport_actor_types": [
         2
       ],
@@ -6434,7 +6914,6 @@
     },
     "617": {
       "id": 617,
-      "editor_name": "首领战-奇梦咪",
       "teleport_actor_types": [
         2
       ],
@@ -6455,7 +6934,6 @@
     },
     "618": {
       "id": 618,
-      "editor_name": "首领战-黑猫密探",
       "teleport_actor_types": [
         2
       ],
@@ -6474,9 +6952,68 @@
         "deviation_online": 300
       }
     },
+    "619": {
+      "id": 619,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 511030322,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 511030322,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "620": {
+      "id": 620,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 511030323,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 511030323,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "621": {
+      "id": 621,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 511030324,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 511030324,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
     "701": {
       "id": 701,
-      "editor_name": "周期挑战-对战剧场",
       "teleport_actor_types": [
         2
       ],
@@ -6497,7 +7034,6 @@
     },
     "702": {
       "id": 702,
-      "editor_name": "周期挑战-首领角斗",
       "teleport_actor_types": [
         2
       ],
@@ -6518,7 +7054,6 @@
     },
     "703": {
       "id": 703,
-      "editor_name": "周期挑战-星光对决",
       "teleport_actor_types": [
         2
       ],
@@ -6539,7 +7074,6 @@
     },
     "704": {
       "id": 704,
-      "editor_name": "领地试炼-法瑞莎莎",
       "teleport_actor_types": [
         2
       ],
@@ -6560,7 +7094,6 @@
     },
     "705": {
       "id": 705,
-      "editor_name": "领地试炼-麦克达克",
       "teleport_actor_types": [
         2
       ],
@@ -6581,7 +7114,6 @@
     },
     "706": {
       "id": 706,
-      "editor_name": "领地试炼-深渊罗隐",
       "teleport_actor_types": [
         2
       ],
@@ -6602,7 +7134,6 @@
     },
     "707": {
       "id": 707,
-      "editor_name": "领地试炼-高帽鹬者",
       "teleport_actor_types": [
         2
       ],
@@ -6621,9 +7152,48 @@
         "deviation_online": 300
       }
     },
+    "708": {
+      "id": 708,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 241030069,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 241030069,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "709": {
+      "id": 709,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 241030070,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 241030070,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
     "781": {
       "id": 781,
-      "editor_name": "八大徽章-草系徽章-入口传送门",
       "teleport_actor_types": [
         2
       ],
@@ -6644,7 +7214,6 @@
     },
     "801": {
       "id": 801,
-      "editor_name": "801440炼金",
       "teleport_actor_types": [
         2
       ],
@@ -6665,7 +7234,6 @@
     },
     "802": {
       "id": 802,
-      "editor_name": "801200炼金",
       "teleport_actor_types": [
         2
       ],
@@ -6686,7 +7254,6 @@
     },
     "803": {
       "id": 803,
-      "editor_name": "801215炼金",
       "teleport_actor_types": [
         2
       ],
@@ -6707,7 +7274,6 @@
     },
     "804": {
       "id": 804,
-      "editor_name": "801355炼金",
       "teleport_actor_types": [
         2
       ],
@@ -6728,7 +7294,6 @@
     },
     "805": {
       "id": 805,
-      "editor_name": "801356炼金",
       "teleport_actor_types": [
         2
       ],
@@ -6749,7 +7314,6 @@
     },
     "806": {
       "id": 806,
-      "editor_name": "801357炼金",
       "teleport_actor_types": [
         2
       ],
@@ -6770,7 +7334,6 @@
     },
     "807": {
       "id": 807,
-      "editor_name": "801358炼金",
       "teleport_actor_types": [
         2
       ],
@@ -6791,7 +7354,6 @@
     },
     "808": {
       "id": 808,
-      "editor_name": "801359炼金",
       "teleport_actor_types": [
         2
       ],
@@ -6812,7 +7374,6 @@
     },
     "809": {
       "id": 809,
-      "editor_name": "801360炼金",
       "teleport_actor_types": [
         2
       ],
@@ -6833,7 +7394,6 @@
     },
     "810": {
       "id": 810,
-      "editor_name": "801361炼金",
       "teleport_actor_types": [
         2
       ],
@@ -6854,7 +7414,6 @@
     },
     "811": {
       "id": 811,
-      "editor_name": "801362炼金",
       "teleport_actor_types": [
         2
       ],
@@ -6875,7 +7434,6 @@
     },
     "812": {
       "id": 812,
-      "editor_name": "801216炼金",
       "teleport_actor_types": [
         2
       ],
@@ -6896,7 +7454,6 @@
     },
     "901": {
       "id": 901,
-      "editor_name": "服装店保底复活点",
       "resurrection_group": 1,
       "scene_res_id": 10019,
       "teleport_actor_types": [
@@ -6919,7 +7476,6 @@
     },
     "902": {
       "id": 902,
-      "editor_name": "道具店保底复活点",
       "resurrection_group": 1,
       "scene_res_id": 10020,
       "teleport_actor_types": [
@@ -6942,7 +7498,6 @@
     },
     "903": {
       "id": 903,
-      "editor_name": "侦探社保底复活点",
       "resurrection_group": 1,
       "scene_res_id": 10035,
       "teleport_actor_types": [
@@ -6965,7 +7520,6 @@
     },
     "904": {
       "id": 904,
-      "editor_name": "通用教室保底复活点",
       "resurrection_group": 1,
       "scene_res_id": 10017,
       "teleport_actor_types": [
@@ -6988,7 +7542,6 @@
     },
     "905": {
       "id": 905,
-      "editor_name": "礼拜教堂保底复活点",
       "resurrection_group": 1,
       "scene_res_id": 10028,
       "teleport_actor_types": [
@@ -7011,7 +7564,6 @@
     },
     "906": {
       "id": 906,
-      "editor_name": "学院大厅保底复活点",
       "resurrection_group": 1,
       "scene_res_id": 10026,
       "teleport_actor_types": [
@@ -7034,7 +7586,6 @@
     },
     "907": {
       "id": 907,
-      "editor_name": "怪谈社保底复活点",
       "resurrection_group": 1,
       "scene_res_id": 10027,
       "teleport_actor_types": [
@@ -7057,7 +7608,6 @@
     },
     "908": {
       "id": 908,
-      "editor_name": "生态社保底复活点",
       "resurrection_group": 1,
       "scene_res_id": 10022,
       "teleport_actor_types": [
@@ -7080,7 +7630,6 @@
     },
     "909": {
       "id": 909,
-      "editor_name": "魔法学院保底复活点",
       "resurrection_group": 1,
       "scene_res_id": 10018,
       "teleport_actor_types": [
@@ -7103,7 +7652,6 @@
     },
     "910": {
       "id": 910,
-      "editor_name": "伊里斯小屋复活点",
       "resurrection_group": 1,
       "scene_res_id": 10010,
       "teleport_actor_types": [
@@ -7126,7 +7674,6 @@
     },
     "911": {
       "id": 911,
-      "editor_name": "（整齐版)礼拜教堂保底复活点",
       "resurrection_group": 1,
       "scene_res_id": 10034,
       "teleport_actor_types": [
@@ -7149,7 +7696,6 @@
     },
     "1001": {
       "id": 1001,
-      "editor_name": "排位赛传送点",
       "teleport_actor_types": [
         2
       ],
@@ -7170,7 +7716,6 @@
     },
     "1002": {
       "id": 1002,
-      "editor_name": "友谊对决传送点",
       "teleport_actor_types": [
         2
       ],
@@ -7191,7 +7736,6 @@
     },
     "1003": {
       "id": 1003,
-      "editor_name": "排位赛专用复活点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -7213,7 +7757,6 @@
     },
     "1004": {
       "id": 1004,
-      "editor_name": "命运对决传送点",
       "teleport_actor_types": [
         2
       ],
@@ -7234,7 +7777,6 @@
     },
     "1005": {
       "id": 1005,
-      "editor_name": "极速对决传送点",
       "teleport_actor_types": [
         2
       ],
@@ -7255,7 +7797,6 @@
     },
     "1051": {
       "id": 1051,
-      "editor_name": "商店街商店传送点",
       "teleport_actor_types": [
         2
       ],
@@ -7276,7 +7817,6 @@
     },
     "1052": {
       "id": 1052,
-      "editor_name": "彼得大道商店传送点",
       "teleport_actor_types": [
         2
       ],
@@ -7297,7 +7837,6 @@
     },
     "1053": {
       "id": 1053,
-      "editor_name": "王国城堡商店传送点",
       "teleport_actor_types": [
         2
       ],
@@ -7318,7 +7857,6 @@
     },
     "1054": {
       "id": 1054,
-      "editor_name": "公测-格里芬商店传送点",
       "teleport_actor_types": [
         2
       ],
@@ -7339,7 +7877,6 @@
     },
     "1055": {
       "id": 1055,
-      "editor_name": "庇护所传送点",
       "teleport_actor_types": [
         2
       ],
@@ -7360,7 +7897,6 @@
     },
     "1056": {
       "id": 1056,
-      "editor_name": "七星稀兽花种传送点",
       "teleport_actor_types": [
         2
       ],
@@ -7381,7 +7917,6 @@
     },
     "1057": {
       "id": 1057,
-      "editor_name": "家园室内传送点",
       "resurrection_group": 1,
       "scene_res_id": 30001,
       "teleport_actor_types": [
@@ -7404,7 +7939,6 @@
     },
     "1058": {
       "id": 1058,
-      "editor_name": "家园室外传送点（地图）",
       "teleport_actor_types": [
         2
       ],
@@ -7425,7 +7959,6 @@
     },
     "1059": {
       "id": 1059,
-      "editor_name": "庇护所传送点",
       "teleport_actor_types": [
         2
       ],
@@ -7446,7 +7979,6 @@
     },
     "1060": {
       "id": 1060,
-      "editor_name": "种植园山姆大叔传送点",
       "teleport_actor_types": [
         2
       ],
@@ -7467,7 +7999,6 @@
     },
     "1061": {
       "id": 1061,
-      "editor_name": "室内叮叮传送点",
       "teleport_actor_types": [
         2
       ],
@@ -7488,7 +8019,6 @@
     },
     "1062": {
       "id": 1062,
-      "editor_name": "家园室外传送点（大门）",
       "teleport_actor_types": [
         2
       ],
@@ -7509,7 +8039,6 @@
     },
     "1063": {
       "id": 1063,
-      "editor_name": "王国城堡服装店保底复活点",
       "resurrection_group": 1,
       "scene_res_id": 10036,
       "teleport_actor_types": [
@@ -7532,7 +8061,6 @@
     },
     "1064": {
       "id": 1064,
-      "editor_name": "彼得大道服装店保底复活点",
       "resurrection_group": 1,
       "scene_res_id": 10037,
       "teleport_actor_types": [
@@ -7555,7 +8083,6 @@
     },
     "1065": {
       "id": 1065,
-      "editor_name": "三测-萌萌商店传送点",
       "teleport_actor_types": [
         2
       ],
@@ -7576,7 +8103,6 @@
     },
     "1066": {
       "id": 1066,
-      "editor_name": "三测-可丽和菲尔特商店传送点",
       "teleport_actor_types": [
         2
       ],
@@ -7597,7 +8123,6 @@
     },
     "1067": {
       "id": 1067,
-      "editor_name": "三测-路易斯商店传送点",
       "teleport_actor_types": [
         2
       ],
@@ -7618,7 +8143,6 @@
     },
     "1068": {
       "id": 1068,
-      "editor_name": "三测-易西商店传送点",
       "teleport_actor_types": [
         2
       ],
@@ -7639,7 +8163,6 @@
     },
     "1069": {
       "id": 1069,
-      "editor_name": "三测-万事通商店传送点",
       "teleport_actor_types": [
         2
       ],
@@ -7660,7 +8183,6 @@
     },
     "1070": {
       "id": 1070,
-      "editor_name": "三测-兰斯洛商店传送点",
       "teleport_actor_types": [
         2
       ],
@@ -7681,7 +8203,6 @@
     },
     "1071": {
       "id": 1071,
-      "editor_name": "三测-博得商店传送点",
       "teleport_actor_types": [
         2
       ],
@@ -7702,7 +8223,6 @@
     },
     "1072": {
       "id": 1072,
-      "editor_name": "种植园大世界地图tips传送点",
       "teleport_actor_types": [
         2
       ],
@@ -7723,7 +8243,6 @@
     },
     "1073": {
       "id": 1073,
-      "editor_name": "三测-阿布抽奖NPC传送点",
       "resurrection_group": 1,
       "teleport_actor_types": [
         2
@@ -7745,7 +8264,6 @@
     },
     "1074": {
       "id": 1074,
-      "editor_name": "公测-费得商店传送点",
       "teleport_actor_types": [
         2
       ],
@@ -7766,7 +8284,6 @@
     },
     "1075": {
       "id": 1075,
-      "editor_name": "公测-卡普商店传送点",
       "teleport_actor_types": [
         2
       ],
@@ -7787,7 +8304,6 @@
     },
     "1076": {
       "id": 1076,
-      "editor_name": "公测-伊里斯商店传送点",
       "teleport_actor_types": [
         2
       ],
@@ -7808,7 +8324,6 @@
     },
     "1077": {
       "id": 1077,
-      "editor_name": "公测-芙蕾雅商店传送点",
       "teleport_actor_types": [
         2
       ],
@@ -7829,7 +8344,6 @@
     },
     "1078": {
       "id": 1078,
-      "editor_name": "公测-佩西阿姨商店传送点",
       "teleport_actor_types": [
         2
       ],
@@ -7850,7 +8364,6 @@
     },
     "1141": {
       "id": 1141,
-      "editor_name": "公测-阵营商店-传送点-骑士团",
       "teleport_actor_types": [
         2
       ],
@@ -7871,7 +8384,6 @@
     },
     "1142": {
       "id": 1142,
-      "editor_name": "公测-阵营商店-传送点-月兔酒馆",
       "teleport_actor_types": [
         2
       ],
@@ -7892,7 +8404,6 @@
     },
     "1143": {
       "id": 1143,
-      "editor_name": "公测-阵营商店-传送点-工匠协会",
       "teleport_actor_types": [
         2
       ],
@@ -7913,7 +8424,6 @@
     },
     "1144": {
       "id": 1144,
-      "editor_name": "公测-阵营商店-传送点-侦探社",
       "teleport_actor_types": [
         2
       ],
@@ -7934,7 +8444,6 @@
     },
     "1200": {
       "id": 1200,
-      "editor_name": "S1赛季大厅-大世界入口",
       "teleport_actor_types": [
         2
       ],
@@ -7955,7 +8464,6 @@
     },
     "1201": {
       "id": 1201,
-      "editor_name": "S1赛季大厅-箱中研究室",
       "teleport_actor_types": [
         2
       ],
@@ -7976,7 +8484,6 @@
     },
     "1202": {
       "id": 1202,
-      "editor_name": "S1赛季任务地城-恶系地牢",
       "teleport_actor_types": [
         2
       ],
@@ -7997,7 +8504,6 @@
     },
     "1203": {
       "id": 1203,
-      "editor_name": "S1赛季任务地城-魔力果之森",
       "teleport_actor_types": [
         2
       ],
@@ -8018,7 +8524,6 @@
     },
     "1204": {
       "id": 1204,
-      "editor_name": "S1赛季任务地城-精灵农场",
       "teleport_actor_types": [
         2
       ],
@@ -8039,7 +8544,6 @@
     },
     "1205": {
       "id": 1205,
-      "editor_name": "S1赛季任务地城-魔力果之森·夜",
       "teleport_actor_types": [
         2
       ],
@@ -8060,7 +8564,6 @@
     },
     "1206": {
       "id": 1206,
-      "editor_name": "S1赛季任务地城-帕尔幻境",
       "teleport_actor_types": [
         2
       ],
@@ -8081,7 +8584,6 @@
     },
     "1207": {
       "id": 1207,
-      "editor_name": "S1赛季箱中研究室-露萌帽子前",
       "teleport_actor_types": [
         2
       ],
@@ -8102,7 +8604,6 @@
     },
     "1208": {
       "id": 1208,
-      "editor_name": "家园室内-大地图噜噜传送点",
       "teleport_actor_types": [
         2
       ],
@@ -8123,7 +8624,6 @@
     },
     "1209": {
       "id": 1209,
-      "editor_name": "家园室内-大地图种植园特效门传送点",
       "teleport_actor_types": [
         2
       ],
@@ -8144,7 +8644,6 @@
     },
     "1210": {
       "id": 1210,
-      "editor_name": "种植园-大地图种植园特效门传送点",
       "resurrection_group": 1,
       "scene_res_id": 30002,
       "teleport_actor_types": [
@@ -8167,7 +8666,6 @@
     },
     "1211": {
       "id": 1211,
-      "editor_name": "种植园-大地图炼金传送点",
       "teleport_actor_types": [
         2
       ],
@@ -8188,7 +8686,6 @@
     },
     "1212": {
       "id": 1212,
-      "editor_name": "种植园-大地图守卫台传送点",
       "teleport_actor_types": [
         2
       ],
@@ -8209,7 +8706,6 @@
     },
     "1213": {
       "id": 1213,
-      "editor_name": "S2赛季大厅-大世界入口",
       "teleport_actor_types": [
         2
       ],
@@ -8230,7 +8726,6 @@
     },
     "1214": {
       "id": 1214,
-      "editor_name": "S2赛季大厅-马戏团",
       "teleport_actor_types": [
         2
       ],
@@ -8251,7 +8746,6 @@
     },
     "1215": {
       "id": 1215,
-      "editor_name": "S2赛季任务地城-声波缇塔",
       "teleport_actor_types": [
         2
       ],
@@ -8272,7 +8766,6 @@
     },
     "1216": {
       "id": 1216,
-      "editor_name": "S2赛季任务地城-机械方方",
       "teleport_actor_types": [
         2
       ],
@@ -8293,7 +8786,6 @@
     },
     "1217": {
       "id": 1217,
-      "editor_name": "S2赛季大厅-马戏团-4号帐篷",
       "teleport_actor_types": [
         2
       ],
@@ -8314,7 +8806,6 @@
     },
     "1218": {
       "id": 1218,
-      "editor_name": "S2赛季大厅-马戏团-爆焰仔帐篷",
       "teleport_actor_types": [
         2
       ],
@@ -8333,9 +8824,48 @@
         "deviation_online": 300
       }
     },
+    "1219": {
+      "id": 1219,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 401030394,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 401030394,
+        "dest_outside_radius_online": 200,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "1220": {
+      "id": 1220,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 405100001,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 405100001,
+        "dest_outside_radius_online": 200,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
     "1301": {
       "id": 1301,
-      "editor_name": "A2银行总部1楼保底复活点",
       "resurrection_group": 1,
       "scene_res_id": 10039,
       "teleport_actor_types": [
@@ -8358,7 +8888,6 @@
     },
     "1302": {
       "id": 1302,
-      "editor_name": "A2银行总部2楼保底复活点",
       "resurrection_group": 1,
       "scene_res_id": 10047,
       "teleport_actor_types": [
@@ -8381,7 +8910,6 @@
     },
     "1303": {
       "id": 1303,
-      "editor_name": "A2侦探社拾遗-旅店保底复活点",
       "resurrection_group": 1,
       "scene_res_id": 10040,
       "teleport_actor_types": [
@@ -8404,7 +8932,6 @@
     },
     "1304": {
       "id": 1304,
-      "editor_name": "A2秘密基地保底复活点",
       "resurrection_group": 1,
       "scene_res_id": 10041,
       "teleport_actor_types": [
@@ -8427,7 +8954,6 @@
     },
     "1305": {
       "id": 1305,
-      "editor_name": "A2-通用王国城堡民居室内--贵族保底复活点",
       "resurrection_group": 1,
       "scene_res_id": 10042,
       "teleport_actor_types": [
@@ -8450,7 +8976,6 @@
     },
     "1306": {
       "id": 1306,
-      "editor_name": "A2-通用王国城堡餐厅室内--高档保底复活点",
       "resurrection_group": 1,
       "scene_res_id": 10043,
       "teleport_actor_types": [
@@ -8473,7 +8998,6 @@
     },
     "1307": {
       "id": 1307,
-      "editor_name": "A2-通用王国城堡民居室内--平民保底复活点",
       "resurrection_group": 1,
       "scene_res_id": 10044,
       "teleport_actor_types": [
@@ -8496,7 +9020,6 @@
     },
     "1308": {
       "id": 1308,
-      "editor_name": "A2-通用王国城堡餐厅室内--普通保底复活点",
       "resurrection_group": 1,
       "scene_res_id": 10045,
       "teleport_actor_types": [
@@ -8519,7 +9042,6 @@
     },
     "1309": {
       "id": 1309,
-      "editor_name": "A2-彼得大道通用书店室内保底复活点",
       "resurrection_group": 1,
       "scene_res_id": 10046,
       "teleport_actor_types": [
@@ -8542,7 +9064,6 @@
     },
     "1310": {
       "id": 1310,
-      "editor_name": "A2-王国城堡室内保底复活点",
       "resurrection_group": 1,
       "scene_res_id": 10038,
       "teleport_actor_types": [
@@ -8563,9 +9084,30 @@
         "deviation_online": 300
       }
     },
+    "1311": {
+      "id": 1311,
+      "resurrection_group": 1,
+      "scene_res_id": 10058,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 521039989,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 521039989,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
     "1401": {
       "id": 1401,
-      "editor_name": "走钢丝-STG1复活点",
       "teleport_actor_types": [
         2
       ],
@@ -8586,7 +9128,6 @@
     },
     "1402": {
       "id": 1402,
-      "editor_name": "走钢丝-STG2复活点",
       "teleport_actor_types": [
         2
       ],
@@ -8607,7 +9148,6 @@
     },
     "1403": {
       "id": 1403,
-      "editor_name": "走钢丝-STG3复活点",
       "teleport_actor_types": [
         2
       ],
@@ -8628,7 +9168,6 @@
     },
     "1404": {
       "id": 1404,
-      "editor_name": "走钢丝-STG4复活点",
       "teleport_actor_types": [
         2
       ],
@@ -8649,7 +9188,6 @@
     },
     "1405": {
       "id": 1405,
-      "editor_name": "电力恢复-STG1复活点",
       "teleport_actor_types": [
         2
       ],
@@ -8670,7 +9208,6 @@
     },
     "1406": {
       "id": 1406,
-      "editor_name": "电力恢复-STG2复活点",
       "teleport_actor_types": [
         2
       ],
@@ -8691,7 +9228,6 @@
     },
     "1407": {
       "id": 1407,
-      "editor_name": "雪花-传送点",
       "teleport_actor_types": [
         2
       ],
@@ -8712,7 +9248,6 @@
     },
     "1408": {
       "id": 1408,
-      "editor_name": "走钢丝-STG5复活点",
       "teleport_actor_types": [
         2
       ],
@@ -8733,7 +9268,6 @@
     },
     "1409": {
       "id": 1409,
-      "editor_name": "走钢丝-STG6复活点",
       "teleport_actor_types": [
         2
       ],
@@ -8754,7 +9288,6 @@
     },
     "1410": {
       "id": 1410,
-      "editor_name": "走钢丝-STG7复活点",
       "teleport_actor_types": [
         2
       ],
@@ -8773,9 +9306,456 @@
         "deviation_online": 300
       }
     },
+    "1500": {
+      "id": 1500,
+      "resurrection_group": 1,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 541030588,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 541030588,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "1501": {
+      "id": 1501,
+      "resurrection_group": 1,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 541030589,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 541030589,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "1502": {
+      "id": 1502,
+      "resurrection_group": 1,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 541030590,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 541030590,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "1503": {
+      "id": 1503,
+      "resurrection_group": 1,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 541030595,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 541030595,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "1504": {
+      "id": 1504,
+      "resurrection_group": 1,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 541030591,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 541030591,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "1505": {
+      "id": 1505,
+      "resurrection_group": 1,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 541030592,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 541030592,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "1506": {
+      "id": 1506,
+      "resurrection_group": 1,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 541030593,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 541030593,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "1507": {
+      "id": 1507,
+      "resurrection_group": 1,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 541030594,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 541030594,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "1508": {
+      "id": 1508,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 541030596,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 541030596,
+        "dest_outside_radius_online": 400,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "1509": {
+      "id": 1509,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 541030597,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 541030597,
+        "dest_outside_radius_online": 400,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "1510": {
+      "id": 1510,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 541030598,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 541030598,
+        "dest_outside_radius_online": 400,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "1511": {
+      "id": 1511,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 541030600,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 541030600,
+        "dest_outside_radius_online": 400,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "1512": {
+      "id": 1512,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 541030699,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 541030699,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "1513": {
+      "id": 1513,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 641030032,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 641030032,
+        "dest_outside_radius_online": 200,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "1514": {
+      "id": 1514,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 641030028,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 641030028,
+        "dest_outside_radius_online": 200,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "1515": {
+      "id": 1515,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 541030700,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 541030700,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "1516": {
+      "id": 1516,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 551030307,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 551030307,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "1517": {
+      "id": 1517,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 551030306,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 551030306,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "1518": {
+      "id": 1518,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 551030305,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 551030305,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "1519": {
+      "id": 1519,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 551030304,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 551030304,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "1520": {
+      "id": 1520,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 551030308,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 551030308,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "1521": {
+      "id": 1521,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 551030303,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 551030303,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
     "1522": {
       "id": 1522,
-      "editor_name": "S1赛季大厅-保底复活点",
       "resurrection_group": 1,
       "scene_res_id": 50001,
       "teleport_actor_types": [
@@ -8798,7 +9778,6 @@
     },
     "1523": {
       "id": 1523,
-      "editor_name": "S2赛季大厅-保底复活点",
       "resurrection_group": 1,
       "scene_res_id": 50002,
       "teleport_actor_types": [
@@ -8815,6 +9794,688 @@
       "teleport_dest_online": {
         "dest_area_id_online": 641030020,
         "dest_outside_radius_online": 200,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "1524": {
+      "id": 1524,
+      "resurrection_group": 1,
+      "scene_res_id": 50003,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 641030028,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 641030028,
+        "dest_outside_radius_online": 200,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "1525": {
+      "id": 1525,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 551030309,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 551030309,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "1526": {
+      "id": 1526,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 551030311,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 551030311,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "1527": {
+      "id": 1527,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 451030169,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 451030169,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "1528": {
+      "id": 1528,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 451030170,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 451030170,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "1529": {
+      "id": 1529,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 451030171,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 451030171,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "1530": {
+      "id": 1530,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 451030172,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 451030172,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "1531": {
+      "id": 1531,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 451030173,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 451030173,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "1532": {
+      "id": 1532,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 451030174,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 451030174,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "1533": {
+      "id": 1533,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 451030175,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 451030175,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "1534": {
+      "id": 1534,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 451030176,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 451030176,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "1535": {
+      "id": 1535,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 451030177,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 451030177,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "1536": {
+      "id": 1536,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 451030178,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 451030178,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "1537": {
+      "id": 1537,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 451030180,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 451030180,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "1538": {
+      "id": 1538,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 451030179,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 451030179,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "1539": {
+      "id": 1539,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 451030181,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 451030181,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "1540": {
+      "id": 1540,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 451030184,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 451030184,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "1570": {
+      "id": 1570,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 261038051,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 261038051,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "1601": {
+      "id": 1601,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 261036571,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 261036571,
+        "dest_outside_radius_online": 200,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "1602": {
+      "id": 1602,
+      "resurrection_group": 1,
+      "scene_res_id": 10051,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 161030551,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 161030551,
+        "dest_outside_radius_online": 200,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "1603": {
+      "id": 1603,
+      "resurrection_group": 1,
+      "scene_res_id": 10052,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 161030556,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 161030556,
+        "dest_outside_radius_online": 200,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "1604": {
+      "id": 1604,
+      "resurrection_group": 1,
+      "scene_res_id": 10053,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 161030559,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 161030559,
+        "dest_outside_radius_online": 200,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "1605": {
+      "id": 1605,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 541031356,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 541031356,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "1606": {
+      "id": 1606,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 541031357,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 541031357,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "1607": {
+      "id": 1607,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 541031358,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 541031358,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "1608": {
+      "id": 1608,
+      "resurrection_group": 1,
+      "scene_res_id": 10049,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 591030825,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 591030825,
+        "dest_outside_radius_online": 800,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "1612": {
+      "id": 1612,
+      "resurrection_group": 1,
+      "scene_res_id": 10059,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 291030301,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 291030301,
+        "dest_outside_radius_online": 200,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "1613": {
+      "id": 1613,
+      "resurrection_group": 1,
+      "scene_res_id": 10050,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 201031638,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 201031638,
+        "dest_outside_radius_online": 200,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "1614": {
+      "id": 1614,
+      "resurrection_group": 1,
+      "scene_res_id": 10048,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 201031639,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 201031639,
+        "dest_outside_radius_online": 200,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "1615": {
+      "id": 1615,
+      "resurrection_group": 1,
+      "scene_res_id": 10056,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 201031640,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 201031640,
+        "dest_outside_radius_online": 200,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "1616": {
+      "id": 1616,
+      "resurrection_group": 1,
+      "scene_res_id": 10054,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 201031641,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 201031641,
+        "dest_outside_radius_online": 200,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "1617": {
+      "id": 1617,
+      "resurrection_group": 1,
+      "scene_res_id": 10060,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 201031642,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 201031642,
+        "dest_outside_radius_online": 200,
+        "dest_inside_radius_online": 100,
+        "deviation_online": 300
+      }
+    },
+    "1618": {
+      "id": 1618,
+      "teleport_actor_types": [
+        2
+      ],
+      "teleport_begin_point_type": 1,
+      "teleport_dest_type": 1,
+      "teleport_dest": [
+        {
+          "dest_id": 101036932,
+          "dest_weight": 100
+        }
+      ],
+      "teleport_dest_online": {
+        "dest_area_id_online": 101036932,
+        "dest_outside_radius_online": 800,
         "dest_inside_radius_online": 100,
         "deviation_online": 300
       }

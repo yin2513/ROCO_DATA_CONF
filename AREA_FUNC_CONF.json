@@ -2209,7 +2209,7 @@
       "name_priority": 10,
       "battle_source": "L_Demo03_Combat",
       "bgm_id": 9021,
-      "bgm_area_state": "Area_A2;BeiFeng_Valley",
+      "bgm_area_state": "Area_A2;DuJiaoShou_Territory",
       "switch_group_name": "World_Time",
       "area_bgm": [
         {
@@ -2298,6 +2298,142 @@
       ],
       "bgm_priority": 3,
       "amb_switch_priority": 1,
+      "scene_effect": [
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "101021": {
+      "id": 101021,
+      "belong_cave": [
+        "Cave_A22_01_03"
+      ],
+      "name_priority": 1,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9021,
+      "bgm_area_state": "Area_Other;Dungeon_Snow",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 5,
+      "amb_switch": "General_Cave",
+      "amb_switch_priority": 3,
+      "scene_effect": [
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "101022": {
+      "id": 101022,
+      "belong_cave": [
+        "Cave_A22_01_02"
+      ],
+      "name_priority": 1,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9021,
+      "bgm_area_state": "Area_A2_2;Forest_Cave",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 5,
+      "amb_switch": "Forest_Cave",
+      "amb_switch_priority": 3,
+      "scene_effect": [
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "101023": {
+      "id": 101023,
+      "belong_cave": [
+        "Cave_A22_01_01"
+      ],
+      "name_priority": 1,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9021,
+      "bgm_area_state": "Area_A2_2;Fire_Cave",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 5,
+      "amb_switch": "Fire_Cave",
+      "amb_switch_priority": 3,
+      "scene_effect": [
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "101024": {
+      "id": 101024,
+      "belong_cave": [
+        "Cave_A22_01_04"
+      ],
+      "name_priority": 1,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9021,
+      "bgm_area_state": "Area_A2_2;Ice_Cave",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 5,
+      "amb_switch": "Ice_Cave",
+      "amb_switch_priority": 3,
       "scene_effect": [
         {}
       ],
@@ -3272,14 +3408,13 @@
       "amb_switch": "Amb_DiGong",
       "amb_switch_priority": 2,
       "scene_effect": [
-        {},
         {
-          "effect_type": 2048,
-          "effect_param1": 15
+          "effect_type": 32768,
+          "effect_param2": 100
         },
         {
           "effect_type": 16,
-          "effect_param1": -50
+          "effect_param1": -35
         }
       ],
       "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
@@ -3399,7 +3534,10 @@
       "amb_switch": "Amb_DiGong",
       "amb_switch_priority": 2,
       "scene_effect": [
-        {},
+        {
+          "effect_type": 32768,
+          "effect_param2": 100
+        },
         {
           "effect_type": 16,
           "effect_param1": -50
@@ -4991,6 +5129,751 @@
       ],
       "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
     },
+    "601004": {
+      "id": 601004,
+      "area_id": [
+        552540024
+      ],
+      "name": "- 火巨人的守护地 -",
+      "broadcast_type": 2,
+      "world_map_name_scale": 210155,
+      "name_priority": 3,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9024,
+      "bgm_area_state": "Area_A2_2;Fire_Cave",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 3,
+      "amb_switch": "Amb_DiGong",
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {},
+        {
+          "effect_type": 16,
+          "effect_param1": 80
+        }
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "601005": {
+      "id": 601005,
+      "area_id": [
+        552550015
+      ],
+      "name": "- 森巨人的守护地 -",
+      "broadcast_type": 2,
+      "world_map_name_scale": 210156,
+      "name_priority": 3,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9024,
+      "bgm_area_state": "Area_A2_2;Forest_Cave",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 3,
+      "amb_switch": "Amb_DiGong",
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "601006": {
+      "id": 601006,
+      "area_id": [
+        552560013
+      ],
+      "name": "- 碎晶蝎的守护地 -",
+      "broadcast_type": 2,
+      "world_map_name_scale": 210157,
+      "name_priority": 3,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9024,
+      "bgm_area_state": "Area_Other;Dungeon_mystery",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 3,
+      "amb_switch": "Amb_DiGong",
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "601007": {
+      "id": 601007,
+      "area_id": [
+        552620001
+      ],
+      "name": "- 雪巨人的守护地 -",
+      "broadcast_type": 2,
+      "world_map_name_scale": 210163,
+      "name_priority": 3,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9024,
+      "bgm_area_state": "Area_Other;Dungeon_mystery",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 3,
+      "amb_switch": "Amb_DiGong",
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "601008": {
+      "id": 601008,
+      "area_id": [
+        552570005
+      ],
+      "name": "- 芽眼魔的守护地 -",
+      "broadcast_type": 2,
+      "world_map_name_scale": 210158,
+      "name_priority": 3,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9024,
+      "bgm_area_state": "Area_A2_2;Weilian_Castle",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 3,
+      "amb_switch": "Amb_DiGong",
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "601009": {
+      "id": 601009,
+      "area_id": [
+        552630003
+      ],
+      "name": "- 芽眼魔的守护地 -",
+      "broadcast_type": 2,
+      "world_map_name_scale": 210164,
+      "name_priority": 3,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9024,
+      "bgm_area_state": "Area_A2_2;Weilian_Castle",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 3,
+      "amb_switch": "Amb_DiGong",
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "601010": {
+      "id": 601010,
+      "area_id": [
+        552640003
+      ],
+      "name": "- 芽眼魔的守护地 -",
+      "broadcast_type": 2,
+      "world_map_name_scale": 210165,
+      "name_priority": 3,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9024,
+      "bgm_area_state": "Area_A2_2;Weilian_Castle",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 3,
+      "amb_switch": "Amb_DiGong",
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "601011": {
+      "id": 601011,
+      "area_id": [
+        552650003
+      ],
+      "name": "- 芽眼魔的守护地 -",
+      "broadcast_type": 2,
+      "world_map_name_scale": 210166,
+      "name_priority": 3,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9024,
+      "bgm_area_state": "Area_A2_2;Weilian_Castle",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 3,
+      "amb_switch": "Amb_DiGong",
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "601012": {
+      "id": 601012,
+      "area_id": [
+        552660003
+      ],
+      "name": "- 芽眼魔的守护地 -",
+      "broadcast_type": 2,
+      "world_map_name_scale": 210167,
+      "name_priority": 3,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9024,
+      "bgm_area_state": "Area_A2_2;Weilian_Castle",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 3,
+      "amb_switch": "Amb_DiGong",
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "601013": {
+      "id": 601013,
+      "area_id": [
+        552670003
+      ],
+      "name": "- 芽眼魔的守护地 -",
+      "broadcast_type": 2,
+      "world_map_name_scale": 210168,
+      "name_priority": 3,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9024,
+      "bgm_area_state": "Area_A2_2;Weilian_Castle",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 3,
+      "amb_switch": "Amb_DiGong",
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "601014": {
+      "id": 601014,
+      "area_id": [
+        552680003
+      ],
+      "name": "- 芽眼魔的守护地 -",
+      "broadcast_type": 2,
+      "world_map_name_scale": 210169,
+      "name_priority": 3,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9024,
+      "bgm_area_state": "Area_A2_2;Weilian_Castle",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 3,
+      "amb_switch": "Amb_DiGong",
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "601015": {
+      "id": 601015,
+      "area_id": [
+        552690003
+      ],
+      "name": "- 芽眼魔的守护地 -",
+      "broadcast_type": 2,
+      "world_map_name_scale": 210170,
+      "name_priority": 3,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9024,
+      "bgm_area_state": "Area_A2_2;Weilian_Castle",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 3,
+      "amb_switch": "Amb_DiGong",
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "601016": {
+      "id": 601016,
+      "area_id": [
+        552700003
+      ],
+      "name": "- 芽眼魔的守护地 -",
+      "broadcast_type": 2,
+      "world_map_name_scale": 210171,
+      "name_priority": 3,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9024,
+      "bgm_area_state": "Area_A2_2;Weilian_Castle",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 3,
+      "amb_switch": "Amb_DiGong",
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "601017": {
+      "id": 601017,
+      "area_id": [
+        552710003
+      ],
+      "name": "- 芽眼魔的守护地 -",
+      "broadcast_type": 2,
+      "world_map_name_scale": 210172,
+      "name_priority": 3,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9024,
+      "bgm_area_state": "Area_A2_2;Weilian_Castle",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 3,
+      "amb_switch": "Amb_DiGong",
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "601018": {
+      "id": 601018,
+      "area_id": [
+        552720003
+      ],
+      "name": "- 芽眼魔的守护地 -",
+      "broadcast_type": 2,
+      "world_map_name_scale": 210173,
+      "name_priority": 3,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9024,
+      "bgm_area_state": "Area_A2_2;Weilian_Castle",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 3,
+      "amb_switch": "Amb_DiGong",
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "601019": {
+      "id": 601019,
+      "area_id": [
+        552580010
+      ],
+      "name": "- 不咕钟的守护地 -",
+      "broadcast_type": 2,
+      "world_map_name_scale": 210159,
+      "name_priority": 3,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9024,
+      "bgm_area_state": "Area_Other;Dungeon_mystery",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 3,
+      "amb_switch": "Amb_DiGong",
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "601020": {
+      "id": 601020,
+      "area_id": [
+        552590010
+      ],
+      "name": "- 不咕钟的守护地 -",
+      "broadcast_type": 2,
+      "world_map_name_scale": 210160,
+      "name_priority": 3,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9024,
+      "bgm_area_state": "Area_Other;Dungeon_mystery",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 3,
+      "amb_switch": "Amb_DiGong",
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "601021": {
+      "id": 601021,
+      "area_id": [
+        552600010
+      ],
+      "name": "- 不咕钟的守护地 -",
+      "broadcast_type": 2,
+      "world_map_name_scale": 210161,
+      "name_priority": 3,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9024,
+      "bgm_area_state": "Area_Other;Dungeon_mystery",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 3,
+      "amb_switch": "Amb_DiGong",
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "601022": {
+      "id": 601022,
+      "area_id": [
+        552610010
+      ],
+      "name": "- 不咕钟的守护地 -",
+      "broadcast_type": 2,
+      "world_map_name_scale": 210162,
+      "name_priority": 3,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9024,
+      "bgm_area_state": "Area_Other;Dungeon_mystery",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 3,
+      "amb_switch": "Amb_DiGong",
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "601023": {
+      "id": 601023,
+      "area_id": [
+        552730080,
+        552730081,
+        552730082,
+        552730083
+      ],
+      "name_priority": 9,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9021,
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 1,
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {
+          "effect_type": 16,
+          "effect_param1": 125
+        }
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_LavaPlatform01.BP_LavaPlatform01_C'"
+    },
     "700101": {
       "id": 700101,
       "area_id": [
@@ -5025,7 +5908,10 @@
       "amb_switch_priority": 2,
       "scene_effect": [
         {},
-        {}
+        {
+          "effect_type": 32768,
+          "effect_param2": 100
+        }
       ],
       "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
     },
@@ -5063,7 +5949,10 @@
       "amb_switch_priority": 2,
       "scene_effect": [
         {},
-        {}
+        {
+          "effect_type": 32768,
+          "effect_param2": 100
+        }
       ],
       "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
     },
@@ -5101,7 +5990,10 @@
       "amb_switch_priority": 2,
       "scene_effect": [
         {},
-        {}
+        {
+          "effect_type": 32768,
+          "effect_param2": 100
+        }
       ],
       "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
     },
@@ -5138,7 +6030,10 @@
       "amb_switch_priority": 2,
       "scene_effect": [
         {},
-        {}
+        {
+          "effect_type": 32768,
+          "effect_param2": 100
+        }
       ],
       "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
     },
@@ -5175,7 +6070,10 @@
       "amb_switch_priority": 2,
       "scene_effect": [
         {},
-        {}
+        {
+          "effect_type": 32768,
+          "effect_param2": 100
+        }
       ],
       "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
     },
@@ -5213,7 +6111,10 @@
       "amb_switch_priority": 2,
       "scene_effect": [
         {},
-        {}
+        {
+          "effect_type": 32768,
+          "effect_param2": 100
+        }
       ],
       "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
     },
@@ -5251,7 +6152,10 @@
       "amb_switch_priority": 2,
       "scene_effect": [
         {},
-        {}
+        {
+          "effect_type": 32768,
+          "effect_param2": 100
+        }
       ],
       "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
     },
@@ -5289,7 +6193,10 @@
       "amb_switch_priority": 2,
       "scene_effect": [
         {},
-        {}
+        {
+          "effect_type": 32768,
+          "effect_param2": 100
+        }
       ],
       "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
     },
@@ -5327,7 +6234,10 @@
       "amb_switch_priority": 2,
       "scene_effect": [
         {},
-        {}
+        {
+          "effect_type": 32768,
+          "effect_param2": 100
+        }
       ],
       "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
     },
@@ -5365,7 +6275,10 @@
       "amb_switch_priority": 2,
       "scene_effect": [
         {},
-        {}
+        {
+          "effect_type": 32768,
+          "effect_param2": 100
+        }
       ],
       "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
     },
@@ -5403,7 +6316,10 @@
       "amb_switch_priority": 2,
       "scene_effect": [
         {},
-        {}
+        {
+          "effect_type": 32768,
+          "effect_param2": 100
+        }
       ],
       "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
     },
@@ -5441,7 +6357,10 @@
       "amb_switch_priority": 2,
       "scene_effect": [
         {},
-        {}
+        {
+          "effect_type": 32768,
+          "effect_param2": 100
+        }
       ],
       "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
     },
@@ -5479,7 +6398,10 @@
       "amb_switch_priority": 2,
       "scene_effect": [
         {},
-        {}
+        {
+          "effect_type": 32768,
+          "effect_param2": 100
+        }
       ],
       "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
     },
@@ -5516,7 +6438,10 @@
       "amb_switch_priority": 2,
       "scene_effect": [
         {},
-        {}
+        {
+          "effect_type": 32768,
+          "effect_param2": 100
+        }
       ],
       "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
     },
@@ -6317,7 +7242,10 @@
       "amb_switch_priority": 2,
       "scene_effect": [
         {},
-        {}
+        {
+          "effect_type": 32768,
+          "effect_param2": 100
+        }
       ],
       "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
     },
@@ -6355,7 +7283,10 @@
       "amb_switch_priority": 2,
       "scene_effect": [
         {},
-        {}
+        {
+          "effect_type": 32768,
+          "effect_param2": 100
+        }
       ],
       "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
     },
@@ -6393,7 +7324,10 @@
       "amb_switch_priority": 2,
       "scene_effect": [
         {},
-        {}
+        {
+          "effect_type": 32768,
+          "effect_param2": 100
+        }
       ],
       "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
     },
@@ -6431,7 +7365,10 @@
       "amb_switch_priority": 2,
       "scene_effect": [
         {},
-        {}
+        {
+          "effect_type": 32768,
+          "effect_param2": 100
+        }
       ],
       "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
     },
@@ -6469,7 +7406,10 @@
       "amb_switch_priority": 2,
       "scene_effect": [
         {},
-        {}
+        {
+          "effect_type": 32768,
+          "effect_param2": 100
+        }
       ],
       "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
     },
@@ -6507,7 +7447,10 @@
       "amb_switch_priority": 2,
       "scene_effect": [
         {},
-        {}
+        {
+          "effect_type": 32768,
+          "effect_param2": 100
+        }
       ],
       "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
     },
@@ -6545,7 +7488,10 @@
       "amb_switch_priority": 2,
       "scene_effect": [
         {},
-        {}
+        {
+          "effect_type": 32768,
+          "effect_param2": 100
+        }
       ],
       "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
     },
@@ -6555,7 +7501,6 @@
         101034580
       ],
       "name": "- 月兔暗港 -",
-      "broadcast_type": 1,
       "world_map_name_scale": 2,
       "name_priority": 7,
       "battle_source": "L_Demo03_Combat",
@@ -6583,7 +7528,10 @@
       "amb_switch_priority": 2,
       "scene_effect": [
         {},
-        {}
+        {
+          "effect_type": 32768,
+          "effect_param2": 100
+        }
       ],
       "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
     },
@@ -6621,7 +7569,10 @@
       "amb_switch_priority": 2,
       "scene_effect": [
         {},
-        {}
+        {
+          "effect_type": 32768,
+          "effect_param2": 100
+        }
       ],
       "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
     },
@@ -6659,7 +7610,10 @@
       "amb_switch_priority": 2,
       "scene_effect": [
         {},
-        {}
+        {
+          "effect_type": 32768,
+          "effect_param2": 100
+        }
       ],
       "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
     },
@@ -6697,7 +7651,10 @@
       "amb_switch_priority": 2,
       "scene_effect": [
         {},
-        {}
+        {
+          "effect_type": 32768,
+          "effect_param2": 100
+        }
       ],
       "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
     },
@@ -6734,11 +7691,11 @@
       "amb_switch": "JiaoHui_Town",
       "amb_switch_priority": 2,
       "scene_effect": [
+        {},
         {
-          "effect_type": 8,
-          "effect_param1": 35
-        },
-        {}
+          "effect_type": 32768,
+          "effect_param2": 100
+        }
       ],
       "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
     },
@@ -6775,11 +7732,11 @@
       "amb_switch": "QianCao_Shoal",
       "amb_switch_priority": 2,
       "scene_effect": [
+        {},
         {
-          "effect_type": 8,
-          "effect_param1": 35
-        },
-        {}
+          "effect_type": 32768,
+          "effect_param2": 100
+        }
       ],
       "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
     },
@@ -6816,11 +7773,11 @@
       "amb_switch": "YinYue_Bay",
       "amb_switch_priority": 2,
       "scene_effect": [
+        {},
         {
-          "effect_type": 8,
-          "effect_param1": 35
-        },
-        {}
+          "effect_type": 32768,
+          "effect_param2": 100
+        }
       ],
       "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
     },
@@ -6858,7 +7815,10 @@
       "amb_switch_priority": 2,
       "scene_effect": [
         {},
-        {}
+        {
+          "effect_type": 32768,
+          "effect_param2": 100
+        }
       ],
       "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
     },
@@ -6931,7 +7891,10 @@
       "amb_switch_priority": 2,
       "scene_effect": [
         {},
-        {}
+        {
+          "effect_type": 32768,
+          "effect_param2": 100
+        }
       ],
       "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
     },
@@ -6969,7 +7932,10 @@
       "amb_switch_priority": 2,
       "scene_effect": [
         {},
-        {}
+        {
+          "effect_type": 32768,
+          "effect_param2": 100
+        }
       ],
       "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
     },
@@ -7007,7 +7973,10 @@
       "amb_switch_priority": 2,
       "scene_effect": [
         {},
-        {}
+        {
+          "effect_type": 32768,
+          "effect_param2": 100
+        }
       ],
       "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
     },
@@ -7045,7 +8014,10 @@
       "amb_switch_priority": 2,
       "scene_effect": [
         {},
-        {}
+        {
+          "effect_type": 32768,
+          "effect_param2": 100
+        }
       ],
       "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
     },
@@ -7083,7 +8055,10 @@
       "amb_switch_priority": 2,
       "scene_effect": [
         {},
-        {}
+        {
+          "effect_type": 32768,
+          "effect_param2": 100
+        }
       ],
       "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
     },
@@ -7121,7 +8096,10 @@
       "amb_switch_priority": 2,
       "scene_effect": [
         {},
-        {}
+        {
+          "effect_type": 32768,
+          "effect_param2": 100
+        }
       ],
       "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
     },
@@ -8563,6 +9541,395 @@
       ],
       "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
     },
+    "700368": {
+      "id": 700368,
+      "area_id": [
+        521039990
+      ],
+      "name_priority": 1,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9021,
+      "bgm_area_state": "Area_Other;Weilian_Castle_Indoor",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 6,
+      "scene_effect": [
+        {
+          "effect_type": 128
+        },
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "700369": {
+      "id": 700369,
+      "area_id": [
+        291030300
+      ],
+      "name_priority": 1,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9021,
+      "bgm_area_state": "Area_Other;Seasons_S3_Lobby",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 6,
+      "scene_effect": [
+        {
+          "effect_type": 128
+        },
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "700400": {
+      "id": 700400,
+      "area_id": [
+        671030530
+      ],
+      "name": "- 结晶森林 -",
+      "broadcast_type": 1,
+      "world_map_name_scale": 2,
+      "name_priority": 6,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9021,
+      "bgm_area_state": "Area_A2_2;Jiejing_Forest",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 4,
+      "amb_switch": "Jiejing_Forest",
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {},
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "700401": {
+      "id": 700401,
+      "area_id": [
+        671030517
+      ],
+      "name": "- 巨人裂谷北部 -",
+      "broadcast_type": 1,
+      "world_map_name_scale": 2,
+      "name_priority": 6,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9021,
+      "bgm_area_state": "Area_A2_2;Juren_Vally_North",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 4,
+      "amb_switch": "Juren_Vally_North",
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {},
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "700402": {
+      "id": 700402,
+      "area_id": [
+        671030516
+      ],
+      "name": "- 巨人裂谷南部 -",
+      "broadcast_type": 1,
+      "world_map_name_scale": 2,
+      "name_priority": 6,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9021,
+      "bgm_area_state": "Area_A2_2;Juren_Vally_South",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 4,
+      "amb_switch": "Juren_Vally_South",
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {},
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "700403": {
+      "id": 700403,
+      "area_id": [
+        671030524
+      ],
+      "name": "- 威廉古堡 -",
+      "broadcast_type": 1,
+      "world_map_name_scale": 2,
+      "name_priority": 6,
+      "second_name_text": "永夜的笼罩下，精灵的能量在悄然流逝……",
+      "second_name_background_umg": "UMG_EternalNightTips",
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9021,
+      "bgm_area_state": "Area_A2_2;Weilian_Castle",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 4,
+      "amb_switch": "Weilian_Castle",
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {
+          "effect_type": 16384,
+          "effect_param1": 99
+        },
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "700404": {
+      "id": 700404,
+      "area_id": [
+        671030532
+      ],
+      "name": "- 迷雾之森 -",
+      "broadcast_type": 1,
+      "world_map_name_scale": 2,
+      "name_priority": 6,
+      "second_name_text": "永夜的笼罩下，精灵的能量在悄然流逝……",
+      "second_name_background_umg": "UMG_EternalNightTips",
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9021,
+      "bgm_area_state": "Area_A2_2;Miwu_Forest",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 4,
+      "amb_switch": "Miwu_Forest",
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {
+          "effect_type": 16384,
+          "effect_param1": 99
+        },
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "700405": {
+      "id": 700405,
+      "area_id": [
+        671030535
+      ],
+      "name": "- 淘晶镇 -",
+      "broadcast_type": 1,
+      "world_map_name_scale": 2,
+      "name_priority": 6,
+      "second_name_text": "永夜的笼罩下，精灵的能量在悄然流逝……",
+      "second_name_background_umg": "UMG_EternalNightTips",
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9021,
+      "bgm_area_state": "Area_A2_2;Taojing_Town",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 4,
+      "amb_switch": "Taojing_Town",
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {
+          "effect_type": 16384,
+          "effect_param1": 99
+        },
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "700406": {
+      "id": 700406,
+      "area_id": [
+        671030534
+      ],
+      "name": "- 金水河谷 -",
+      "broadcast_type": 1,
+      "world_map_name_scale": 2,
+      "name_priority": 6,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9021,
+      "bgm_area_state": "Area_A2;JinYe_Field",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 4,
+      "amb_switch": "JinYe_Field",
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {},
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "700407": {
+      "id": 700407,
+      "area_id": [
+        671030518
+      ],
+      "name": "- 仪式镇 -",
+      "broadcast_type": 1,
+      "world_map_name_scale": 2,
+      "name_priority": 6,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9021,
+      "bgm_area_state": "Area_A2_2;Yishi_Town",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 4,
+      "amb_switch": "Yishi_Town",
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {},
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
     "700500": {
       "id": 700500,
       "area_id": [
@@ -8594,11 +9961,11 @@
       ],
       "bgm_priority": 5,
       "scene_effect": [
+        {},
         {
-          "effect_type": 8,
-          "effect_param1": 50
-        },
-        {}
+          "effect_type": 32768,
+          "effect_param2": 100
+        }
       ],
       "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
     },
@@ -10341,9 +11708,975 @@
       ],
       "bgm_priority": 5,
       "scene_effect": [
+        {},
         {
-          "effect_type": 8,
-          "effect_param1": 50
+          "effect_type": 32768,
+          "effect_param2": 100
+        }
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "700549": {
+      "id": 700549,
+      "area_id": [
+        541030601
+      ],
+      "name": "- 美愿树的萌芽 -",
+      "broadcast_type": 1,
+      "name_priority": 7,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9021,
+      "bgm_area_state": "Area_A2_2;Jiejing_Forest",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 4,
+      "amb_switch": "Jiejing_Forest",
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "700550": {
+      "id": 700550,
+      "area_id": [
+        541030602
+      ],
+      "name": "- 仪式镇中心 -",
+      "broadcast_type": 1,
+      "name_priority": 7,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9021,
+      "bgm_area_state": "Area_A2_2;Yishi_Town",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 4,
+      "amb_switch": "Yishi_Town",
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "700551": {
+      "id": 700551,
+      "area_id": [
+        541030603
+      ],
+      "name": "- 巨人王座 -",
+      "broadcast_type": 1,
+      "name_priority": 7,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9021,
+      "bgm_area_state": "Area_A2_2;Juren_Vally_South",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 4,
+      "amb_switch": "Juren_Vally_South",
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "700552": {
+      "id": 700552,
+      "area_id": [
+        541030604
+      ],
+      "name": "- 漆黑沼泽 -",
+      "broadcast_type": 1,
+      "name_priority": 7,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9021,
+      "bgm_area_state": "Area_A2_2;Weilian_Castle",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 4,
+      "amb_switch": "Weilian_Castle",
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "700553": {
+      "id": 700553,
+      "area_id": [
+        541030605
+      ],
+      "name": "- 威廉古堡入口 -",
+      "broadcast_type": 1,
+      "name_priority": 7,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9021,
+      "bgm_area_state": "Area_A2_2;Weilian_Castle",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 4,
+      "amb_switch": "Weilian_Castle",
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "700554": {
+      "id": 700554,
+      "area_id": [
+        541030606
+      ],
+      "name": "- 双生暗影 -",
+      "broadcast_type": 1,
+      "name_priority": 7,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9021,
+      "bgm_area_state": "Area_A2_2;Miwu_Forest",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 4,
+      "amb_switch": "Miwu_Forest",
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "700555": {
+      "id": 700555,
+      "area_id": [
+        541030607
+      ],
+      "name": "- 淘晶镇中心 -",
+      "broadcast_type": 1,
+      "name_priority": 7,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9021,
+      "bgm_area_state": "Area_A2_2;Taojing_Town",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 4,
+      "amb_switch": "Taojing_Town",
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "700556": {
+      "id": 700556,
+      "area_id": [
+        541030620,
+        791030161,
+        541030651,
+        541030652,
+        541030653,
+        541030654,
+        541030655,
+        541030656,
+        601031194
+      ],
+      "belong_cave": [
+        "Cave_A22_01_03"
+      ],
+      "name": "- 光王祭坛 -",
+      "broadcast_type": 1,
+      "name_priority": 7,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9021,
+      "bgm_area_state": "Area_A2_2;Yishi_Town",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 4,
+      "amb_switch": "Juren_Vally_North",
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "700557": {
+      "id": 700557,
+      "area_id": [
+        541030622,
+        541030625,
+        791030145,
+        791030144,
+        541030976,
+        791030189
+      ],
+      "belong_cave": [
+        "Cave_A22_01_01"
+      ],
+      "name": "- 火巨人洞窟第一层 -",
+      "broadcast_type": 1,
+      "name_priority": 8,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9021,
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 1,
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "700558": {
+      "id": 700558,
+      "area_id": [
+        791030130,
+        791030173,
+        791030174,
+        541030970,
+        791030190
+      ],
+      "belong_cave": [
+        "Cave_A22_01_04"
+      ],
+      "name": "- 雪巨人洞窟 -",
+      "broadcast_type": 1,
+      "name_priority": 9,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9021,
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 1,
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {
+          "effect_type": 16,
+          "effect_param1": -45
+        },
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "700559": {
+      "id": 700559,
+      "area_id": [
+        791030060,
+        791030061,
+        791030062
+      ],
+      "name_priority": 8,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9021,
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 1,
+      "amb_switch_priority": 1,
+      "scene_effect": [
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "700560": {
+      "id": 700560,
+      "area_id": [
+        791030059,
+        791030056,
+        791030058
+      ],
+      "belong_cave": [
+        "Cave_A22_01_02"
+      ],
+      "name": "- 森巨人洞窟第一层 -",
+      "broadcast_type": 1,
+      "name_priority": 8,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9021,
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 1,
+      "amb_switch_priority": 1,
+      "scene_effect": [
+        {},
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "700561": {
+      "id": 700561,
+      "area_id": [
+        791030042,
+        791030044,
+        791030048,
+        791030053,
+        791030047,
+        791030045,
+        791030055,
+        791030156,
+        791030157,
+        791030154,
+        791030155,
+        791030153,
+        791030158,
+        791030163,
+        791030168,
+        791030169,
+        791030170,
+        791030171,
+        791030172,
+        791030179,
+        791030184
+      ],
+      "broadcast_type": 1,
+      "name_priority": 9,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9021,
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 1,
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {
+          "effect_type": 16,
+          "effect_param1": 125
+        },
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_LavaPlatform01.BP_LavaPlatform01_C'"
+    },
+    "700562": {
+      "id": 700562,
+      "area_id": [
+        791030063,
+        791030065,
+        791030067,
+        791030069,
+        791030070,
+        791030071,
+        791030072,
+        791030073,
+        791030074,
+        791030075,
+        791030076,
+        791030077,
+        791030078,
+        791030079,
+        791030080,
+        791030081,
+        791030082,
+        791030083,
+        791030084,
+        791030085,
+        791030086,
+        791030087,
+        791030088,
+        791030089,
+        791030090,
+        791030164,
+        791030165,
+        791030166,
+        791030167,
+        791030180,
+        791030181,
+        791030182,
+        791030183,
+        791030185,
+        791030186,
+        791030187,
+        791030188
+      ],
+      "broadcast_type": 1,
+      "name_priority": 10,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9021,
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 1,
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {
+          "effect_type": 16,
+          "effect_param1": 80
+        }
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_LavaPlatform01.BP_LavaPlatform01_C'"
+    },
+    "700563": {
+      "id": 700563,
+      "area_id": [
+        791030091
+      ],
+      "broadcast_type": 1,
+      "name_priority": 7,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9021,
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 1,
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {
+          "effect_type": 16,
+          "effect_param1": -90
+        },
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "700564": {
+      "id": 700564,
+      "area_id": [
+        791030092
+      ],
+      "broadcast_type": 1,
+      "name_priority": 7,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9021,
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 1,
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {
+          "effect_type": 16,
+          "effect_param1": -90
+        },
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "700565": {
+      "id": 700565,
+      "area_id": [
+        791030057,
+        541030972
+      ],
+      "name": "- 森巨人洞窟第二层 -",
+      "broadcast_type": 1,
+      "name_priority": 9,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9021,
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 1,
+      "amb_switch_priority": 1,
+      "scene_effect": [
+        {},
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "700566": {
+      "id": 700566,
+      "area_id": [
+        541030623,
+        791030136,
+        791030137,
+        791030138,
+        791030139,
+        791030140,
+        791030141,
+        791030142,
+        791030162,
+        541030965
+      ],
+      "name": "- 火巨人洞窟第二层 -",
+      "broadcast_type": 1,
+      "name_priority": 9,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9021,
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 1,
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_LavaPlatform01.BP_LavaPlatform01_C'"
+    },
+    "700567": {
+      "id": 700567,
+      "area_id": [
+        541030624,
+        791030143
+      ],
+      "name": "- 火巨人洞窟第三层 -",
+      "broadcast_type": 1,
+      "name_priority": 10,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9021,
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 1,
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_LavaPlatform01.BP_LavaPlatform01_C'"
+    },
+    "700568": {
+      "id": 700568,
+      "area_id": [
+        601031861
+      ],
+      "name": "- 八大徽章圣殿 -",
+      "broadcast_type": 1,
+      "name_priority": 5,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9021,
+      "bgm_area_state": "Area_A2;WangGuo_Coast",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 5,
+      "scene_effect": [
+        {},
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "700569": {
+      "id": 700569,
+      "area_id": [
+        791030147,
+        791030148,
+        791030149
+      ],
+      "broadcast_type": 1,
+      "name_priority": 8,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9021,
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 1,
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {
+          "effect_type": 16,
+          "effect_param1": 80
+        }
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_LavaPlatform01.BP_LavaPlatform01_C'"
+    },
+    "700670": {
+      "id": 700670,
+      "area_id": [
+        671030545
+      ],
+      "broadcast_type": 1,
+      "name_priority": 1,
+      "second_name_text": "永夜的笼罩下，精灵的能量在悄然流逝……",
+      "second_name_background_umg": "UMG_EternalNightTips",
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9021,
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 1,
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {
+          "effect_type": 16384,
+          "effect_param1": 99
+        },
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "700671": {
+      "id": 700671,
+      "area_id": [
+        101034775,
+        101034776,
+        101034777
+      ],
+      "broadcast_type": 1,
+      "name_priority": 1,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9021,
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 1,
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {
+          "effect_type": 32768,
+          "effect_param2": 100
+        },
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "700672": {
+      "id": 700672,
+      "area_id": [
+        671034155,
+        671034156
+      ],
+      "broadcast_type": 1,
+      "name_priority": 7,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9021,
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 1,
+      "amb_switch_priority": 1,
+      "scene_effect": [
+        {
+          "effect_type": 16,
+          "effect_param1": 90
         },
         {}
       ],
@@ -10354,7 +12687,7 @@
       "area_id": [
         73010010
       ],
-      "name": "%s的种植园",
+      "name": "{0}的种植园",
       "broadcast_type": 3,
       "name_priority": 7,
       "battle_source": "L_Demo03_Combat",
@@ -11958,6 +14291,321 @@
       ],
       "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
     },
+    "800126": {
+      "id": 800126,
+      "area_id": [
+        601031395
+      ],
+      "name_priority": 8,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9024,
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 1,
+      "amb_switch_priority": 1,
+      "scene_effect": [
+        {},
+        {
+          "effect_type": 32
+        }
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "800127": {
+      "id": 800127,
+      "area_id": [
+        601031397
+      ],
+      "name_priority": 1,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9024,
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 1,
+      "amb_switch_priority": 1,
+      "scene_effect": [
+        {},
+        {
+          "effect_type": 32
+        }
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "800128": {
+      "id": 800128,
+      "area_id": [
+        601031399
+      ],
+      "name_priority": 8,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9024,
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 1,
+      "amb_switch_priority": 1,
+      "scene_effect": [
+        {},
+        {
+          "effect_type": 32
+        }
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "800129": {
+      "id": 800129,
+      "area_id": [
+        601031401
+      ],
+      "name_priority": 8,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9024,
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 1,
+      "amb_switch_priority": 1,
+      "scene_effect": [
+        {},
+        {
+          "effect_type": 32
+        }
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "800130": {
+      "id": 800130,
+      "area_id": [
+        601031403
+      ],
+      "name_priority": 8,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9024,
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 1,
+      "amb_switch_priority": 1,
+      "scene_effect": [
+        {},
+        {
+          "effect_type": 32
+        }
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "800131": {
+      "id": 800131,
+      "area_id": [
+        601031405
+      ],
+      "name_priority": 8,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9024,
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 1,
+      "amb_switch_priority": 1,
+      "scene_effect": [
+        {},
+        {
+          "effect_type": 32
+        }
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "800132": {
+      "id": 800132,
+      "area_id": [
+        601031407
+      ],
+      "name_priority": 1,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9024,
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 1,
+      "amb_switch_priority": 1,
+      "scene_effect": [
+        {},
+        {
+          "effect_type": 32
+        }
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "800133": {
+      "id": 800133,
+      "area_id": [
+        601031412
+      ],
+      "name_priority": 8,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9024,
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 1,
+      "amb_switch_priority": 1,
+      "scene_effect": [
+        {},
+        {
+          "effect_type": 32
+        }
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "800134": {
+      "id": 800134,
+      "area_id": [
+        601031409
+      ],
+      "name_priority": 1,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9024,
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 1,
+      "amb_switch_priority": 1,
+      "scene_effect": [
+        {},
+        {
+          "effect_type": 32
+        }
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
     "1010000": {
       "id": 1010000,
       "area_id": [
@@ -12221,7 +14869,7 @@
       "scene_effect": [
         {
           "effect_type": 16,
-          "effect_param1": -30
+          "effect_param1": -41
         }
       ],
       "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
@@ -12258,7 +14906,7 @@
       "scene_effect": [
         {
           "effect_type": 16,
-          "effect_param1": -30
+          "effect_param1": -41
         }
       ],
       "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
@@ -13188,6 +15836,72 @@
       "battle_source": "L_Demo03_Combat",
       "bgm_id": 9021,
       "bgm_area_state": "Area_A1;ShangDian_Street_Periphery",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 3,
+      "amb_switch_priority": 1,
+      "scene_effect": [
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "1010037": {
+      "id": 1010037,
+      "area_id": [
+        671034152
+      ],
+      "world_map_name_scale": 3,
+      "name_priority": 8,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9021,
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 3,
+      "amb_switch_priority": 1,
+      "scene_effect": [
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "1010038": {
+      "id": 1010038,
+      "area_id": [
+        671034153
+      ],
+      "world_map_name_scale": 3,
+      "name_priority": 8,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9021,
       "switch_group_name": "World_Time",
       "area_bgm": [
         {
@@ -15158,6 +17872,210 @@
       ],
       "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
     },
+    "5000019": {
+      "id": 5000019,
+      "area_id": [
+        451030040
+      ],
+      "name": "恶水沼泽寻宝区",
+      "broadcast_type": 4,
+      "name_priority": 15,
+      "battle_source": "L_Demo03_Combat",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 4,
+      "amb_switch": "YueYa_Lakeside",
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "5000020": {
+      "id": 5000020,
+      "area_id": [
+        451030054
+      ],
+      "name": "沉船漩涡寻宝区",
+      "broadcast_type": 4,
+      "name_priority": 15,
+      "battle_source": "L_Demo03_Combat",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 4,
+      "amb_switch": "YueYa_Lakeside",
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "5000021": {
+      "id": 5000021,
+      "area_id": [
+        451030023
+      ],
+      "name": "月牙湖岸寻宝区",
+      "broadcast_type": 4,
+      "name_priority": 15,
+      "battle_source": "L_Demo03_Combat",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 4,
+      "amb_switch": "YueYa_Lakeside",
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "5000022": {
+      "id": 5000022,
+      "area_id": [
+        451030055
+      ],
+      "name": "岚语峰寻宝区",
+      "broadcast_type": 4,
+      "name_priority": 15,
+      "battle_source": "L_Demo03_Combat",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 4,
+      "amb_switch": "YueYa_Lakeside",
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "5000023": {
+      "id": 5000023,
+      "area_id": [
+        451030063
+      ],
+      "name": "望风半岛寻宝区",
+      "broadcast_type": 4,
+      "name_priority": 15,
+      "battle_source": "L_Demo03_Combat",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 4,
+      "amb_switch": "YueYa_Lakeside",
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "5000024": {
+      "id": 5000024,
+      "area_id": [
+        451030182
+      ],
+      "name": "- 星光庇护所 -",
+      "broadcast_type": 4,
+      "name_priority": 15,
+      "battle_source": "L_Demo03_Combat",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 4,
+      "amb_switch": "YueYa_Lakeside",
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
     "131030014": {
       "id": 131030014,
       "area_id": [
@@ -16145,6 +19063,96 @@
       ],
       "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
     },
+    "132300003": {
+      "id": 132300003,
+      "area_id": [
+        121310012
+      ],
+      "name": "- 拾音律动 -",
+      "broadcast_type": 4,
+      "name_priority": 15,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9021,
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "start_time": 36000,
+          "end_time": 82800,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 3,
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "201031457": {
+      "id": 201031457,
+      "area_id": [
+        201031457
+      ],
+      "name_priority": 3,
+      "battle_source": "L_Demo03_Combat",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 4,
+      "amb_switch": "WangGuo_Castle",
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {},
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "225110001": {
+      "id": 225110001,
+      "area_id": [
+        225110001
+      ],
+      "name_priority": 1,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9021,
+      "bgm_area_state": "Area_Other;Seasons_S3_Lobby_Alt",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 6,
+      "scene_effect": [
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
     "405040000": {
       "id": 405040000,
       "area_id": [
@@ -16374,6 +19382,131 @@
       ],
       "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
     },
+    "561030672": {
+      "id": 561030672,
+      "area_id": [
+        561030672
+      ],
+      "name_priority": 15,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_area_state": "Area_A1;Area_A1_Endwar",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 4,
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "566030001": {
+      "id": 566030001,
+      "area_id": [
+        566030001
+      ],
+      "name_priority": 15,
+      "battle_source": "L_Demo03_Combat",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 4,
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "566050001": {
+      "id": 566050001,
+      "area_id": [
+        566050001
+      ],
+      "name_priority": 15,
+      "battle_source": "L_Demo03_Combat",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 4,
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "566060001": {
+      "id": 566060001,
+      "area_id": [
+        566060001
+      ],
+      "name_priority": 15,
+      "battle_source": "L_Demo03_Combat",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 4,
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
     "591030333": {
       "id": 591030333,
       "area_id": [
@@ -16381,8 +19514,6 @@
       ],
       "name_priority": 3,
       "battle_source": "L_Demo03_Combat",
-      "bgm_id": 9021,
-      "bgm_area_state": "Area_A1;LingFeng_Town",
       "switch_group_name": "World_Time",
       "area_bgm": [
         {
@@ -16402,6 +19533,70 @@
       ],
       "bgm_priority": 4,
       "amb_switch": "LingFeng_Tableland",
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "591030479": {
+      "id": 591030479,
+      "area_id": [
+        591030479
+      ],
+      "name_priority": 3,
+      "battle_source": "L_Demo03_Combat",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 4,
+      "amb_switch": "LingFeng_Tableland",
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "591030773": {
+      "id": 591030773,
+      "area_id": [
+        591030773
+      ],
+      "name_priority": 15,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_area_state": "Area_A1;Area_A1_Endwar",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 4,
       "amb_switch_priority": 2,
       "scene_effect": [
         {}
@@ -16428,7 +19623,10 @@
         601030989,
         601030990,
         601030991,
-        601030992
+        601030992,
+        601031950,
+        601031951,
+        601031957
       ],
       "scene_effect": [
         {}
@@ -16438,18 +19636,7 @@
         3
       ],
       "ban_roleplay_tools": [
-        68000,
-        68001,
-        68002,
-        68003,
-        68004,
-        68005,
-        68006,
-        68007,
-        68008,
-        68009,
-        640006,
-        640007
+        -1
       ]
     },
     "601030002": {
@@ -16474,18 +19661,32 @@
         {}
       ],
       "ban_roleplay_tools": [
-        68000,
-        68001,
-        68002,
-        68003,
-        68004,
-        68005,
-        68006,
-        68007,
-        68008,
-        68009,
-        640006,
-        640007
+        -1
+      ]
+    },
+    "601031956": {
+      "id": 601031956,
+      "area_id": [
+        601031956
+      ],
+      "scene_effect": [
+        {}
+      ],
+      "ban_roleplay_tools": [
+        -1
+      ]
+    },
+    "601031957": {
+      "id": 601031957,
+      "area_id": [
+        641030047,
+        641030048
+      ],
+      "scene_effect": [
+        {}
+      ],
+      "ban_roleplay_tools": [
+        -1
       ]
     },
     "641030009": {
@@ -16680,6 +19881,691 @@
       ],
       "bgm_priority": 6,
       "scene_effect": [
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "641030015": {
+      "id": 641030015,
+      "area_id": [
+        641030035
+      ],
+      "name_priority": 1,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9021,
+      "bgm_area_state": "Area_Other;Seasons_S3_Lobby",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 6,
+      "scene_effect": [
+        {},
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "641030016": {
+      "id": 641030016,
+      "area_id": [
+        405100002
+      ],
+      "name_priority": 1,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9021,
+      "bgm_area_state": "Area_Other;Seasons_S3_Lobby_Alt",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 6,
+      "scene_effect": [
+        {},
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "800000000": {
+      "id": 800000000,
+      "area_id": [
+        246010005
+      ],
+      "name_priority": 1,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9021,
+      "bgm_area_state": "Area_Other;Badge_Challenge;Badge_Challenge_Scene;Grass_Challenge_Lobby",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 6,
+      "scene_effect": [
+        {
+          "effect_type": 128
+        },
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "800000001": {
+      "id": 800000001,
+      "area_id": [
+        246020005
+      ],
+      "name_priority": 1,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9021,
+      "bgm_area_state": "Area_Other;Badge_Challenge;Badge_Challenge_Scene;Grass_Challenge_Lobby",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 6,
+      "scene_effect": [
+        {
+          "effect_type": 128
+        },
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "800000002": {
+      "id": 800000002,
+      "area_id": [
+        246030025
+      ],
+      "name_priority": 1,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9021,
+      "bgm_area_state": "Area_Other;Badge_Challenge;Badge_Challenge_Scene;Grass_Challenge_Scene_Grassland",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 6,
+      "scene_effect": [
+        {
+          "effect_type": 128
+        },
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "800000003": {
+      "id": 800000003,
+      "area_id": [
+        246050025
+      ],
+      "name_priority": 1,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9021,
+      "bgm_area_state": "Area_Other;Badge_Challenge;Badge_Challenge_Scene;Grass_Challenge_Scene_Stonehenge",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 6,
+      "scene_effect": [
+        {
+          "effect_type": 128
+        },
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "800000004": {
+      "id": 800000004,
+      "area_id": [
+        246060026
+      ],
+      "name_priority": 1,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9021,
+      "bgm_area_state": "Area_Other;Badge_Challenge;Badge_Challenge_Scene;Grass_Challenge_Scene_Grassland",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 6,
+      "scene_effect": [
+        {
+          "effect_type": 128
+        },
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "860000001": {
+      "id": 860000001,
+      "area_id": [
+        161030579
+      ],
+      "name_priority": 3,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9021,
+      "bgm_area_state": "Area_Other;HengBan",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 4,
+      "amb_switch": "WangGuo_Castle",
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {},
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "860000002": {
+      "id": 860000002,
+      "area_id": [
+        161030580
+      ],
+      "name_priority": 3,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9021,
+      "bgm_area_state": "Area_Other;HengBan",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 4,
+      "amb_switch": "WangGuo_Castle",
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {},
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "860000003": {
+      "id": 860000003,
+      "area_id": [
+        161030581
+      ],
+      "name_priority": 3,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9021,
+      "bgm_area_state": "Area_A2;Peter_Avenue;Area_Peter_Avenue;Peter_Avenue_Bookstore",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 4,
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {},
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "860000004": {
+      "id": 860000004,
+      "area_id": [
+        161030583
+      ],
+      "name_priority": 3,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9021,
+      "bgm_area_state": "Area_A2;Secret_Base",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 4,
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {},
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "860000005": {
+      "id": 860000005,
+      "area_id": [
+        201031603
+      ],
+      "name_priority": 3,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9021,
+      "bgm_area_state": "Area_B1;XinGuaiTan_Group",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 4,
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {},
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "860000006": {
+      "id": 860000006,
+      "area_id": [
+        201031604
+      ],
+      "name_priority": 3,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9021,
+      "bgm_area_state": "Area_A2;WangGuo_Castle;Area_WangGuo_Castle;WangGuo_Castle_Lobby",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 4,
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {},
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "860000007": {
+      "id": 860000007,
+      "area_id": [
+        201031605
+      ],
+      "name_priority": 3,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9021,
+      "bgm_area_state": "Area_Other;LouDing",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 4,
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {},
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "860000008": {
+      "id": 860000008,
+      "area_id": [
+        201031606
+      ],
+      "name_priority": 3,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9021,
+      "bgm_area_state": "Area_Other;HengBan",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 4,
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {},
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "860000009": {
+      "id": 860000009,
+      "area_id": [
+        201031607
+      ],
+      "name_priority": 3,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9021,
+      "bgm_area_state": "Area_Other;ShengChui_Ruins",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 4,
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {},
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "860000010": {
+      "id": 860000010,
+      "area_id": [
+        201031608
+      ],
+      "name_priority": 3,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9021,
+      "bgm_area_state": "Area_Other;HaiDi_Cave",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 4,
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {},
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "860000011": {
+      "id": 860000011,
+      "area_id": [
+        201031610
+      ],
+      "name_priority": 3,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9021,
+      "bgm_area_state": "Area_Other;AWaSha_Inside",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 4,
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {},
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "860000012": {
+      "id": 860000012,
+      "area_id": [
+        201031611
+      ],
+      "name_priority": 3,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9021,
+      "bgm_area_state": "Area_Other;WangGuo_Prison",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 4,
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {},
+        {}
+      ],
+      "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+    },
+    "860000013": {
+      "id": 860000013,
+      "area_id": [
+        201031612
+      ],
+      "name_priority": 3,
+      "battle_source": "L_Demo03_Combat",
+      "bgm_id": 9021,
+      "bgm_area_state": "Area_Other;Light_Soulriver",
+      "switch_group_name": "World_Time",
+      "area_bgm": [
+        {
+          "end_time": 15600,
+          "switch": "Night"
+        },
+        {
+          "start_time": 15600,
+          "end_time": 72000,
+          "switch": "Day"
+        },
+        {
+          "start_time": 72000,
+          "end_time": 86400,
+          "switch": "Night"
+        }
+      ],
+      "bgm_priority": 4,
+      "amb_switch_priority": 2,
+      "scene_effect": [
+        {},
         {}
       ],
       "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"

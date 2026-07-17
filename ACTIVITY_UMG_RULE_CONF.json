@@ -110,6 +110,11 @@
       "activity_type": 3,
       "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_BindMobilePhone.UMG_Activity_BindMobilePhone_C'"
     },
+    "307": {
+      "id": 307,
+      "activity_type": 3,
+      "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_QQMusicCollaborationGift.UMG_Activity_QQMusicCollaborationGift_C'"
+    },
     "401": {
       "id": 401,
       "activity_type": 4,
@@ -250,6 +255,11 @@
       "activity_type": 26,
       "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_Foreshow.UMG_Activity_Foreshow_C'"
     },
+    "2602": {
+      "id": 2602,
+      "activity_type": 26,
+      "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_SummerTideMarket_Finished.UMG_SummerTideMarket_Finished_C'"
+    },
     "2701": {
       "id": 2701,
       "activity_type": 27,
@@ -369,6 +379,11 @@
       "id": 5101,
       "activity_type": 51,
       "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_BackflowContractManual.UMG_Activity_BackflowContractManual_C'"
+    },
+    "5401": {
+      "id": 5401,
+      "activity_type": 54,
+      "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_SummerTideMarket.UMG_SummerTideMarket_C'"
     }
   },
   "LocalizationStrings": {}

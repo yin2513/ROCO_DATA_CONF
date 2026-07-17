@@ -3,7 +3,7 @@
     "1001002": {
       "id": 1001002,
       "npc_icon": "Texture2D'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/10062.10062'",
-      "npc_name": "恩佐",
+      "npc_name": "恩佐与伊里斯",
       "npc_config_group_id": 1001002,
       "npc_follow_areas": [
         700107,
@@ -35,7 +35,7 @@
     "1001004": {
       "id": 1001004,
       "npc_icon": "Texture2D'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/10196.10196'",
-      "npc_name": "芙蕾雅",
+      "npc_name": "伊里斯",
       "npc_config_group_id": 1001004,
       "npc_follow_areas": [
         132190045
@@ -99,7 +99,7 @@
     "1002004": {
       "id": 1002004,
       "npc_icon": "Texture2D'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/10062.10062'",
-      "npc_name": "露萌",
+      "npc_name": "恩佐与芙蕾雅",
       "npc_config_group_id": 1002004,
       "npc_follow_areas": [
         132200004
@@ -115,7 +115,7 @@
     "1002005": {
       "id": 1002005,
       "npc_icon": "Texture2D'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/10062.10062'",
-      "npc_name": "露萌",
+      "npc_name": "恩佐与芙蕾雅",
       "npc_config_group_id": 1002005,
       "npc_follow_areas": [
         132200005
@@ -131,7 +131,7 @@
     "1002006": {
       "id": 1002006,
       "npc_icon": "Texture2D'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/10270.10270'",
-      "npc_name": "露萌",
+      "npc_name": "芙蕾雅",
       "npc_config_group_id": 1002006,
       "npc_follow_areas": [
         132200006
@@ -147,7 +147,7 @@
     "1002008": {
       "id": 1002008,
       "npc_icon": "Texture2D'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/10270.10270'",
-      "npc_name": "露萌",
+      "npc_name": "芙蕾雅",
       "npc_config_group_id": 1002008,
       "npc_follow_areas": [
         132200008
@@ -162,7 +162,7 @@
     "1002010": {
       "id": 1002010,
       "npc_icon": "Texture2D'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/10270.10270'",
-      "npc_name": "恩佐",
+      "npc_name": "芙蕾雅与嘟嘟煲",
       "npc_config_group_id": 1002010,
       "npc_follow_areas": [
         132200010
@@ -178,7 +178,7 @@
     "1002011": {
       "id": 1002011,
       "npc_icon": "Texture2D'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/10270.10270'",
-      "npc_name": "露萌",
+      "npc_name": "芙蕾雅",
       "npc_config_group_id": 1002011,
       "npc_follow_areas": [
         132200011
@@ -194,7 +194,7 @@
     "1002012": {
       "id": 1002012,
       "npc_icon": "Texture2D'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/10198.10198'",
-      "npc_name": "露萌",
+      "npc_name": "芙蕾雅",
       "npc_config_group_id": 1002012,
       "npc_follow_areas": [
         132200012
@@ -263,7 +263,7 @@
     "1013004": {
       "id": 1013004,
       "npc_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/HeadIcon/3202.3202'",
-      "npc_name": "",
+      "npc_name": "驻地管家",
       "npc_config_group_id": 1013004,
       "npc_follow_areas": [
         132200013
@@ -278,7 +278,7 @@
     "1013005": {
       "id": 1013005,
       "npc_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/HeadIcon/3202.3202'",
-      "npc_name": "",
+      "npc_name": "里奥",
       "npc_config_group_id": 1013005,
       "npc_follow_areas": [
         160001
@@ -294,7 +294,7 @@
     "1014001": {
       "id": 1014001,
       "npc_icon": "Texture2D'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/10196.10196'",
-      "npc_name": "",
+      "npc_name": "小男孩、小女孩、星灵",
       "npc_config_group_id": 1014001,
       "npc_follow_areas": [
         160001
@@ -310,7 +310,7 @@
     "1014002": {
       "id": 1014002,
       "npc_icon": "Texture2D'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/10196.10196'",
-      "npc_name": "",
+      "npc_name": "小男孩、小女孩、星灵",
       "npc_config_group_id": 1014002,
       "npc_follow_areas": [
         160001
@@ -326,7 +326,7 @@
     "1034001": {
       "id": 1034001,
       "npc_icon": "Texture2D'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/10219.10219'",
-      "npc_name": "",
+      "npc_name": "拉尔夫",
       "npc_config_group_id": 1034001,
       "npc_follow_areas": [
         700305,
@@ -340,10 +340,214 @@
       "hide_end_tips": true,
       "hide_blackscreen": true
     },
+    "1040001": {
+      "id": 1040001,
+      "npc_icon": "Texture2D'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/10012.10012'",
+      "npc_name": "露萌",
+      "npc_config_group_id": 1040001,
+      "npc_follow_areas": [
+        561030672
+      ],
+      "task_ids": [
+        1101120
+      ],
+      "memo": "A2-1主线-可丽希亚同行",
+      "hide_start_tips": true,
+      "hide_end_tips": true,
+      "hide_blackscreen": true
+    },
+    "1041001": {
+      "id": 1041001,
+      "npc_icon": "Texture2D'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/05001.05001'",
+      "npc_name": "露萌",
+      "npc_config_group_id": 1041001,
+      "npc_follow_areas": [
+        591030333
+      ],
+      "task_ids": [
+        1101160
+      ],
+      "memo": "A2-1主线-圣安德鲁同行",
+      "hide_start_tips": true,
+      "hide_end_tips": true,
+      "hide_blackscreen": true
+    },
+    "1042020": {
+      "id": 1042020,
+      "npc_icon": "Texture2D'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/10011.10011'",
+      "npc_name": "露萌",
+      "npc_config_group_id": 1042020,
+      "npc_follow_areas": [
+        591030479
+      ],
+      "task_ids": [
+        1101440
+      ],
+      "memo": "A2-1主线-深入遗迹",
+      "hide_start_tips": true,
+      "hide_end_tips": true,
+      "hide_blackscreen": true
+    },
+    "1042026": {
+      "id": 1042026,
+      "npc_icon": "Texture2D'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/10011.10011'",
+      "npc_name": "露萌",
+      "npc_config_group_id": 1042026,
+      "memo": "A2-1主线-进入树洞",
+      "hide_start_tips": true,
+      "hide_end_tips": true,
+      "hide_blackscreen": true
+    },
+    "1042027": {
+      "id": 1042027,
+      "npc_icon": "Texture2D'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/10011.10011'",
+      "npc_name": "露萌",
+      "npc_config_group_id": 1042027,
+      "npc_follow_areas": [
+        700314
+      ],
+      "task_ids": [
+        1101002
+      ],
+      "memo": "A2-1主线-前往裂隙",
+      "hide_start_tips": true,
+      "hide_end_tips": true,
+      "hide_blackscreen": true
+    },
+    "1042028": {
+      "id": 1042028,
+      "npc_icon": "Texture2D'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/10011.10011'",
+      "npc_name": "露萌",
+      "npc_config_group_id": 1042028,
+      "memo": "A2-1主线-横版小游戏（精灵昏睡后）",
+      "hide_start_tips": true,
+      "hide_end_tips": true,
+      "hide_blackscreen": true
+    },
+    "1042029": {
+      "id": 1042029,
+      "npc_icon": "Texture2D'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/10011.10011'",
+      "npc_name": "露萌",
+      "npc_config_group_id": 1042029,
+      "npc_follow_areas": [
+        700314
+      ],
+      "task_ids": [
+        1101024
+      ],
+      "memo": "A2-1主线-逃离城堡",
+      "hide_start_tips": true,
+      "hide_end_tips": true,
+      "hide_blackscreen": true
+    },
+    "1052027": {
+      "id": 1052027,
+      "npc_icon": "Texture2D'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/10011.10011'",
+      "npc_name": "露萌",
+      "npc_config_group_id": 1052027,
+      "npc_follow_areas": [
+        860000001
+      ],
+      "task_ids": [
+        1103007
+      ],
+      "memo": "A2-1主线-横版三人同行对白",
+      "hide_start_tips": true,
+      "hide_end_tips": true,
+      "hide_blackscreen": true
+    },
+    "1052028": {
+      "id": 1052028,
+      "npc_icon": "Texture2D'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/10011.10011'",
+      "npc_name": "露萌",
+      "npc_config_group_id": 1052028,
+      "npc_follow_areas": [
+        860000002
+      ],
+      "task_ids": [
+        1103010,
+        1103011,
+        1103012
+      ],
+      "memo": "A2-1主线-钟楼三人同行对白",
+      "hide_start_tips": true,
+      "hide_end_tips": true,
+      "hide_blackscreen": true
+    },
+    "1052029": {
+      "id": 1052029,
+      "npc_icon": "Texture2D'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/10011.10011'",
+      "npc_name": "露萌",
+      "npc_config_group_id": 1052029,
+      "npc_follow_areas": [
+        860000004
+      ],
+      "task_ids": [
+        1101236
+      ],
+      "memo": "A2-1主线-初次进入树洞",
+      "hide_start_tips": true,
+      "hide_end_tips": true,
+      "hide_blackscreen": true
+    },
+    "2000001": {
+      "id": 2000001,
+      "npc_icon": "Texture2D'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/10004.10004'",
+      "npc_name": "露萌",
+      "npc_config_group_id": 2000001,
+      "npc_follow_areas": [
+        566030001
+      ],
+      "task_ids": [
+        70000510
+      ],
+      "memo": "八大徽章-草系-索米亚平原草系研究员",
+      "hide_start_tips": true,
+      "hide_end_tips": true,
+      "hide_blackscreen": true,
+      "hide_enter_tips": true,
+      "hide_leave_tips": true
+    },
+    "2000002": {
+      "id": 2000002,
+      "npc_icon": "Texture2D'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/10005.10005'",
+      "npc_name": "露萌",
+      "npc_config_group_id": 2000002,
+      "npc_follow_areas": [
+        566050001
+      ],
+      "task_ids": [
+        70000510
+      ],
+      "memo": "八大徽章-草系-巨石阵易西",
+      "hide_start_tips": true,
+      "hide_end_tips": true,
+      "hide_blackscreen": true,
+      "hide_enter_tips": true,
+      "hide_leave_tips": true
+    },
+    "2000003": {
+      "id": 2000003,
+      "npc_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/HeadIcon/3493.3493'",
+      "npc_name": "露萌",
+      "npc_config_group_id": 2000003,
+      "npc_follow_areas": [
+        566060001
+      ],
+      "task_ids": [
+        70000510
+      ],
+      "memo": "八大徽章-草系-普拉塔草原赫拉（一阶段肥草球）",
+      "hide_start_tips": true,
+      "hide_end_tips": true,
+      "hide_blackscreen": true,
+      "hide_enter_tips": true,
+      "hide_leave_tips": true
+    },
     "4210101": {
       "id": 4210101,
       "npc_icon": "Texture2D'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/PEO_04904.PEO_04904'",
-      "npc_name": "",
+      "npc_name": "声波缇塔",
       "npc_config_group_id": 4210101,
       "npc_follow_areas": [
         405040000
@@ -359,7 +563,7 @@
     "4210102": {
       "id": 4210102,
       "npc_icon": "Texture2D'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/PEO_04904.PEO_04904'",
-      "npc_name": "",
+      "npc_name": "恩佐",
       "npc_config_group_id": 4210102,
       "npc_follow_areas": [
         405040000
@@ -376,7 +580,7 @@
     "4220101": {
       "id": 4220101,
       "npc_icon": "Texture2D'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/PEO_04904.PEO_04904'",
-      "npc_name": "",
+      "npc_name": "恩佐",
       "npc_config_group_id": 4220101,
       "npc_follow_areas": [
         405040001
@@ -393,7 +597,7 @@
     "4220102": {
       "id": 4220102,
       "npc_icon": "Texture2D'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/PEO_04904.PEO_04904'",
-      "npc_name": "",
+      "npc_name": "恩佐",
       "npc_config_group_id": 4220102,
       "npc_follow_areas": [
         405040001
@@ -409,7 +613,7 @@
     "4220103": {
       "id": 4220103,
       "npc_icon": "Texture2D'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/PEO_04904.PEO_04904'",
-      "npc_name": "",
+      "npc_name": "恩佐",
       "npc_config_group_id": 4220103,
       "npc_follow_areas": [
         405040001
@@ -425,7 +629,7 @@
     "4220105": {
       "id": 4220105,
       "npc_icon": "Texture2D'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/PEO_04904.PEO_04904'",
-      "npc_name": "",
+      "npc_name": "恩佐",
       "npc_config_group_id": 4220105,
       "npc_follow_areas": [
         405040001
@@ -541,10 +745,23 @@
       "hide_end_tips": true,
       "hide_blackscreen": true
     },
+    "4250101": {
+      "id": 4250101,
+      "npc_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/HeadIcon/3406.3406'",
+      "npc_name": "",
+      "npc_config_group_id": 4250101,
+      "npc_follow_areas": [
+        641030010
+      ],
+      "memo": "S2赛季-跟随声波缇塔",
+      "hide_start_tips": true,
+      "hide_end_tips": true,
+      "hide_blackscreen": true
+    },
     "5201011": {
       "id": 5201011,
       "npc_icon": "Texture2D'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/10062.10062'",
-      "npc_name": "恩佐",
+      "npc_name": "",
       "npc_config_group_id": 5201011,
       "npc_follow_areas": [
         521030205
@@ -560,7 +777,7 @@
     "5201012": {
       "id": 5201012,
       "npc_icon": "Texture2D'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/10062.10062'",
-      "npc_name": "恩佐",
+      "npc_name": "",
       "npc_config_group_id": 5201012,
       "npc_follow_areas": [
         521030205
@@ -576,7 +793,7 @@
     "5201013": {
       "id": 5201013,
       "npc_icon": "Texture2D'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/10062.10062'",
-      "npc_name": "恩佐",
+      "npc_name": "",
       "npc_config_group_id": 5201013,
       "npc_follow_areas": [
         521030205
@@ -593,7 +810,7 @@
     "5201014": {
       "id": 5201014,
       "npc_icon": "Texture2D'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/10062.10062'",
-      "npc_name": "恩佐",
+      "npc_name": "",
       "npc_config_group_id": 5201014,
       "npc_follow_areas": [
         521030205
@@ -609,7 +826,7 @@
     "5201015": {
       "id": 5201015,
       "npc_icon": "Texture2D'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/10062.10062'",
-      "npc_name": "恩佐",
+      "npc_name": "",
       "npc_config_group_id": 5201015,
       "npc_follow_areas": [
         521030205

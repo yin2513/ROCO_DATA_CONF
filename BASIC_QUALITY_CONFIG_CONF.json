@@ -3308,19 +3308,19 @@
       ],
       "Qualities_IOS": [
         {
-          "QualityPriority": "18"
+          "QualityPriority": "60"
         },
         {
-          "QualityPriority": "24"
+          "QualityPriority": "60"
         },
         {
-          "QualityPriority": "30"
+          "QualityPriority": "60"
         },
         {
-          "QualityPriority": "40"
+          "QualityPriority": "60"
         },
         {
-          "QualityPriority": "50"
+          "QualityPriority": "60"
         },
         {
           "QualityPriority": "60"
@@ -3328,19 +3328,19 @@
       ],
       "Qualities_Android": [
         {
-          "QualityPriority": "18"
+          "QualityPriority": "60"
         },
         {
-          "QualityPriority": "24"
+          "QualityPriority": "60"
         },
         {
-          "QualityPriority": "30"
+          "QualityPriority": "60"
         },
         {
-          "QualityPriority": "40"
+          "QualityPriority": "60"
         },
         {
-          "QualityPriority": "50"
+          "QualityPriority": "60"
         },
         {
           "QualityPriority": "60"
@@ -3348,19 +3348,19 @@
       ],
       "Qualities_OpenHarmony": [
         {
-          "QualityPriority": "18"
+          "QualityPriority": "60"
         },
         {
-          "QualityPriority": "24"
+          "QualityPriority": "60"
         },
         {
-          "QualityPriority": "30"
+          "QualityPriority": "60"
         },
         {
-          "QualityPriority": "40"
+          "QualityPriority": "60"
         },
         {
-          "QualityPriority": "50"
+          "QualityPriority": "60"
         },
         {
           "QualityPriority": "60"
@@ -6349,79 +6349,8 @@
         }
       ]
     },
-    "sgni.BudgetInMs": {
-      "id": 90,
-      "name": "sgni.BudgetInMs",
-      "group": "SignificanceQuality",
-      "cvar": "sgni.BudgetInMs",
-      "valueType": "int",
-      "Qualities_PC": [
-        {},
-        {},
-        {
-          "QualityPriority": "30"
-        },
-        {
-          "QualityPriority": "30"
-        },
-        {
-          "QualityPriority": "30"
-        },
-        {
-          "QualityPriority": "30"
-        }
-      ],
-      "Qualities_IOS": [
-        {},
-        {},
-        {
-          "QualityPriority": "30"
-        },
-        {
-          "QualityPriority": "30"
-        },
-        {
-          "QualityPriority": "30"
-        },
-        {
-          "QualityPriority": "30"
-        }
-      ],
-      "Qualities_Android": [
-        {},
-        {},
-        {
-          "QualityPriority": "30"
-        },
-        {
-          "QualityPriority": "30"
-        },
-        {
-          "QualityPriority": "30"
-        },
-        {
-          "QualityPriority": "30"
-        }
-      ],
-      "Qualities_OpenHarmony": [
-        {},
-        {},
-        {
-          "QualityPriority": "30"
-        },
-        {
-          "QualityPriority": "30"
-        },
-        {
-          "QualityPriority": "30"
-        },
-        {
-          "QualityPriority": "30"
-        }
-      ]
-    },
     "sgni.BodySizeDefaultFactor": {
-      "id": 91,
+      "id": 90,
       "name": "sgni.BodySizeDefaultFactor",
       "group": "SignificanceQuality",
       "cvar": "sgni.BodySizeDefaultFactor",
@@ -6492,7 +6421,7 @@
       ]
     },
     "sgni.BodySizeSmallFactor": {
-      "id": 92,
+      "id": 91,
       "name": "sgni.BodySizeSmallFactor",
       "group": "SignificanceQuality",
       "cvar": "sgni.BodySizeSmallFactor",
@@ -6563,7 +6492,7 @@
       ]
     },
     "sgni.BodySizeNormalFactor": {
-      "id": 93,
+      "id": 92,
       "name": "sgni.BodySizeNormalFactor",
       "group": "SignificanceQuality",
       "cvar": "sgni.BodySizeNormalFactor",
@@ -6634,7 +6563,7 @@
       ]
     },
     "sgni.BodySizeLargeFactor": {
-      "id": 94,
+      "id": 93,
       "name": "sgni.BodySizeLargeFactor",
       "group": "SignificanceQuality",
       "cvar": "sgni.BodySizeLargeFactor",
@@ -6705,7 +6634,7 @@
       ]
     },
     "sgni.BodySizeOverSizedFactor": {
-      "id": 95,
+      "id": 94,
       "name": "sgni.BodySizeOverSizedFactor",
       "group": "SignificanceQuality",
       "cvar": "sgni.BodySizeOverSizedFactor",
@@ -6776,7 +6705,7 @@
       ]
     },
     "sgni.BodyTypeDefaultVolume": {
-      "id": 96,
+      "id": 95,
       "name": "sgni.BodyTypeDefaultVolume",
       "group": "SignificanceQuality",
       "cvar": "sgni.BodyTypeDefaultVolume",
@@ -6847,7 +6776,7 @@
       ]
     },
     "sgni.BodyTypeSmallVolume": {
-      "id": 97,
+      "id": 96,
       "name": "sgni.BodyTypeSmallVolume",
       "group": "SignificanceQuality",
       "cvar": "sgni.BodyTypeSmallVolume",
@@ -6918,7 +6847,7 @@
       ]
     },
     "sgni.BodyTypeNormalVolume": {
-      "id": 98,
+      "id": 97,
       "name": "sgni.BodyTypeNormalVolume",
       "group": "SignificanceQuality",
       "cvar": "sgni.BodyTypeNormalVolume",
@@ -6989,7 +6918,7 @@
       ]
     },
     "sgni.BodyTypeLargeVolume": {
-      "id": 99,
+      "id": 98,
       "name": "sgni.BodyTypeLargeVolume",
       "group": "SignificanceQuality",
       "cvar": "sgni.BodyTypeLargeVolume",
@@ -7060,7 +6989,7 @@
       ]
     },
     "sgni.BodySizeDefaultBTResponseRange": {
-      "id": 100,
+      "id": 99,
       "name": "sgni.BodySizeDefaultBTResponseRange",
       "group": "SignificanceQuality",
       "cvar": "sgni.BodySizeDefaultBTResponseRange",
@@ -7131,7 +7060,7 @@
       ]
     },
     "sgni.BodySizeSmallBTResponseRange": {
-      "id": 101,
+      "id": 100,
       "name": "sgni.BodySizeSmallBTResponseRange",
       "group": "SignificanceQuality",
       "cvar": "sgni.BodySizeSmallBTResponseRange",
@@ -7202,7 +7131,7 @@
       ]
     },
     "sgni.BodySizeNormalBTResponseRange": {
-      "id": 102,
+      "id": 101,
       "name": "sgni.BodySizeNormalBTResponseRange",
       "group": "SignificanceQuality",
       "cvar": "sgni.BodySizeNormalBTResponseRange",
@@ -7273,7 +7202,7 @@
       ]
     },
     "sgni.BodySizeLargeBTResponseRange": {
-      "id": 103,
+      "id": 102,
       "name": "sgni.BodySizeLargeBTResponseRange",
       "group": "SignificanceQuality",
       "cvar": "sgni.BodySizeLargeBTResponseRange",
@@ -7344,7 +7273,7 @@
       ]
     },
     "sgni.BodySizeOverSizedBTResponseRange": {
-      "id": 104,
+      "id": 103,
       "name": "sgni.BodySizeOverSizedBTResponseRange",
       "group": "SignificanceQuality",
       "cvar": "sgni.BodySizeOverSizedBTResponseRange",
@@ -7415,7 +7344,7 @@
       ]
     },
     "sgni.BTTickStepDistanceThreshold": {
-      "id": 105,
+      "id": 104,
       "name": "sgni.BTTickStepDistanceThreshold",
       "group": "SignificanceQuality",
       "cvar": "sgni.BTTickrateDistanceThreshold",
@@ -7486,7 +7415,7 @@
       ]
     },
     "sgni.DistancedBTTickStep": {
-      "id": 106,
+      "id": 105,
       "name": "sgni.DistancedBTTickStep",
       "group": "SignificanceQuality",
       "cvar": "sgni.DistancedBTTickStep",
@@ -7557,7 +7486,7 @@
       ]
     },
     "sgni.TickSkipStepHighest": {
-      "id": 107,
+      "id": 106,
       "name": "sgni.TickSkipStepHighest",
       "group": "SignificanceQuality",
       "cvar": "sgni.TickSkipStepHighest",
@@ -7628,7 +7557,7 @@
       ]
     },
     "sgni.VisibleDistanceHigher": {
-      "id": 108,
+      "id": 107,
       "name": "sgni.VisibleDistanceHigher",
       "group": "SignificanceQuality",
       "cvar": "sgni.VisibleDistanceHigher",
@@ -7699,7 +7628,7 @@
       ]
     },
     "sgni.TickSkipStepHigher": {
-      "id": 109,
+      "id": 108,
       "name": "sgni.TickSkipStepHigher",
       "group": "SignificanceQuality",
       "cvar": "sgni.TickSkipStepHigher",
@@ -7770,7 +7699,7 @@
       ]
     },
     "sgni.VisibleDistanceHigh": {
-      "id": 110,
+      "id": 109,
       "name": "sgni.VisibleDistanceHigh",
       "group": "SignificanceQuality",
       "cvar": "sgni.VisibleDistanceHigh",
@@ -7841,7 +7770,7 @@
       ]
     },
     "sgni.TickSkipStepHigh": {
-      "id": 111,
+      "id": 110,
       "name": "sgni.TickSkipStepHigh",
       "group": "SignificanceQuality",
       "cvar": "sgni.TickSkipStepHigh",
@@ -7912,7 +7841,7 @@
       ]
     },
     "sgni.VisibleDistanceMedium": {
-      "id": 112,
+      "id": 111,
       "name": "sgni.VisibleDistanceMedium",
       "group": "SignificanceQuality",
       "cvar": "sgni.VisibleDistanceMedium",
@@ -7983,7 +7912,7 @@
       ]
     },
     "sgni.TickSkipStepMedium": {
-      "id": 113,
+      "id": 112,
       "name": "sgni.TickSkipStepMedium",
       "group": "SignificanceQuality",
       "cvar": "sgni.TickSkipStepMedium",
@@ -8054,7 +7983,7 @@
       ]
     },
     "sgni.VisibleDistanceLow": {
-      "id": 114,
+      "id": 113,
       "name": "sgni.VisibleDistanceLow",
       "group": "SignificanceQuality",
       "cvar": "sgni.VisibleDistanceLow",
@@ -8095,7 +8024,7 @@
         {},
         {},
         {
-          "QualityPriority": "6000"
+          "QualityPriority": "5500"
         },
         {
           "QualityPriority": "6000"
@@ -8111,7 +8040,7 @@
         {},
         {},
         {
-          "QualityPriority": "6000"
+          "QualityPriority": "5500"
         },
         {
           "QualityPriority": "6000"
@@ -8125,7 +8054,7 @@
       ]
     },
     "sgni.TickSkipStepLow": {
-      "id": 115,
+      "id": 114,
       "name": "sgni.TickSkipStepLow",
       "group": "SignificanceQuality",
       "cvar": "sgni.TickSkipStepLow",
@@ -8156,7 +8085,7 @@
           "QualityPriority": "10"
         },
         {
-          "QualityPriority": "6"
+          "QualityPriority": "5"
         },
         {
           "QualityPriority": "5"
@@ -8196,7 +8125,7 @@
       ]
     },
     "sgni.VisibleDistanceLower": {
-      "id": 116,
+      "id": 115,
       "name": "sgni.VisibleDistanceLower",
       "group": "SignificanceQuality",
       "cvar": "sgni.VisibleDistanceLower",
@@ -8237,7 +8166,7 @@
         {},
         {},
         {
-          "QualityPriority": "8000"
+          "QualityPriority": "6000"
         },
         {
           "QualityPriority": "8000"
@@ -8253,7 +8182,7 @@
         {},
         {},
         {
-          "QualityPriority": "8000"
+          "QualityPriority": "6000"
         },
         {
           "QualityPriority": "8000"
@@ -8267,7 +8196,7 @@
       ]
     },
     "sgni.TickSkipStepLower": {
-      "id": 117,
+      "id": 116,
       "name": "sgni.TickSkipStepLower",
       "group": "SignificanceQuality",
       "cvar": "sgni.TickSkipStepLower",
@@ -8338,7 +8267,7 @@
       ]
     },
     "sgni.VisibleDistanceLowest": {
-      "id": 118,
+      "id": 117,
       "name": "sgni.VisibleDistanceLowest",
       "group": "SignificanceQuality",
       "cvar": "sgni.VisibleDistanceLowest",
@@ -8379,7 +8308,7 @@
         {},
         {},
         {
-          "QualityPriority": "10000"
+          "QualityPriority": "6500"
         },
         {
           "QualityPriority": "10000"
@@ -8395,7 +8324,7 @@
         {},
         {},
         {
-          "QualityPriority": "10000"
+          "QualityPriority": "6500"
         },
         {
           "QualityPriority": "10000"
@@ -8409,7 +8338,7 @@
       ]
     },
     "sgni.TickSkipStepLowest": {
-      "id": 119,
+      "id": 118,
       "name": "sgni.TickSkipStepLowest",
       "group": "SignificanceQuality",
       "cvar": "sgni.TickSkipStepLowest",
@@ -8480,7 +8409,7 @@
       ]
     },
     "sgni.DistanceHidden": {
-      "id": 120,
+      "id": 119,
       "name": "sgni.DistanceHidden",
       "group": "SignificanceQuality",
       "cvar": "sgni.DistanceHidden",
@@ -8521,7 +8450,7 @@
         {},
         {},
         {
-          "QualityPriority": "15000"
+          "QualityPriority": "7000"
         },
         {
           "QualityPriority": "15000"
@@ -8537,7 +8466,7 @@
         {},
         {},
         {
-          "QualityPriority": "15000"
+          "QualityPriority": "7000"
         },
         {
           "QualityPriority": "15000"
@@ -8551,7 +8480,7 @@
       ]
     },
     "sgni.TickSkipStepHidden": {
-      "id": 121,
+      "id": 120,
       "name": "sgni.TickSkipStepHidden",
       "group": "SignificanceQuality",
       "cvar": "sgni.TickSkipStepHidden",
@@ -8622,7 +8551,7 @@
       ]
     },
     "sgni.DistanceUnload": {
-      "id": 122,
+      "id": 121,
       "name": "sgni.DistanceUnload",
       "group": "SignificanceQuality",
       "cvar": "sgni.DistanceUnload",
@@ -8663,7 +8592,7 @@
         {},
         {},
         {
-          "QualityPriority": "20000"
+          "QualityPriority": "7500"
         },
         {
           "QualityPriority": "20000"
@@ -8679,7 +8608,7 @@
         {},
         {},
         {
-          "QualityPriority": "20000"
+          "QualityPriority": "7500"
         },
         {
           "QualityPriority": "20000"
@@ -8693,7 +8622,7 @@
       ]
     },
     "sgni.TickSkipStepUnload": {
-      "id": 123,
+      "id": 122,
       "name": "sgni.TickSkipStepUnload",
       "group": "SignificanceQuality",
       "cvar": "sgni.TickSkipStepUnload",
@@ -8764,7 +8693,7 @@
       ]
     },
     "sgni.InvisibleDistanceHigher": {
-      "id": 124,
+      "id": 123,
       "name": "sgni.InvisibleDistanceHigher",
       "group": "SignificanceQuality",
       "cvar": "sgni.InvisibleDistanceHigher",
@@ -8835,7 +8764,7 @@
       ]
     },
     "sgni.InvisibleDistanceHigh": {
-      "id": 125,
+      "id": 124,
       "name": "sgni.InvisibleDistanceHigh",
       "group": "SignificanceQuality",
       "cvar": "sgni.InvisibleDistanceHigh",
@@ -8906,7 +8835,7 @@
       ]
     },
     "sgni.InvisibleDistanceMedium": {
-      "id": 126,
+      "id": 125,
       "name": "sgni.InvisibleDistanceMedium",
       "group": "SignificanceQuality",
       "cvar": "sgni.InvisibleDistanceMedium",
@@ -8977,7 +8906,7 @@
       ]
     },
     "sgni.InvisibleDistanceLow": {
-      "id": 127,
+      "id": 126,
       "name": "sgni.InvisibleDistanceLow",
       "group": "SignificanceQuality",
       "cvar": "sgni.InvisibleDistanceLow",
@@ -9048,7 +8977,7 @@
       ]
     },
     "sgni.InvisibleDistanceLower": {
-      "id": 128,
+      "id": 127,
       "name": "sgni.InvisibleDistanceLower",
       "group": "SignificanceQuality",
       "cvar": "sgni.InvisibleDistanceLower",
@@ -9119,7 +9048,7 @@
       ]
     },
     "sgni.InvisibleDistanceLowest": {
-      "id": 129,
+      "id": 128,
       "name": "sgni.InvisibleDistanceLowest",
       "group": "SignificanceQuality",
       "cvar": "sgni.InvisibleDistanceLowest",
@@ -9189,2138 +9118,8 @@
         }
       ]
     },
-    "sgni.PlayerTickSkipStepHighest": {
-      "id": 130,
-      "name": "sgni.PlayerTickSkipStepHighest",
-      "group": "SignificanceQuality",
-      "cvar": "sgni.PlayerTickSkipStepHighest",
-      "valueType": "int",
-      "Qualities_PC": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ],
-      "Qualities_IOS": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ],
-      "Qualities_Android": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ],
-      "Qualities_OpenHarmony": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ]
-    },
-    "sgni.PlayerVisibleDistanceHigher": {
-      "id": 131,
-      "name": "sgni.PlayerVisibleDistanceHigher",
-      "group": "SignificanceQuality",
-      "cvar": "sgni.PlayerVisibleDistanceHigher",
-      "valueType": "float",
-      "Qualities_PC": [
-        {},
-        {},
-        {
-          "QualityPriority": "6000"
-        },
-        {
-          "QualityPriority": "6000"
-        },
-        {
-          "QualityPriority": "6000"
-        },
-        {
-          "QualityPriority": "6000"
-        }
-      ],
-      "Qualities_IOS": [
-        {},
-        {},
-        {
-          "QualityPriority": "2000"
-        },
-        {
-          "QualityPriority": "2000"
-        },
-        {
-          "QualityPriority": "2000"
-        },
-        {
-          "QualityPriority": "2000"
-        }
-      ],
-      "Qualities_Android": [
-        {},
-        {},
-        {
-          "QualityPriority": "2000"
-        },
-        {
-          "QualityPriority": "2000"
-        },
-        {
-          "QualityPriority": "2000"
-        },
-        {
-          "QualityPriority": "2000"
-        }
-      ],
-      "Qualities_OpenHarmony": [
-        {},
-        {},
-        {
-          "QualityPriority": "2000"
-        },
-        {
-          "QualityPriority": "2000"
-        },
-        {
-          "QualityPriority": "2000"
-        },
-        {
-          "QualityPriority": "2000"
-        }
-      ]
-    },
-    "sgni.PlayerTickSkipStepHigher": {
-      "id": 132,
-      "name": "sgni.PlayerTickSkipStepHigher",
-      "group": "SignificanceQuality",
-      "cvar": "sgni.PlayerTickSkipStepHigher",
-      "valueType": "int",
-      "Qualities_PC": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ],
-      "Qualities_IOS": [
-        {},
-        {},
-        {
-          "QualityPriority": "2"
-        },
-        {
-          "QualityPriority": "2"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ],
-      "Qualities_Android": [
-        {},
-        {},
-        {
-          "QualityPriority": "2"
-        },
-        {
-          "QualityPriority": "2"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ],
-      "Qualities_OpenHarmony": [
-        {},
-        {},
-        {
-          "QualityPriority": "2"
-        },
-        {
-          "QualityPriority": "2"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ]
-    },
-    "sgni.PlayerVisibleDistanceHigh": {
-      "id": 133,
-      "name": "sgni.PlayerVisibleDistanceHigh",
-      "group": "SignificanceQuality",
-      "cvar": "sgni.PlayerVisibleDistanceHigh",
-      "valueType": "float",
-      "Qualities_PC": [
-        {},
-        {},
-        {
-          "QualityPriority": "6000"
-        },
-        {
-          "QualityPriority": "6000"
-        },
-        {
-          "QualityPriority": "6000"
-        },
-        {
-          "QualityPriority": "6000"
-        }
-      ],
-      "Qualities_IOS": [
-        {},
-        {},
-        {
-          "QualityPriority": "3000"
-        },
-        {
-          "QualityPriority": "3000"
-        },
-        {
-          "QualityPriority": "3000"
-        },
-        {
-          "QualityPriority": "3000"
-        }
-      ],
-      "Qualities_Android": [
-        {},
-        {},
-        {
-          "QualityPriority": "3000"
-        },
-        {
-          "QualityPriority": "3000"
-        },
-        {
-          "QualityPriority": "3000"
-        },
-        {
-          "QualityPriority": "3000"
-        }
-      ],
-      "Qualities_OpenHarmony": [
-        {},
-        {},
-        {
-          "QualityPriority": "3000"
-        },
-        {
-          "QualityPriority": "3000"
-        },
-        {
-          "QualityPriority": "3000"
-        },
-        {
-          "QualityPriority": "3000"
-        }
-      ]
-    },
-    "sgni.PlayerTickSkipStepHigh": {
-      "id": 134,
-      "name": "sgni.PlayerTickSkipStepHigh",
-      "group": "SignificanceQuality",
-      "cvar": "sgni.PlayerTickSkipStepHigh",
-      "valueType": "int",
-      "Qualities_PC": [
-        {},
-        {},
-        {
-          "QualityPriority": "3"
-        },
-        {
-          "QualityPriority": "2"
-        },
-        {
-          "QualityPriority": "2"
-        },
-        {
-          "QualityPriority": "2"
-        }
-      ],
-      "Qualities_IOS": [
-        {},
-        {},
-        {
-          "QualityPriority": "4"
-        },
-        {
-          "QualityPriority": "3"
-        },
-        {
-          "QualityPriority": "2"
-        },
-        {
-          "QualityPriority": "2"
-        }
-      ],
-      "Qualities_Android": [
-        {},
-        {},
-        {
-          "QualityPriority": "4"
-        },
-        {
-          "QualityPriority": "3"
-        },
-        {
-          "QualityPriority": "2"
-        },
-        {
-          "QualityPriority": "2"
-        }
-      ],
-      "Qualities_OpenHarmony": [
-        {},
-        {},
-        {
-          "QualityPriority": "4"
-        },
-        {
-          "QualityPriority": "3"
-        },
-        {
-          "QualityPriority": "2"
-        },
-        {
-          "QualityPriority": "2"
-        }
-      ]
-    },
-    "sgni.PlayerVisibleDistanceMedium": {
-      "id": 135,
-      "name": "sgni.PlayerVisibleDistanceMedium",
-      "group": "SignificanceQuality",
-      "cvar": "sgni.PlayerVisibleDistanceMedium",
-      "valueType": "float",
-      "Qualities_PC": [
-        {},
-        {},
-        {
-          "QualityPriority": "8000"
-        },
-        {
-          "QualityPriority": "8000"
-        },
-        {
-          "QualityPriority": "8000"
-        },
-        {
-          "QualityPriority": "8000"
-        }
-      ],
-      "Qualities_IOS": [
-        {},
-        {},
-        {
-          "QualityPriority": "4000"
-        },
-        {
-          "QualityPriority": "4000"
-        },
-        {
-          "QualityPriority": "4000"
-        },
-        {
-          "QualityPriority": "4000"
-        }
-      ],
-      "Qualities_Android": [
-        {},
-        {},
-        {
-          "QualityPriority": "4000"
-        },
-        {
-          "QualityPriority": "4000"
-        },
-        {
-          "QualityPriority": "4000"
-        },
-        {
-          "QualityPriority": "4000"
-        }
-      ],
-      "Qualities_OpenHarmony": [
-        {},
-        {},
-        {
-          "QualityPriority": "4000"
-        },
-        {
-          "QualityPriority": "4000"
-        },
-        {
-          "QualityPriority": "4000"
-        },
-        {
-          "QualityPriority": "4000"
-        }
-      ]
-    },
-    "sgni.PlayerTickSkipStepMedium": {
-      "id": 136,
-      "name": "sgni.PlayerTickSkipStepMedium",
-      "group": "SignificanceQuality",
-      "cvar": "sgni.PlayerTickSkipStepMedium",
-      "valueType": "int",
-      "Qualities_PC": [
-        {},
-        {},
-        {
-          "QualityPriority": "4"
-        },
-        {
-          "QualityPriority": "3"
-        },
-        {
-          "QualityPriority": "3"
-        },
-        {
-          "QualityPriority": "3"
-        }
-      ],
-      "Qualities_IOS": [
-        {},
-        {},
-        {
-          "QualityPriority": "5"
-        },
-        {
-          "QualityPriority": "4"
-        },
-        {
-          "QualityPriority": "4"
-        },
-        {
-          "QualityPriority": "3"
-        }
-      ],
-      "Qualities_Android": [
-        {},
-        {},
-        {
-          "QualityPriority": "5"
-        },
-        {
-          "QualityPriority": "4"
-        },
-        {
-          "QualityPriority": "4"
-        },
-        {
-          "QualityPriority": "3"
-        }
-      ],
-      "Qualities_OpenHarmony": [
-        {},
-        {},
-        {
-          "QualityPriority": "5"
-        },
-        {
-          "QualityPriority": "4"
-        },
-        {
-          "QualityPriority": "4"
-        },
-        {
-          "QualityPriority": "3"
-        }
-      ]
-    },
-    "sgni.PlayerVisibleDistanceLow": {
-      "id": 137,
-      "name": "sgni.PlayerVisibleDistanceLow",
-      "group": "SignificanceQuality",
-      "cvar": "sgni.PlayerVisibleDistanceLow",
-      "valueType": "float",
-      "Qualities_PC": [
-        {},
-        {},
-        {
-          "QualityPriority": "10000"
-        },
-        {
-          "QualityPriority": "10000"
-        },
-        {
-          "QualityPriority": "10000"
-        },
-        {
-          "QualityPriority": "10000"
-        }
-      ],
-      "Qualities_IOS": [
-        {},
-        {},
-        {
-          "QualityPriority": "5000"
-        },
-        {
-          "QualityPriority": "5000"
-        },
-        {
-          "QualityPriority": "5000"
-        },
-        {
-          "QualityPriority": "5000"
-        }
-      ],
-      "Qualities_Android": [
-        {},
-        {},
-        {
-          "QualityPriority": "5000"
-        },
-        {
-          "QualityPriority": "5000"
-        },
-        {
-          "QualityPriority": "5000"
-        },
-        {
-          "QualityPriority": "5000"
-        }
-      ],
-      "Qualities_OpenHarmony": [
-        {},
-        {},
-        {
-          "QualityPriority": "5000"
-        },
-        {
-          "QualityPriority": "5000"
-        },
-        {
-          "QualityPriority": "5000"
-        },
-        {
-          "QualityPriority": "5000"
-        }
-      ]
-    },
-    "sgni.PlayerTickSkipStepLow": {
-      "id": 138,
-      "name": "sgni.PlayerTickSkipStepLow",
-      "group": "SignificanceQuality",
-      "cvar": "sgni.PlayerTickSkipStepLow",
-      "valueType": "int",
-      "Qualities_PC": [
-        {},
-        {},
-        {
-          "QualityPriority": "6"
-        },
-        {
-          "QualityPriority": "5"
-        },
-        {
-          "QualityPriority": "4"
-        },
-        {
-          "QualityPriority": "4"
-        }
-      ],
-      "Qualities_IOS": [
-        {},
-        {},
-        {
-          "QualityPriority": "10"
-        },
-        {
-          "QualityPriority": "10"
-        },
-        {
-          "QualityPriority": "6"
-        },
-        {
-          "QualityPriority": "5"
-        }
-      ],
-      "Qualities_Android": [
-        {},
-        {},
-        {
-          "QualityPriority": "10"
-        },
-        {
-          "QualityPriority": "10"
-        },
-        {
-          "QualityPriority": "6"
-        },
-        {
-          "QualityPriority": "5"
-        }
-      ],
-      "Qualities_OpenHarmony": [
-        {},
-        {},
-        {
-          "QualityPriority": "10"
-        },
-        {
-          "QualityPriority": "10"
-        },
-        {
-          "QualityPriority": "6"
-        },
-        {
-          "QualityPriority": "5"
-        }
-      ]
-    },
-    "sgni.PlayerVisibleDistanceLower": {
-      "id": 139,
-      "name": "sgni.PlayerVisibleDistanceLower",
-      "group": "SignificanceQuality",
-      "cvar": "sgni.PlayerVisibleDistanceLower",
-      "valueType": "float",
-      "Qualities_PC": [
-        {},
-        {},
-        {
-          "QualityPriority": "12000"
-        },
-        {
-          "QualityPriority": "12000"
-        },
-        {
-          "QualityPriority": "12000"
-        },
-        {
-          "QualityPriority": "12000"
-        }
-      ],
-      "Qualities_IOS": [
-        {},
-        {},
-        {
-          "QualityPriority": "6000"
-        },
-        {
-          "QualityPriority": "6000"
-        },
-        {
-          "QualityPriority": "6000"
-        },
-        {
-          "QualityPriority": "6000"
-        }
-      ],
-      "Qualities_Android": [
-        {},
-        {},
-        {
-          "QualityPriority": "6000"
-        },
-        {
-          "QualityPriority": "6000"
-        },
-        {
-          "QualityPriority": "6000"
-        },
-        {
-          "QualityPriority": "6000"
-        }
-      ],
-      "Qualities_OpenHarmony": [
-        {},
-        {},
-        {
-          "QualityPriority": "6000"
-        },
-        {
-          "QualityPriority": "6000"
-        },
-        {
-          "QualityPriority": "6000"
-        },
-        {
-          "QualityPriority": "6000"
-        }
-      ]
-    },
-    "sgni.PlayerTickSkipStepLower": {
-      "id": 140,
-      "name": "sgni.PlayerTickSkipStepLower",
-      "group": "SignificanceQuality",
-      "cvar": "sgni.PlayerTickSkipStepLower",
-      "valueType": "int",
-      "Qualities_PC": [
-        {},
-        {},
-        {
-          "QualityPriority": "10"
-        },
-        {
-          "QualityPriority": "10"
-        },
-        {
-          "QualityPriority": "8"
-        },
-        {
-          "QualityPriority": "6"
-        }
-      ],
-      "Qualities_IOS": [
-        {},
-        {},
-        {
-          "QualityPriority": "30"
-        },
-        {
-          "QualityPriority": "30"
-        },
-        {
-          "QualityPriority": "15"
-        },
-        {
-          "QualityPriority": "10"
-        }
-      ],
-      "Qualities_Android": [
-        {},
-        {},
-        {
-          "QualityPriority": "30"
-        },
-        {
-          "QualityPriority": "30"
-        },
-        {
-          "QualityPriority": "15"
-        },
-        {
-          "QualityPriority": "10"
-        }
-      ],
-      "Qualities_OpenHarmony": [
-        {},
-        {},
-        {
-          "QualityPriority": "30"
-        },
-        {
-          "QualityPriority": "30"
-        },
-        {
-          "QualityPriority": "15"
-        },
-        {
-          "QualityPriority": "10"
-        }
-      ]
-    },
-    "sgni.PlayerVisibleDistanceLowest": {
-      "id": 141,
-      "name": "sgni.PlayerVisibleDistanceLowest",
-      "group": "SignificanceQuality",
-      "cvar": "sgni.PlayerVisibleDistanceLowest",
-      "valueType": "float",
-      "Qualities_PC": [
-        {},
-        {},
-        {
-          "QualityPriority": "15000"
-        },
-        {
-          "QualityPriority": "15000"
-        },
-        {
-          "QualityPriority": "15000"
-        },
-        {
-          "QualityPriority": "15000"
-        }
-      ],
-      "Qualities_IOS": [
-        {},
-        {},
-        {
-          "QualityPriority": "7000"
-        },
-        {
-          "QualityPriority": "7000"
-        },
-        {
-          "QualityPriority": "7000"
-        },
-        {
-          "QualityPriority": "7000"
-        }
-      ],
-      "Qualities_Android": [
-        {},
-        {},
-        {
-          "QualityPriority": "7000"
-        },
-        {
-          "QualityPriority": "7000"
-        },
-        {
-          "QualityPriority": "7000"
-        },
-        {
-          "QualityPriority": "7000"
-        }
-      ],
-      "Qualities_OpenHarmony": [
-        {},
-        {},
-        {
-          "QualityPriority": "7000"
-        },
-        {
-          "QualityPriority": "7000"
-        },
-        {
-          "QualityPriority": "7000"
-        },
-        {
-          "QualityPriority": "7000"
-        }
-      ]
-    },
-    "sgni.PlayerTickSkipStepLowest": {
-      "id": 142,
-      "name": "sgni.PlayerTickSkipStepLowest",
-      "group": "SignificanceQuality",
-      "cvar": "sgni.PlayerTickSkipStepLowest",
-      "valueType": "int",
-      "Qualities_PC": [
-        {},
-        {},
-        {
-          "QualityPriority": "20"
-        },
-        {
-          "QualityPriority": "16"
-        },
-        {
-          "QualityPriority": "12"
-        },
-        {
-          "QualityPriority": "12"
-        }
-      ],
-      "Qualities_IOS": [
-        {},
-        {},
-        {
-          "QualityPriority": "60"
-        },
-        {
-          "QualityPriority": "30"
-        },
-        {
-          "QualityPriority": "30"
-        },
-        {
-          "QualityPriority": "30"
-        }
-      ],
-      "Qualities_Android": [
-        {},
-        {},
-        {
-          "QualityPriority": "60"
-        },
-        {
-          "QualityPriority": "30"
-        },
-        {
-          "QualityPriority": "30"
-        },
-        {
-          "QualityPriority": "30"
-        }
-      ],
-      "Qualities_OpenHarmony": [
-        {},
-        {},
-        {
-          "QualityPriority": "60"
-        },
-        {
-          "QualityPriority": "30"
-        },
-        {
-          "QualityPriority": "30"
-        },
-        {
-          "QualityPriority": "30"
-        }
-      ]
-    },
-    "sgni.PlayerDistanceHidden": {
-      "id": 143,
-      "name": "sgni.PlayerDistanceHidden",
-      "group": "SignificanceQuality",
-      "cvar": "sgni.PlayerDistanceHidden",
-      "valueType": "float",
-      "Qualities_PC": [
-        {},
-        {},
-        {
-          "QualityPriority": "8000"
-        },
-        {
-          "QualityPriority": "8000"
-        },
-        {
-          "QualityPriority": "8000"
-        },
-        {
-          "QualityPriority": "8000"
-        }
-      ],
-      "Qualities_IOS": [
-        {},
-        {},
-        {
-          "QualityPriority": "8000"
-        },
-        {
-          "QualityPriority": "8000"
-        },
-        {
-          "QualityPriority": "8000"
-        },
-        {
-          "QualityPriority": "8000"
-        }
-      ],
-      "Qualities_Android": [
-        {},
-        {},
-        {
-          "QualityPriority": "8000"
-        },
-        {
-          "QualityPriority": "8000"
-        },
-        {
-          "QualityPriority": "8000"
-        },
-        {
-          "QualityPriority": "8000"
-        }
-      ],
-      "Qualities_OpenHarmony": [
-        {},
-        {},
-        {
-          "QualityPriority": "8000"
-        },
-        {
-          "QualityPriority": "8000"
-        },
-        {
-          "QualityPriority": "8000"
-        },
-        {
-          "QualityPriority": "8000"
-        }
-      ]
-    },
-    "sgni.PlayerTickSkipStepHidden": {
-      "id": 144,
-      "name": "sgni.PlayerTickSkipStepHidden",
-      "group": "SignificanceQuality",
-      "cvar": "sgni.PlayerTickSkipStepHidden",
-      "valueType": "int",
-      "Qualities_PC": [
-        {},
-        {},
-        {
-          "QualityPriority": "60"
-        },
-        {
-          "QualityPriority": "60"
-        },
-        {
-          "QualityPriority": "60"
-        },
-        {
-          "QualityPriority": "60"
-        }
-      ],
-      "Qualities_IOS": [
-        {},
-        {},
-        {
-          "QualityPriority": "60"
-        },
-        {
-          "QualityPriority": "60"
-        },
-        {
-          "QualityPriority": "60"
-        },
-        {
-          "QualityPriority": "60"
-        }
-      ],
-      "Qualities_Android": [
-        {},
-        {},
-        {
-          "QualityPriority": "60"
-        },
-        {
-          "QualityPriority": "60"
-        },
-        {
-          "QualityPriority": "60"
-        },
-        {
-          "QualityPriority": "60"
-        }
-      ],
-      "Qualities_OpenHarmony": [
-        {},
-        {},
-        {
-          "QualityPriority": "60"
-        },
-        {
-          "QualityPriority": "60"
-        },
-        {
-          "QualityPriority": "60"
-        },
-        {
-          "QualityPriority": "60"
-        }
-      ]
-    },
-    "sgni.PlayerDistanceUnload": {
-      "id": 145,
-      "name": "sgni.PlayerDistanceUnload",
-      "group": "SignificanceQuality",
-      "cvar": "sgni.PlayerDistanceUnload",
-      "valueType": "float",
-      "Qualities_PC": [
-        {},
-        {},
-        {
-          "QualityPriority": "10000"
-        },
-        {
-          "QualityPriority": "10000"
-        },
-        {
-          "QualityPriority": "10000"
-        },
-        {
-          "QualityPriority": "10000"
-        }
-      ],
-      "Qualities_IOS": [
-        {},
-        {},
-        {
-          "QualityPriority": "10000"
-        },
-        {
-          "QualityPriority": "10000"
-        },
-        {
-          "QualityPriority": "10000"
-        },
-        {
-          "QualityPriority": "10000"
-        }
-      ],
-      "Qualities_Android": [
-        {},
-        {},
-        {
-          "QualityPriority": "10000"
-        },
-        {
-          "QualityPriority": "10000"
-        },
-        {
-          "QualityPriority": "10000"
-        },
-        {
-          "QualityPriority": "10000"
-        }
-      ],
-      "Qualities_OpenHarmony": [
-        {},
-        {},
-        {
-          "QualityPriority": "10000"
-        },
-        {
-          "QualityPriority": "10000"
-        },
-        {
-          "QualityPriority": "10000"
-        },
-        {
-          "QualityPriority": "10000"
-        }
-      ]
-    },
-    "sgni.PlayerTickSkipStepUnload": {
-      "id": 146,
-      "name": "sgni.PlayerTickSkipStepUnload",
-      "group": "SignificanceQuality",
-      "cvar": "sgni.PlayerTickSkipStepUnload",
-      "valueType": "float",
-      "Qualities_PC": [
-        {},
-        {},
-        {
-          "QualityPriority": "120"
-        },
-        {
-          "QualityPriority": "120"
-        },
-        {
-          "QualityPriority": "120"
-        },
-        {
-          "QualityPriority": "120"
-        }
-      ],
-      "Qualities_IOS": [
-        {},
-        {},
-        {
-          "QualityPriority": "120"
-        },
-        {
-          "QualityPriority": "120"
-        },
-        {
-          "QualityPriority": "120"
-        },
-        {
-          "QualityPriority": "120"
-        }
-      ],
-      "Qualities_Android": [
-        {},
-        {},
-        {
-          "QualityPriority": "120"
-        },
-        {
-          "QualityPriority": "120"
-        },
-        {
-          "QualityPriority": "120"
-        },
-        {
-          "QualityPriority": "120"
-        }
-      ],
-      "Qualities_OpenHarmony": [
-        {},
-        {},
-        {
-          "QualityPriority": "120"
-        },
-        {
-          "QualityPriority": "120"
-        },
-        {
-          "QualityPriority": "120"
-        },
-        {
-          "QualityPriority": "120"
-        }
-      ]
-    },
-    "sgni.PlayerInvisibleDistanceHigher": {
-      "id": 147,
-      "name": "sgni.PlayerInvisibleDistanceHigher",
-      "group": "SignificanceQuality",
-      "cvar": "sgni.PlayerInvisibleDistanceHigher",
-      "valueType": "float",
-      "Qualities_PC": [
-        {},
-        {},
-        {
-          "QualityPriority": "100"
-        },
-        {
-          "QualityPriority": "100"
-        },
-        {
-          "QualityPriority": "100"
-        },
-        {
-          "QualityPriority": "100"
-        }
-      ],
-      "Qualities_IOS": [
-        {},
-        {},
-        {
-          "QualityPriority": "100"
-        },
-        {
-          "QualityPriority": "100"
-        },
-        {
-          "QualityPriority": "100"
-        },
-        {
-          "QualityPriority": "100"
-        }
-      ],
-      "Qualities_Android": [
-        {},
-        {},
-        {
-          "QualityPriority": "100"
-        },
-        {
-          "QualityPriority": "100"
-        },
-        {
-          "QualityPriority": "100"
-        },
-        {
-          "QualityPriority": "100"
-        }
-      ],
-      "Qualities_OpenHarmony": [
-        {},
-        {},
-        {
-          "QualityPriority": "100"
-        },
-        {
-          "QualityPriority": "100"
-        },
-        {
-          "QualityPriority": "100"
-        },
-        {
-          "QualityPriority": "100"
-        }
-      ]
-    },
-    "sgni.PlayerInvisibleDistanceHigh": {
-      "id": 148,
-      "name": "sgni.PlayerInvisibleDistanceHigh",
-      "group": "SignificanceQuality",
-      "cvar": "sgni.PlayerInvisibleDistanceHigh",
-      "valueType": "float",
-      "Qualities_PC": [
-        {},
-        {},
-        {
-          "QualityPriority": "200"
-        },
-        {
-          "QualityPriority": "200"
-        },
-        {
-          "QualityPriority": "200"
-        },
-        {
-          "QualityPriority": "200"
-        }
-      ],
-      "Qualities_IOS": [
-        {},
-        {},
-        {
-          "QualityPriority": "200"
-        },
-        {
-          "QualityPriority": "200"
-        },
-        {
-          "QualityPriority": "200"
-        },
-        {
-          "QualityPriority": "200"
-        }
-      ],
-      "Qualities_Android": [
-        {},
-        {},
-        {
-          "QualityPriority": "200"
-        },
-        {
-          "QualityPriority": "200"
-        },
-        {
-          "QualityPriority": "200"
-        },
-        {
-          "QualityPriority": "200"
-        }
-      ],
-      "Qualities_OpenHarmony": [
-        {},
-        {},
-        {
-          "QualityPriority": "200"
-        },
-        {
-          "QualityPriority": "200"
-        },
-        {
-          "QualityPriority": "200"
-        },
-        {
-          "QualityPriority": "200"
-        }
-      ]
-    },
-    "sgni.PlayerInvisibleDistanceMedium": {
-      "id": 149,
-      "name": "sgni.PlayerInvisibleDistanceMedium",
-      "group": "SignificanceQuality",
-      "cvar": "sgni.PlayerInvisibleDistanceMedium",
-      "valueType": "float",
-      "Qualities_PC": [
-        {},
-        {},
-        {
-          "QualityPriority": "600"
-        },
-        {
-          "QualityPriority": "600"
-        },
-        {
-          "QualityPriority": "600"
-        },
-        {
-          "QualityPriority": "600"
-        }
-      ],
-      "Qualities_IOS": [
-        {},
-        {},
-        {
-          "QualityPriority": "600"
-        },
-        {
-          "QualityPriority": "600"
-        },
-        {
-          "QualityPriority": "600"
-        },
-        {
-          "QualityPriority": "600"
-        }
-      ],
-      "Qualities_Android": [
-        {},
-        {},
-        {
-          "QualityPriority": "600"
-        },
-        {
-          "QualityPriority": "600"
-        },
-        {
-          "QualityPriority": "600"
-        },
-        {
-          "QualityPriority": "600"
-        }
-      ],
-      "Qualities_OpenHarmony": [
-        {},
-        {},
-        {
-          "QualityPriority": "600"
-        },
-        {
-          "QualityPriority": "600"
-        },
-        {
-          "QualityPriority": "600"
-        },
-        {
-          "QualityPriority": "600"
-        }
-      ]
-    },
-    "sgni.PlayerInvisibleDistanceLow": {
-      "id": 150,
-      "name": "sgni.PlayerInvisibleDistanceLow",
-      "group": "SignificanceQuality",
-      "cvar": "sgni.PlayerInvisibleDistanceLow",
-      "valueType": "float",
-      "Qualities_PC": [
-        {},
-        {},
-        {
-          "QualityPriority": "2000"
-        },
-        {
-          "QualityPriority": "2000"
-        },
-        {
-          "QualityPriority": "2000"
-        },
-        {
-          "QualityPriority": "2000"
-        }
-      ],
-      "Qualities_IOS": [
-        {},
-        {},
-        {
-          "QualityPriority": "2000"
-        },
-        {
-          "QualityPriority": "2000"
-        },
-        {
-          "QualityPriority": "2000"
-        },
-        {
-          "QualityPriority": "2000"
-        }
-      ],
-      "Qualities_Android": [
-        {},
-        {},
-        {
-          "QualityPriority": "2000"
-        },
-        {
-          "QualityPriority": "2000"
-        },
-        {
-          "QualityPriority": "2000"
-        },
-        {
-          "QualityPriority": "2000"
-        }
-      ],
-      "Qualities_OpenHarmony": [
-        {},
-        {},
-        {
-          "QualityPriority": "2000"
-        },
-        {
-          "QualityPriority": "2000"
-        },
-        {
-          "QualityPriority": "2000"
-        },
-        {
-          "QualityPriority": "2000"
-        }
-      ]
-    },
-    "sgni.PlayerInvisibleDistanceLower": {
-      "id": 151,
-      "name": "sgni.PlayerInvisibleDistanceLower",
-      "group": "SignificanceQuality",
-      "cvar": "sgni.PlayerInvisibleDistanceLower",
-      "valueType": "float",
-      "Qualities_PC": [
-        {},
-        {},
-        {
-          "QualityPriority": "3000"
-        },
-        {
-          "QualityPriority": "3000"
-        },
-        {
-          "QualityPriority": "3000"
-        },
-        {
-          "QualityPriority": "3000"
-        }
-      ],
-      "Qualities_IOS": [
-        {},
-        {},
-        {
-          "QualityPriority": "3000"
-        },
-        {
-          "QualityPriority": "3000"
-        },
-        {
-          "QualityPriority": "3000"
-        },
-        {
-          "QualityPriority": "3000"
-        }
-      ],
-      "Qualities_Android": [
-        {},
-        {},
-        {
-          "QualityPriority": "3000"
-        },
-        {
-          "QualityPriority": "3000"
-        },
-        {
-          "QualityPriority": "3000"
-        },
-        {
-          "QualityPriority": "3000"
-        }
-      ],
-      "Qualities_OpenHarmony": [
-        {},
-        {},
-        {
-          "QualityPriority": "3000"
-        },
-        {
-          "QualityPriority": "3000"
-        },
-        {
-          "QualityPriority": "3000"
-        },
-        {
-          "QualityPriority": "3000"
-        }
-      ]
-    },
-    "sgni.PlayerInvisibleDistanceLowest": {
-      "id": 152,
-      "name": "sgni.PlayerInvisibleDistanceLowest",
-      "group": "SignificanceQuality",
-      "cvar": "sgni.PlayerInvisibleDistanceLowest",
-      "valueType": "float",
-      "Qualities_PC": [
-        {},
-        {},
-        {
-          "QualityPriority": "4000"
-        },
-        {
-          "QualityPriority": "4000"
-        },
-        {
-          "QualityPriority": "4000"
-        },
-        {
-          "QualityPriority": "4000"
-        }
-      ],
-      "Qualities_IOS": [
-        {},
-        {},
-        {
-          "QualityPriority": "4000"
-        },
-        {
-          "QualityPriority": "4000"
-        },
-        {
-          "QualityPriority": "4000"
-        },
-        {
-          "QualityPriority": "4000"
-        }
-      ],
-      "Qualities_Android": [
-        {},
-        {},
-        {
-          "QualityPriority": "4000"
-        },
-        {
-          "QualityPriority": "4000"
-        },
-        {
-          "QualityPriority": "4000"
-        },
-        {
-          "QualityPriority": "4000"
-        }
-      ],
-      "Qualities_OpenHarmony": [
-        {},
-        {},
-        {
-          "QualityPriority": "4000"
-        },
-        {
-          "QualityPriority": "4000"
-        },
-        {
-          "QualityPriority": "4000"
-        },
-        {
-          "QualityPriority": "4000"
-        }
-      ]
-    },
-    "sgni.PlayerTickLimitHighest": {
-      "id": 153,
-      "name": "sgni.PlayerTickLimitHighest",
-      "group": "SignificanceQuality",
-      "cvar": "sgni.PlayerTickLimitHighest",
-      "valueType": "int",
-      "Qualities_PC": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "2"
-        }
-      ],
-      "Qualities_IOS": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "2"
-        }
-      ],
-      "Qualities_Android": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "2"
-        }
-      ],
-      "Qualities_OpenHarmony": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "2"
-        }
-      ]
-    },
-    "sgni.PlayerTickLimitHigher": {
-      "id": 154,
-      "name": "sgni.PlayerTickLimitHigher",
-      "group": "SignificanceQuality",
-      "cvar": "sgni.PlayerTickLimitHigher",
-      "valueType": "int",
-      "Qualities_PC": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ],
-      "Qualities_IOS": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ],
-      "Qualities_Android": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ],
-      "Qualities_OpenHarmony": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ]
-    },
-    "sgni.PlayerTickLimitHigh": {
-      "id": 155,
-      "name": "sgni.PlayerTickLimitHigh",
-      "group": "SignificanceQuality",
-      "cvar": "sgni.PlayerTickLimitHigh",
-      "valueType": "int",
-      "Qualities_PC": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "2"
-        },
-        {
-          "QualityPriority": "2"
-        }
-      ],
-      "Qualities_IOS": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "2"
-        },
-        {
-          "QualityPriority": "2"
-        }
-      ],
-      "Qualities_Android": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "2"
-        },
-        {
-          "QualityPriority": "2"
-        }
-      ],
-      "Qualities_OpenHarmony": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "2"
-        },
-        {
-          "QualityPriority": "2"
-        }
-      ]
-    },
-    "sgni.PlayerTickLimitMedium": {
-      "id": 156,
-      "name": "sgni.PlayerTickLimitMedium",
-      "group": "SignificanceQuality",
-      "cvar": "sgni.PlayerTickLimitMedium",
-      "valueType": "int",
-      "Qualities_PC": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "2"
-        },
-        {
-          "QualityPriority": "2"
-        },
-        {
-          "QualityPriority": "2"
-        }
-      ],
-      "Qualities_IOS": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "2"
-        },
-        {
-          "QualityPriority": "2"
-        },
-        {
-          "QualityPriority": "2"
-        }
-      ],
-      "Qualities_Android": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "2"
-        },
-        {
-          "QualityPriority": "2"
-        },
-        {
-          "QualityPriority": "2"
-        }
-      ],
-      "Qualities_OpenHarmony": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "2"
-        },
-        {
-          "QualityPriority": "2"
-        },
-        {
-          "QualityPriority": "2"
-        }
-      ]
-    },
-    "sgni.PlayerTickLimitLow": {
-      "id": 157,
-      "name": "sgni.PlayerTickLimitLow",
-      "group": "SignificanceQuality",
-      "cvar": "sgni.PlayerTickLimitLow",
-      "valueType": "int",
-      "Qualities_PC": [
-        {},
-        {},
-        {
-          "QualityPriority": "2"
-        },
-        {
-          "QualityPriority": "2"
-        },
-        {
-          "QualityPriority": "2"
-        },
-        {
-          "QualityPriority": "2"
-        }
-      ],
-      "Qualities_IOS": [
-        {},
-        {},
-        {
-          "QualityPriority": "2"
-        },
-        {
-          "QualityPriority": "2"
-        },
-        {
-          "QualityPriority": "2"
-        },
-        {
-          "QualityPriority": "2"
-        }
-      ],
-      "Qualities_Android": [
-        {},
-        {},
-        {
-          "QualityPriority": "2"
-        },
-        {
-          "QualityPriority": "2"
-        },
-        {
-          "QualityPriority": "2"
-        },
-        {
-          "QualityPriority": "2"
-        }
-      ],
-      "Qualities_OpenHarmony": [
-        {},
-        {},
-        {
-          "QualityPriority": "2"
-        },
-        {
-          "QualityPriority": "2"
-        },
-        {
-          "QualityPriority": "2"
-        },
-        {
-          "QualityPriority": "2"
-        }
-      ]
-    },
-    "sgni.PlayerTickLimitLower": {
-      "id": 158,
-      "name": "sgni.PlayerTickLimitLower",
-      "group": "SignificanceQuality",
-      "cvar": "sgni.PlayerTickLimitLower",
-      "valueType": "int",
-      "Qualities_PC": [
-        {},
-        {},
-        {
-          "QualityPriority": "2"
-        },
-        {
-          "QualityPriority": "2"
-        },
-        {
-          "QualityPriority": "2"
-        },
-        {
-          "QualityPriority": "2"
-        }
-      ],
-      "Qualities_IOS": [
-        {},
-        {},
-        {
-          "QualityPriority": "2"
-        },
-        {
-          "QualityPriority": "2"
-        },
-        {
-          "QualityPriority": "2"
-        },
-        {
-          "QualityPriority": "2"
-        }
-      ],
-      "Qualities_Android": [
-        {},
-        {},
-        {
-          "QualityPriority": "2"
-        },
-        {
-          "QualityPriority": "2"
-        },
-        {
-          "QualityPriority": "2"
-        },
-        {
-          "QualityPriority": "2"
-        }
-      ],
-      "Qualities_OpenHarmony": [
-        {},
-        {},
-        {
-          "QualityPriority": "2"
-        },
-        {
-          "QualityPriority": "2"
-        },
-        {
-          "QualityPriority": "2"
-        },
-        {
-          "QualityPriority": "2"
-        }
-      ]
-    },
-    "sgni.PlayerTickLimitLowest": {
-      "id": 159,
-      "name": "sgni.PlayerTickLimitLowest",
-      "group": "SignificanceQuality",
-      "cvar": "sgni.PlayerTickLimitLowest",
-      "valueType": "int",
-      "Qualities_PC": [
-        {},
-        {},
-        {
-          "QualityPriority": "5"
-        },
-        {
-          "QualityPriority": "5"
-        },
-        {
-          "QualityPriority": "5"
-        },
-        {
-          "QualityPriority": "5"
-        }
-      ],
-      "Qualities_IOS": [
-        {},
-        {},
-        {
-          "QualityPriority": "5"
-        },
-        {
-          "QualityPriority": "5"
-        },
-        {
-          "QualityPriority": "5"
-        },
-        {
-          "QualityPriority": "5"
-        }
-      ],
-      "Qualities_Android": [
-        {},
-        {},
-        {
-          "QualityPriority": "5"
-        },
-        {
-          "QualityPriority": "5"
-        },
-        {
-          "QualityPriority": "5"
-        },
-        {
-          "QualityPriority": "5"
-        }
-      ],
-      "Qualities_OpenHarmony": [
-        {},
-        {},
-        {
-          "QualityPriority": "5"
-        },
-        {
-          "QualityPriority": "5"
-        },
-        {
-          "QualityPriority": "5"
-        },
-        {
-          "QualityPriority": "5"
-        }
-      ]
-    },
     "sgni.CharacterTickLimitHighest": {
-      "id": 160,
+      "id": 129,
       "name": "sgni.CharacterTickLimitHighest",
       "group": "SignificanceQuality",
       "cvar": "sgni.CharacterTickLimitHighest",
@@ -11391,7 +9190,7 @@
       ]
     },
     "sgni.CharacterTickLimitHigher": {
-      "id": 161,
+      "id": 130,
       "name": "sgni.CharacterTickLimitHigher",
       "group": "SignificanceQuality",
       "cvar": "sgni.CharacterTickLimitHigher",
@@ -11462,7 +9261,7 @@
       ]
     },
     "sgni.CharacterTickLimitHigh": {
-      "id": 162,
+      "id": 131,
       "name": "sgni.CharacterTickLimitHigh",
       "group": "SignificanceQuality",
       "cvar": "sgni.CharacterTickLimitHigh",
@@ -11533,7 +9332,7 @@
       ]
     },
     "sgni.CharacterTickLimitMedium": {
-      "id": 163,
+      "id": 132,
       "name": "sgni.CharacterTickLimitMedium",
       "group": "SignificanceQuality",
       "cvar": "sgni.CharacterTickLimitMedium",
@@ -11604,7 +9403,7 @@
       ]
     },
     "sgni.CharacterTickLimitLow_Mobile": {
-      "id": 164,
+      "id": 133,
       "name": "sgni.CharacterTickLimitLow_Mobile",
       "group": "SignificanceQuality",
       "cvar": "sgni.CharacterTickLimitLow",
@@ -11675,7 +9474,7 @@
       ]
     },
     "sgni.CharacterTickLimitLower_Mobile": {
-      "id": 165,
+      "id": 134,
       "name": "sgni.CharacterTickLimitLower_Mobile",
       "group": "SignificanceQuality",
       "cvar": "sgni.CharacterTickLimitLower",
@@ -11746,7 +9545,7 @@
       ]
     },
     "sgni.CharacterTickLimitLowest_Mobile": {
-      "id": 166,
+      "id": 135,
       "name": "sgni.CharacterTickLimitLowest_Mobile",
       "group": "SignificanceQuality",
       "cvar": "sgni.CharacterTickLimitLowest",
@@ -11816,505 +9615,8 @@
         }
       ]
     },
-    "sgni.ActorTickLimitHighest": {
-      "id": 167,
-      "name": "sgni.ActorTickLimitHighest",
-      "group": "SignificanceQuality",
-      "cvar": "sgni.ActorTickLimitHighest",
-      "valueType": "int",
-      "Qualities_PC": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "2"
-        },
-        {
-          "QualityPriority": "2"
-        }
-      ],
-      "Qualities_IOS": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "2"
-        },
-        {
-          "QualityPriority": "2"
-        }
-      ],
-      "Qualities_Android": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "2"
-        },
-        {
-          "QualityPriority": "2"
-        }
-      ],
-      "Qualities_OpenHarmony": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "2"
-        },
-        {
-          "QualityPriority": "2"
-        }
-      ]
-    },
-    "sgni.ActorTickLimitHigher": {
-      "id": 168,
-      "name": "sgni.ActorTickLimitHigher",
-      "group": "SignificanceQuality",
-      "cvar": "sgni.ActorTickLimitHigher",
-      "valueType": "int",
-      "Qualities_PC": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "2"
-        },
-        {
-          "QualityPriority": "2"
-        }
-      ],
-      "Qualities_IOS": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "2"
-        },
-        {
-          "QualityPriority": "2"
-        }
-      ],
-      "Qualities_Android": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "2"
-        },
-        {
-          "QualityPriority": "2"
-        }
-      ],
-      "Qualities_OpenHarmony": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "2"
-        },
-        {
-          "QualityPriority": "2"
-        }
-      ]
-    },
-    "sgni.ActorTickLimitHigh": {
-      "id": 169,
-      "name": "sgni.ActorTickLimitHigh",
-      "group": "SignificanceQuality",
-      "cvar": "sgni.ActorTickLimitHigh",
-      "valueType": "int",
-      "Qualities_PC": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "2"
-        },
-        {
-          "QualityPriority": "2"
-        },
-        {
-          "QualityPriority": "2"
-        }
-      ],
-      "Qualities_IOS": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "2"
-        },
-        {
-          "QualityPriority": "2"
-        },
-        {
-          "QualityPriority": "2"
-        }
-      ],
-      "Qualities_Android": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "2"
-        },
-        {
-          "QualityPriority": "2"
-        },
-        {
-          "QualityPriority": "2"
-        }
-      ],
-      "Qualities_OpenHarmony": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "2"
-        },
-        {
-          "QualityPriority": "2"
-        },
-        {
-          "QualityPriority": "2"
-        }
-      ]
-    },
-    "sgni.ActorTickLimitMedium": {
-      "id": 170,
-      "name": "sgni.ActorTickLimitMedium",
-      "group": "SignificanceQuality",
-      "cvar": "sgni.ActorTickLimitMedium",
-      "valueType": "int",
-      "Qualities_PC": [
-        {},
-        {},
-        {
-          "QualityPriority": "2"
-        },
-        {
-          "QualityPriority": "3"
-        },
-        {
-          "QualityPriority": "3"
-        },
-        {
-          "QualityPriority": "3"
-        }
-      ],
-      "Qualities_IOS": [
-        {},
-        {},
-        {
-          "QualityPriority": "2"
-        },
-        {
-          "QualityPriority": "3"
-        },
-        {
-          "QualityPriority": "3"
-        },
-        {
-          "QualityPriority": "3"
-        }
-      ],
-      "Qualities_Android": [
-        {},
-        {},
-        {
-          "QualityPriority": "2"
-        },
-        {
-          "QualityPriority": "3"
-        },
-        {
-          "QualityPriority": "3"
-        },
-        {
-          "QualityPriority": "3"
-        }
-      ],
-      "Qualities_OpenHarmony": [
-        {},
-        {},
-        {
-          "QualityPriority": "2"
-        },
-        {
-          "QualityPriority": "3"
-        },
-        {
-          "QualityPriority": "3"
-        },
-        {
-          "QualityPriority": "3"
-        }
-      ]
-    },
-    "sgni.ActorTickLimitLow": {
-      "id": 171,
-      "name": "sgni.ActorTickLimitLow",
-      "group": "SignificanceQuality",
-      "cvar": "sgni.ActorTickLimitLow",
-      "valueType": "int",
-      "Qualities_PC": [
-        {},
-        {},
-        {
-          "QualityPriority": "3"
-        },
-        {
-          "QualityPriority": "5"
-        },
-        {
-          "QualityPriority": "5"
-        },
-        {
-          "QualityPriority": "5"
-        }
-      ],
-      "Qualities_IOS": [
-        {},
-        {},
-        {
-          "QualityPriority": "3"
-        },
-        {
-          "QualityPriority": "5"
-        },
-        {
-          "QualityPriority": "5"
-        },
-        {
-          "QualityPriority": "5"
-        }
-      ],
-      "Qualities_Android": [
-        {},
-        {},
-        {
-          "QualityPriority": "3"
-        },
-        {
-          "QualityPriority": "5"
-        },
-        {
-          "QualityPriority": "5"
-        },
-        {
-          "QualityPriority": "5"
-        }
-      ],
-      "Qualities_OpenHarmony": [
-        {},
-        {},
-        {
-          "QualityPriority": "3"
-        },
-        {
-          "QualityPriority": "5"
-        },
-        {
-          "QualityPriority": "5"
-        },
-        {
-          "QualityPriority": "5"
-        }
-      ]
-    },
-    "sgni.ActorTickLimitLower": {
-      "id": 172,
-      "name": "sgni.ActorTickLimitLower",
-      "group": "SignificanceQuality",
-      "cvar": "sgni.ActorTickLimitLower",
-      "valueType": "int",
-      "Qualities_PC": [
-        {},
-        {},
-        {
-          "QualityPriority": "5"
-        },
-        {
-          "QualityPriority": "5"
-        },
-        {
-          "QualityPriority": "5"
-        },
-        {
-          "QualityPriority": "5"
-        }
-      ],
-      "Qualities_IOS": [
-        {},
-        {},
-        {
-          "QualityPriority": "5"
-        },
-        {
-          "QualityPriority": "5"
-        },
-        {
-          "QualityPriority": "5"
-        },
-        {
-          "QualityPriority": "5"
-        }
-      ],
-      "Qualities_Android": [
-        {},
-        {},
-        {
-          "QualityPriority": "5"
-        },
-        {
-          "QualityPriority": "5"
-        },
-        {
-          "QualityPriority": "5"
-        },
-        {
-          "QualityPriority": "5"
-        }
-      ],
-      "Qualities_OpenHarmony": [
-        {},
-        {},
-        {
-          "QualityPriority": "5"
-        },
-        {
-          "QualityPriority": "5"
-        },
-        {
-          "QualityPriority": "5"
-        },
-        {
-          "QualityPriority": "5"
-        }
-      ]
-    },
-    "sgni.ActorTickLimitLowest": {
-      "id": 173,
-      "name": "sgni.ActorTickLimitLowest",
-      "group": "SignificanceQuality",
-      "cvar": "sgni.ActorTickLimitLowest",
-      "valueType": "int",
-      "Qualities_PC": [
-        {},
-        {},
-        {
-          "QualityPriority": "5"
-        },
-        {
-          "QualityPriority": "5"
-        },
-        {
-          "QualityPriority": "5"
-        },
-        {
-          "QualityPriority": "5"
-        }
-      ],
-      "Qualities_IOS": [
-        {},
-        {},
-        {
-          "QualityPriority": "5"
-        },
-        {
-          "QualityPriority": "5"
-        },
-        {
-          "QualityPriority": "5"
-        },
-        {
-          "QualityPriority": "5"
-        }
-      ],
-      "Qualities_Android": [
-        {},
-        {},
-        {
-          "QualityPriority": "5"
-        },
-        {
-          "QualityPriority": "5"
-        },
-        {
-          "QualityPriority": "5"
-        },
-        {
-          "QualityPriority": "5"
-        }
-      ],
-      "Qualities_OpenHarmony": [
-        {},
-        {},
-        {
-          "QualityPriority": "5"
-        },
-        {
-          "QualityPriority": "5"
-        },
-        {
-          "QualityPriority": "5"
-        },
-        {
-          "QualityPriority": "5"
-        }
-      ]
-    },
     "sgni.SceneActorTickLimitHighest": {
-      "id": 174,
+      "id": 136,
       "name": "sgni.SceneActorTickLimitHighest",
       "group": "SignificanceQuality",
       "cvar": "sgni.SceneActorTickLimitHighest",
@@ -12385,7 +9687,7 @@
       ]
     },
     "sgni.SceneActorTickLimitHigher": {
-      "id": 175,
+      "id": 137,
       "name": "sgni.SceneActorTickLimitHigher",
       "group": "SignificanceQuality",
       "cvar": "sgni.SceneActorTickLimitHigher",
@@ -12456,7 +9758,7 @@
       ]
     },
     "sgni.SceneActorTickLimitHigh": {
-      "id": 176,
+      "id": 138,
       "name": "sgni.SceneActorTickLimitHigh",
       "group": "SignificanceQuality",
       "cvar": "sgni.SceneActorTickLimitHigh",
@@ -12527,7 +9829,7 @@
       ]
     },
     "sgni.SceneActorTickLimitMedium": {
-      "id": 177,
+      "id": 139,
       "name": "sgni.SceneActorTickLimitMedium",
       "group": "SignificanceQuality",
       "cvar": "sgni.SceneActorTickLimitMedium",
@@ -12598,7 +9900,7 @@
       ]
     },
     "sgni.SceneActorTickLimitLow": {
-      "id": 178,
+      "id": 140,
       "name": "sgni.SceneActorTickLimitLow",
       "group": "SignificanceQuality",
       "cvar": "sgni.SceneActorTickLimitLow",
@@ -12669,7 +9971,7 @@
       ]
     },
     "sgni.SceneActorTickLimitLower": {
-      "id": 179,
+      "id": 141,
       "name": "sgni.SceneActorTickLimitLower",
       "group": "SignificanceQuality",
       "cvar": "sgni.SceneActorTickLimitLower",
@@ -12740,7 +10042,7 @@
       ]
     },
     "sgni.SceneActorTickLimitLowest": {
-      "id": 180,
+      "id": 142,
       "name": "sgni.SceneActorTickLimitLowest",
       "group": "SignificanceQuality",
       "cvar": "sgni.SceneActorTickLimitLowest",
@@ -12810,363 +10112,8 @@
         }
       ]
     },
-    "sgni.BudgetFactorLOD1": {
-      "id": 181,
-      "name": "sgni.BudgetFactorLOD1",
-      "group": "SignificanceQuality",
-      "cvar": "sgni.BudgetFactorLOD1",
-      "valueType": "float",
-      "Qualities_PC": [
-        {},
-        {},
-        {
-          "QualityPriority": "0.5"
-        },
-        {
-          "QualityPriority": "0.5"
-        },
-        {
-          "QualityPriority": "0.5"
-        },
-        {
-          "QualityPriority": "0.5"
-        }
-      ],
-      "Qualities_IOS": [
-        {},
-        {},
-        {
-          "QualityPriority": "0.5"
-        },
-        {
-          "QualityPriority": "0.5"
-        },
-        {
-          "QualityPriority": "0.5"
-        },
-        {
-          "QualityPriority": "0.5"
-        }
-      ],
-      "Qualities_Android": [
-        {},
-        {},
-        {
-          "QualityPriority": "0.5"
-        },
-        {
-          "QualityPriority": "0.5"
-        },
-        {
-          "QualityPriority": "0.5"
-        },
-        {
-          "QualityPriority": "0.5"
-        }
-      ],
-      "Qualities_OpenHarmony": [
-        {},
-        {},
-        {
-          "QualityPriority": "0.5"
-        },
-        {
-          "QualityPriority": "0.5"
-        },
-        {
-          "QualityPriority": "0.5"
-        },
-        {
-          "QualityPriority": "0.5"
-        }
-      ]
-    },
-    "sgni.BudgetFactorLOD2": {
-      "id": 182,
-      "name": "sgni.BudgetFactorLOD2",
-      "group": "SignificanceQuality",
-      "cvar": "sgni.BudgetFactorLOD2",
-      "valueType": "float",
-      "Qualities_PC": [
-        {},
-        {},
-        {
-          "QualityPriority": "0.25"
-        },
-        {
-          "QualityPriority": "0.25"
-        },
-        {
-          "QualityPriority": "0.25"
-        },
-        {
-          "QualityPriority": "0.26"
-        }
-      ],
-      "Qualities_IOS": [
-        {},
-        {},
-        {
-          "QualityPriority": "0.25"
-        },
-        {
-          "QualityPriority": "0.25"
-        },
-        {
-          "QualityPriority": "0.25"
-        },
-        {
-          "QualityPriority": "0.26"
-        }
-      ],
-      "Qualities_Android": [
-        {},
-        {},
-        {
-          "QualityPriority": "0.25"
-        },
-        {
-          "QualityPriority": "0.25"
-        },
-        {
-          "QualityPriority": "0.25"
-        },
-        {
-          "QualityPriority": "0.26"
-        }
-      ],
-      "Qualities_OpenHarmony": [
-        {},
-        {},
-        {
-          "QualityPriority": "0.25"
-        },
-        {
-          "QualityPriority": "0.25"
-        },
-        {
-          "QualityPriority": "0.25"
-        },
-        {
-          "QualityPriority": "0.26"
-        }
-      ]
-    },
-    "sgni.BudgetFactorLOD3": {
-      "id": 183,
-      "name": "sgni.BudgetFactorLOD3",
-      "group": "SignificanceQuality",
-      "cvar": "sgni.BudgetFactorLOD3",
-      "valueType": "float",
-      "Qualities_PC": [
-        {},
-        {},
-        {
-          "QualityPriority": "0.125"
-        },
-        {
-          "QualityPriority": "0.125"
-        },
-        {
-          "QualityPriority": "0.125"
-        },
-        {
-          "QualityPriority": "0.125"
-        }
-      ],
-      "Qualities_IOS": [
-        {},
-        {},
-        {
-          "QualityPriority": "0.125"
-        },
-        {
-          "QualityPriority": "0.125"
-        },
-        {
-          "QualityPriority": "0.125"
-        },
-        {
-          "QualityPriority": "0.125"
-        }
-      ],
-      "Qualities_Android": [
-        {},
-        {},
-        {
-          "QualityPriority": "0.125"
-        },
-        {
-          "QualityPriority": "0.125"
-        },
-        {
-          "QualityPriority": "0.125"
-        },
-        {
-          "QualityPriority": "0.125"
-        }
-      ],
-      "Qualities_OpenHarmony": [
-        {},
-        {},
-        {
-          "QualityPriority": "0.125"
-        },
-        {
-          "QualityPriority": "0.125"
-        },
-        {
-          "QualityPriority": "0.125"
-        },
-        {
-          "QualityPriority": "0.125"
-        }
-      ]
-    },
-    "sgni.BudgetFactorLOD4": {
-      "id": 184,
-      "name": "sgni.BudgetFactorLOD4",
-      "group": "SignificanceQuality",
-      "cvar": "sgni.BudgetFactorLOD4",
-      "valueType": "float",
-      "Qualities_PC": [
-        {},
-        {},
-        {
-          "QualityPriority": "0.0625"
-        },
-        {
-          "QualityPriority": "0.0625"
-        },
-        {
-          "QualityPriority": "0.0625"
-        },
-        {
-          "QualityPriority": "0.0625"
-        }
-      ],
-      "Qualities_IOS": [
-        {},
-        {},
-        {
-          "QualityPriority": "0.0625"
-        },
-        {
-          "QualityPriority": "0.0625"
-        },
-        {
-          "QualityPriority": "0.0625"
-        },
-        {
-          "QualityPriority": "0.0625"
-        }
-      ],
-      "Qualities_Android": [
-        {},
-        {},
-        {
-          "QualityPriority": "0.0625"
-        },
-        {
-          "QualityPriority": "0.0625"
-        },
-        {
-          "QualityPriority": "0.0625"
-        },
-        {
-          "QualityPriority": "0.0625"
-        }
-      ],
-      "Qualities_OpenHarmony": [
-        {},
-        {},
-        {
-          "QualityPriority": "0.0625"
-        },
-        {
-          "QualityPriority": "0.0625"
-        },
-        {
-          "QualityPriority": "0.0625"
-        },
-        {
-          "QualityPriority": "0.0625"
-        }
-      ]
-    },
-    "sgni.BudgetFactorLOD5": {
-      "id": 185,
-      "name": "sgni.BudgetFactorLOD5",
-      "group": "SignificanceQuality",
-      "cvar": "sgni.BudgetFactorLOD5",
-      "valueType": "float",
-      "Qualities_PC": [
-        {},
-        {},
-        {
-          "QualityPriority": "0.03025"
-        },
-        {
-          "QualityPriority": "0.03025"
-        },
-        {
-          "QualityPriority": "0.03025"
-        },
-        {
-          "QualityPriority": "0.03025"
-        }
-      ],
-      "Qualities_IOS": [
-        {},
-        {},
-        {
-          "QualityPriority": "0.03025"
-        },
-        {
-          "QualityPriority": "0.03025"
-        },
-        {
-          "QualityPriority": "0.03025"
-        },
-        {
-          "QualityPriority": "0.03025"
-        }
-      ],
-      "Qualities_Android": [
-        {},
-        {},
-        {
-          "QualityPriority": "0.03025"
-        },
-        {
-          "QualityPriority": "0.03025"
-        },
-        {
-          "QualityPriority": "0.03025"
-        },
-        {
-          "QualityPriority": "0.03025"
-        }
-      ],
-      "Qualities_OpenHarmony": [
-        {},
-        {},
-        {
-          "QualityPriority": "0.03025"
-        },
-        {
-          "QualityPriority": "0.03025"
-        },
-        {
-          "QualityPriority": "0.03025"
-        },
-        {
-          "QualityPriority": "0.03025"
-        }
-      ]
-    },
     "sgni.BudgetLimitLOD0": {
-      "id": 186,
+      "id": 143,
       "name": "sgni.BudgetLimitLOD0",
       "group": "SignificanceQuality",
       "cvar": "sgni.BudgetLimitLOD0",
@@ -13237,7 +10184,7 @@
       ]
     },
     "sgni.BudgetLimitLOD1": {
-      "id": 187,
+      "id": 144,
       "name": "sgni.BudgetLimitLOD1",
       "group": "SignificanceQuality",
       "cvar": "sgni.BudgetLimitLOD1",
@@ -13308,7 +10255,7 @@
       ]
     },
     "sgni.BudgetLimitLOD2": {
-      "id": 188,
+      "id": 145,
       "name": "sgni.BudgetLimitLOD2",
       "group": "SignificanceQuality",
       "cvar": "sgni.BudgetLimitLOD2",
@@ -13379,7 +10326,7 @@
       ]
     },
     "sgni.BudgetLimitLOD3": {
-      "id": 189,
+      "id": 146,
       "name": "sgni.BudgetLimitLOD3",
       "group": "SignificanceQuality",
       "cvar": "sgni.BudgetLimitLOD3",
@@ -13450,7 +10397,7 @@
       ]
     },
     "sgni.ForceShowPlayerNum": {
-      "id": 190,
+      "id": 147,
       "name": "sgni.ForceShowPlayerNum",
       "group": "SignificanceQuality",
       "cvar": "sgni.ForceShowPlayerNum",
@@ -13521,7 +10468,7 @@
       ]
     },
     "sgni.ForceShowPetNum": {
-      "id": 191,
+      "id": 148,
       "name": "sgni.ForceShowPetNum",
       "group": "SignificanceQuality",
       "cvar": "sgni.ForceShowPetNum",
@@ -13591,8 +10538,647 @@
         }
       ]
     },
+    "sgni.BudgetForceDrawNum": {
+      "id": 149,
+      "name": "sgni.BudgetForceDrawNum",
+      "group": "SignificanceQuality",
+      "cvar": "sgni.BudgetForceDrawNum",
+      "valueType": "int",
+      "Qualities_PC": [
+        {},
+        {},
+        {
+          "QualityPriority": "10"
+        },
+        {
+          "QualityPriority": "15"
+        },
+        {
+          "QualityPriority": "15"
+        },
+        {
+          "QualityPriority": "15"
+        }
+      ],
+      "Qualities_IOS": [
+        {},
+        {},
+        {
+          "QualityPriority": "0"
+        },
+        {
+          "QualityPriority": "2"
+        },
+        {
+          "QualityPriority": "5"
+        },
+        {
+          "QualityPriority": "5"
+        }
+      ],
+      "Qualities_Android": [
+        {},
+        {},
+        {
+          "QualityPriority": "0"
+        },
+        {
+          "QualityPriority": "2"
+        },
+        {
+          "QualityPriority": "5"
+        },
+        {
+          "QualityPriority": "5"
+        }
+      ],
+      "Qualities_OpenHarmony": [
+        {},
+        {},
+        {
+          "QualityPriority": "0"
+        },
+        {
+          "QualityPriority": "2"
+        },
+        {
+          "QualityPriority": "5"
+        },
+        {
+          "QualityPriority": "5"
+        }
+      ]
+    },
+    "sgni.BudgetShadowDistane": {
+      "id": 150,
+      "name": "sgni.BudgetShadowDistane",
+      "group": "SignificanceQuality",
+      "cvar": "sgni.BudgetShadowDistane",
+      "valueType": "float",
+      "Qualities_PC": [
+        {},
+        {},
+        {
+          "QualityPriority": "2000"
+        },
+        {
+          "QualityPriority": "2500"
+        },
+        {
+          "QualityPriority": "3000"
+        },
+        {
+          "QualityPriority": "5000"
+        }
+      ],
+      "Qualities_IOS": [
+        {},
+        {},
+        {
+          "QualityPriority": "1000"
+        },
+        {
+          "QualityPriority": "1500"
+        },
+        {
+          "QualityPriority": "2500"
+        },
+        {
+          "QualityPriority": "2500"
+        }
+      ],
+      "Qualities_Android": [
+        {},
+        {},
+        {
+          "QualityPriority": "2000"
+        },
+        {
+          "QualityPriority": "2000"
+        },
+        {
+          "QualityPriority": "2500"
+        },
+        {
+          "QualityPriority": "2500"
+        }
+      ],
+      "Qualities_OpenHarmony": [
+        {},
+        {},
+        {
+          "QualityPriority": "2000"
+        },
+        {
+          "QualityPriority": "2000"
+        },
+        {
+          "QualityPriority": "2500"
+        },
+        {
+          "QualityPriority": "2500"
+        }
+      ]
+    },
+    "sgni.BudgetOutlineDistane": {
+      "id": 151,
+      "name": "sgni.BudgetOutlineDistane",
+      "group": "SignificanceQuality",
+      "cvar": "sgni.BudgetOutlineDistane",
+      "valueType": "float",
+      "Qualities_PC": [
+        {},
+        {},
+        {
+          "QualityPriority": "1000"
+        },
+        {
+          "QualityPriority": "1500"
+        },
+        {
+          "QualityPriority": "1500"
+        },
+        {
+          "QualityPriority": "1500"
+        }
+      ],
+      "Qualities_IOS": [
+        {},
+        {},
+        {
+          "QualityPriority": "600"
+        },
+        {
+          "QualityPriority": "1000"
+        },
+        {
+          "QualityPriority": "1500"
+        },
+        {
+          "QualityPriority": "1500"
+        }
+      ],
+      "Qualities_Android": [
+        {},
+        {},
+        {
+          "QualityPriority": "600"
+        },
+        {
+          "QualityPriority": "1000"
+        },
+        {
+          "QualityPriority": "1500"
+        },
+        {
+          "QualityPriority": "1500"
+        }
+      ],
+      "Qualities_OpenHarmony": [
+        {},
+        {},
+        {
+          "QualityPriority": "600"
+        },
+        {
+          "QualityPriority": "1000"
+        },
+        {
+          "QualityPriority": "1500"
+        },
+        {
+          "QualityPriority": "1500"
+        }
+      ]
+    },
+    "sgni.PlayerNumLimit": {
+      "id": 152,
+      "name": "sgni.PlayerNumLimit",
+      "group": "SignificanceQuality",
+      "cvar": "sgni.PlayerNumLimit",
+      "valueType": "int",
+      "Qualities_PC": [
+        {},
+        {},
+        {
+          "QualityPriority": "15"
+        },
+        {
+          "QualityPriority": "20"
+        },
+        {
+          "QualityPriority": "20"
+        },
+        {
+          "QualityPriority": "20"
+        }
+      ],
+      "Qualities_IOS": [
+        {},
+        {},
+        {
+          "QualityPriority": "10"
+        },
+        {
+          "QualityPriority": "15"
+        },
+        {
+          "QualityPriority": "20"
+        },
+        {
+          "QualityPriority": "20"
+        }
+      ],
+      "Qualities_Android": [
+        {},
+        {},
+        {
+          "QualityPriority": "10"
+        },
+        {
+          "QualityPriority": "15"
+        },
+        {
+          "QualityPriority": "20"
+        },
+        {
+          "QualityPriority": "20"
+        }
+      ],
+      "Qualities_OpenHarmony": [
+        {},
+        {},
+        {
+          "QualityPriority": "10"
+        },
+        {
+          "QualityPriority": "15"
+        },
+        {
+          "QualityPriority": "20"
+        },
+        {
+          "QualityPriority": "20"
+        }
+      ]
+    },
+    "sgni.SpriteNumLimit": {
+      "id": 153,
+      "name": "sgni.SpriteNumLimit",
+      "group": "SignificanceQuality",
+      "cvar": "sgni.SpriteNumLimit",
+      "valueType": "int",
+      "Qualities_PC": [
+        {},
+        {},
+        {
+          "QualityPriority": "30"
+        },
+        {
+          "QualityPriority": "200"
+        },
+        {
+          "QualityPriority": "200"
+        },
+        {
+          "QualityPriority": "200"
+        }
+      ],
+      "Qualities_IOS": [
+        {},
+        {},
+        {
+          "QualityPriority": "30"
+        },
+        {
+          "QualityPriority": "200"
+        },
+        {
+          "QualityPriority": "200"
+        },
+        {
+          "QualityPriority": "200"
+        }
+      ],
+      "Qualities_Android": [
+        {},
+        {},
+        {
+          "QualityPriority": "30"
+        },
+        {
+          "QualityPriority": "200"
+        },
+        {
+          "QualityPriority": "200"
+        },
+        {
+          "QualityPriority": "200"
+        }
+      ],
+      "Qualities_OpenHarmony": [
+        {},
+        {},
+        {
+          "QualityPriority": "30"
+        },
+        {
+          "QualityPriority": "200"
+        },
+        {
+          "QualityPriority": "200"
+        },
+        {
+          "QualityPriority": "200"
+        }
+      ]
+    },
+    "sgni.CharactorNumLimit": {
+      "id": 154,
+      "name": "sgni.CharactorNumLimit",
+      "group": "SignificanceQuality",
+      "cvar": "sgni.CharactorNumLimit",
+      "valueType": "int",
+      "Qualities_PC": [
+        {},
+        {},
+        {
+          "QualityPriority": "30"
+        },
+        {
+          "QualityPriority": "200"
+        },
+        {
+          "QualityPriority": "200"
+        },
+        {
+          "QualityPriority": "200"
+        }
+      ],
+      "Qualities_IOS": [
+        {},
+        {},
+        {
+          "QualityPriority": "30"
+        },
+        {
+          "QualityPriority": "200"
+        },
+        {
+          "QualityPriority": "200"
+        },
+        {
+          "QualityPriority": "200"
+        }
+      ],
+      "Qualities_Android": [
+        {},
+        {},
+        {
+          "QualityPriority": "30"
+        },
+        {
+          "QualityPriority": "200"
+        },
+        {
+          "QualityPriority": "200"
+        },
+        {
+          "QualityPriority": "200"
+        }
+      ],
+      "Qualities_OpenHarmony": [
+        {},
+        {},
+        {
+          "QualityPriority": "30"
+        },
+        {
+          "QualityPriority": "200"
+        },
+        {
+          "QualityPriority": "200"
+        },
+        {
+          "QualityPriority": "200"
+        }
+      ]
+    },
+    "sgni.ForceShowImportantNpcNum": {
+      "id": 155,
+      "name": "sgni.ForceShowImportantNpcNum",
+      "group": "SignificanceQuality",
+      "cvar": "sgni.ForceShowImportantNpcNum",
+      "valueType": "int",
+      "Qualities_PC": [
+        {},
+        {},
+        {
+          "QualityPriority": "3"
+        },
+        {
+          "QualityPriority": "3"
+        },
+        {
+          "QualityPriority": "3"
+        },
+        {
+          "QualityPriority": "3"
+        }
+      ],
+      "Qualities_IOS": [
+        {},
+        {},
+        {
+          "QualityPriority": "3"
+        },
+        {
+          "QualityPriority": "3"
+        },
+        {
+          "QualityPriority": "3"
+        },
+        {
+          "QualityPriority": "3"
+        }
+      ],
+      "Qualities_Android": [
+        {},
+        {},
+        {
+          "QualityPriority": "3"
+        },
+        {
+          "QualityPriority": "3"
+        },
+        {
+          "QualityPriority": "3"
+        },
+        {
+          "QualityPriority": "3"
+        }
+      ],
+      "Qualities_OpenHarmony": [
+        {},
+        {},
+        {
+          "QualityPriority": "3"
+        },
+        {
+          "QualityPriority": "3"
+        },
+        {
+          "QualityPriority": "3"
+        },
+        {
+          "QualityPriority": "3"
+        }
+      ]
+    },
+    "sgni.ForceShowNormalNpcNum": {
+      "id": 156,
+      "name": "sgni.ForceShowNormalNpcNum",
+      "group": "SignificanceQuality",
+      "cvar": "sgni.ForceShowNormalNpcNum",
+      "valueType": "int",
+      "Qualities_PC": [
+        {},
+        {},
+        {
+          "QualityPriority": "3"
+        },
+        {
+          "QualityPriority": "3"
+        },
+        {
+          "QualityPriority": "3"
+        },
+        {
+          "QualityPriority": "3"
+        }
+      ],
+      "Qualities_IOS": [
+        {},
+        {},
+        {
+          "QualityPriority": "3"
+        },
+        {
+          "QualityPriority": "3"
+        },
+        {
+          "QualityPriority": "3"
+        },
+        {
+          "QualityPriority": "3"
+        }
+      ],
+      "Qualities_Android": [
+        {},
+        {},
+        {
+          "QualityPriority": "3"
+        },
+        {
+          "QualityPriority": "3"
+        },
+        {
+          "QualityPriority": "3"
+        },
+        {
+          "QualityPriority": "3"
+        }
+      ],
+      "Qualities_OpenHarmony": [
+        {},
+        {},
+        {
+          "QualityPriority": "3"
+        },
+        {
+          "QualityPriority": "3"
+        },
+        {
+          "QualityPriority": "3"
+        },
+        {
+          "QualityPriority": "3"
+        }
+      ]
+    },
+    "sgni.BaseFPS": {
+      "id": 157,
+      "name": "sgni.BaseFPS",
+      "group": "SignificanceQuality",
+      "cvar": "sgni.BaseFPS",
+      "valueType": "int",
+      "Qualities_PC": [
+        {},
+        {},
+        {
+          "QualityPriority": "30"
+        },
+        {
+          "QualityPriority": "60"
+        },
+        {
+          "QualityPriority": "60"
+        },
+        {
+          "QualityPriority": "60"
+        }
+      ],
+      "Qualities_IOS": [
+        {},
+        {},
+        {
+          "QualityPriority": "30"
+        },
+        {
+          "QualityPriority": "30"
+        },
+        {
+          "QualityPriority": "30"
+        },
+        {
+          "QualityPriority": "40"
+        }
+      ],
+      "Qualities_Android": [
+        {},
+        {},
+        {
+          "QualityPriority": "30"
+        },
+        {
+          "QualityPriority": "30"
+        },
+        {
+          "QualityPriority": "30"
+        },
+        {
+          "QualityPriority": "40"
+        }
+      ],
+      "Qualities_OpenHarmony": [
+        {},
+        {},
+        {
+          "QualityPriority": "30"
+        },
+        {
+          "QualityPriority": "30"
+        },
+        {
+          "QualityPriority": "30"
+        },
+        {
+          "QualityPriority": "40"
+        }
+      ]
+    },
     "ai.dots.BTTickSkipHighest": {
-      "id": 192,
+      "id": 158,
       "name": "ai.dots.BTTickSkipHighest",
       "group": "SignificanceQuality",
       "cvar": "ai.dots.BTTickSkipHighest",
@@ -13663,7 +11249,7 @@
       ]
     },
     "ai.dots.BTTickSkipHigher": {
-      "id": 193,
+      "id": 159,
       "name": "ai.dots.BTTickSkipHigher",
       "group": "SignificanceQuality",
       "cvar": "ai.dots.BTTickSkipHigher",
@@ -13734,7 +11320,7 @@
       ]
     },
     "ai.dots.BTTickSkipHigh": {
-      "id": 194,
+      "id": 160,
       "name": "ai.dots.BTTickSkipHigh",
       "group": "SignificanceQuality",
       "cvar": "ai.dots.BTTickSkipHigh",
@@ -13805,7 +11391,7 @@
       ]
     },
     "ai.dots.BTTickSkipMedium": {
-      "id": 195,
+      "id": 161,
       "name": "ai.dots.BTTickSkipMedium",
       "group": "SignificanceQuality",
       "cvar": "ai.dots.BTTickSkipMedium",
@@ -13876,7 +11462,7 @@
       ]
     },
     "ai.dots.BTTickSkipLow": {
-      "id": 196,
+      "id": 162,
       "name": "ai.dots.BTTickSkipLow",
       "group": "SignificanceQuality",
       "cvar": "ai.dots.BTTickSkipLow",
@@ -13947,7 +11533,7 @@
       ]
     },
     "ai.dots.BTTickSkipLower": {
-      "id": 197,
+      "id": 163,
       "name": "ai.dots.BTTickSkipLower",
       "group": "SignificanceQuality",
       "cvar": "ai.dots.BTTickSkipLower",
@@ -14018,7 +11604,7 @@
       ]
     },
     "ai.dots.BTTickSkipLowest": {
-      "id": 198,
+      "id": 164,
       "name": "ai.dots.BTTickSkipLowest",
       "group": "SignificanceQuality",
       "cvar": "ai.dots.BTTickSkipLowest",
@@ -14089,7 +11675,7 @@
       ]
     },
     "r.Streaming.NRCMaxCacheMipsAllowed": {
-      "id": 199,
+      "id": 165,
       "name": "r.Streaming.NRCMaxCacheMipsAllowed",
       "group": "UtilityGroup",
       "cvar": "r.Streaming.NRCMaxCacheMipsAllowed",
@@ -14160,7 +11746,7 @@
       ]
     },
     "ai.dots.EntityFeatDistanceLod2": {
-      "id": 200,
+      "id": 166,
       "name": "ai.dots.EntityFeatDistanceLod2",
       "group": "SignificanceQuality",
       "cvar": "ai.dots.EntityFeatDistanceLod2",
@@ -14231,7 +11817,7 @@
       ]
     },
     "ai.dots.EntityFeatDistanceLod3": {
-      "id": 201,
+      "id": 167,
       "name": "ai.dots.EntityFeatDistanceLod3",
       "group": "SignificanceQuality",
       "cvar": "ai.dots.EntityFeatDistanceLod3",
@@ -14302,7 +11888,7 @@
       ]
     },
     "ai.dots.EntityFeatSkipMsLod0": {
-      "id": 202,
+      "id": 168,
       "name": "ai.dots.EntityFeatSkipMsLod0",
       "group": "SignificanceQuality",
       "cvar": "ai.dots.EntityFeatSkipMsLod0",
@@ -14373,7 +11959,7 @@
       ]
     },
     "ai.dots.EntityFeatSkipMsLod1": {
-      "id": 203,
+      "id": 169,
       "name": "ai.dots.EntityFeatSkipMsLod1",
       "group": "SignificanceQuality",
       "cvar": "ai.dots.EntityFeatSkipMsLod1",
@@ -14444,7 +12030,7 @@
       ]
     },
     "ai.dots.EntityFeatSkipMsLod2": {
-      "id": 204,
+      "id": 170,
       "name": "ai.dots.EntityFeatSkipMsLod2",
       "group": "SignificanceQuality",
       "cvar": "ai.dots.EntityFeatSkipMsLod2",
@@ -14515,7 +12101,7 @@
       ]
     },
     "ai.dots.EntityFeatSkipMsLod3": {
-      "id": 205,
+      "id": 171,
       "name": "ai.dots.EntityFeatSkipMsLod3",
       "group": "SignificanceQuality",
       "cvar": "ai.dots.EntityFeatSkipMsLod3",
@@ -14586,7 +12172,7 @@
       ]
     },
     "sgni.BlobShadowSwitchDistance_PC": {
-      "id": 206,
+      "id": 172,
       "name": "sgni.BlobShadowSwitchDistance_PC",
       "group": "SignificanceQuality",
       "cvar": "sgni.BlobShadowSwitchDistance",
@@ -14657,7 +12243,7 @@
       ]
     },
     "OpenGLStoreCompressedProgramBinaries": {
-      "id": 207,
+      "id": 173,
       "name": "OpenGLStoreCompressedProgramBinaries",
       "group": "TextureLODGroup",
       "cvar": "r.OpenGL.StoreCompressedProgramBinaries",
@@ -14728,7 +12314,7 @@
       ]
     },
     "TextureMaxAnisotropy_PC": {
-      "id": 208,
+      "id": 174,
       "name": "TextureMaxAnisotropy_PC",
       "group": "TextureQuality",
       "cvar": "r.MaxAnisotropy",
@@ -14799,7 +12385,7 @@
       ]
     },
     "NRCTrail.TickMobilePass": {
-      "id": 209,
+      "id": 175,
       "name": "NRCTrail.TickMobilePass",
       "group": "UtilityGroup",
       "cvar": "r.NRCTrail.TickMobilePass",
@@ -14870,7 +12456,7 @@
       ]
     },
     "NRCTrail.PlatformParameterScaler": {
-      "id": 210,
+      "id": 176,
       "name": "NRCTrail.PlatformParameterScaler",
       "group": "UtilityGroup",
       "cvar": "r.NRCTrail.PlatformParameterScaler",
@@ -14941,7 +12527,7 @@
       ]
     },
     "NRCTrail": {
-      "id": 211,
+      "id": 177,
       "name": "NRCTrail",
       "group": "UtilityGroup",
       "cvar": "n.TickTrailComponent",
@@ -15012,7 +12598,7 @@
       ]
     },
     "SkyCapture": {
-      "id": 212,
+      "id": 178,
       "name": "SkyCapture",
       "group": "UtilityGroup",
       "cvar": "r.SimpleSkyCapture",
@@ -15083,7 +12669,7 @@
       ]
     },
     "StarMagicQuality": {
-      "id": 213,
+      "id": 179,
       "name": "StarMagicQuality",
       "group": "UtilityGroup",
       "cvar": "r.StarMagicQuality",
@@ -15170,7 +12756,7 @@
       ]
     },
     "StarMagicMaxCounts": {
-      "id": 214,
+      "id": 180,
       "name": "StarMagicMaxCounts",
       "group": "UtilityGroup",
       "cvar": "r.StarMagicMaxCounts",
@@ -15241,7 +12827,7 @@
       ]
     },
     "StarMagicMaxCountsOneFrame": {
-      "id": 215,
+      "id": 181,
       "name": "StarMagicMaxCountsOneFrame",
       "group": "UtilityGroup",
       "cvar": "r.StarMagicMaxCountsOneFrame",
@@ -15312,7 +12898,7 @@
       ]
     },
     "fx.MaxNiagaraCPUParticlesPerEmitter": {
-      "id": 216,
+      "id": 182,
       "name": "fx.MaxNiagaraCPUParticlesPerEmitter",
       "group": "UtilityGroup",
       "cvar": "fx.MaxNiagaraCPUParticlesPerEmitter",
@@ -15383,7 +12969,7 @@
       ]
     },
     "r.CLV.CascadeScale.0": {
-      "id": 217,
+      "id": 183,
       "name": "r.CLV.CascadeScale.0",
       "group": "UtilityGroup",
       "cvar": "r.CLV.CascadeScale.0",
@@ -15454,7 +13040,7 @@
       ]
     },
     "r.CLV.CascadeScale.1": {
-      "id": 218,
+      "id": 184,
       "name": "r.CLV.CascadeScale.1",
       "group": "UtilityGroup",
       "cvar": "r.CLV.CascadeScale.1",
@@ -15525,7 +13111,7 @@
       ]
     },
     "r.CLV.CascadeScale.2": {
-      "id": 219,
+      "id": 185,
       "name": "r.CLV.CascadeScale.2",
       "group": "UtilityGroup",
       "cvar": "r.CLV.CascadeScale.2",
@@ -15596,7 +13182,7 @@
       ]
     },
     "r.CLV.CascadeScale.3": {
-      "id": 220,
+      "id": 186,
       "name": "r.CLV.CascadeScale.3",
       "group": "UtilityGroup",
       "cvar": "r.CLV.CascadeScale.3",
@@ -15667,7 +13253,7 @@
       ]
     },
     "r.CLV.BlockSize": {
-      "id": 221,
+      "id": 187,
       "name": "r.CLV.BlockSize",
       "group": "UtilityGroup",
       "cvar": "r.CLV.BlockSize",
@@ -15738,7 +13324,7 @@
       ]
     },
     "r.CLV.VolumeSize": {
-      "id": 222,
+      "id": 188,
       "name": "r.CLV.VolumeSize",
       "group": "UtilityGroup",
       "cvar": "r.CLV.VolumeSize",
@@ -15809,7 +13395,7 @@
       ]
     },
     "r.CLV.MaxCacheCapacity": {
-      "id": 223,
+      "id": 189,
       "name": "r.CLV.MaxCacheCapacity",
       "group": "UtilityGroup",
       "cvar": "r.CLV.MaxCacheCapacity",
@@ -15880,7 +13466,7 @@
       ]
     },
     "r.CLV": {
-      "id": 224,
+      "id": 190,
       "name": "r.CLV",
       "group": "UtilityGroup",
       "cvar": "r.CLV",
@@ -15951,7 +13537,7 @@
       ]
     },
     "ForceMobileLiteHDR": {
-      "id": 225,
+      "id": 191,
       "name": "ForceMobileLiteHDR",
       "group": "UtilityGroup",
       "cvar": "r.ForceUseMobileLiteHDR",
@@ -16008,7 +13594,7 @@
         {},
         {},
         {
-          "QualityPriority": "1"
+          "QualityPriority": "0"
         },
         {
           "QualityPriority": "0"
@@ -16022,7 +13608,7 @@
       ]
     },
     "Distortion": {
-      "id": 226,
+      "id": 192,
       "name": "Distortion",
       "group": "UtilityGroup",
       "cvar": "r.DisableDistortion",
@@ -16093,7 +13679,7 @@
       ]
     },
     "Bloom_PC": {
-      "id": 227,
+      "id": 193,
       "name": "Bloom_PC",
       "group": "UtilityGroup",
       "cvar": "r.Mobile.BloomIteration",
@@ -16164,7 +13750,7 @@
       ]
     },
     "EyeAdaptation": {
-      "id": 228,
+      "id": 194,
       "name": "EyeAdaptation",
       "group": "UtilityGroup",
       "cvar": "r.Mobile.EyeAdaptation",
@@ -16234,8 +13820,8 @@
         }
       ]
     },
-    "Unknown_228": {
-      "id": 229,
+    "Unknown_194": {
+      "id": 195,
       "group": "UtilityGroup",
       "cvar": "r.SKMLODScreenSizeScale",
       "valueType": "float",
@@ -16305,7 +13891,7 @@
       ]
     },
     "PostProcessAAQuality": {
-      "id": 230,
+      "id": 196,
       "name": "PostProcessAAQuality",
       "group": "UtilityGroup",
       "cvar": "r.PostProcessAAQuality",
@@ -16314,16 +13900,16 @@
         {},
         {},
         {
-          "QualityPriority": "3"
+          "QualityPriority": "1"
         },
         {
-          "QualityPriority": "3"
+          "QualityPriority": "1"
         },
         {
-          "QualityPriority": "4"
+          "QualityPriority": "1"
         },
         {
-          "QualityPriority": "4"
+          "QualityPriority": "1"
         }
       ],
       "Qualities_IOS": [
@@ -16376,7 +13962,7 @@
       ]
     },
     "MaterialQuality": {
-      "id": 231,
+      "id": 197,
       "name": "MaterialQuality",
       "group": "UtilityGroup",
       "cvar": "r.MaterialQualityLevel",
@@ -16447,7 +14033,7 @@
       ]
     },
     "TexturePoolSize": {
-      "id": 232,
+      "id": 198,
       "name": "TexturePoolSize",
       "group": "UtilityGroup",
       "cvar": "r.Streaming.PoolSize",
@@ -16518,7 +14104,7 @@
       ]
     },
     "OpenGLLRUBinarySize": {
-      "id": 233,
+      "id": 199,
       "name": "OpenGLLRUBinarySize",
       "group": "UtilityGroup",
       "cvar": "r.OpenGL.ProgramLRUBinarySize",
@@ -16589,7 +14175,7 @@
       ]
     },
     "MetalPSOMinSize": {
-      "id": 234,
+      "id": 200,
       "name": "MetalPSOMinSize",
       "group": "UtilityGroup",
       "cvar": "r.ShaderPipelineCache.MetalCacheMinSizeInMB",
@@ -16660,7 +14246,7 @@
       ]
     },
     "SlateDepthMemless": {
-      "id": 235,
+      "id": 201,
       "name": "SlateDepthMemless",
       "group": "UtilityGroup",
       "cvar": "Slate.MemorylessDepthStencil",
@@ -16731,7 +14317,7 @@
       ]
     },
     "Fog": {
-      "id": 236,
+      "id": 202,
       "name": "Fog",
       "group": "UtilityGroup",
       "cvar": "r.Fog",
@@ -16802,7 +14388,7 @@
       ]
     },
     "LightShaftQuality": {
-      "id": 237,
+      "id": 203,
       "name": "LightShaftQuality",
       "group": "UtilityGroup",
       "cvar": "r.LightShaftQuality",
@@ -16873,7 +14459,7 @@
       ]
     },
     "AmbientOcclusionShaderType": {
-      "id": 238,
+      "id": 204,
       "name": "AmbientOcclusionShaderType",
       "group": "UtilityGroup",
       "cvar": "r.Mobile.AmbientOcclusionShaderType",
@@ -16944,7 +14530,7 @@
       ]
     },
     "StreamingFramesForUpdate": {
-      "id": 239,
+      "id": 205,
       "name": "StreamingFramesForUpdate",
       "group": "UtilityGroup",
       "cvar": "r.Streaming.FramesForFullUpdate",
@@ -17015,7 +14601,7 @@
       ]
     },
     "g.GNRCUsePerFrameDrawCommand": {
-      "id": 240,
+      "id": 206,
       "name": "g.GNRCUsePerFrameDrawCommand",
       "group": "UtilityGroup",
       "cvar": "g.GNRCUsePerFrameDrawCommand",
@@ -17086,7 +14672,7 @@
       ]
     },
     "g.GPerFrameMaxCacheDrawCommandNum": {
-      "id": 241,
+      "id": 207,
       "name": "g.GPerFrameMaxCacheDrawCommandNum",
       "group": "UtilityGroup",
       "cvar": "g.GPerFrameMaxCacheDrawCommandNum",
@@ -17157,7 +14743,7 @@
       ]
     },
     "g.GPerFrameMaxAllDrawCommandNum": {
-      "id": 242,
+      "id": 208,
       "name": "g.GPerFrameMaxAllDrawCommandNum",
       "group": "UtilityGroup",
       "cvar": "g.GPerFrameMaxAllDrawCommandNum",
@@ -17228,7 +14814,7 @@
       ]
     },
     "r.Streaming.AmortizeCPUToGPUCopy-Android": {
-      "id": 243,
+      "id": 209,
       "name": "r.Streaming.AmortizeCPUToGPUCopy-Android",
       "group": "UtilityGroup",
       "cvar": "r.Streaming.AmortizeCPUToGPUCopy",
@@ -17299,7 +14885,7 @@
       ]
     },
     "r.Streaming.MaxNumTexturesToStreamPerFrame-Android": {
-      "id": 244,
+      "id": 210,
       "name": "r.Streaming.MaxNumTexturesToStreamPerFrame-Android",
       "group": "UtilityGroup",
       "cvar": "r.Streaming.MaxNumTexturesToStreamPerFrame",
@@ -17370,7 +14956,7 @@
       ]
     },
     "LiteHDRKeepDepth": {
-      "id": 245,
+      "id": 211,
       "name": "LiteHDRKeepDepth",
       "group": "UtilityGroup",
       "cvar": "r.LiteHDR.ForceKeepDepthContentForIOS",
@@ -17441,7 +15027,7 @@
       ]
     },
     "SkeletalMeshLODBias": {
-      "id": 246,
+      "id": 212,
       "name": "SkeletalMeshLODBias",
       "group": "ViewDistanceQuality",
       "cvar": "r.SkeletalMeshLODBias",
@@ -17512,7 +15098,7 @@
       ]
     },
     "ViewDistanceScale": {
-      "id": 247,
+      "id": 213,
       "name": "ViewDistanceScale",
       "group": "ViewDistanceQuality",
       "cvar": "r.ViewDistanceScale",
@@ -17583,7 +15169,7 @@
       ]
     },
     "foliage.DensityScale": {
-      "id": 248,
+      "id": 214,
       "name": "foliage.DensityScale",
       "group": "ViewDistanceQuality",
       "cvar": "foliage.DensityScale",
@@ -17654,7 +15240,7 @@
       ]
     },
     "WorldTileTool.AddDistance": {
-      "id": 249,
+      "id": 215,
       "name": "WorldTileTool.AddDistance",
       "group": "ViewDistanceQuality",
       "cvar": "WorldTileTool.AddDistance",
@@ -17725,7 +15311,7 @@
       ]
     },
     "WorldTileTool.SetLayer 1x1": {
-      "id": 250,
+      "id": 216,
       "name": "WorldTileTool.SetLayer 1x1",
       "group": "ViewDistanceQuality",
       "cvar": "_WorldTileTool.SetLayer",
@@ -17796,7 +15382,7 @@
       ]
     },
     "WorldTileTool.SetLayer 2x2": {
-      "id": 251,
+      "id": 217,
       "name": "WorldTileTool.SetLayer 2x2",
       "group": "ViewDistanceQuality",
       "cvar": "_WorldTileTool.SetLayer",
@@ -17867,7 +15453,7 @@
       ]
     },
     "WorldTileTool.SetLayer 4x4": {
-      "id": 252,
+      "id": 218,
       "name": "WorldTileTool.SetLayer 4x4",
       "group": "ViewDistanceQuality",
       "cvar": "_WorldTileTool.SetLayer",
@@ -17938,7 +15524,7 @@
       ]
     },
     "WorldTileTool.SetLayer 8x8": {
-      "id": 253,
+      "id": 219,
       "name": "WorldTileTool.SetLayer 8x8",
       "group": "ViewDistanceQuality",
       "cvar": "_WorldTileTool.SetLayer",
@@ -18009,7 +15595,7 @@
       ]
     },
     "WorldTileTool.SetLayer EnvRock": {
-      "id": 254,
+      "id": 220,
       "name": "WorldTileTool.SetLayer EnvRock",
       "group": "ViewDistanceQuality",
       "cvar": "_WorldTileTool.SetLayer",
@@ -18080,7 +15666,7 @@
       ]
     },
     "WorldTileTool.SetLayer-PC BuildingsB": {
-      "id": 255,
+      "id": 221,
       "name": "WorldTileTool.SetLayer-PC BuildingsB",
       "group": "ViewDistanceQuality",
       "cvar": "_WorldTileTool.SetLayer",
@@ -18151,7 +15737,7 @@
       ]
     },
     "WorldTileTool.SetLayer Landscaple": {
-      "id": 256,
+      "id": 222,
       "name": "WorldTileTool.SetLayer Landscaple",
       "group": "ViewDistanceQuality",
       "cvar": "_WorldTileTool.SetLayer",
@@ -18222,7 +15808,7 @@
       ]
     },
     "WorldTileTool.SetLayer BuildingsA": {
-      "id": 257,
+      "id": 223,
       "name": "WorldTileTool.SetLayer BuildingsA",
       "group": "ViewDistanceQuality",
       "cvar": "_WorldTileTool.SetLayer",
@@ -18277,7 +15863,7 @@
       ]
     },
     "WorldTileTool.SetLayer BuildingsC": {
-      "id": 258,
+      "id": 224,
       "name": "WorldTileTool.SetLayer BuildingsC",
       "group": "ViewDistanceQuality",
       "cvar": "_WorldTileTool.SetLayer",
@@ -18332,7 +15918,7 @@
       ]
     },
     "WorldTileTool.SetLayer PropsA": {
-      "id": 259,
+      "id": 225,
       "name": "WorldTileTool.SetLayer PropsA",
       "group": "ViewDistanceQuality",
       "cvar": "_WorldTileTool.SetLayer",
@@ -18387,7 +15973,7 @@
       ]
     },
     "WorldTileTool.SetLayer PropsB": {
-      "id": 260,
+      "id": 226,
       "name": "WorldTileTool.SetLayer PropsB",
       "group": "ViewDistanceQuality",
       "cvar": "_WorldTileTool.SetLayer",
@@ -18442,7 +16028,7 @@
       ]
     },
     "WorldTileTool.SetLayer FoliageB": {
-      "id": 261,
+      "id": 227,
       "name": "WorldTileTool.SetLayer FoliageB",
       "group": "ViewDistanceQuality",
       "cvar": "_WorldTileTool.SetLayer",
@@ -18497,7 +16083,7 @@
       ]
     },
     "WorldTileTool.SetUnLoadLayer": {
-      "id": 262,
+      "id": 228,
       "name": "WorldTileTool.SetUnLoadLayer",
       "group": "ViewDistanceQuality",
       "cvar": "_WorldTileTool.SetUnLoadLayers",
@@ -18548,7 +16134,7 @@
       ]
     },
     "r.HLOD.NRCDistanceOverride_EnvRock": {
-      "id": 263,
+      "id": 229,
       "name": "r.HLOD.NRCDistanceOverride_EnvRock",
       "group": "ViewDistanceQuality",
       "cvar": "_r.HLOD.NRCDistanceOverride",
@@ -18619,7 +16205,7 @@
       ]
     },
     "r.HLOD.NRCDistanceOverride_BuildingsA": {
-      "id": 264,
+      "id": 230,
       "name": "r.HLOD.NRCDistanceOverride_BuildingsA",
       "group": "ViewDistanceQuality",
       "cvar": "_r.HLOD.NRCDistanceOverride",
@@ -18690,7 +16276,7 @@
       ]
     },
     "r.HLOD.NRCDistanceOverride_BuildingsB": {
-      "id": 265,
+      "id": 231,
       "name": "r.HLOD.NRCDistanceOverride_BuildingsB",
       "group": "ViewDistanceQuality",
       "cvar": "_r.HLOD.NRCDistanceOverride",
@@ -18761,7 +16347,7 @@
       ]
     },
     "r.HLOD.NRCDistanceOverride_BuildingsC": {
-      "id": 266,
+      "id": 232,
       "name": "r.HLOD.NRCDistanceOverride_BuildingsC",
       "group": "ViewDistanceQuality",
       "cvar": "_r.HLOD.NRCDistanceOverride",
@@ -18832,7 +16418,7 @@
       ]
     },
     "r.Vsync": {
-      "id": 267,
+      "id": 233,
       "name": "r.Vsync",
       "group": "VsyncQuality",
       "cvar": "r.VSync",
@@ -18903,7 +16489,7 @@
       ]
     },
     "r.TOD.IntervalScaler": {
-      "id": 268,
+      "id": 234,
       "name": "r.TOD.IntervalScaler",
       "group": "UtilityGroup",
       "cvar": "r.TOD.IntervalScaler",
@@ -18974,7 +16560,7 @@
       ]
     },
     "nrc.UnloadDecoLevel": {
-      "id": 269,
+      "id": 235,
       "name": "nrc.UnloadDecoLevel",
       "group": "ViewDistanceQuality",
       "cvar": "nrc.UnloadDecoLevel",
@@ -19045,7 +16631,7 @@
       ]
     },
     "r.Clipmap.ContinuousUpdate": {
-      "id": 270,
+      "id": 236,
       "name": "r.Clipmap.ContinuousUpdate",
       "group": "SceneDetailQuality",
       "cvar": "r.Clipmap.ContinuousUpdate",
@@ -19116,7 +16702,7 @@
       ]
     },
     "r.Clipmap.ContinuousUpdateSize": {
-      "id": 271,
+      "id": 237,
       "name": "r.Clipmap.ContinuousUpdateSize",
       "group": "SceneDetailQuality",
       "cvar": "r.Clipmap.ContinuousUpdateSize",
@@ -19187,7 +16773,7 @@
       ]
     },
     "r.Clipmap.LimitFullUpdate": {
-      "id": 272,
+      "id": 238,
       "name": "r.Clipmap.LimitFullUpdate",
       "group": "SceneDetailQuality",
       "cvar": "r.Clipmap.LimitFullUpdate",
@@ -19258,7 +16844,7 @@
       ]
     },
     "OpenGLEnableBackbufferSampling": {
-      "id": 273,
+      "id": 239,
       "name": "OpenGLEnableBackbufferSampling",
       "group": "UtilityGroup",
       "cvar": "r.OpenGL.EnableBackbufferSampling",
@@ -19329,7 +16915,7 @@
       ]
     },
     "r.CLV.FadePercent ": {
-      "id": 274,
+      "id": 240,
       "name": "r.CLV.FadePercent ",
       "group": "UtilityGroup",
       "cvar": "r.CLV.FadePercent ",
@@ -19400,7 +16986,7 @@
       ]
     },
     "WorldTileTool.SetLayer Navigation": {
-      "id": 275,
+      "id": 241,
       "name": "WorldTileTool.SetLayer Navigation",
       "group": "ViewDistanceQuality",
       "cvar": "_WorldTileTool.SetLayer",
@@ -19470,1854 +17056,8 @@
         }
       ]
     },
-    "sgni.BudgetForceDrawNum": {
-      "id": 276,
-      "name": "sgni.BudgetForceDrawNum",
-      "group": "SignificanceQuality",
-      "cvar": "sgni.BudgetForceDrawNum",
-      "valueType": "int",
-      "Qualities_PC": [
-        {},
-        {},
-        {
-          "QualityPriority": "10"
-        },
-        {
-          "QualityPriority": "15"
-        },
-        {
-          "QualityPriority": "15"
-        },
-        {
-          "QualityPriority": "15"
-        }
-      ],
-      "Qualities_IOS": [
-        {},
-        {},
-        {
-          "QualityPriority": "0"
-        },
-        {
-          "QualityPriority": "2"
-        },
-        {
-          "QualityPriority": "5"
-        },
-        {
-          "QualityPriority": "5"
-        }
-      ],
-      "Qualities_Android": [
-        {},
-        {},
-        {
-          "QualityPriority": "0"
-        },
-        {
-          "QualityPriority": "2"
-        },
-        {
-          "QualityPriority": "5"
-        },
-        {
-          "QualityPriority": "5"
-        }
-      ],
-      "Qualities_OpenHarmony": [
-        {},
-        {},
-        {
-          "QualityPriority": "0"
-        },
-        {
-          "QualityPriority": "2"
-        },
-        {
-          "QualityPriority": "5"
-        },
-        {
-          "QualityPriority": "5"
-        }
-      ]
-    },
-    "sgni.BudgetShadowDistane": {
-      "id": 277,
-      "name": "sgni.BudgetShadowDistane",
-      "group": "SignificanceQuality",
-      "cvar": "sgni.BudgetShadowDistane",
-      "valueType": "float",
-      "Qualities_PC": [
-        {},
-        {},
-        {
-          "QualityPriority": "2000"
-        },
-        {
-          "QualityPriority": "2500"
-        },
-        {
-          "QualityPriority": "3000"
-        },
-        {
-          "QualityPriority": "5000"
-        }
-      ],
-      "Qualities_IOS": [
-        {},
-        {},
-        {
-          "QualityPriority": "1000"
-        },
-        {
-          "QualityPriority": "1500"
-        },
-        {
-          "QualityPriority": "2500"
-        },
-        {
-          "QualityPriority": "2500"
-        }
-      ],
-      "Qualities_Android": [
-        {},
-        {},
-        {
-          "QualityPriority": "2000"
-        },
-        {
-          "QualityPriority": "2000"
-        },
-        {
-          "QualityPriority": "2500"
-        },
-        {
-          "QualityPriority": "2500"
-        }
-      ],
-      "Qualities_OpenHarmony": [
-        {},
-        {},
-        {
-          "QualityPriority": "2000"
-        },
-        {
-          "QualityPriority": "2000"
-        },
-        {
-          "QualityPriority": "2500"
-        },
-        {
-          "QualityPriority": "2500"
-        }
-      ]
-    },
-    "sgni.BudgetOutlineDistane": {
-      "id": 278,
-      "name": "sgni.BudgetOutlineDistane",
-      "group": "SignificanceQuality",
-      "cvar": "sgni.BudgetOutlineDistane",
-      "valueType": "float",
-      "Qualities_PC": [
-        {},
-        {},
-        {
-          "QualityPriority": "1000"
-        },
-        {
-          "QualityPriority": "1500"
-        },
-        {
-          "QualityPriority": "1500"
-        },
-        {
-          "QualityPriority": "1500"
-        }
-      ],
-      "Qualities_IOS": [
-        {},
-        {},
-        {
-          "QualityPriority": "600"
-        },
-        {
-          "QualityPriority": "1000"
-        },
-        {
-          "QualityPriority": "1500"
-        },
-        {
-          "QualityPriority": "1500"
-        }
-      ],
-      "Qualities_Android": [
-        {},
-        {},
-        {
-          "QualityPriority": "600"
-        },
-        {
-          "QualityPriority": "1000"
-        },
-        {
-          "QualityPriority": "1500"
-        },
-        {
-          "QualityPriority": "1500"
-        }
-      ],
-      "Qualities_OpenHarmony": [
-        {},
-        {},
-        {
-          "QualityPriority": "600"
-        },
-        {
-          "QualityPriority": "1000"
-        },
-        {
-          "QualityPriority": "1500"
-        },
-        {
-          "QualityPriority": "1500"
-        }
-      ]
-    },
-    "sgni.PlayerNumLimit": {
-      "id": 279,
-      "name": "sgni.PlayerNumLimit",
-      "group": "SignificanceQuality",
-      "cvar": "sgni.PlayerNumLimit",
-      "valueType": "int",
-      "Qualities_PC": [
-        {},
-        {},
-        {
-          "QualityPriority": "15"
-        },
-        {
-          "QualityPriority": "20"
-        },
-        {
-          "QualityPriority": "20"
-        },
-        {
-          "QualityPriority": "20"
-        }
-      ],
-      "Qualities_IOS": [
-        {},
-        {},
-        {
-          "QualityPriority": "10"
-        },
-        {
-          "QualityPriority": "15"
-        },
-        {
-          "QualityPriority": "20"
-        },
-        {
-          "QualityPriority": "20"
-        }
-      ],
-      "Qualities_Android": [
-        {},
-        {},
-        {
-          "QualityPriority": "10"
-        },
-        {
-          "QualityPriority": "15"
-        },
-        {
-          "QualityPriority": "20"
-        },
-        {
-          "QualityPriority": "20"
-        }
-      ],
-      "Qualities_OpenHarmony": [
-        {},
-        {},
-        {
-          "QualityPriority": "10"
-        },
-        {
-          "QualityPriority": "15"
-        },
-        {
-          "QualityPriority": "20"
-        },
-        {
-          "QualityPriority": "20"
-        }
-      ]
-    },
-    "sgni.SpriteNumLimit": {
-      "id": 280,
-      "name": "sgni.SpriteNumLimit",
-      "group": "SignificanceQuality",
-      "cvar": "sgni.SpriteNumLimit",
-      "valueType": "int",
-      "Qualities_PC": [
-        {},
-        {},
-        {
-          "QualityPriority": "30"
-        },
-        {
-          "QualityPriority": "200"
-        },
-        {
-          "QualityPriority": "200"
-        },
-        {
-          "QualityPriority": "200"
-        }
-      ],
-      "Qualities_IOS": [
-        {},
-        {},
-        {
-          "QualityPriority": "30"
-        },
-        {
-          "QualityPriority": "200"
-        },
-        {
-          "QualityPriority": "200"
-        },
-        {
-          "QualityPriority": "200"
-        }
-      ],
-      "Qualities_Android": [
-        {},
-        {},
-        {
-          "QualityPriority": "30"
-        },
-        {
-          "QualityPriority": "200"
-        },
-        {
-          "QualityPriority": "200"
-        },
-        {
-          "QualityPriority": "200"
-        }
-      ],
-      "Qualities_OpenHarmony": [
-        {},
-        {},
-        {
-          "QualityPriority": "30"
-        },
-        {
-          "QualityPriority": "200"
-        },
-        {
-          "QualityPriority": "200"
-        },
-        {
-          "QualityPriority": "200"
-        }
-      ]
-    },
-    "sgni.CharactorNumLimit": {
-      "id": 281,
-      "name": "sgni.CharactorNumLimit",
-      "group": "SignificanceQuality",
-      "cvar": "sgni.CharactorNumLimit",
-      "valueType": "int",
-      "Qualities_PC": [
-        {},
-        {},
-        {
-          "QualityPriority": "30"
-        },
-        {
-          "QualityPriority": "200"
-        },
-        {
-          "QualityPriority": "200"
-        },
-        {
-          "QualityPriority": "200"
-        }
-      ],
-      "Qualities_IOS": [
-        {},
-        {},
-        {
-          "QualityPriority": "30"
-        },
-        {
-          "QualityPriority": "200"
-        },
-        {
-          "QualityPriority": "200"
-        },
-        {
-          "QualityPriority": "200"
-        }
-      ],
-      "Qualities_Android": [
-        {},
-        {},
-        {
-          "QualityPriority": "30"
-        },
-        {
-          "QualityPriority": "200"
-        },
-        {
-          "QualityPriority": "200"
-        },
-        {
-          "QualityPriority": "200"
-        }
-      ],
-      "Qualities_OpenHarmony": [
-        {},
-        {},
-        {
-          "QualityPriority": "30"
-        },
-        {
-          "QualityPriority": "200"
-        },
-        {
-          "QualityPriority": "200"
-        },
-        {
-          "QualityPriority": "200"
-        }
-      ]
-    },
-    "sgni.ForceShowImportantNpcNum": {
-      "id": 282,
-      "name": "sgni.ForceShowImportantNpcNum",
-      "group": "SignificanceQuality",
-      "cvar": "sgni.ForceShowImportantNpcNum",
-      "valueType": "int",
-      "Qualities_PC": [
-        {},
-        {},
-        {
-          "QualityPriority": "3"
-        },
-        {
-          "QualityPriority": "3"
-        },
-        {
-          "QualityPriority": "3"
-        },
-        {
-          "QualityPriority": "3"
-        }
-      ],
-      "Qualities_IOS": [
-        {},
-        {},
-        {
-          "QualityPriority": "3"
-        },
-        {
-          "QualityPriority": "3"
-        },
-        {
-          "QualityPriority": "3"
-        },
-        {
-          "QualityPriority": "3"
-        }
-      ],
-      "Qualities_Android": [
-        {},
-        {},
-        {
-          "QualityPriority": "3"
-        },
-        {
-          "QualityPriority": "3"
-        },
-        {
-          "QualityPriority": "3"
-        },
-        {
-          "QualityPriority": "3"
-        }
-      ],
-      "Qualities_OpenHarmony": [
-        {},
-        {},
-        {
-          "QualityPriority": "3"
-        },
-        {
-          "QualityPriority": "3"
-        },
-        {
-          "QualityPriority": "3"
-        },
-        {
-          "QualityPriority": "3"
-        }
-      ]
-    },
-    "sgni.ForceShowNormalNpcNum": {
-      "id": 283,
-      "name": "sgni.ForceShowNormalNpcNum",
-      "group": "SignificanceQuality",
-      "cvar": "sgni.ForceShowNormalNpcNum",
-      "valueType": "int",
-      "Qualities_PC": [
-        {},
-        {},
-        {
-          "QualityPriority": "3"
-        },
-        {
-          "QualityPriority": "3"
-        },
-        {
-          "QualityPriority": "3"
-        },
-        {
-          "QualityPriority": "3"
-        }
-      ],
-      "Qualities_IOS": [
-        {},
-        {},
-        {
-          "QualityPriority": "3"
-        },
-        {
-          "QualityPriority": "3"
-        },
-        {
-          "QualityPriority": "3"
-        },
-        {
-          "QualityPriority": "3"
-        }
-      ],
-      "Qualities_Android": [
-        {},
-        {},
-        {
-          "QualityPriority": "3"
-        },
-        {
-          "QualityPriority": "3"
-        },
-        {
-          "QualityPriority": "3"
-        },
-        {
-          "QualityPriority": "3"
-        }
-      ],
-      "Qualities_OpenHarmony": [
-        {},
-        {},
-        {
-          "QualityPriority": "3"
-        },
-        {
-          "QualityPriority": "3"
-        },
-        {
-          "QualityPriority": "3"
-        },
-        {
-          "QualityPriority": "3"
-        }
-      ]
-    },
-    "sgni.BudgetLODFactorOwnerPet ": {
-      "id": 284,
-      "name": "sgni.BudgetLODFactorOwnerPet ",
-      "group": "SignificanceQuality",
-      "cvar": "sgni.BudgetLODFactorOwnerPet ",
-      "valueType": "float",
-      "Qualities_PC": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ],
-      "Qualities_IOS": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ],
-      "Qualities_Android": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ],
-      "Qualities_OpenHarmony": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ]
-    },
-    "sgni.BudgetLODFactorFriend": {
-      "id": 285,
-      "name": "sgni.BudgetLODFactorFriend",
-      "group": "SignificanceQuality",
-      "cvar": "sgni.BudgetLODFactorFriend",
-      "valueType": "float",
-      "Qualities_PC": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ],
-      "Qualities_IOS": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ],
-      "Qualities_Android": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ],
-      "Qualities_OpenHarmony": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ]
-    },
-    "sgni.BudgetLODFactorFriendPet": {
-      "id": 286,
-      "name": "sgni.BudgetLODFactorFriendPet",
-      "group": "SignificanceQuality",
-      "cvar": "sgni.BudgetLODFactorFriendPet",
-      "valueType": "float",
-      "Qualities_PC": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ],
-      "Qualities_IOS": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ],
-      "Qualities_Android": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ],
-      "Qualities_OpenHarmony": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ]
-    },
-    "sgni.BudgetLODFactorQQ_WX_Friend": {
-      "id": 287,
-      "name": "sgni.BudgetLODFactorQQ_WX_Friend",
-      "group": "SignificanceQuality",
-      "cvar": "sgni.BudgetLODFactorQQ_WX_Friend",
-      "valueType": "float",
-      "Qualities_PC": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ],
-      "Qualities_IOS": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ],
-      "Qualities_Android": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ],
-      "Qualities_OpenHarmony": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ]
-    },
-    "sgni.BudgetLODFactorQQ_WX_FriendPet": {
-      "id": 288,
-      "name": "sgni.BudgetLODFactorQQ_WX_FriendPet",
-      "group": "SignificanceQuality",
-      "cvar": "sgni.BudgetLODFactorQQ_WX_FriendPet",
-      "valueType": "float",
-      "Qualities_PC": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ],
-      "Qualities_IOS": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ],
-      "Qualities_Android": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ],
-      "Qualities_OpenHarmony": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ]
-    },
-    "sgni.BudgetLODFactorPlayer": {
-      "id": 289,
-      "name": "sgni.BudgetLODFactorPlayer",
-      "group": "SignificanceQuality",
-      "cvar": "sgni.BudgetLODFactorPlayer",
-      "valueType": "float",
-      "Qualities_PC": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ],
-      "Qualities_IOS": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ],
-      "Qualities_Android": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ],
-      "Qualities_OpenHarmony": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ]
-    },
-    "sgni.BudgetLODFactorPlayerPet": {
-      "id": 290,
-      "name": "sgni.BudgetLODFactorPlayerPet",
-      "group": "SignificanceQuality",
-      "cvar": "sgni.BudgetLODFactorPlayerPet",
-      "valueType": "float",
-      "Qualities_PC": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ],
-      "Qualities_IOS": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ],
-      "Qualities_Android": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ],
-      "Qualities_OpenHarmony": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ]
-    },
-    "sgni.BudgetLODFactorInteractivePlayer": {
-      "id": 291,
-      "name": "sgni.BudgetLODFactorInteractivePlayer",
-      "group": "SignificanceQuality",
-      "cvar": "sgni.BudgetLODFactorInteractivePlayer",
-      "valueType": "float",
-      "Qualities_PC": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ],
-      "Qualities_IOS": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ],
-      "Qualities_Android": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ],
-      "Qualities_OpenHarmony": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ]
-    },
-    "sgni.BudgetLODFactorInteractivePlayerRidePet": {
-      "id": 292,
-      "name": "sgni.BudgetLODFactorInteractivePlayerRidePet",
-      "group": "SignificanceQuality",
-      "cvar": "sgni.BudgetLODFactorInteractivePlayerRidePet",
-      "valueType": "float",
-      "Qualities_PC": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ],
-      "Qualities_IOS": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ],
-      "Qualities_Android": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ],
-      "Qualities_OpenHarmony": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ]
-    },
-    "sgni.BudgetLODFactorInteractivePlayerPet": {
-      "id": 293,
-      "name": "sgni.BudgetLODFactorInteractivePlayerPet",
-      "group": "SignificanceQuality",
-      "cvar": "sgni.BudgetLODFactorInteractivePlayerPet",
-      "valueType": "float",
-      "Qualities_PC": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ],
-      "Qualities_IOS": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ],
-      "Qualities_Android": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ],
-      "Qualities_OpenHarmony": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ]
-    },
-    "sgni.BudgetLODFactorInVisitPlayer": {
-      "id": 294,
-      "name": "sgni.BudgetLODFactorInVisitPlayer",
-      "group": "SignificanceQuality",
-      "cvar": "sgni.BudgetLODFactorInVisitPlayer",
-      "valueType": "float",
-      "Qualities_PC": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ],
-      "Qualities_IOS": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ],
-      "Qualities_Android": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ],
-      "Qualities_OpenHarmony": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ]
-    },
-    "sgni.BudgetLODFactorInVisitPlayerRidePet": {
-      "id": 295,
-      "name": "sgni.BudgetLODFactorInVisitPlayerRidePet",
-      "group": "SignificanceQuality",
-      "cvar": "sgni.BudgetLODFactorInVisitPlayerRidePet",
-      "valueType": "float",
-      "Qualities_PC": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ],
-      "Qualities_IOS": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ],
-      "Qualities_Android": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ],
-      "Qualities_OpenHarmony": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ]
-    },
-    "sgni.BudgetLODFactorInVisitPlayerPet": {
-      "id": 296,
-      "name": "sgni.BudgetLODFactorInVisitPlayerPet",
-      "group": "SignificanceQuality",
-      "cvar": "sgni.BudgetLODFactorInVisitPlayerPet",
-      "valueType": "float",
-      "Qualities_PC": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ],
-      "Qualities_IOS": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ],
-      "Qualities_Android": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ],
-      "Qualities_OpenHarmony": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ]
-    },
-    "sgni.BudgetLODFactorImportNPC": {
-      "id": 297,
-      "name": "sgni.BudgetLODFactorImportNPC",
-      "group": "SignificanceQuality",
-      "cvar": "sgni.BudgetLODFactorImportNPC",
-      "valueType": "float",
-      "Qualities_PC": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ],
-      "Qualities_IOS": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ],
-      "Qualities_Android": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ],
-      "Qualities_OpenHarmony": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ]
-    },
-    "sgni.BudgetLODFactorNPC_PEO_Task": {
-      "id": 298,
-      "name": "sgni.BudgetLODFactorNPC_PEO_Task",
-      "group": "SignificanceQuality",
-      "cvar": "sgni.BudgetLODFactorNPC_PEO_Task",
-      "valueType": "float",
-      "Qualities_PC": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ],
-      "Qualities_IOS": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ],
-      "Qualities_Android": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ],
-      "Qualities_OpenHarmony": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ]
-    },
-    "sgni.BudgetLODFactorNPC_PEO": {
-      "id": 299,
-      "name": "sgni.BudgetLODFactorNPC_PEO",
-      "group": "SignificanceQuality",
-      "cvar": "sgni.BudgetLODFactorNPC_PEO",
-      "valueType": "float",
-      "Qualities_PC": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ],
-      "Qualities_IOS": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ],
-      "Qualities_Android": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ],
-      "Qualities_OpenHarmony": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ]
-    },
-    "sgni.BudgetLODFactorInteractiveActor": {
-      "id": 300,
-      "name": "sgni.BudgetLODFactorInteractiveActor",
-      "group": "SignificanceQuality",
-      "cvar": "sgni.BudgetLODFactorInteractiveActor",
-      "valueType": "float",
-      "Qualities_PC": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ],
-      "Qualities_IOS": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ],
-      "Qualities_Android": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ],
-      "Qualities_OpenHarmony": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ]
-    },
-    "sgni.BudgetLODFactorPet": {
-      "id": 301,
-      "name": "sgni.BudgetLODFactorPet",
-      "group": "SignificanceQuality",
-      "cvar": "sgni.BudgetLODFactorPet",
-      "valueType": "float",
-      "Qualities_PC": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ],
-      "Qualities_IOS": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ],
-      "Qualities_Android": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ],
-      "Qualities_OpenHarmony": [
-        {},
-        {},
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        },
-        {
-          "QualityPriority": "1"
-        }
-      ]
-    },
     "r.NRCTexLODBias.TEXTUREGROUP_Character": {
-      "id": 302,
+      "id": 242,
       "name": "r.NRCTexLODBias.TEXTUREGROUP_Character",
       "group": "SceneDetailQuality",
       "cvar": "r.NRCTexLODBias.TEXTUREGROUP_Character",
@@ -21388,7 +17128,7 @@
       ]
     },
     "r.NRCTexLODBias.TEXTUREGROUP_CharacterNormalMap": {
-      "id": 303,
+      "id": 243,
       "name": "r.NRCTexLODBias.TEXTUREGROUP_CharacterNormalMap",
       "group": "SceneDetailQuality",
       "cvar": "r.NRCTexLODBias.TEXTUREGROUP_CharacterNormalMap",
@@ -21459,7 +17199,7 @@
       ]
     },
     "r.NRCTexLODBias.TEXTUREGROUP_CharacterSpecular": {
-      "id": 304,
+      "id": 244,
       "name": "r.NRCTexLODBias.TEXTUREGROUP_CharacterSpecular",
       "group": "SceneDetailQuality",
       "cvar": "r.NRCTexLODBias.TEXTUREGROUP_CharacterSpecular",
@@ -21530,7 +17270,7 @@
       ]
     },
     "r.NRCTexLODBias.TEXTUREGROUP_Project11": {
-      "id": 305,
+      "id": 245,
       "name": "r.NRCTexLODBias.TEXTUREGROUP_Project11",
       "group": "SceneDetailQuality",
       "cvar": "r.NRCTexLODBias.TEXTUREGROUP_Project11",
@@ -21601,7 +17341,7 @@
       ]
     },
     "r.NRCTexLODBias.TEXTUREGROUP_HierarchicalLOD": {
-      "id": 306,
+      "id": 246,
       "name": "r.NRCTexLODBias.TEXTUREGROUP_HierarchicalLOD",
       "group": "SceneDetailQuality",
       "cvar": "r.NRCTexLODBias.TEXTUREGROUP_HierarchicalLOD",
@@ -21672,7 +17412,7 @@
       ]
     },
     "r.NRCTexLODBias.TEXTUREGROUP_Lightmap": {
-      "id": 307,
+      "id": 247,
       "name": "r.NRCTexLODBias.TEXTUREGROUP_Lightmap",
       "group": "SceneDetailQuality",
       "cvar": "r.NRCTexLODBias.TEXTUREGROUP_Lightmap",
@@ -21743,7 +17483,7 @@
       ]
     },
     "r.NRCTexLODBias.TEXTUREGROUP_Project09": {
-      "id": 308,
+      "id": 248,
       "name": "r.NRCTexLODBias.TEXTUREGROUP_Project09",
       "group": "SceneDetailQuality",
       "cvar": "r.NRCTexLODBias.TEXTUREGROUP_Project09",
@@ -21814,7 +17554,7 @@
       ]
     },
     "r.NRCTexLODBias.TEXTUREGROUP_Project02": {
-      "id": 309,
+      "id": 249,
       "name": "r.NRCTexLODBias.TEXTUREGROUP_Project02",
       "group": "SceneDetailQuality",
       "cvar": "r.NRCTexLODBias.TEXTUREGROUP_Project02",
@@ -21885,7 +17625,7 @@
       ]
     },
     "r.NRCTexLODBias.TEXTUREGROUP_World": {
-      "id": 310,
+      "id": 250,
       "name": "r.NRCTexLODBias.TEXTUREGROUP_World",
       "group": "SceneDetailQuality",
       "cvar": "r.NRCTexLODBias.TEXTUREGROUP_World",
@@ -21956,7 +17696,7 @@
       ]
     },
     "r.NRCTexLODBias.TEXTUREGROUP_Project16": {
-      "id": 311,
+      "id": 251,
       "name": "r.NRCTexLODBias.TEXTUREGROUP_Project16",
       "group": "SceneDetailQuality",
       "cvar": "r.NRCTexLODBias.TEXTUREGROUP_Project16",
@@ -22027,7 +17767,7 @@
       ]
     },
     "r.NRCTexLODBias.TEXTUREGROUP_Project17": {
-      "id": 312,
+      "id": 252,
       "name": "r.NRCTexLODBias.TEXTUREGROUP_Project17",
       "group": "SceneDetailQuality",
       "cvar": "r.NRCTexLODBias.TEXTUREGROUP_Project17",
@@ -22098,7 +17838,7 @@
       ]
     },
     "r.clipmap.MaxMipLevel": {
-      "id": 313,
+      "id": 253,
       "name": "r.clipmap.MaxMipLevel",
       "group": "SceneDetailQuality",
       "cvar": "r.clipmap.MaxMipLevel",
@@ -22169,7 +17909,7 @@
       ]
     },
     "r.clipmap.MipScale": {
-      "id": 314,
+      "id": 254,
       "name": "r.clipmap.MipScale",
       "group": "SceneDetailQuality",
       "cvar": "r.clipmap.MipScale",
@@ -22240,7 +17980,7 @@
       ]
     },
     "r.UsePCRenderer": {
-      "id": 315,
+      "id": 255,
       "name": "r.UsePCRenderer",
       "group": "UtilityGroup",
       "cvar": "r.UsePCRenderer",
@@ -22311,7 +18051,7 @@
       ]
     },
     "r.CLV.MaxUpdateCountPerFram": {
-      "id": 316,
+      "id": 256,
       "name": "r.CLV.MaxUpdateCountPerFram",
       "group": "UtilityGroup",
       "cvar": "r.CLV.MaxUpdateCountPerFrame",
@@ -22382,7 +18122,7 @@
       ]
     },
     "r.CLV.AsyncBlockUpdateWorkercount": {
-      "id": 317,
+      "id": 257,
       "name": "r.CLV.AsyncBlockUpdateWorkercount",
       "group": "UtilityGroup",
       "cvar": "r.CLV.AsyncBlockUpdateWorkercount",
@@ -22453,7 +18193,7 @@
       ]
     },
     "r.Shadow.SpotLightDepthBias": {
-      "id": 318,
+      "id": 258,
       "name": "r.Shadow.SpotLightDepthBias",
       "group": "ShadowQuality",
       "cvar": "r.Shadow.SpotLightDepthBias",
@@ -22524,7 +18264,7 @@
       ]
     },
     "WorldTileTool.UpdateDistance": {
-      "id": 319,
+      "id": 259,
       "name": "WorldTileTool.UpdateDistance",
       "group": "ViewDistanceQuality",
       "cvar": "WorldTileTool.UpdateDistance",
@@ -22595,7 +18335,7 @@
       ]
     },
     "r.Shadow.CSMSlopeScaleDepthBias": {
-      "id": 320,
+      "id": 260,
       "name": "r.Shadow.CSMSlopeScaleDepthBias",
       "group": "ShadowQuality",
       "cvar": "r.Shadow.CSMSlopeScaleDepthBias",
@@ -22666,7 +18406,7 @@
       ]
     },
     "r.Shadow.ShadowMaxSlopeScaleDepthBias": {
-      "id": 321,
+      "id": 261,
       "name": "r.Shadow.ShadowMaxSlopeScaleDepthBias",
       "group": "ShadowQuality",
       "cvar": "r.Shadow.ShadowMaxSlopeScaleDepthBias",
@@ -22737,7 +18477,7 @@
       ]
     },
     "r.Shadow.SpotLightSlopeDepthBias": {
-      "id": 322,
+      "id": 262,
       "name": "r.Shadow.SpotLightSlopeDepthBias",
       "group": "ShadowQuality",
       "cvar": "r.Shadow.SpotLightSlopeDepthBias",
@@ -22808,7 +18548,7 @@
       ]
     },
     "r.GroundTruthShadowBias.ScaleCascade0": {
-      "id": 323,
+      "id": 263,
       "name": "r.GroundTruthShadowBias.ScaleCascade0",
       "group": "ShadowQuality",
       "cvar": "r.GroundTruthShadowBias.ScaleCascade0",
@@ -22879,7 +18619,7 @@
       ]
     },
     "r.GroundTruthShadowBias": {
-      "id": 324,
+      "id": 264,
       "name": "r.GroundTruthShadowBias",
       "group": "ShadowQuality",
       "cvar": "r.GroundTruthShadowBias",
@@ -22950,7 +18690,7 @@
       ]
     },
     "r.Mobile.DirectionalLightShadowBias": {
-      "id": 325,
+      "id": 265,
       "name": "r.Mobile.DirectionalLightShadowBias",
       "group": "ShadowQuality",
       "cvar": "r.Mobile.DirectionalLightShadowBias",
@@ -23021,7 +18761,7 @@
       ]
     },
     "r.GroundTruthShadowBias.ScaleCascade1": {
-      "id": 326,
+      "id": 266,
       "name": "r.GroundTruthShadowBias.ScaleCascade1",
       "group": "ShadowQuality",
       "cvar": "r.GroundTruthShadowBias.ScaleCascade1",
@@ -23092,7 +18832,7 @@
       ]
     },
     "r.GroundTruthShadowBias.ScaleCascade2": {
-      "id": 327,
+      "id": 267,
       "name": "r.GroundTruthShadowBias.ScaleCascade2",
       "group": "ShadowQuality",
       "cvar": "r.GroundTruthShadowBias.ScaleCascade2",
@@ -23163,7 +18903,7 @@
       ]
     },
     "r.Shadow.MinScreenModeForShadowCaster": {
-      "id": 328,
+      "id": 268,
       "name": "r.Shadow.MinScreenModeForShadowCaster",
       "group": "ShadowQuality",
       "cvar": "r.Shadow.MinScreenModeForShadowCaster",
@@ -23234,7 +18974,7 @@
       ]
     },
     "r.Shadow.MinScreenSizeForShadowCaster": {
-      "id": 329,
+      "id": 269,
       "name": "r.Shadow.MinScreenSizeForShadowCaster",
       "group": "ShadowQuality",
       "cvar": "r.Shadow.MinScreenSizeForShadowCaster",
@@ -23305,7 +19045,7 @@
       ]
     },
     "SpotLight": {
-      "id": 330,
+      "id": 270,
       "name": "SpotLight",
       "group": "ShadowQuality",
       "cvar": "r.Shadow.LLSC",
@@ -23376,7 +19116,7 @@
       ]
     },
     "r.VT.RuntimeEnabled": {
-      "id": 331,
+      "id": 271,
       "name": "r.VT.RuntimeEnabled",
       "group": "SceneDetailQuality",
       "cvar": "r.VT.RuntimeEnabled",
@@ -23447,7 +19187,7 @@
       ]
     },
     "r.VT.NonFeedbackPageRequest": {
-      "id": 332,
+      "id": 272,
       "name": "r.VT.NonFeedbackPageRequest",
       "group": "SceneDetailQuality",
       "cvar": "r.VT.NonFeedbackPageRequest",
@@ -23518,7 +19258,7 @@
       ]
     },
     "r.FlushCSMCacheWhenHLODSwitch": {
-      "id": 333,
+      "id": 273,
       "name": "r.FlushCSMCacheWhenHLODSwitch",
       "group": "ShadowQuality",
       "cvar": "r.FlushCSMCacheWhenHLODSwitch",
@@ -23589,7 +19329,7 @@
       ]
     },
     "r.Shadow.CSM.IntervalUpdate": {
-      "id": 334,
+      "id": 274,
       "name": "r.Shadow.CSM.IntervalUpdate",
       "group": "ShadowQuality",
       "cvar": "r.Shadow.CSM.IntervalUpdate",
@@ -23660,7 +19400,7 @@
       ]
     },
     "r.Shadow.CSMCaching.SingleFrameUpdatableCacheCount": {
-      "id": 335,
+      "id": 275,
       "name": "r.Shadow.CSMCaching.SingleFrameUpdatableCacheCount",
       "group": "ShadowQuality",
       "cvar": "r.Shadow.CSMCaching.SingleFrameUpdatableCacheCount",
@@ -23731,7 +19471,7 @@
       ]
     },
     "sgni.SignifMeshOrNiagaraActorTickLimitHighest": {
-      "id": 336,
+      "id": 276,
       "name": "sgni.SignifMeshOrNiagaraActorTickLimitHighest",
       "group": "SignificanceQuality",
       "cvar": "sgni.SignifMeshOrNiagaraActorTickLimitHighest",
@@ -23802,7 +19542,7 @@
       ]
     },
     "sgni.SignifMeshOrNiagaraActorTickLimitHigher": {
-      "id": 337,
+      "id": 277,
       "name": "sgni.SignifMeshOrNiagaraActorTickLimitHigher",
       "group": "SignificanceQuality",
       "cvar": "sgni.SignifMeshOrNiagaraActorTickLimitHigher",
@@ -23873,7 +19613,7 @@
       ]
     },
     "sgni.SignifMeshOrNiagaraActorTickLimitHigh": {
-      "id": 338,
+      "id": 278,
       "name": "sgni.SignifMeshOrNiagaraActorTickLimitHigh",
       "group": "SignificanceQuality",
       "cvar": "sgni.SignifMeshOrNiagaraActorTickLimitHigh",
@@ -23944,7 +19684,7 @@
       ]
     },
     "sgni.SignifMeshOrNiagaraActorTickLimitMedium": {
-      "id": 339,
+      "id": 279,
       "name": "sgni.SignifMeshOrNiagaraActorTickLimitMedium",
       "group": "SignificanceQuality",
       "cvar": "sgni.SignifMeshOrNiagaraActorTickLimitMedium",
@@ -24015,7 +19755,7 @@
       ]
     },
     "sgni.SignifMeshOrNiagaraActorTickLimitLow": {
-      "id": 340,
+      "id": 280,
       "name": "sgni.SignifMeshOrNiagaraActorTickLimitLow",
       "group": "SignificanceQuality",
       "cvar": "sgni.SignifMeshOrNiagaraActorTickLimitLow",
@@ -24086,7 +19826,7 @@
       ]
     },
     "sgni.SignifMeshOrNiagaraActorTickLimitLower": {
-      "id": 341,
+      "id": 281,
       "name": "sgni.SignifMeshOrNiagaraActorTickLimitLower",
       "group": "SignificanceQuality",
       "cvar": "sgni.SignifMeshOrNiagaraActorTickLimitLower",
@@ -24157,7 +19897,7 @@
       ]
     },
     "sgni.SignifMeshOrNiagaraActorTickLimitLowest": {
-      "id": 342,
+      "id": 282,
       "name": "sgni.SignifMeshOrNiagaraActorTickLimitLowest",
       "group": "SignificanceQuality",
       "cvar": "sgni.SignifMeshOrNiagaraActorTickLimitLowest",
@@ -24228,7 +19968,7 @@
       ]
     },
     "sgni.SignifMeshOrNiagaraActorNumLimit": {
-      "id": 343,
+      "id": 283,
       "name": "sgni.SignifMeshOrNiagaraActorNumLimit",
       "group": "SignificanceQuality",
       "cvar": "sgni.SignifMeshOrNiagaraActorNumLimit",
@@ -24315,7 +20055,7 @@
       ]
     },
     "sgni.SignifMeshOrNiagaraActorCloseRangeArea": {
-      "id": 393,
+      "id": 284,
       "name": "sgni.SignifMeshOrNiagaraActorCloseRangeArea",
       "group": "SignificanceQuality",
       "cvar": "sgni.SignifMeshOrNiagaraActorCloseRangeArea",
@@ -24402,7 +20142,7 @@
       ]
     },
     "sgni.SignifMeshOrNiagaraActorCloseRangeAreaMinDistance": {
-      "id": 394,
+      "id": 285,
       "name": "sgni.SignifMeshOrNiagaraActorCloseRangeAreaMinDistance",
       "group": "SignificanceQuality",
       "cvar": "sgni.SignifMeshOrNiagaraActorCloseRangeAreaMinDistance",
@@ -24489,7 +20229,7 @@
       ]
     },
     "r.RenderTargetPoolMin": {
-      "id": 395,
+      "id": 286,
       "name": "r.RenderTargetPoolMin",
       "group": "UtilityGroup",
       "cvar": "r.RenderTargetPoolMin",
@@ -24512,7 +20252,7 @@
       ]
     },
     "r.Mobile.SceneColorFormat": {
-      "id": 396,
+      "id": 287,
       "name": "r.Mobile.SceneColorFormat",
       "group": "UtilityGroup",
       "cvar": "r.Mobile.SceneColorFormat",
@@ -24531,7 +20271,7 @@
       ]
     },
     "r.NGX.DLSS.Enable": {
-      "id": 397,
+      "id": 288,
       "name": "r.NGX.DLSS.Enable",
       "group": "UtilityGroup",
       "cvar": "r.NGX.DLSS.Enable",
@@ -24618,7 +20358,7 @@
       ]
     },
     "r.NGX.DLSS.UpscalerOnly": {
-      "id": 398,
+      "id": 289,
       "name": "r.NGX.DLSS.UpscalerOnly",
       "group": "UtilityGroup",
       "cvar": "r.NGX.DLSS.UpscalerOnly",
@@ -24705,7 +20445,7 @@
       ]
     },
     "r.NGX.DLSS.Preset": {
-      "id": 399,
+      "id": 290,
       "name": "r.NGX.DLSS.Preset",
       "group": "UtilityGroup",
       "cvar": "r.NGX.DLSS.Preset",
@@ -24792,7 +20532,7 @@
       ]
     },
     "r.NGX.DLSS.Quality": {
-      "id": 400,
+      "id": 291,
       "name": "r.NGX.DLSS.Quality",
       "group": "UtilityGroup",
       "cvar": "r.NGX.DLSS.Quality",
@@ -24879,7 +20619,7 @@
       ]
     },
     "n.SwitchAvatarGCThreshold": {
-      "id": 401,
+      "id": 292,
       "name": "n.SwitchAvatarGCThreshold",
       "group": "UtilityGroup",
       "cvar": "n.SwitchAvatarGCThreshold",
@@ -24966,7 +20706,7 @@
       ]
     },
     "r.Shadow.GrassShadowBiasScale": {
-      "id": 402,
+      "id": 293,
       "name": "r.Shadow.GrassShadowBiasScale",
       "group": "ShadowQuality",
       "cvar": "r.Shadow.GrassShadowBiasScale",
@@ -25037,7 +20777,7 @@
       ]
     },
     "NRCMeshMinLODs.14": {
-      "id": 403,
+      "id": 294,
       "name": "NRCMeshMinLODs.14",
       "group": "CharacterDetailQuality",
       "cvar": "r.NRCMeshMinLODs.14",
@@ -25104,6 +20844,361 @@
         },
         {
           "QualityPriority": "0"
+        }
+      ]
+    },
+    "r.clv.TriggerRefresh": {
+      "id": 295,
+      "name": "r.clv.TriggerRefresh",
+      "group": "UtilityGroup",
+      "cvar": "r.clv.TriggerRefresh",
+      "valueType": "int",
+      "Qualities_PC": [
+        {},
+        {},
+        {
+          "QualityPriority": "1"
+        },
+        {
+          "QualityPriority": "1"
+        },
+        {
+          "QualityPriority": "1"
+        },
+        {
+          "QualityPriority": "1"
+        }
+      ],
+      "Qualities_IOS": [
+        {},
+        {},
+        {
+          "QualityPriority": "1"
+        },
+        {
+          "QualityPriority": "1"
+        },
+        {
+          "QualityPriority": "1"
+        },
+        {
+          "QualityPriority": "1"
+        }
+      ],
+      "Qualities_Android": [
+        {},
+        {},
+        {
+          "QualityPriority": "1"
+        },
+        {
+          "QualityPriority": "1"
+        },
+        {
+          "QualityPriority": "1"
+        },
+        {
+          "QualityPriority": "1"
+        }
+      ],
+      "Qualities_OpenHarmony": [
+        {},
+        {},
+        {
+          "QualityPriority": "1"
+        },
+        {
+          "QualityPriority": "1"
+        },
+        {
+          "QualityPriority": "1"
+        },
+        {
+          "QualityPriority": "1"
+        }
+      ]
+    },
+    "r.ReflectionEnvironmentLightmapMixBasedOnRoughness": {
+      "id": 296,
+      "name": "r.ReflectionEnvironmentLightmapMixBasedOnRoughness",
+      "group": "UtilityGroup",
+      "cvar": "r.ReflectionEnvironmentLightmapMixBasedOnRoughness",
+      "valueType": "int",
+      "Qualities_PC": [
+        {},
+        {},
+        {
+          "QualityPriority": "0"
+        },
+        {
+          "QualityPriority": "0"
+        },
+        {
+          "QualityPriority": "0"
+        },
+        {
+          "QualityPriority": "0"
+        }
+      ],
+      "Qualities_IOS": [
+        {},
+        {},
+        {
+          "QualityPriority": "0"
+        },
+        {
+          "QualityPriority": "0"
+        },
+        {
+          "QualityPriority": "0"
+        },
+        {
+          "QualityPriority": "0"
+        }
+      ],
+      "Qualities_Android": [
+        {},
+        {},
+        {
+          "QualityPriority": "0"
+        },
+        {
+          "QualityPriority": "0"
+        },
+        {
+          "QualityPriority": "0"
+        },
+        {
+          "QualityPriority": "0"
+        }
+      ],
+      "Qualities_OpenHarmony": [
+        {},
+        {},
+        {
+          "QualityPriority": "0"
+        },
+        {
+          "QualityPriority": "0"
+        },
+        {
+          "QualityPriority": "0"
+        },
+        {
+          "QualityPriority": "0"
+        }
+      ]
+    },
+    "r.Shadow.NRCMaxShadowResolution": {
+      "id": 297,
+      "name": "r.Shadow.NRCMaxShadowResolution",
+      "group": "ShadowQuality",
+      "cvar": "r.Shadow.NRCMaxShadowResolution",
+      "valueType": "int",
+      "Qualities_PC": [
+        {},
+        {},
+        {
+          "QualityPriority": "1024"
+        },
+        {
+          "QualityPriority": "1024"
+        },
+        {
+          "QualityPriority": "1024"
+        },
+        {
+          "QualityPriority": "1024"
+        }
+      ],
+      "Qualities_IOS": [
+        {},
+        {},
+        {
+          "QualityPriority": "512"
+        },
+        {
+          "QualityPriority": "1024"
+        },
+        {
+          "QualityPriority": "1024"
+        },
+        {
+          "QualityPriority": "1024"
+        }
+      ],
+      "Qualities_Android": [
+        {},
+        {},
+        {
+          "QualityPriority": "512"
+        },
+        {
+          "QualityPriority": "1024"
+        },
+        {
+          "QualityPriority": "1024"
+        },
+        {
+          "QualityPriority": "1024"
+        }
+      ],
+      "Qualities_OpenHarmony": [
+        {},
+        {},
+        {
+          "QualityPriority": "512"
+        },
+        {
+          "QualityPriority": "1024"
+        },
+        {
+          "QualityPriority": "1024"
+        },
+        {
+          "QualityPriority": "1024"
+        }
+      ]
+    },
+    "n.ChangeTextureToMatchScreenGlobalScale": {
+      "id": 298,
+      "name": "n.ChangeTextureToMatchScreenGlobalScale",
+      "group": "UtilityGroup",
+      "cvar": "n.ChangeTextureToMatchScreenGlobalScale",
+      "valueType": "float",
+      "Qualities_PC": [
+        {},
+        {},
+        {
+          "QualityPriority": "-1"
+        },
+        {
+          "QualityPriority": "-1"
+        },
+        {
+          "QualityPriority": "-1"
+        },
+        {
+          "QualityPriority": "-1"
+        }
+      ],
+      "Qualities_IOS": [
+        {},
+        {},
+        {
+          "QualityPriority": "-1"
+        },
+        {
+          "QualityPriority": "-1"
+        },
+        {
+          "QualityPriority": "-1"
+        },
+        {
+          "QualityPriority": "-1"
+        }
+      ],
+      "Qualities_Android": [
+        {},
+        {},
+        {
+          "QualityPriority": "0.8"
+        },
+        {
+          "QualityPriority": "-1"
+        },
+        {
+          "QualityPriority": "-1"
+        },
+        {
+          "QualityPriority": "-1"
+        }
+      ],
+      "Qualities_OpenHarmony": [
+        {},
+        {},
+        {
+          "QualityPriority": "0.8"
+        },
+        {
+          "QualityPriority": "-1"
+        },
+        {
+          "QualityPriority": "-1"
+        },
+        {
+          "QualityPriority": "-1"
+        }
+      ]
+    },
+    "n.WorldViewGlobalScale": {
+      "id": 299,
+      "name": "n.WorldViewGlobalScale",
+      "group": "UtilityGroup",
+      "cvar": "n.WorldViewGlobalScale",
+      "valueType": "float",
+      "Qualities_PC": [
+        {},
+        {},
+        {
+          "QualityPriority": "-1"
+        },
+        {
+          "QualityPriority": "-1"
+        },
+        {
+          "QualityPriority": "-1"
+        },
+        {
+          "QualityPriority": "-1"
+        }
+      ],
+      "Qualities_IOS": [
+        {},
+        {},
+        {
+          "QualityPriority": "-1"
+        },
+        {
+          "QualityPriority": "-1"
+        },
+        {
+          "QualityPriority": "-1"
+        },
+        {
+          "QualityPriority": "-1"
+        }
+      ],
+      "Qualities_Android": [
+        {},
+        {},
+        {
+          "QualityPriority": "0.75"
+        },
+        {
+          "QualityPriority": "-1"
+        },
+        {
+          "QualityPriority": "-1"
+        },
+        {
+          "QualityPriority": "-1"
+        }
+      ],
+      "Qualities_OpenHarmony": [
+        {},
+        {},
+        {
+          "QualityPriority": "0.75"
+        },
+        {
+          "QualityPriority": "-1"
+        },
+        {
+          "QualityPriority": "-1"
+        },
+        {
+          "QualityPriority": "-1"
         }
       ]
     }

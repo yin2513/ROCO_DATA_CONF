@@ -1162,13 +1162,13 @@
     "pet_skill_version": {
       "id": 293,
       "key": "pet_skill_version",
-      "num": 2,
+      "num": 3,
       "is_loc": 2
     },
     "pet_attr_version": {
       "id": 294,
       "key": "pet_attr_version",
-      "num": 2,
+      "num": 3,
       "is_loc": 2
     },
     "collection_cant_release": {
@@ -2483,7 +2483,7 @@
     "handbook_topic_version": {
       "id": 462,
       "key": "handbook_topic_version",
-      "num": 101001,
+      "num": 110010,
       "is_loc": 2
     },
     "home_pet_egg_info": {
@@ -2635,7 +2635,7 @@
     "pet_belong_handbook_version": {
       "id": 489,
       "key": "pet_belong_handbook_version",
-      "num": 100000
+      "num": 110002
     },
     "medal_unlock_show_time": {
       "id": 490,
@@ -2666,6 +2666,11 @@
       "id": 495,
       "key": "pet_report_amount_limit",
       "num": 1900
+    },
+    "lordevo_end_time": {
+      "id": 496,
+      "key": "lordevo_end_time",
+      "num": 1800
     },
     "mix_blood_skill_dam_type": {
       "id": 497,
@@ -2711,10 +2716,47 @@
       "key": "PC_drag_least_distance",
       "num": 10
     },
+    "energy_loss_show_time": {
+      "id": 502,
+      "key": "energy_loss_show_time",
+      "num": 2000
+    },
+    "chat_easter_egg_radius": {
+      "id": 503,
+      "key": "chat_easter_egg_radius",
+      "num": 50
+    },
+    "highvalue_pet_need_protect": {
+      "id": 504,
+      "key": "highvalue_pet_need_protect",
+      "numList": [
+        1,
+        8
+      ]
+    },
+    "pet_feed_fruit": {
+      "id": 505,
+      "key": "pet_feed_fruit",
+      "numList": [
+        100211,
+        100212,
+        100213
+      ]
+    },
+    "auto_change_team": {
+      "id": 507,
+      "key": "auto_change_team",
+      "num": 1500
+    },
     "egg_name_display_max_text": {
       "id": 508,
       "key": "egg_name_display_max_text",
       "num": 5
+    },
+    "pet_evo_skill_times_max": {
+      "id": 509,
+      "key": "pet_evo_skill_times_max",
+      "num": 30
     }
   },
   "LocalizationStrings": {}
