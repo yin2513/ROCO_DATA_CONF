@@ -47595,8 +47595,8 @@
         }
       ],
       "item_quality": 4,
-      "known_name": "{0}的蛋",
-      "known_description": "通过观察其花纹可以看出，这是{0}的蛋。"
+      "known_name": "大块头雪灵兽的蛋",
+      "known_description": "从西西那获得的大块头雪灵兽的蛋，经过孵化可以得到大块头的雪灵兽。"
     },
     "150119": {
       "id": 150119,
@@ -47622,8 +47622,8 @@
         }
       ],
       "item_quality": 4,
-      "known_name": "{0}的蛋",
-      "known_description": "通过观察其花纹可以看出，这是{0}的蛋。"
+      "known_name": "小不点雪灵兽的蛋",
+      "known_description": "从西西那获得的小不点雪灵兽的蛋，经过孵化可以得到小不点的雪灵兽。"
     },
     "150120": {
       "id": 150120,
