@@ -77,17 +77,17 @@
     "skll_price": {
       "id": 14,
       "key": "skll_price",
-      "num": 1
+      "num": 2
     },
     "feature_price": {
       "id": 15,
       "key": "feature_price",
-      "num": 2
+      "num": 3
     },
     "shred_price": {
       "id": 16,
       "key": "shred_price",
-      "num": 2
+      "num": 3
     },
     "area_id": {
       "id": 17,
@@ -124,7 +124,7 @@
       "key": "ice_dot_damage_limit",
       "numList": [
         20580010,
-        100
+        200
       ]
     },
     "fire_dot_damage_limit": {
@@ -132,7 +132,7 @@
       "key": "fire_dot_damage_limit",
       "numList": [
         20070020,
-        40
+        80
       ]
     },
     "poison_dot_damage_limit": {
@@ -140,7 +140,7 @@
       "key": "poison_dot_damage_limit",
       "numList": [
         20070010,
-        60
+        120
       ]
     },
     "grass_dot_damage_limit": {
@@ -148,7 +148,7 @@
       "key": "grass_dot_damage_limit",
       "numList": [
         20050010,
-        120
+        240
       ]
     },
     "grass_medal_id": {

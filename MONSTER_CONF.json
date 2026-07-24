@@ -303415,6 +303415,50 @@
       ],
       "nature_id": 31
     },
+    "1803839": {
+      "id": 1803839,
+      "name": "",
+      "base_id": 8200,
+      "petbase_find_enum": 1,
+      "find_param": [
+        8200
+      ],
+      "new_level": [
+        10008,
+        1,
+        1,
+        0
+      ],
+      "difficulty": 29,
+      "custom_glass": {},
+      "voice_percent": [
+        0,
+        100
+      ],
+      "nature_id": 31
+    },
+    "1803840": {
+      "id": 1803840,
+      "name": "",
+      "base_id": 3609,
+      "petbase_find_enum": 1,
+      "find_param": [
+        3609
+      ],
+      "new_level": [
+        10008,
+        1,
+        1,
+        0
+      ],
+      "difficulty": 29,
+      "custom_glass": {},
+      "voice_percent": [
+        0,
+        100
+      ],
+      "nature_id": 31
+    },
     "1900001": {
       "id": 1900001,
       "name": "",

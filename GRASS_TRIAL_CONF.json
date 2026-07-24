@@ -28,6 +28,10 @@
       "reward_show": [
         {
           "item_type": 2,
+          "item_id": 6
+        },
+        {
+          "item_type": 2,
           "item_id": 1
         }
       ]
@@ -61,6 +65,10 @@
       ],
       "battle_skill_num": 6,
       "reward_show": [
+        {
+          "item_type": 2,
+          "item_id": 6
+        },
         {
           "item_type": 2,
           "item_id": 1
@@ -97,6 +105,10 @@
       "battle_skill_num": 6,
       "param": 8000,
       "reward_show": [
+        {
+          "item_type": 2,
+          "item_id": 6
+        },
         {
           "item_type": 2,
           "item_id": 1

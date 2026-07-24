@@ -163873,10 +163873,10 @@
     "70103": {
       "id": 70103,
       "npc_aim_display": 1,
-      "online_process": 3,
+      "online_process": 4,
       "IgnoreTaskVisitRules": true,
       "option_priority": 1,
-      "option_radius": 250,
+      "option_radius": 200,
       "npc_interact_type": 1,
       "unmount_type": 1,
       "action": {
@@ -163900,10 +163900,10 @@
     },
     "70104": {
       "id": 70104,
-      "online_process": 3,
+      "online_process": 4,
       "IgnoreTaskVisitRules": true,
       "option_priority": 1,
-      "option_radius": 250,
+      "option_radius": 200,
       "npc_interact_type": 1,
       "unmount_type": 1,
       "action": {
@@ -163919,10 +163919,10 @@
     "70105": {
       "id": 70105,
       "npc_aim_display": 1,
-      "online_process": 3,
+      "online_process": 4,
       "IgnoreTaskVisitRules": true,
       "option_priority": 1,
-      "option_radius": 250,
+      "option_radius": 150,
       "npc_interact_type": 1,
       "unmount_type": 1,
       "action": {
@@ -163946,10 +163946,10 @@
     },
     "70106": {
       "id": 70106,
-      "online_process": 3,
+      "online_process": 4,
       "IgnoreTaskVisitRules": true,
       "option_priority": 1,
-      "option_radius": 250,
+      "option_radius": 150,
       "npc_interact_type": 1,
       "unmount_type": 1,
       "action": {
@@ -231207,6 +231207,44 @@
       "pet_power_dash_action": {},
       "wild_action": {}
     },
+    "6304601": {
+      "id": 6304601,
+      "online_process": 2,
+      "option_priority": 1,
+      "option_radius": 300,
+      "vision_range": 180,
+      "npc_interact_type": 2,
+      "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+      "button_text": "对话",
+      "unmount_type": 1,
+      "action": {
+        "action_type": 21,
+        "action_param1": "63046051"
+      },
+      "pet_action": {},
+      "pet_power_dash_action": {},
+      "wild_action": {},
+      "system_control_id": 6120000
+    },
+    "6304701": {
+      "id": 6304701,
+      "online_process": 2,
+      "option_priority": 1,
+      "option_radius": 300,
+      "vision_range": 180,
+      "npc_interact_type": 2,
+      "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+      "button_text": "怎么了？",
+      "unmount_type": 1,
+      "action": {
+        "action_type": 21,
+        "action_param1": "63047051"
+      },
+      "pet_action": {},
+      "pet_power_dash_action": {},
+      "wild_action": {},
+      "system_control_id": 6130000
+    },
     "6547501": {
       "id": 6547501,
       "npc_aim_display": 3,
@@ -231533,7 +231571,7 @@
       "vision_range": 180,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPC/Raw/Frames/img_caiji_png.img_caiji_png'",
-      "button_text": "怎么了？",
+      "button_text": "对话",
       "unmount_type": 2,
       "action": {
         "action_type": 10012,
@@ -232401,7 +232439,7 @@
       "vision_range": 180,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "对话",
+      "button_text": "精灵知识竞赛冠军宝箱",
       "enablefix_distance": 2,
       "fix_distance": 150.0,
       "unmount_type": 1,
@@ -232422,7 +232460,7 @@
       "vision_range": 180,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "对话",
+      "button_text": "靠近看看？",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -232440,7 +232478,7 @@
       "vision_range": 180,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "精灵知识竞赛冠军宝箱",
+      "button_text": "对话",
       "enablefix_distance": 2,
       "fix_distance": 175.0,
       "unmount_type": 1,
@@ -232460,7 +232498,7 @@
       "vision_range": 180,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "靠近看看？",
+      "button_text": "你在看什么？",
       "unmount_type": 1,
       "action": {
         "action_type": 10091,
@@ -232493,7 +232531,7 @@
       "option_radius": 800,
       "npc_interact_type": 1,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "对话",
+      "button_text": "再给我一次机会！",
       "enablefix_distance": 2,
       "fix_distance": 500.0,
       "unmount_type": 1,
@@ -232553,7 +232591,7 @@
       "vision_range": 180,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "你在看什么？",
+      "button_text": "测试",
       "enablefix_distance": 2,
       "fix_distance": 175.0,
       "unmount_type": 1,
@@ -232573,7 +232611,7 @@
       "vision_range": 180,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "再给我一次机会！",
+      "button_text": "对话",
       "enablefix_distance": 2,
       "fix_distance": 150.0,
       "unmount_type": 1,
@@ -232593,7 +232631,7 @@
       "vision_range": 180,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "测试",
+      "button_text": "对话",
       "enablefix_distance": 2,
       "fix_distance": 150.0,
       "unmount_type": 1,
@@ -232671,7 +232709,7 @@
       "option_radius": 420,
       "npc_interact_type": 7,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "对话",
+      "button_text": "华丽宝箱",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -232690,7 +232728,7 @@
       "vision_range": 180,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "对话",
+      "button_text": "测试",
       "enablefix_distance": 2,
       "fix_distance": 300.0,
       "unmount_type": 1,
@@ -232710,7 +232748,7 @@
       "vision_range": 180,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "华丽宝箱",
+      "button_text": "挑战黑巫师",
       "enablefix_distance": 2,
       "fix_distance": 175.0,
       "unmount_type": 1,
@@ -232730,7 +232768,7 @@
       "vision_range": 180,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "测试",
+      "button_text": "对话",
       "enablefix_distance": 2,
       "fix_distance": 300.0,
       "unmount_type": 1,
@@ -232750,7 +232788,7 @@
       "vision_range": 180,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "挑战黑巫师",
+      "button_text": "对话",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -232840,7 +232878,7 @@
       "vision_range": 180,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "对话",
+      "button_text": "查看",
       "enablefix_distance": 2,
       "fix_distance": 175.0,
       "unmount_type": 1,
@@ -232860,7 +232898,7 @@
       "vision_range": 180,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "对话",
+      "button_text": "华丽宝箱",
       "enablefix_distance": 2,
       "fix_distance": 175.0,
       "unmount_type": 1,
@@ -232881,7 +232919,7 @@
       "vision_range": 180,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "查看",
+      "button_text": "对话",
       "enablefix_distance": 2,
       "fix_distance": 175.0,
       "unmount_type": 1,
@@ -232935,7 +232973,7 @@
       "vision_range": 180,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "华丽宝箱",
+      "button_text": "查看留言",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -232953,7 +232991,7 @@
       "vision_range": 180,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "对话",
+      "button_text": "查看留言",
       "enablefix_distance": 2,
       "fix_distance": 150.0,
       "unmount_type": 1,
@@ -233056,7 +233094,7 @@
       "vision_range": 180,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "查看留言",
+      "button_text": "探索！",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -233073,7 +233111,7 @@
       "option_radius": 400,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_luopan_png.img_luopan_png'",
-      "button_text": "查看留言",
+      "button_text": "古旧的游戏币",
       "enablefix_distance": 2,
       "fix_distance": 300.0,
       "unmount_type": 1,
@@ -233093,7 +233131,7 @@
       "vision_range": 180,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "探索！",
+      "button_text": "对话",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -233111,7 +233149,7 @@
       "vision_range": 180,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "古旧的游戏币",
+      "button_text": "观察",
       "unmount_type": 1,
       "action": {
         "action_type": 10091
@@ -233145,7 +233183,7 @@
       "option_radius": 420,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_luopan_png.img_luopan_png'",
-      "button_text": "对话",
+      "button_text": "测试",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -233163,7 +233201,7 @@
       "vision_range": 180,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "观察",
+      "button_text": "阅读",
       "enablefix_distance": 2,
       "fix_distance": 150.0,
       "unmount_type": 1,
@@ -233183,7 +233221,7 @@
       "vision_range": 180,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "测试",
+      "button_text": "阅读",
       "unmount_type": 1,
       "action": {
         "action_type": 10091
@@ -233199,7 +233237,7 @@
       "option_radius": 700,
       "npc_interact_type": 1,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "阅读",
+      "button_text": "对话",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -233218,7 +233256,7 @@
       "vision_range": 180,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "阅读",
+      "button_text": "对话",
       "enablefix_distance": 2,
       "fix_distance": 150.0,
       "unmount_type": 1,
@@ -233277,7 +233315,7 @@
       "option_radius": 600,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_luopan_png.img_luopan_png'",
-      "button_text": "对话",
+      "button_text": "观察",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -233384,7 +233422,7 @@
       "vision_range": 180,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_zhandou_png.img_zhandou_png'",
-      "button_text": "对话",
+      "button_text": "观察",
       "unmount_type": 1,
       "action": {
         "action_type": 10001,
@@ -233420,7 +233458,7 @@
       "option_radius": 1000,
       "npc_interact_type": 1,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "观察",
+      "button_text": "离开",
       "enablefix_distance": 2,
       "fix_distance": 175.0,
       "unmount_type": 1,
@@ -233441,7 +233479,7 @@
       "vision_range": 180,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "观察",
+      "button_text": "离开",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -233458,7 +233496,7 @@
       "option_radius": 600,
       "npc_interact_type": 1,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "离开",
+      "button_text": "观察",
       "enablefix_distance": 2,
       "fix_distance": 500.0,
       "unmount_type": 1,
@@ -233478,7 +233516,7 @@
       "vision_range": 180,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "离开",
+      "button_text": "推动",
       "enablefix_distance": 2,
       "fix_distance": 150.0,
       "unmount_type": 1,
@@ -233498,7 +233536,7 @@
       "vision_range": 180,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "观察",
+      "button_text": "推动",
       "enablefix_distance": 2,
       "fix_distance": 150.0,
       "unmount_type": 1,
@@ -233556,7 +233594,7 @@
       "vision_range": 180,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "推动",
+      "button_text": "观察",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -233649,7 +233687,7 @@
       "vision_range": 180,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "推动",
+      "button_text": "触碰！",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -233667,7 +233705,7 @@
       "vision_range": 180,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "观察",
+      "button_text": "对话",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -233685,7 +233723,7 @@
       "vision_range": 180,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "触碰！",
+      "button_text": "对话",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -233702,7 +233740,7 @@
       "vision_range": 180,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_zhandou_png.img_zhandou_png'",
-      "button_text": "对话",
+      "button_text": "拍拍",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -233719,7 +233757,7 @@
       "vision_range": 180,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_zhandou_png.img_zhandou_png'",
-      "button_text": "对话",
+      "button_text": "拍拍",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -233736,7 +233774,7 @@
       "vision_range": 180,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_zhandou_png.img_zhandou_png'",
-      "button_text": "拍拍",
+      "button_text": "对话",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -233754,7 +233792,7 @@
       "vision_range": 180,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "拍拍",
+      "button_text": "对话",
       "enablefix_distance": 2,
       "fix_distance": 175.0,
       "unmount_type": 1,
@@ -234593,7 +234631,7 @@
       "option_radius": 400,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "对话",
+      "button_text": "查看",
       "action": {
         "action_type": 21,
         "action_param1": "201032100"
@@ -234609,7 +234647,7 @@
       "option_radius": 600,
       "npc_interact_type": 1,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "对话",
+      "button_text": "查看",
       "action": {
         "action_type": 21,
         "action_param1": "201031950"
@@ -234625,7 +234663,7 @@
       "option_radius": 600,
       "npc_interact_type": 1,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "查看",
+      "button_text": "对话",
       "action": {
         "action_type": 21,
         "action_param1": "201032000"
@@ -234641,7 +234679,7 @@
       "option_radius": 400,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "查看",
+      "button_text": "对话",
       "action": {
         "action_type": 21,
         "action_param1": "201032060"
@@ -234966,7 +235004,7 @@
       "option_radius": 300,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "对话",
+      "button_text": "原浆",
       "action": {
         "action_type": 21,
         "action_param1": "502002400"
@@ -235000,7 +235038,7 @@
       "option_radius": 300,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "原浆",
+      "button_text": "对话",
       "action": {
         "action_type": 21,
         "action_param1": "502002800"
@@ -235017,7 +235055,7 @@
       "option_radius": 300,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "对话",
+      "button_text": "战斗",
       "action": {
         "action_type": 21,
         "action_param1": "502004800"
@@ -235051,7 +235089,7 @@
       "option_radius": 300,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "战斗",
+      "button_text": "对话",
       "action": {
         "action_type": 21,
         "action_param1": "502002600"
@@ -235102,7 +235140,7 @@
       "option_radius": 300,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "对话",
+      "button_text": "鼓舞",
       "action": {
         "action_type": 21,
         "action_param1": "502003400"
@@ -235239,7 +235277,7 @@
       "vision_range": 180,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "对话",
+      "button_text": "以毒攻毒",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -235258,7 +235296,7 @@
       "vision_range": 180,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "鼓舞",
+      "button_text": "对话",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -235277,7 +235315,7 @@
       "vision_range": 180,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "以毒攻毒",
+      "button_text": "对话",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -235296,7 +235334,7 @@
       "vision_range": 180,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "对话",
+      "button_text": "闲聊",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -235315,7 +235353,7 @@
       "vision_range": 180,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "对话",
+      "button_text": "闲聊",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -235390,7 +235428,7 @@
       "vision_range": 180,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "闲聊",
+      "button_text": "对话",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -235408,7 +235446,7 @@
       "vision_range": 180,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "闲聊",
+      "button_text": "对话",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -235426,7 +235464,7 @@
       "vision_range": 180,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "对话",
+      "button_text": "到达",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -235463,7 +235501,7 @@
       "vision_range": 180,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "到达",
+      "button_text": "对话",
       "unmount_type": 1,
       "action": {
         "action_type": 10091,
@@ -235518,7 +235556,7 @@
       "vision_range": 150,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "对话",
+      "button_text": "到达",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -235551,7 +235589,7 @@
       "vision_range": 180,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "对话",
+      "button_text": "埋伏",
       "enablefix_distance": 2,
       "fix_distance": 500.0,
       "unmount_type": 1,
@@ -235573,7 +235611,7 @@
       "vision_range": 180,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "到达",
+      "button_text": "对话",
       "enablefix_distance": 2,
       "fix_distance": 500.0,
       "unmount_type": 1,
@@ -235595,7 +235633,7 @@
       "vision_range": 180,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "埋伏",
+      "button_text": "对话",
       "enablefix_distance": 2,
       "fix_distance": 500.0,
       "unmount_type": 1,
@@ -235646,7 +235684,7 @@
       "vision_range": 180,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "对话",
+      "button_text": "到达",
       "enablefix_distance": 1,
       "fix_distance": 125.0,
       "unmount_type": 2,
@@ -235823,7 +235861,7 @@
       "vision_range": 180,
       "npc_interact_type": 7,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_zhandou_png.img_zhandou_png'",
-      "button_text": "到达",
+      "button_text": "对话",
       "enablefix_distance": 2,
       "fix_distance": 1000.0,
       "unmount_type": 2,
@@ -235951,7 +235989,7 @@
       "vision_range": 180,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "对话",
+      "button_text": "战斗",
       "unmount_type": 2,
       "action": {
         "action_type": 21,
@@ -235987,7 +236025,7 @@
       "vision_range": 180,
       "npc_interact_type": 1,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "战斗",
+      "button_text": "对话",
       "unmount_type": 2,
       "action": {
         "action_type": 21,
@@ -236150,7 +236188,7 @@
       "vision_range": 180,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "对话",
+      "button_text": "递交方脸擦擦照片",
       "unmount_type": 2,
       "action": {
         "action_type": 21,
@@ -236179,7 +236217,7 @@
       "option_radius": 1000,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "对话",
+      "button_text": "递交吸泥鸥照片",
       "unmount_type": 2,
       "action": {
         "action_type": 21,
@@ -236212,7 +236250,7 @@
       "option_radius": 450,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "递交方脸擦擦照片",
+      "button_text": "递交小怂猫照片",
       "unmount_type": 2,
       "action": {
         "action_type": 21,
@@ -236231,7 +236269,7 @@
       "vision_range": 180,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "递交吸泥鸥照片",
+      "button_text": "递交炫光迪迪照片",
       "unmount_type": 2,
       "action": {
         "action_type": 21,
@@ -236250,7 +236288,7 @@
       "vision_range": 180,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "递交小怂猫照片",
+      "button_text": "递交双灯鱼照片",
       "unmount_type": 2,
       "action": {
         "action_type": 21,
@@ -236268,7 +236306,7 @@
       "vision_range": 180,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "递交炫光迪迪照片",
+      "button_text": "递交海盔虫照片",
       "unmount_type": 2,
       "action": {
         "action_type": 21,
@@ -236315,7 +236353,7 @@
       "option_radius": 800,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "递交双灯鱼照片",
+      "button_text": "对话",
       "unmount_type": 2,
       "action": {
         "action_type": 21,
@@ -236333,7 +236371,7 @@
       "option_radius": 400,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "递交海盔虫照片",
+      "button_text": "对话",
       "unmount_type": 2,
       "action": {
         "action_type": 21,
@@ -236491,7 +236529,7 @@
       "option_radius": 400,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "对话",
+      "button_text": "进入",
       "unmount_type": 2,
       "action": {
         "action_type": 21,
@@ -236588,7 +236626,7 @@
       "vision_range": 180,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "对话",
+      "button_text": "离开",
       "unmount_type": 2,
       "action": {
         "action_type": 21,
@@ -236621,7 +236659,7 @@
       "option_radius": 400,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "进入",
+      "button_text": "查看",
       "unmount_type": 2,
       "action": {
         "action_type": 21,
@@ -236653,7 +236691,7 @@
       "option_radius": 400,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "离开",
+      "button_text": "查看",
       "unmount_type": 2,
       "action": {
         "action_type": 21,
@@ -236795,7 +236833,7 @@
       "option_radius": 400,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "查看",
+      "button_text": "对话",
       "unmount_type": 2,
       "action": {
         "action_type": 21,
@@ -236812,7 +236850,7 @@
       "option_radius": 400,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_zhandou_png.img_zhandou_png'",
-      "button_text": "查看",
+      "button_text": "对话",
       "unmount_type": 2,
       "action": {
         "action_type": 21,
@@ -236878,7 +236916,7 @@
       "option_radius": 400,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "对话",
+      "button_text": "进入",
       "unmount_type": 2,
       "action": {
         "action_type": 21,
@@ -236895,7 +236933,7 @@
       "option_radius": 400,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "对话",
+      "button_text": "离开",
       "unmount_type": 2,
       "action": {
         "action_type": 21,
@@ -236912,7 +236950,7 @@
       "option_radius": 400,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "进入",
+      "button_text": "对话",
       "unmount_type": 2,
       "action": {
         "action_type": 21,
@@ -236929,7 +236967,7 @@
       "option_radius": 400,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "离开",
+      "button_text": "对话",
       "unmount_type": 2,
       "action": {
         "action_type": 21,
@@ -237030,7 +237068,7 @@
       "option_radius": 400,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "对话",
+      "button_text": "进入",
       "unmount_type": 2,
       "action": {
         "action_type": 21,
@@ -237047,7 +237085,7 @@
       "option_radius": 400,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "对话",
+      "button_text": "离开",
       "unmount_type": 2,
       "action": {
         "action_type": 21,
@@ -237064,7 +237102,7 @@
       "option_radius": 400,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "进入",
+      "button_text": "对话",
       "unmount_type": 2,
       "action": {
         "action_type": 21,
@@ -237082,7 +237120,7 @@
       "option_radius": 400,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "离开",
+      "button_text": "对话",
       "unmount_type": 2,
       "action": {
         "action_type": 21,
@@ -237164,7 +237202,7 @@
       "option_radius": 400,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "对话",
+      "button_text": "战斗",
       "unmount_type": 2,
       "action": {
         "action_type": 21,
@@ -237199,7 +237237,7 @@
       "option_radius": 400,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "战斗",
+      "button_text": "对话",
       "unmount_type": 2,
       "action": {
         "action_type": 21,
@@ -237421,7 +237459,7 @@
       "option_radius": 400,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "对话",
+      "button_text": "离开",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -237438,7 +237476,7 @@
       "option_radius": 450,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "对话",
+      "button_text": "进入",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -237470,7 +237508,7 @@
       "option_radius": 450,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "离开",
+      "button_text": "怎么了？",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -237487,7 +237525,7 @@
       "option_radius": 450,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "进入",
+      "button_text": "对话",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -237504,7 +237542,7 @@
       "option_radius": 450,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "怎么了？",
+      "button_text": "你在看什么？",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -237538,7 +237576,7 @@
       "option_radius": 450,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "你在看什么？",
+      "button_text": "对话",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -237589,7 +237627,7 @@
       "option_radius": 450,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "对话",
+      "button_text": "触碰",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -237606,7 +237644,7 @@
       "option_radius": 450,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "对话",
+      "button_text": "触碰",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -237623,7 +237661,7 @@
       "option_radius": 450,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "触碰",
+      "button_text": "对话",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -237640,7 +237678,7 @@
       "option_radius": 450,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "触碰",
+      "button_text": "对话",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -237708,7 +237746,7 @@
       "option_radius": 200,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "对话",
+      "button_text": "观察",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -237725,7 +237763,7 @@
       "option_radius": 450,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "对话",
+      "button_text": "查看",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -237742,7 +237780,7 @@
       "option_radius": 450,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "观察",
+      "button_text": "查看",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -237791,7 +237829,7 @@
       "option_radius": 450,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "查看",
+      "button_text": "精灵入住",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -237822,7 +237860,7 @@
       "option_radius": 450,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "查看",
+      "button_text": "收回%s",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -237839,7 +237877,7 @@
       "option_radius": 450,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "精灵入住",
+      "button_text": "投喂%s",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -237858,7 +237896,7 @@
       "option_radius": 250,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_Exit_png.img_Exit_png'",
-      "button_text": "收回%s",
+      "button_text": "收集灵感",
       "unmount_type": 1,
       "action": {
         "action_type": 10091,
@@ -237877,7 +237915,7 @@
       "option_radius": 250,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_Exit_png.img_Exit_png'",
-      "button_text": "投喂%s",
+      "button_text": "偷取灵感",
       "unmount_type": 1,
       "action": {
         "action_type": 10091,
@@ -237896,7 +237934,7 @@
       "vision_range": 180,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "收集灵感",
+      "button_text": "打断%s",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -237941,7 +237979,7 @@
       "option_radius": 200,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_baoxiang_png.img_baoxiang_png'",
-      "button_text": "偷取灵感",
+      "button_text": "查看{0}",
       "unmount_type": 1,
       "action": {
         "action_type": 10001,
@@ -237961,7 +237999,7 @@
       "option_radius": 600,
       "npc_interact_type": 1,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "打断%s",
+      "button_text": "对话",
       "unmount_type": 2,
       "action": {
         "action_type": 21,
@@ -237979,7 +238017,7 @@
       "option_radius": 600,
       "npc_interact_type": 1,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "查看{0}",
+      "button_text": "对话",
       "unmount_type": 2,
       "action": {
         "action_type": 21,
@@ -238211,7 +238249,7 @@
       "option_radius": 450,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "对话",
+      "button_text": "交互测试",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -238243,7 +238281,7 @@
       "option_radius": 450,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "对话",
+      "button_text": "导航模式",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -238260,7 +238298,7 @@
       "option_radius": 450,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "交互测试",
+      "button_text": "皮卡月刊",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -238277,7 +238315,7 @@
       "option_radius": 450,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "导航模式",
+      "button_text": "皮卡月刊",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -238354,7 +238392,7 @@
       "option_radius": 450,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "皮卡月刊",
+      "button_text": "和卢西奥聊聊",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -238371,7 +238409,7 @@
       "option_radius": 450,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "皮卡月刊",
+      "button_text": "和多里安聊聊",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -238388,7 +238426,7 @@
       "option_radius": 450,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "和卢西奥聊聊",
+      "button_text": "和史黛西聊聊",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -238405,7 +238443,7 @@
       "option_radius": 450,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "和多里安聊聊",
+      "button_text": "听听",
       "unmount_type": 1,
       "action": {
         "action_type": 21
@@ -238421,7 +238459,7 @@
       "option_radius": 1200,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "和史黛西聊聊",
+      "button_text": "听听",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -238455,7 +238493,7 @@
       "option_radius": 450,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "听听",
+      "button_text": "对话",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -238488,7 +238526,7 @@
       "option_radius": 250,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_Exit_png.img_Exit_png'",
-      "button_text": "听听",
+      "button_text": "对话",
       "action": {
         "action_type": 21,
         "action_param1": "100118"
@@ -238539,7 +238577,7 @@
       "option_radius": 450,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_Exit_png.img_Exit_png'",
-      "button_text": "对话",
+      "button_text": "听听",
       "action": {
         "action_type": 21,
         "action_param1": "100118"
@@ -238555,7 +238593,7 @@
       "option_radius": 450,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "对话",
+      "button_text": "听听",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -238714,7 +238752,7 @@
       "option_radius": 450,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "听听",
+      "button_text": "对话",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -238778,7 +238816,7 @@
       "option_radius": 450,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_zhandou_png.img_zhandou_png'",
-      "button_text": "对话",
+      "button_text": "听听",
       "unmount_type": 1,
       "action": {
         "action_type": 10001,
@@ -238847,7 +238885,7 @@
       "option_radius": 450,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "听听",
+      "button_text": "对话",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -238945,7 +238983,7 @@
       "npc_interact_type": 7,
       "interact_param1": "1000",
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_zhandou_png.img_zhandou_png'",
-      "button_text": "听听",
+      "button_text": "对话",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -239259,7 +239297,7 @@
       "option_radius": 400,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "对话",
+      "button_text": "路易斯商店",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -239307,7 +239345,7 @@
       "vision_range": 180,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "对话",
+      "button_text": "可丽希亚商店",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -239324,7 +239362,7 @@
       "option_radius": 300,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "路易斯商店",
+      "button_text": "菲尔特商店",
       "unmount_type": 1,
       "action": {
         "action_type": 10091,
@@ -239342,7 +239380,7 @@
       "option_radius": 300,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "可丽希亚商店",
+      "button_text": "易西商店",
       "unmount_type": 1,
       "action": {
         "action_type": 10091,
@@ -239361,7 +239399,7 @@
       "vision_range": 180,
       "npc_interact_type": 1,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "菲尔特商店",
+      "button_text": "万事通商店",
       "break_holdhands": true,
       "action": {
         "action_type": 10131,
@@ -239379,7 +239417,7 @@
       "option_radius": 600,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
-      "button_text": "易西商店",
+      "button_text": "兰斯洛商店",
       "action": {
         "action_type": 21,
         "action_param1": "202400000"
@@ -239595,7 +239633,7 @@
       "option_radius": 250,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_CollectEgg_png.img_CollectEgg_png'",
-      "button_text": "万事通商店",
+      "button_text": "萌萌商店",
       "action": {
         "action_type": 21,
         "action_param1": "202400001"
@@ -239623,7 +239661,7 @@
       "option_area": 201031605,
       "npc_interact_type": 1,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
-      "button_text": "兰斯洛商店",
+      "button_text": "费得商店",
       "break_holdhands": true,
       "action": {
         "action_type": 10131,
@@ -239675,7 +239713,7 @@
       "option_area": 201031606,
       "npc_interact_type": 1,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
-      "button_text": "萌萌商店",
+      "button_text": "卡普商店",
       "break_holdhands": true,
       "action": {
         "action_type": 10131,
@@ -239695,7 +239733,7 @@
       "option_area": 161030580,
       "npc_interact_type": 1,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
-      "button_text": "费得商店",
+      "button_text": "伊里斯商店",
       "break_holdhands": true,
       "action": {
         "action_type": 10131,
@@ -239714,7 +239752,7 @@
       "option_radius": 350,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_Exit_png.img_Exit_png'",
-      "button_text": "卡普商店",
+      "button_text": "芙蕾雅商店",
       "unmount_type": 1,
       "break_holdhands": true,
       "action": {
@@ -239734,7 +239772,7 @@
       "option_radius": 350,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_Exit_png.img_Exit_png'",
-      "button_text": "伊里斯商店",
+      "button_text": "格里芬商店",
       "unmount_type": 1,
       "break_holdhands": true,
       "action": {
@@ -239754,7 +239792,7 @@
       "option_radius": 350,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_Exit_png.img_Exit_png'",
-      "button_text": "芙蕾雅商店",
+      "button_text": "佩西阿姨商店",
       "unmount_type": 1,
       "break_holdhands": true,
       "action": {
@@ -239774,7 +239812,7 @@
       "option_radius": 350,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_Exit_png.img_Exit_png'",
-      "button_text": "格里芬商店",
+      "button_text": "进入研究室",
       "unmount_type": 1,
       "break_holdhands": true,
       "action": {
@@ -239810,7 +239848,7 @@
       "vision_range": 180,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "佩西阿姨商店",
+      "button_text": "触碰",
       "unmount_type": 1,
       "action": {
         "action_type": 10040,
@@ -239828,7 +239866,7 @@
       "vision_range": 180,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "进入研究室",
+      "button_text": "离开",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -239846,7 +239884,7 @@
       "vision_range": 180,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "触碰",
+      "button_text": "对话",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -239864,7 +239902,7 @@
       "vision_range": 180,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "离开",
+      "button_text": "对话",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -240008,7 +240046,7 @@
       "vision_range": 180,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "对话",
+      "button_text": "查看",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -240044,7 +240082,7 @@
       "vision_range": 180,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "查看",
+      "button_text": "对话",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -240062,7 +240100,7 @@
       "vision_range": 180,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "对话",
+      "button_text": "查看",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -240080,7 +240118,7 @@
       "vision_range": 180,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "对话",
+      "button_text": "查看",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -240098,7 +240136,7 @@
       "vision_range": 180,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "查看",
+      "button_text": "对话",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -240116,7 +240154,7 @@
       "vision_range": 180,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "查看",
+      "button_text": "对话",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -240134,7 +240172,7 @@
       "vision_range": 180,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "对话",
+      "button_text": "听听",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -240152,7 +240190,7 @@
       "vision_range": 180,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "对话",
+      "button_text": "听听",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -240170,7 +240208,7 @@
       "vision_range": 180,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "听听",
+      "button_text": "拾取精灵蛋",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -240188,7 +240226,7 @@
       "vision_range": 180,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "听听",
+      "button_text": "拾取精灵蛋",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -240224,7 +240262,7 @@
       "vision_range": 180,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "拾取精灵蛋",
+      "button_text": "炼金魔法",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -240260,7 +240298,7 @@
       "vision_range": 180,
       "npc_interact_type": 2,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "炼金魔法",
+      "button_text": "拾取精灵蛋",
       "unmount_type": 1,
       "action": {
         "action_type": 21,
@@ -247726,7 +247764,7 @@
       "option_radius": 300,
       "npc_interact_type": 7,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "拾取精灵蛋",
+      "button_text": "",
       "action": {
         "action_type": 21,
         "action_param1": "186039900",
@@ -247744,7 +247782,7 @@
       "option_radius": 300,
       "npc_interact_type": 7,
       "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "button_text": "拾取精灵蛋",
+      "button_text": "",
       "action": {
         "action_type": 21,
         "action_param1": "186040000",

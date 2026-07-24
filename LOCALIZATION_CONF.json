@@ -35486,6 +35486,18 @@
     "grasstrial_text_21": {
       "id": "grasstrial_text_21",
       "msg": ""
+    },
+    "Error_Code_2902": {
+      "id": "Error_Code_2902",
+      "msg": ""
+    },
+    "Error_Code_2901": {
+      "id": "Error_Code_2901",
+      "msg": ""
+    },
+    "sp_xueying_bond_not_own": {
+      "id": "sp_xueying_bond_not_own",
+      "msg": ""
     }
   },
   "LocalizationStrings": {}

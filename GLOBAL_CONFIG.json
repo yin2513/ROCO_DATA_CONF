@@ -3377,7 +3377,7 @@
     "recover_all_interval": {
       "id": 807,
       "key": "recover_all_interval",
-      "num": 3600
+      "num": 1800
     },
     "recover_set_npc_pos_ai_id": {
       "id": 808,
@@ -3585,6 +3585,18 @@
       "id": 862,
       "key": "facephoto_max_count",
       "num": 2
+    },
+    "share_pet_upper_limit_game1": {
+      "id": 863,
+      "key": "share_pet_upper_limit_game1",
+      "num": 3,
+      "is_loc": 2
+    },
+    "share_pet_upper_limit_game2": {
+      "id": 864,
+      "key": "share_pet_upper_limit_game2",
+      "num": 3,
+      "is_loc": 2
     }
   },
   "LocalizationStrings": {}

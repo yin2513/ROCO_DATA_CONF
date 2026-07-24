@@ -1991,7 +1991,7 @@
       "desc": "",
       "rank": 1,
       "buff": [
-        20420080
+        28810044
       ],
       "icon": "Texture2D'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/SkillIcon/200114.200114'"
     },
@@ -2301,12 +2301,9 @@
     },
     "81004": {
       "id": 81004,
-      "target": 2,
+      "target": 1,
       "rank": 1,
       "buff": [
-        20630080,
-        20400990,
-        20401000,
         20401010,
         20401020
       ]

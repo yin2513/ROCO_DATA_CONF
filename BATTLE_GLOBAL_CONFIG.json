@@ -3533,6 +3533,24 @@
       "str": "胜利获得的制胜点数加成",
       "is_loc": 1
     },
+    "pvp_rank_character37": {
+      "id": 1540,
+      "key": "pvp_rank_character37",
+      "str": "击败对方精灵制胜点数加成",
+      "is_loc": 1
+    },
+    "pvp_rank_character38": {
+      "id": 1541,
+      "key": "pvp_rank_character38",
+      "str": "完成今日首胜获得奖励",
+      "is_loc": 1
+    },
+    "pvp_rank_character39": {
+      "id": 1542,
+      "key": "pvp_rank_character39",
+      "str": "赛季段位重置",
+      "is_loc": 1
+    },
     "pvp_param12": {
       "id": 1551,
       "key": "pvp_param12",
@@ -3548,19 +3566,19 @@
     "pvp_param14": {
       "id": 1553,
       "key": "pvp_param14",
-      "str": "击败对方精灵制胜点数加成",
+      "str": "跳过指引",
       "is_loc": 2
     },
     "pvp_param15": {
       "id": 1554,
       "key": "pvp_param15",
-      "str": "完成今日首胜获得奖励",
+      "str": "是否跳过当前战斗指引？",
       "is_loc": 2
     },
     "pvp_param16": {
       "id": 1555,
       "key": "pvp_param16",
-      "str": "赛季段位重置",
+      "str": "使用随机精灵获得额外星级！",
       "is_loc": 2
     },
     "pvp_param17": {
@@ -3578,19 +3596,19 @@
     "pvp_rank_character20": {
       "id": 1600,
       "key": "pvp_rank_character20",
-      "str": "跳过指引",
+      "str": "连胜获得额外星级！",
       "is_loc": 1
     },
     "pvp_rank_character21": {
       "id": 1601,
       "key": "pvp_rank_character21",
-      "str": "是否跳过当前战斗指引？",
+      "str": "连胜及使用随机精灵获得额外星级！",
       "is_loc": 1
     },
     "pvp_rank_character22": {
       "id": 1602,
       "key": "pvp_rank_character22",
-      "str": "使用随机精灵获得额外星级！",
+      "str": "第%s/%s页",
       "is_loc": 1
     },
     "pvp_rank_param4": {
@@ -3626,7 +3644,7 @@
     "pvp_rank_character23": {
       "id": 1608,
       "key": "pvp_rank_character23",
-      "str": "连胜获得额外星级！",
+      "str": "该精灵已在队伍中",
       "is_loc": 1
     },
     "territory_trial_point_param": {
@@ -3644,19 +3662,19 @@
     "pvp_rank_character24": {
       "id": 1611,
       "key": "pvp_rank_character24",
-      "str": "连胜及使用随机精灵获得额外星级！",
+      "str": "观战人数：%s",
       "is_loc": 1
     },
     "battle_train_skip_title": {
       "id": 1612,
       "key": "battle_train_skip_title",
-      "str": "第%s/%s页",
+      "str": "",
       "is_loc": 1
     },
     "battle_train_skip_display": {
       "id": 1613,
       "key": "battle_train_skip_display",
-      "str": "该精灵已在队伍中",
+      "str": "",
       "is_loc": 1
     },
     "pvp_param1": {
@@ -3692,7 +3710,7 @@
     "pvp_rank_character25": {
       "id": 1619,
       "key": "pvp_rank_character25",
-      "str": "观战人数：%s",
+      "str": "",
       "is_loc": 1
     },
     "pvp_rank_character26": {
@@ -3734,7 +3752,7 @@
     "pvp_param7": {
       "id": 1626,
       "key": "pvp_param7",
-      "num": 4,
+      "num": 3,
       "is_loc": 2
     },
     "pvp_param8": {
@@ -3746,7 +3764,7 @@
     "pvp_param9": {
       "id": 1628,
       "key": "pvp_param9",
-      "num": 3,
+      "num": 2,
       "is_loc": 2
     },
     "pvp_param10": {
@@ -3758,7 +3776,7 @@
     "pvp_param11": {
       "id": 1630,
       "key": "pvp_param11",
-      "num": 5,
+      "num": 2,
       "is_loc": 2
     },
     "skill_damage_max": {
