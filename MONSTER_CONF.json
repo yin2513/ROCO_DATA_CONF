@@ -303459,6 +303459,138 @@
       ],
       "nature_id": 31
     },
+    "1803841": {
+      "id": 1803841,
+      "name": "",
+      "base_id": 3067,
+      "petbase_find_enum": 1,
+      "find_param": [
+        3067
+      ],
+      "new_level": [
+        10008,
+        1,
+        1,
+        0
+      ],
+      "difficulty": 29,
+      "custom_glass": {},
+      "voice_percent": [
+        0,
+        100
+      ],
+      "nature_id": 31
+    },
+    "1803842": {
+      "id": 1803842,
+      "name": "",
+      "base_id": 3491,
+      "petbase_find_enum": 1,
+      "find_param": [
+        3491
+      ],
+      "new_level": [
+        10008,
+        1,
+        1,
+        0
+      ],
+      "difficulty": 29,
+      "custom_glass": {},
+      "voice_percent": [
+        0,
+        100
+      ],
+      "nature_id": 31
+    },
+    "1803843": {
+      "id": 1803843,
+      "name": "",
+      "base_id": 3027,
+      "petbase_find_enum": 1,
+      "find_param": [
+        3027
+      ],
+      "new_level": [
+        10008,
+        1,
+        1,
+        0
+      ],
+      "difficulty": 29,
+      "custom_glass": {},
+      "voice_percent": [
+        0,
+        100
+      ],
+      "nature_id": 31
+    },
+    "1803844": {
+      "id": 1803844,
+      "name": "",
+      "base_id": 3074,
+      "petbase_find_enum": 1,
+      "find_param": [
+        3074
+      ],
+      "new_level": [
+        10008,
+        1,
+        1,
+        0
+      ],
+      "difficulty": 29,
+      "custom_glass": {},
+      "voice_percent": [
+        0,
+        100
+      ],
+      "nature_id": 31
+    },
+    "1803845": {
+      "id": 1803845,
+      "name": "",
+      "base_id": 3044,
+      "petbase_find_enum": 1,
+      "find_param": [
+        3044
+      ],
+      "new_level": [
+        10008,
+        1,
+        1,
+        0
+      ],
+      "difficulty": 29,
+      "custom_glass": {},
+      "voice_percent": [
+        0,
+        100
+      ],
+      "nature_id": 31
+    },
+    "1803846": {
+      "id": 1803846,
+      "name": "",
+      "base_id": 3031,
+      "petbase_find_enum": 1,
+      "find_param": [
+        3031
+      ],
+      "new_level": [
+        10008,
+        1,
+        1,
+        0
+      ],
+      "difficulty": 29,
+      "custom_glass": {},
+      "voice_percent": [
+        0,
+        100
+      ],
+      "nature_id": 31
+    },
     "1900001": {
       "id": 1900001,
       "name": "",

@@ -1799,7 +1799,7 @@
     "pet_trial_version": {
       "id": 372,
       "key": "pet_trial_version",
-      "num": 1,
+      "num": 2,
       "is_loc": 2
     },
     "hd_track_world_map_id": {
@@ -2670,7 +2670,7 @@
     "lordevo_end_time": {
       "id": 496,
       "key": "lordevo_end_time",
-      "num": 1800
+      "num": 604800
     },
     "mix_blood_skill_dam_type": {
       "id": 497,

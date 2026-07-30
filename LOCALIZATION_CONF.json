@@ -35483,6 +35483,22 @@
       "id": "grass_trial_reward_title",
       "msg": ""
     },
+    "quick_select_rule": {
+      "id": "quick_select_rule",
+      "msg": ""
+    },
+    "quick_select_title1": {
+      "id": "quick_select_title1",
+      "msg": ""
+    },
+    "quick_select_title2": {
+      "id": "quick_select_title2",
+      "msg": ""
+    },
+    "quick_select_section1": {
+      "id": "quick_select_section1",
+      "msg": ""
+    },
     "grasstrial_text_21": {
       "id": "grasstrial_text_21",
       "msg": ""
@@ -35497,6 +35513,22 @@
     },
     "sp_xueying_bond_not_own": {
       "id": "sp_xueying_bond_not_own",
+      "msg": ""
+    },
+    "owl_fruit_search": {
+      "id": "owl_fruit_search",
+      "msg": ""
+    },
+    "grasstrial_text_22": {
+      "id": "grasstrial_text_22",
+      "msg": ""
+    },
+    "grasstrial_text_23": {
+      "id": "grasstrial_text_23",
+      "msg": ""
+    },
+    "pet_fruit_search_empty_tips": {
+      "id": "pet_fruit_search_empty_tips",
       "msg": ""
     }
   },
